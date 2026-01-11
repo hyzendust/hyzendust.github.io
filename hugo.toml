@@ -1,4 +1,4 @@
-baseURL = 'https://hyzen.github.io'
+baseURL = 'https://hyzendust.github.io'
 languageCode = 'en-us'
 title = 'Freedoms4'
 theme = 'hugo-theme-yue'
