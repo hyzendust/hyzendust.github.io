@@ -1,4 +1,4 @@
-baseURL = 'https://psychhim.github.io'
+baseURL = 'https://hyzen.github.io'
 languageCode = 'en-us'
 title = 'Freedoms4'
 theme = 'hugo-theme-yue'
