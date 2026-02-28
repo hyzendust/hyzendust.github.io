@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $currentTitle := .Title }}
+{{ $allPages := .Section | .Site.GetPage }}
+{{ $sortedPages := $allPages.Pages.ByTitle }}
+{{ $currentIndex := 0 }}
+
+{{ range $index, $page := $sortedPages }}
+  {{ if eq $page.Title $currentTitle }}
+    {{ $currentIndex = $index }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $sortedPages) 1 }}
+<nav class="page-nav">
+  {{ if gt $currentIndex 0 }}
+    {{ $prevPage := index $sortedPages (sub $currentIndex 1) }}
+    <a href="{{ $prevPage.RelPermalink }}">{{ i18n "previousPage" }}{{ $prevPage.LinkTitle }}</a>
+  {{ end }}
+  {{ if lt $currentIndex (sub (len $sortedPages) 1) }}
+    {{ $nextPage := index $sortedPages (add $currentIndex 1) }}
+    <a href="{{ $nextPage.RelPermalink }}">{{ i18n "nextPage" }}{{ $nextPage.LinkTitle }}</a>
+  {{ end }}
+</nav>
+{{ end }}
+
+{{ end }}

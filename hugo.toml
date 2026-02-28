@@ -36,10 +36,16 @@ url = "/categories/"
 weight = 3
 
 [[menu.main]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+weight = 4
+
+[[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
-weight = 4
+weight = 5
 
 [taxonomies]
 category = "categories"

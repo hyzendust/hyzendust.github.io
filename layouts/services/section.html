@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ $pages := .Pages.ByTitle }}
+{{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }}
+{{ $paginator := .Paginate $pages $sectionPagerSize }}
+  {{ .Content }}
+  <h1>Services</h1>
+  {{ range $index, $page := $paginator.Pages }}
+    <h2 class="home-post-title">{{ add $index 1 }}. <a href="{{ $page.RelPermalink }}">{{ $page.LinkTitle }}</a></h2>
+  {{ end }}
+  <nav class="paginator">
+  {{- partial "pagination.html" . }} {{/* embedded template */}}
+  </nav>
+{{ end }}
