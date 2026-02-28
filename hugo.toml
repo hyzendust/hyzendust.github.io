@@ -4,6 +4,11 @@ title = 'Freedoms4'
 theme = 'hugo-theme-yue'
 publishDir = "docs"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 customCSS = ["css/custom.css"]
 
