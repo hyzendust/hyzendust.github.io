@@ -7,6 +7,10 @@ publishDir = "docs"
 [params]
 customCSS = ["css/custom.css"]
 
+[params.author]
+name = "Freedoms4"
+email = "your-email@example.com"
+
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
@@ -14,15 +18,15 @@ dir = ':cacheDir/images'
 [menu]
 
 [[menu.main]]
-identifier = "home"
+identifier = "landing"
 name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-identifier = "blog"
+identifier = "blogs"
 name = "Blog"
-url = "/posts/"
+url = "/blog/"
 weight = 2
 
 [[menu.main]]
@@ -32,9 +36,9 @@ url = "/categories/"
 weight = 3
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = 4
 
 [taxonomies]

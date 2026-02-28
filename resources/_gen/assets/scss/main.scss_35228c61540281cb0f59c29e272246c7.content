@@ -37,11 +37,11 @@ blockquote {
     margin-right: auto; } }
 
 :root {
-  --background-color: #282828;
-  --background-color1: #3c3836;
-  --foreground-color: #ebdbb2;
-  --foreground-color3: #bdae93;
-  --accent-color: #b0b0b0; }
+  --background-color: #171414;
+  --background-color1: #fff;
+  --foreground-color: #e3e1db;
+  --foreground-color3: #ccc3b3;
+  --accent-color: #fff; }
 
 @media (prefers-color-scheme: light) {
   :root {

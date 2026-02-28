@@ -30,3 +30,7 @@
 .term-list__link:hover {
 	text-decoration: underline;
 }
+
+.posts-list {
+	margin-top: 2rem;
+}

@@ -1,13 +1,10 @@
 {{ define "main" }}
 
-<div class="breadcrumbs">
-  You are here: 
-  <a href="{{ "/" | relURL }}">Home</a> /
-  <a href="{{ "/categories/" | relURL }}">Categories</a> /
-  <span>{{ .Title }}</span>
-</div>
-
 {{ .Content }}
+
+<h1>{{ .Title }}</h1>
+
+<div style="margin-bottom: 2rem;"></div>
 
 <section class="posts-list">
   {{ range .Pages.ByDate.Reverse }}
