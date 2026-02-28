@@ -1,6 +1,6 @@
 +++
 date = '2025-11-11T23:15:44+05:30'
-draft = false
+draft = true
 title = 'The Murder on the Links'
 categories = 'Stories'
 tags = 'agathachristie'
