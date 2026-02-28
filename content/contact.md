@@ -17,4 +17,4 @@ layout: contact
 
 **[Mastodon](https://mastodon.social/@hyzen):** hyzen@mastodon.social
 
-**Lemmy:** hyzen@lemmy.social
+**Lemmy:** hyzen@lemmy.today
