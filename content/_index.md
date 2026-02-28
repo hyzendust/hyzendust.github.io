@@ -28,7 +28,7 @@ I believe in Marxism. I am committed to the principle of providing internet serv
 ### Motive:
 
 <p style="text-indent: 1.5em;">
-I want all visitors of the site to take some value out this project.
+I want all visitors of the site to take some value out of this project.
 </p>
 
 ### Site's Code:
