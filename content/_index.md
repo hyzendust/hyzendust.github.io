@@ -9,7 +9,7 @@ description: "Freedoms4"
 My name is <b>hyzen</b>, I'm the founder of this site. This site is my space to write about my views on various subjects and explore ideas that matter to me. I also provide free services to the public that may matter to them.
 </p>
 
-### Here, I may write mostly on:
+### Here, I may mostly write on:
 
 - **Tech** - Free and Open-Source Software, digital freedom.
 - **Philosophy** - Reflections on ideas, ethics, meaning, and ways of thinking.
