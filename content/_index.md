@@ -6,10 +6,10 @@ description: "Freedoms4"
 # Hello! Welcome 🙏
 
 <p style="text-indent: 1.185em;">
-My name is <b>hyzen</b>, I'm the founder of this site. This site is my space to write about my views on various subjects and explore ideas that matter to me. I also provide free services to the public that may matter to them.
+My name is <b>hyzen</b>, I'm the founder of this site. This site is my space to write about my views on various subjects and explore ideas that matter to me. I also provide free <a href="/services/">services</a> to the public that may matter to them.
 </p>
 
-### Here, I will be writing about:
+### In the [blog](/blog/), I will be writing about:
 
 - **Tech** - Free and Open-Source Software, digital freedom.
 - **Philosophy** - Reflections on ideas, ethics, meaning, and ways of thinking.
