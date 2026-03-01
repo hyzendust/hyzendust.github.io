@@ -4,6 +4,7 @@ draft = true
 title = 'The Murder on the Links'
 categories = 'Stories'
 tags = 'agathachristie'
+toc = true
 +++
 
 # Title: The Murder on the Links
