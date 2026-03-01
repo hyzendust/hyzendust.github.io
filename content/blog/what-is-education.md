@@ -3,7 +3,7 @@ date = '2026-03-01T18:11:14+00:00'
 draft = false
 title = 'What is Education?'
 categories = 'philosophy'
-tags = 'education, academics, system'
+tags = ['education', 'academics', 'system']
 toc = false
 +++
 
@@ -11,15 +11,15 @@ toc = false
 
 Education simply means "learning". It's a natural process.
 
-## Ratio of components in Education:
+### Ratio of components in Education:
 
 50% Knowledge/Understanding, 30% Skills, 20% Experience.
 
-## Education vs Academics:
+### Education vs Academics:
 
 Education and Academics are not the same thing. Academics is Education based of a curriculum and an institution. Plato discovered the word while describing his school of philosophy.
 
-#### Academics system has evolved with time and got worst. For example, what the system has become nowadays:
+#### Academics system has evolved with time and got worst. Let's see what the system has become nowadays:
 - Wrong ratio of knowledge, skill, experience (knowledge takes about 90%).
 - Generalised curriculum for all students.
 
@@ -32,9 +32,7 @@ Education and Academics are not the same thing. Academics is Education based of 
 Education as a concept/implementation/system is good.
 Academics is good only as a concept. It's implementation and system is always the worst and corrupted.
 
-## Activities in Education:
-
-#### The activities in Education consists of:
+### Activities in Education:
 
 * Knowledge: Reading, listening, watching, feeling, thinking etc.
 
@@ -44,7 +42,7 @@ Academics is good only as a concept. It's implementation and system is always th
 
 * Experience: Time spending.
 
-## Read vs Study vs Research:
+### Read vs Study vs Research:
 
 1. Read: Reading is about watching or interpreting something/someone to gain knowledge.
 
@@ -58,7 +56,7 @@ Academics is good only as a concept. It's implementation and system is always th
 
 * Research relates with understanding and contributing.
 
-## Knowledge vs Entertainment:
+### Knowledge vs Entertainment:
 
 * Activities that are done for Knowledge/Understanding (reading, watching, listening, studying etc.) can also be done for Entertainment and vice versa.
 
