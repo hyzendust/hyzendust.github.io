@@ -15,7 +15,10 @@ My name is <b>hyzen</b>, I'm the founder of this site. This site is my space to 
 - **Philosophy** - Reflections on ideas, ethics, meaning, and ways of thinking.
 - **Communism** - I believe in Marxism. I am committed to the principle of providing internet services in a <b>socialist way</b>. This means creating tools and spaces that prioritize community benefit over profit, and believing in the collective good.
 - **Politics as a whole** - Commentary on political systems, economics, and social issues.
-- **Beyond theoretical discussions**, I may also write about my day-to-day experiences, thoughts, and feelings - the personal reflections that shape my worldview and understanding of the world around me.
+
+<p style="text-indent: 1.185em;">
+Beyond theoretical discussions, I may also write about my day-to-day experiences, thoughts, and feelings - the personal reflections that shape my worldview and understanding of the world around me.
+</p>
 
 ### Motive:
 
