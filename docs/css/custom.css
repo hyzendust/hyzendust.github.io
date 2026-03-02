@@ -34,3 +34,41 @@
 .posts-list {
 	margin-top: 2rem;
 }
+
+/* RSS Subscribe button next to brand */
+.rss-subscribe__link {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.2rem;
+	padding: 0.2rem 0.3rem;
+	border-radius: 3px;
+	border: 1px solid #f26522;
+	background-color: #f26522;
+	color: #fff !important;
+	font-size: 0.5rem;
+	font-weight: 600;
+	text-decoration: none !important;
+	line-height: 1.4;
+	transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+	margin-left: auto;
+}
+
+.rss-subscribe__link:hover {
+	background-color: transparent;
+	border-color: #f26522;
+	color: #f26522 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+	.rss-subscribe__link {
+		background-color: transparent;
+		border-color: #fff;
+		color: #fff !important;
+	}
+
+	.rss-subscribe__link:hover {
+		background-color: #fff;
+		border-color: #fff;
+		color: #171414 !important;
+	}
+}
