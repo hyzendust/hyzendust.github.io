@@ -10,6 +10,7 @@ publishDir = "docs"
 unsafe = true
 
 [params]
+dateFormat = "January 2, 2006"
 customCSS = ["css/custom.css"]
 
 [params.author]
