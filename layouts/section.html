@@ -3,7 +3,7 @@
 {{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }}
 {{ $paginator := .Paginate $pages $sectionPagerSize }}
   {{ .Content }}
-  <h1>All Posts</h1>
+  <h1>All Posts | <a href="/categories/" style="text-decoration: none; color: var(--accent-color);">Categories</a></h1>
   {{ range $paginator.Pages }}
     <h2 class="home-post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ partial "main/dates.html" . }}
