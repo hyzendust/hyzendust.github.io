@@ -3,4 +3,4 @@ title: "Coming soon!"
 description: "Sign up for Freedoms4."
 ---
 
-Signing up is not available yet.
+Sign Up feature is not available yet.
