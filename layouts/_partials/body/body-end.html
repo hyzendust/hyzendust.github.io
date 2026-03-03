@@ -22,3 +22,14 @@
   });
 })();
 </script>
+<script>
+(function () {
+  var check = document.getElementById('mobile-menu-check');
+  if (!check) return;
+  document.addEventListener('click', function (e) {
+    if (!check.checked) return;
+    var menu = check.closest('.brand__mobile-menu');
+    if (menu && !menu.contains(e.target)) check.checked = false;
+  });
+})();
+</script>
