@@ -1,6 +1,6 @@
 ---
-title: "Sign Up"
+title: "Sign Up - Coming soon!"
 description: "Sign up for Freedoms4."
 ---
 
-Coming soon. Check back later!
+This feature is not yet available. Check back later!
