@@ -189,6 +189,9 @@
 
 /* Mobile */
 @media (max-width: 600px) {
+	.brand__actions {
+		gap: 0.16rem;
+	}
 	.rss-subscribe__link {
 		background-color: transparent !important;
 		color: var(--foreground-color) !important;
@@ -309,44 +312,72 @@
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	padding: 0.2rem 0.4rem;
-	border-radius: 3px;
-	border: 1px solid currentColor;
-	background: transparent;
+	padding: 0.2rem;
+	border: none;
+	background: none;
 	color: var(--foreground-color);
 	cursor: pointer;
-	font-size: 0.7rem;
-	line-height: 1.4;
-	transition:
-		background-color 0.2s ease,
-		color 0.2s ease;
+	line-height: 1;
+	transition: opacity 0.2s ease;
 }
 
 .theme-toggle:hover {
-	background-color: var(--foreground-color);
-	color: var(--background-color);
+	opacity: 0.6;
 }
 
-/* Show sun in dark mode (click to go light), moon in light mode (click to go dark) */
+.theme-toggle__text--light,
+.theme-toggle__text--dark {
+	display: none !important;
+}
+
+/* Default (system light): moon icon + "Dark" label */
 .theme-toggle__sun { display: none; }
 .theme-toggle__moon { display: block; }
 
+/* Desktop icon size */
+.theme-toggle svg {
+	width: 16.5px;
+	height: 16.5px;
+}
+.theme-toggle__text--light { display: none; }
+.theme-toggle__text--dark { display: inline; }
+
+/* System dark (no data-theme): sun icon + "Light" label */
+@media (prefers-color-scheme: dark) {
+	.theme-toggle__sun { display: block; }
+	.theme-toggle__moon { display: none; }
+	.theme-toggle__text--light { display: inline; }
+	.theme-toggle__text--dark { display: none; }
+}
+
+/* Manual dark: sun icon + "Light" label */
 [data-theme="dark"] .theme-toggle__sun { display: block; }
 [data-theme="dark"] .theme-toggle__moon { display: none; }
+[data-theme="dark"] .theme-toggle__text--light { display: inline; }
+[data-theme="dark"] .theme-toggle__text--dark { display: none; }
 
+/* Manual light: moon icon + "Dark" label */
 [data-theme="light"] .theme-toggle__sun { display: none; }
 [data-theme="light"] .theme-toggle__moon { display: block; }
+[data-theme="light"] .theme-toggle__text--light { display: none; }
+[data-theme="light"] .theme-toggle__text--dark { display: inline; }
 
 /* Match size to other buttons on mobile */
 @media (max-width: 600px) {
 	.theme-toggle {
-		width: 1.6rem;
-		height: 1.6rem;
+		width: 2.3rem;
+		height: 2.3rem;
 		box-sizing: border-box;
 		padding: 0;
 	}
 
-	.theme-toggle__text {
-		display: none;
+	.theme-toggle svg {
+		width: 16.5px;
+		height: 16.5px;
+	}
+
+	.theme-toggle__text--light,
+	.theme-toggle__text--dark {
+		display: none !important;
 	}
 }
