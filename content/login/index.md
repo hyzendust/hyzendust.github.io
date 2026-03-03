@@ -1,6 +1,6 @@
 ---
-title: "404"
+title: "Coming soon!"
 description: "Login to Freedoms4."
 ---
 
-Login and comment features are coming soon.
+Login is not available yet.

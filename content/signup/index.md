@@ -1,6 +1,6 @@
 ---
-title: "404"
+title: "Coming soon!"
 description: "Sign up for Freedoms4."
 ---
 
-Account creation is coming soon.
+Sign Up is not available yet.
