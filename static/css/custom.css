@@ -23,7 +23,7 @@
 }
 
 .term-list__link {
-	color: inherit; /* inherit theme text color */
+	color: inherit;
 	text-decoration: none;
 }
 
@@ -35,16 +35,31 @@
 	margin-top: 2rem;
 }
 
-/* RSS Subscribe button next to brand */
+/* Brand actions */
+.brand__actions {
+	display: flex;
+	align-items: center;
+	gap: 0.4rem;
+	margin-left: auto;
+	flex-wrap: nowrap;
+}
+
+.brand__auth {
+	display: flex;
+	align-items: center;
+	gap: 0.3rem;
+}
+
+/* RSS Subscribe button */
 .rss-subscribe__link {
 	display: inline-flex;
 	align-items: center;
 	gap: 0.2rem;
 	padding: 0.2rem 0.4rem;
 	border-radius: 3px;
-	border: 1px solid #f26522;
-	background-color: #f26522;
-	color: #fff !important;
+	border: 1px solid currentColor;
+	background-color: var(--foreground-color);
+	color: var(--background-color) !important;
 	font-size: 0.7rem;
 	font-weight: 340;
 	text-decoration: none !important;
@@ -53,25 +68,207 @@
 		background-color 0.2s ease,
 		border-color 0.2s ease,
 		color 0.2s ease;
-	margin-left: auto;
 }
 
 .rss-subscribe__link:hover {
 	background-color: transparent;
-	border-color: #f26522;
-	color: #f26522 !important;
+	color: var(--foreground-color) !important;
 }
 
-@media (prefers-color-scheme: dark) {
+/* Auth links */
+.auth-link {
+	display: inline-flex;
+	align-items: center;
+	padding: 0.2rem 0.4rem;
+	border-radius: 3px;
+	font-size: 0.7rem;
+	font-weight: 340;
+	text-decoration: none !important;
+	line-height: 1.4;
+	transition:
+		background-color 0.2s ease,
+		border-color 0.2s ease,
+		color 0.2s ease;
+}
+
+.auth-link--login {
+	border: 1px solid currentColor;
+	background-color: transparent;
+	color: inherit !important;
+}
+
+.auth-link--login:hover {
+	background-color: var(--foreground-color);
+	color: var(--background-color) !important;
+}
+
+.auth-link--signup {
+	border: 1px solid currentColor;
+	background-color: transparent;
+	color: inherit !important;
+}
+
+.auth-link--signup:hover {
+	background-color: var(--foreground-color);
+	color: var(--background-color) !important;
+}
+
+/* Make RSS icon bigger on desktop without affecting button size */
+.rss-subscribe__link svg {
+	width: 10px;
+	height: 10px;
+}
+
+/* Auth toggle hidden on desktop, links always visible */
+.brand__auth-toggle {
+	display: none;
+}
+
+.brand__auth-check {
+	display: none;
+}
+
+.brand__auth-links {
+	display: flex;
+	align-items: center;
+	gap: 0.3rem;
+}
+
+/* Mobile dropdown */
+@media (max-width: 600px) {
+	/* RSS outline on mobile */
 	.rss-subscribe__link {
-		background-color: transparent;
-		border-color: #fff;
-		color: #fff !important;
+		background-color: transparent !important;
+		color: var(--foreground-color) !important;
+		border-color: currentColor;
 	}
 
 	.rss-subscribe__link:hover {
-		background-color: #fff;
-		border-color: #fff;
-		color: #171414 !important;
+		background-color: var(--foreground-color) !important;
+		color: var(--background-color) !important;
+	}
+
+	/* Orange filled dropdown toggle on mobile light mode */
+	.brand__auth-toggle {
+		background-color: #f26522 !important;
+		border-color: #f26522 !important;
+		color: #fff !important;
+	}
+
+	.brand__auth-toggle:hover {
+		background-color: transparent !important;
+		border-color: #f26522 !important;
+		color: #f26522 !important;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		.brand__auth-toggle {
+			background-color: transparent !important;
+			border-color: currentColor !important;
+			color: var(--foreground-color) !important;
+		}
+
+		.brand__auth-toggle:hover,
+		.brand__auth:focus-within .brand__auth-toggle {
+			background-color: var(--foreground-color) !important;
+			border-color: var(--foreground-color) !important;
+			color: var(--background-color) !important;
+		}
+	}
+
+	/* Hide subscribe text, icon only */
+	.rss-subscribe__link span {
+		display: none;
+	}
+
+	.rss-subscribe__link,
+	.brand__auth-toggle {
+		height: 1.6rem;
+		width: 1.6rem;
+		box-sizing: border-box;
+		padding: 0;
+		justify-content: center;
+	}
+
+	/* Make RSS icon bigger without affecting button size */
+	.rss-subscribe__link svg {
+		width: 14px;
+		height: 14px;
+	}
+
+	.brand__auth {
+		position: relative;
+	}
+
+	/* Show toggle button */
+	.brand__auth-toggle {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.15rem;
+		padding: 0.2rem 0.4rem;
+		border-radius: 3px;
+		border: 1px solid currentColor;
+		background: transparent;
+		color: var(--foreground-color);
+		cursor: pointer;
+		font-size: 0.7rem;
+		line-height: 1;
+		user-select: none;
+		outline: none;
+	}
+
+	.brand__auth-toggle:hover {
+		background-color: var(--background-color1);
+	}
+
+	.brand__auth-chevron {
+		transition: transform 0.2s ease;
+	}
+
+	/* Open dropdown on focus-within — closes when user taps outside */
+	.brand__auth:focus-within .brand__auth-links {
+		display: flex;
+	}
+
+	.brand__auth:focus-within .brand__auth-chevron {
+		transform: rotate(180deg);
+	}
+
+	/* Dropdown panel */
+	.brand__auth-links {
+		display: none;
+		position: absolute;
+		top: calc(100% + 0.4rem);
+		right: 0;
+		flex-direction: column;
+		gap: 0;
+		background-color: var(--background-color);
+		border: 1px solid var(--background-color1);
+		border-radius: 6px;
+		overflow: hidden;
+		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+		z-index: 100;
+		min-width: 110px;
+	}
+
+	.brand__auth-links .auth-link {
+		border: none;
+		border-radius: 0;
+		padding: 0.55rem 1rem;
+		font-size: 0.78rem;
+		width: 100%;
+		justify-content: center;
+		background-color: transparent;
+		color: var(--foreground-color) !important;
+	}
+
+	.brand__auth-links .auth-link:not(:last-child) {
+		border-bottom: 1px solid var(--background-color1);
+	}
+
+	.brand__auth-links .auth-link:hover {
+		background-color: var(--background-color1);
+		color: var(--foreground-color) !important;
 	}
 }
