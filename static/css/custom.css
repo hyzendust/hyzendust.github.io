@@ -106,9 +106,7 @@
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	gap: 0.2rem;
-	padding: 0.2rem 0.4rem;
-	box-sizing: border-box;
+	padding: 0.355rem 0.5rem;
 	border-radius: 3px;
 	border: 1px solid #f26522;
 	background-color: #f26522;
@@ -201,12 +199,6 @@
 
 	.brand__auth-text {
 		display: none;
-	}
-
-	.brand__auth-toggle {
-		width: 1.6rem;
-		height: 1.6rem;
-		padding: 0;
 	}
 }
 
