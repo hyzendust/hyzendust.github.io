@@ -3,4 +3,4 @@ title: "Login"
 description: "Login to Freedoms4."
 ---
 
-Logging in and commenting on a post, these features are coming soon. Check back later!
+Features like logging in and commenting on a post are coming soon. Check back later!
