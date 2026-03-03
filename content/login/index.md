@@ -1,6 +1,6 @@
 ---
-title: "Login - Coming soon!"
+title: "Login"
 description: "Login to Freedoms4."
 ---
 
-This feature is not yet available. Check back later!
+This feature is coming soon. Check back later!
