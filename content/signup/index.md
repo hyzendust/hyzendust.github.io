@@ -1,5 +1,5 @@
 ---
-title: "Sign Up"
+title: "404"
 description: "Sign up for Freedoms4."
 ---
 
