@@ -3,4 +3,4 @@ title: "404"
 description: "Sign up for Freedoms4."
 ---
 
-Account creation is coming soon. Check back later!
+Account creation is coming soon.
