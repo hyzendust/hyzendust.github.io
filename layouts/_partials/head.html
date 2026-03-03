@@ -12,4 +12,12 @@
 <!-- Direct custom CSS -->
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
+<!-- Theme switcher: run before paint to avoid flash -->
+<script>
+(function(){
+  var t = localStorage.getItem('theme');
+  if (t) { document.documentElement.setAttribute('data-theme', t); }
+})();
+</script>
+
 {{ partial "head/head-end.html" . }}
