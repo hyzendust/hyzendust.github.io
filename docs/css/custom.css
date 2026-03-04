@@ -428,9 +428,9 @@
 [data-theme='light'] {
 	--background-color: #fff;
 	--background-color1: #777;
-	--foreground-color: #340b0b;
+	--foreground-color: #1f2228;
 	--foreground-color3: #665c54;
-	--accent-color: #b11808;
+	--accent-color: #6f8ce5;
 }
 
 /* Force dark theme */
