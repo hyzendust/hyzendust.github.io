@@ -80,6 +80,7 @@
 	.rss-subscribe__link:hover,
 	.rss-subscribe__link:focus {
 		background-color: transparent;
+		border-color: var(--foreground-color);
 		color: var(--foreground-color) !important;
 	}
 }
@@ -91,6 +92,7 @@
 [data-theme='dark'] .rss-subscribe__link:hover,
 [data-theme='dark'] .rss-subscribe__link:focus {
 	background-color: transparent;
+	border-color: var(--foreground-color);
 	color: var(--foreground-color) !important;
 }
 [data-theme='light'] .rss-subscribe__link {
@@ -304,10 +306,15 @@
 	display: flex;
 }
 
-.brand__mobile-check:checked ~ .brand__mobile-toggle,
 [data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-toggle {
 	background-color: #f26522;
 	color: #fff;
+}
+@media (prefers-color-scheme: light) {
+	.brand__mobile-check:checked ~ .brand__mobile-toggle {
+		background-color: #f26522;
+		color: #fff;
+	}
 }
 
 .mobile-link {
