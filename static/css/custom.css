@@ -433,11 +433,11 @@
 
 /* Force light theme */
 [data-theme='light'] {
-	--background-color: #fffff4;
+	--background-color: #fff;
 	--background-color1: #777;
-	--foreground-color: #1f2228;
+	--foreground-color: #464645;
 	--foreground-color3: #665c54;
-	--accent-color: #591818;
+	--accent-color: #5402a3;
 }
 
 /* Force dark theme */
