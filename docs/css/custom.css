@@ -314,6 +314,7 @@
 	display: flex;
 }
 
+
 [data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-toggle {
 	background-color: transparent;
 	border-color: #89808092;
@@ -339,6 +340,16 @@
 	transition: background-color 0.15s ease;
 }
 
+[data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-links .mobile-link {
+	color: #ff3d3d;
+}
+
+@media (prefers-color-scheme: light) {
+	.brand__mobile-check:checked ~ .brand__mobile-links .mobile-link {
+		color: #ff3d3d;
+	}
+}
+
 .mobile-link:hover {
 	background-color: var(--background-color1);
 }
@@ -346,6 +357,7 @@
 .mobile-link:not(:last-child) {
 	border-bottom: 1px solid var(--foreground-color3);
 }
+
 
 /* Mobile toggle dark mode colors */
 @media (prefers-color-scheme: dark) {
