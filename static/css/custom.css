@@ -71,8 +71,8 @@
 	padding: 0.2rem 0.4rem;
 	border-radius: 3px;
 	border: 1px solid #ff3d3d;
-	background-color: #ff3d3d;
-	color: #fff !important;
+	background-color: transparent;
+	color: #ff3d3d !important;
 	font-size: 0.7rem;
 	font-weight: 340;
 	text-decoration: none !important;
@@ -108,22 +108,22 @@
 	color: var(--foreground-color) !important;
 }
 [data-theme='light'] .rss-subscribe__link {
-	background-color: #ff3d3d;
+	background-color: transparent;
 	border-color: #ff3d3d;
-	color: #fff !important;
+	color: #ff3d3d !important;
 }
 [data-theme='light'] .rss-subscribe__link:hover,
 [data-theme='light'] .rss-subscribe__link:focus {
 	background-color: transparent;
-	border-color: #ff3d3d;
-	color: #ff3d3d !important;
+	border-color: #89808092;
+	color: #000000bc !important;
 }
 
 .rss-subscribe__link:hover,
 .rss-subscribe__link:focus {
 	background-color: transparent;
-	border-color: #ff3d3d;
-	color: #ff3d3d !important;
+	border-color: #89808092;
+	color: #000000bc !important;
 }
 
 .rss-subscribe__link svg {
@@ -290,8 +290,9 @@
 }
 
 .brand__mobile-toggle:hover {
-	background-color: #ff3d3d;
-	color: #fff;
+	background-color: transparent;
+	border-color: #89808092;
+	color: #000000bc;
 }
 
 /* Mobile dropdown panel */
@@ -314,13 +315,15 @@
 }
 
 [data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-toggle {
-	background-color: #ff3d3d;
-	color: #fff;
+	background-color: transparent;
+	border-color: #89808092;
+	color: #000000bc;
 }
 @media (prefers-color-scheme: light) {
 	.brand__mobile-check:checked ~ .brand__mobile-toggle {
-		background-color: #ff3d3d;
-		color: #fff;
+		background-color: transparent;
+		border-color: #89808092;
+		color: #000000bc;
 	}
 }
 
@@ -363,8 +366,9 @@
 	color: #ff3d3d;
 }
 [data-theme='light'] .brand__mobile-toggle:hover {
-	background-color: #ff3d3d;
-	color: #fff;
+	background-color: transparent;
+	border-color: #89808092;
+	color: #000000bc;
 }
 [data-theme='dark'] .brand__mobile-toggle {
 	background-color: transparent;
