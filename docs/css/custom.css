@@ -445,7 +445,7 @@
 /* Force light theme */
 [data-theme='light'] {
 	--background-color: #fff;
-	--background-color1: #ff3d3d;
+	--background-color1: #777;
 	--foreground-color: #000000e1;
 	--foreground-color3: #665c54;
 	--accent-color: #1133e9c5;
