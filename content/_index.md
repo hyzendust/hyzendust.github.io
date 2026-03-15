@@ -3,7 +3,7 @@ title: "Home"
 description: "Freedoms4"
 ---
 
-# Hello! Namaste 🙏
+# Namaste 🙏
 
 <p style="text-indent: 1.185em;">
 My name is <b>hyzen</b>, I'm the founder of this site. This site is my space to write about my views on various subjects and explore ideas that matter to me. I also provide free <a href="/services/">services</a> to the public that may matter to them.
