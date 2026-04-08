@@ -1,3 +1,70 @@
+/* ── UniNotes ───────────────────────────────────────────────────────────── */
+
+.uninotes-breadcrumbs {
+  font-size: 0.85rem;
+  margin-bottom: 1.4rem;
+  color: var(--foreground-color3, #888);
+}
+
+.uninotes-breadcrumbs a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+.uninotes-breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.uninotes-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0 0;
+}
+
+.uninotes-list__item {
+  margin-bottom: 0.6rem;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 0.75rem;
+}
+
+.uninotes-list__link {
+  color: var(--foreground-color);
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.uninotes-list__link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.uninotes-list--subjects .uninotes-list__item {
+  border-left-color: var(--accent-color);
+}
+
+.uninotes-list--units .uninotes-list__item {
+  border-left-color: var(--foreground-color3, #888);
+}
+
+.uninotes-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.uninotes-meta__pill {
+  display: inline-block;
+  font-size: 0.72rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent-color);
+  color: var(--accent-color);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* ── Menu links ─────────────────────────────────────────────────────────── */
 /* Menu links */
 .menu__link {
 	color: var(--menu-color, var(--accent-color));

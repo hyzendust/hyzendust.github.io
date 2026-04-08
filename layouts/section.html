@@ -2,6 +2,14 @@
 {{ $pages := .Pages }}
 {{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }}
 {{ $paginator := .Paginate $pages $sectionPagerSize }}
+
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/blog/">Blog</a>
+  {{ if gt $paginator.TotalPages 1 }}
+    › <span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+  {{ end }}
+</nav>
+
   {{ .Content }}
   <h1>All Posts | <a href="/categories/" style="text-decoration: none; color: var(--accent-color);">Categories</a></h1>
   {{ range $paginator.Pages }}

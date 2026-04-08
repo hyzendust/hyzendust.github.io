@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ $semesterName := .Title }}
+
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/uninotes/">UniNotes</a>
+  › <span>{{ $semesterName }}</span>
+</nav>
+
+<h1>{{ $semesterName }}</h1>
+
+{{/* Collect unique subject codes from posts tagged with this semester */}}
+{{ $subjectCodes := slice }}
+{{ range .Pages }}
+  {{ $raw := .Params.subjectcode }}
+  {{ $code := "" }}
+  {{ if reflect.IsSlice $raw }}
+    {{ $code = index $raw 0 }}
+  {{ else }}
+    {{ $code = $raw }}
+  {{ end }}
+  {{ if and $code (not (in $subjectCodes $code)) }}
+    {{ $subjectCodes = $subjectCodes | append $code }}
+  {{ end }}
+{{ end }}
+
+{{ $subjectCodes = sort $subjectCodes }}
+
+<ol class="uninotes-list uninotes-list--subjects">
+  {{ range $subjectCodes }}
+    {{ $tp := site.GetPage (printf "/subjectcode/%s" (. | urlize)) }}
+    <li class="uninotes-list__item">
+      {{ if $tp }}
+        <a class="uninotes-list__link" href="{{ $tp.RelPermalink }}">{{ . }}</a>
+      {{ else }}
+        <span class="uninotes-list__link">{{ . }}</span>
+      {{ end }}
+    </li>
+  {{ end }}
+</ol>
+
+{{/* Semester prev/next */}}
+{{ $allSemesters := site.Taxonomies.semester.Alphabetical }}
+{{ if gt (len $allSemesters) 1 }}
+  {{ $currentIdx := 0 }}
+  {{ range $i, $s := $allSemesters }}
+    {{ if eq $s.Page.Title $semesterName }}{{ $currentIdx = $i }}{{ end }}
+  {{ end }}
+  <nav class="page-nav">
+    {{ if gt $currentIdx 0 }}
+      {{ $prev := index $allSemesters (sub $currentIdx 1) }}
+      <a class="page-nav__previous-link" href="{{ $prev.Page.RelPermalink }}">← {{ $prev.Page.Title }}</a>
+    {{ end }}
+    {{ if lt $currentIdx (sub (len $allSemesters) 1) }}
+      {{ $next := index $allSemesters (add $currentIdx 1) }}
+      <a class="page-nav__next-link" href="{{ $next.Page.RelPermalink }}">{{ $next.Page.Title }} →</a>
+    {{ end }}
+  </nav>
+{{ end }}
+
+{{ end }}

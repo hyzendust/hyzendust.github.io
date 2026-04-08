@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+{{ $semesterRaw    := .Params.semester }}
+{{ $subjectcodeRaw := .Params.subjectcode }}
+{{ $semester := "" }}
+{{ if reflect.IsSlice $semesterRaw }}
+  {{ $semester = index $semesterRaw 0 }}
+{{ else }}
+  {{ $semester = $semesterRaw }}
+{{ end }}
+{{ $subjectcode := "" }}
+{{ if reflect.IsSlice $subjectcodeRaw }}
+  {{ $subjectcode = index $subjectcodeRaw 0 }}
+{{ else }}
+  {{ $subjectcode = $subjectcodeRaw }}
+{{ end }}
+
+{{/* Breadcrumbs */}}
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/uninotes/">UniNotes</a>
+  {{ if $semester }}
+    {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+    {{ if $semPage }}
+      › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a>
+    {{ end }}
+  {{ end }}
+  {{ if $subjectcode }}
+    {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
+    {{ if $subPage }}
+      › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a>
+    {{ end }}
+  {{ end }}
+  › <span>{{ .Params.unit | default .Title }}</span>
+</nav>
+
+{{/* Metadata pills */}}
+<div class="uninotes-meta">
+  {{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+  {{ with $subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+</div>
+
+<h1>{{ .Params.unit | default .Title }}</h1>
+
+{{ partial "main/dates.html" . }}
+{{ partial "page/toc.html" . }}
+
+{{ .Content }}
+
+{{ partial "page/terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }}
+
+{{/* Next/prev: siblings = other posts with same subjectcode, sorted by date */}}
+{{ if $subjectcode }}
+  {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
+  {{ if $subPage }}
+    {{ $siblings := $subPage.Pages.ByDate }}
+    {{ $currentTitle := .Title }}
+    {{ $currentIdx := 0 }}
+    {{ range $i, $p := $siblings }}
+      {{ if eq $p.Title $currentTitle }}{{ $currentIdx = $i }}{{ end }}
+    {{ end }}
+    {{ if gt (len $siblings) 1 }}
+    <nav class="page-nav">
+      {{ if gt $currentIdx 0 }}
+        {{ $prev := index $siblings (sub $currentIdx 1) }}
+        <a class="page-nav__previous-link" href="{{ $prev.RelPermalink }}">← {{ $prev.Params.unit | default $prev.Title }}</a>
+      {{ end }}
+      {{ if lt $currentIdx (sub (len $siblings) 1) }}
+        {{ $next := index $siblings (add $currentIdx 1) }}
+        <a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.Params.unit | default $next.Title }} →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ partial "page/page-end.html" . }}
+{{ end }}

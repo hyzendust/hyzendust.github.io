@@ -1,0 +1,87 @@
+{{ define "main" }}
+
+{{ $subjectCode := .Title }}
+
+{{/* Find which semester this subject belongs to */}}
+{{ $semester := "" }}
+{{ range .Pages }}
+  {{ if eq $semester "" }}
+    {{ $raw := .Params.semester }}
+    {{ if reflect.IsSlice $raw }}
+      {{ $semester = index $raw 0 }}
+    {{ else }}
+      {{ $semester = $raw }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Breadcrumbs */}}
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/uninotes/">UniNotes</a>
+  {{ if $semester }}
+    {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+    {{ if $semPage }}
+      › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a>
+    {{ end }}
+  {{ end }}
+  › <span>{{ $subjectCode }}</span>
+</nav>
+
+<h1>{{ $subjectCode }}</h1>
+
+{{/* List units sorted by date */}}
+<ul class="uninotes-list uninotes-list--units">
+  {{ range .Pages.ByDate }}
+    <li class="uninotes-list__item">
+      <a class="uninotes-list__link" href="{{ .RelPermalink }}">
+        {{ with .Params.unit }}{{ . }}{{ else }}{{ .Title }}{{ end }}
+      </a>
+    </li>
+  {{ end }}
+</ul>
+
+{{/* Subject prev/next — siblings are other subjectcodes in the same semester */}}
+{{ if $semester }}
+  {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+  {{ if $semPage }}
+    {{ $siblingCodes := slice }}
+    {{ range $semPage.Pages }}
+      {{ $raw := .Params.subjectcode }}
+      {{ $code := "" }}
+      {{ if reflect.IsSlice $raw }}
+        {{ $code = index $raw 0 }}
+      {{ else }}
+        {{ $code = $raw }}
+      {{ end }}
+      {{ if and $code (not (in $siblingCodes $code)) }}
+        {{ $siblingCodes = $siblingCodes | append $code }}
+      {{ end }}
+    {{ end }}
+    {{ $siblingCodes = sort $siblingCodes }}
+
+    {{ if gt (len $siblingCodes) 1 }}
+      {{ $currentIdx := 0 }}
+      {{ range $i, $c := $siblingCodes }}
+        {{ if eq $c $subjectCode }}{{ $currentIdx = $i }}{{ end }}
+      {{ end }}
+      <nav class="page-nav">
+        {{ if gt $currentIdx 0 }}
+          {{ $prevCode := index $siblingCodes (sub $currentIdx 1) }}
+          {{ $prevPage := site.GetPage (printf "/subjectcode/%s" ($prevCode | urlize)) }}
+          {{ if $prevPage }}
+            <a class="page-nav__previous-link" href="{{ $prevPage.RelPermalink }}">← {{ $prevCode }}</a>
+          {{ end }}
+        {{ end }}
+        {{ if lt $currentIdx (sub (len $siblingCodes) 1) }}
+          {{ $nextCode := index $siblingCodes (add $currentIdx 1) }}
+          {{ $nextPage := site.GetPage (printf "/subjectcode/%s" ($nextCode | urlize)) }}
+          {{ if $nextPage }}
+            <a class="page-nav__next-link" href="{{ $nextPage.RelPermalink }}">{{ $nextCode }} →</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ end }}

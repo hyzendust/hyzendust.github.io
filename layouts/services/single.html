@@ -1,27 +1,31 @@
 {{ define "main" }}
 
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/services/">Services</a>
+  › <span>{{ .Title }}</span>
+</nav>
+
+<h1>{{ .Title }}</h1>
+
 {{ .Content }}
 
+{{/* Prev/next among sibling services */}}
+{{ $allPages := .CurrentSection.Pages.ByTitle }}
 {{ $currentTitle := .Title }}
-{{ $allPages := .Section | .Site.GetPage }}
-{{ $sortedPages := $allPages.Pages.ByTitle }}
-{{ $currentIndex := 0 }}
-
-{{ range $index, $page := $sortedPages }}
-  {{ if eq $page.Title $currentTitle }}
-    {{ $currentIndex = $index }}
-  {{ end }}
+{{ $currentIdx := 0 }}
+{{ range $i, $p := $allPages }}
+  {{ if eq $p.Title $currentTitle }}{{ $currentIdx = $i }}{{ end }}
 {{ end }}
 
-{{ if gt (len $sortedPages) 1 }}
+{{ if gt (len $allPages) 1 }}
 <nav class="page-nav">
-  {{ if gt $currentIndex 0 }}
-    {{ $prevPage := index $sortedPages (sub $currentIndex 1) }}
-    <a href="{{ $prevPage.RelPermalink }}">{{ i18n "previousPage" }}{{ $prevPage.LinkTitle }}</a>
+  {{ if gt $currentIdx 0 }}
+    {{ $prev := index $allPages (sub $currentIdx 1) }}
+    <a class="page-nav__previous-link" href="{{ $prev.RelPermalink }}">← {{ $prev.LinkTitle }}</a>
   {{ end }}
-  {{ if lt $currentIndex (sub (len $sortedPages) 1) }}
-    {{ $nextPage := index $sortedPages (add $currentIndex 1) }}
-    <a href="{{ $nextPage.RelPermalink }}">{{ i18n "nextPage" }}{{ $nextPage.LinkTitle }}</a>
+  {{ if lt $currentIdx (sub (len $allPages) 1) }}
+    {{ $next := index $allPages (add $currentIdx 1) }}
+    <a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.LinkTitle }} →</a>
   {{ end }}
 </nav>
 {{ end }}
