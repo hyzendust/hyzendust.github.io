@@ -1,21 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>S1 on Freedoms4</title>
-    <link>http://localhost:1313/semester/s1/</link>
-    <description>Recent content in S1 on Freedoms4</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>your-email@example.com (Freedoms4)</managingEditor>
-    <webMaster>your-email@example.com (Freedoms4)</webMaster>
-    <lastBuildDate>Tue, 11 Nov 2025 23:15:44 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/semester/s1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Unit 1</title>
-      <link>http://localhost:1313/uninotes/pbm-dcm1110-unit1/</link>
-      <pubDate>Tue, 11 Nov 2025 23:15:44 +0530</pubDate><author>your-email@example.com (Freedoms4)</author>
-      <guid>http://localhost:1313/uninotes/pbm-dcm1110-unit1/</guid>
-      <description>&lt;h2 class=&#34;heading&#34; id=&#34;characteristics-of-management&#34;&gt;&#xA;  Characteristics of Management&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#characteristics-of-management&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;A) Goal Oriented.&lt;br&gt;&#xA;B) Pervasive.&lt;br&gt;&#xA;C) Multidimentional:&lt;br&gt;&#xA;         (i) Management of People.&lt;br&gt;&#xA;         (ii) Management of Operations.&lt;br&gt;&#xA;D) Continuous.&lt;br&gt;&#xA;E) Dynamic.&lt;br&gt;&#xA;F) Group Activity.&lt;br&gt;&#xA;G) Intangible.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;functions-of-management&#34;&gt;&#xA;  Functions of Management&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#functions-of-management&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;A) Planning.&lt;br&gt;&#xA;B) Organising.&lt;br&gt;&#xA;C) Staffing.&lt;br&gt;&#xA;D) Directing.&lt;br&gt;&#xA;E) Controlling.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;a-planning&#34;&gt;&#xA;  A) Planning&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#a-planning&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Determine the goals or mission of the organisation.&lt;/li&gt;&#xA;&lt;li&gt;Forecast future conditions.&lt;/li&gt;&#xA;&lt;li&gt;Select the best course of action.&lt;/li&gt;&#xA;&lt;li&gt;Formulate policies, procedures, budgets.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;b-organising&#34;&gt;&#xA;  B) Organising&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#b-organising&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Identify and analyse activities required to be operated on.&lt;/li&gt;&#xA;&lt;li&gt;Group similar activities.&lt;/li&gt;&#xA;&lt;li&gt;Assign duties to individuals.&lt;/li&gt;&#xA;&lt;li&gt;Delegate authority and responsibility to the individuals in managerial roles.&lt;/li&gt;&#xA;&lt;li&gt;Establish and announce clear authority relationships to ensure coordination and control.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;c-staffing&#34;&gt;&#xA;  C) Staffing&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#c-staffing&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Recruitment and selection.&lt;/li&gt;&#xA;&lt;li&gt;Training.&lt;/li&gt;&#xA;&lt;li&gt;Performance appraisal.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;d-directing&#34;&gt;&#xA;  D) Directing&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#d-directing&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Leadership and supervision.&lt;/li&gt;&#xA;&lt;li&gt;Motivation.&lt;/li&gt;&#xA;&lt;li&gt;Communication.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;e-controlling&#34;&gt;&#xA;  E) Controlling&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#e-controlling&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Establish performance standards.&lt;/li&gt;&#xA;&lt;li&gt;Measure performance.&lt;/li&gt;&#xA;&lt;li&gt;Compare performance with the standards.&lt;/li&gt;&#xA;&lt;li&gt;Identify reasons for deviations.&lt;/li&gt;&#xA;&lt;li&gt;Implement corrective actions.&lt;/li&gt;&#xA;&lt;li&gt;Use feedback to evaluate performance improvement.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;significance-of-management&#34;&gt;&#xA;  Significance of Management&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#significance-of-management&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;A) Optimum unilization of resources.&lt;br&gt;&#xA;B) Minimisation of costs.&lt;br&gt;&#xA;C) Achievement of group goals.&lt;br&gt;&#xA;D) Organisational stability.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>S1 on Freedoms4</title><link>https://freedoms4.org/semester/s1/</link><description>Recent content in S1 on Freedoms4</description><generator>Hugo</generator><language>en-us</language><managingEditor>your-email@example.com (Freedoms4)</managingEditor><webMaster>your-email@example.com (Freedoms4)</webMaster><lastBuildDate>Mon, 06 Apr 2026 20:48:44 +0530</lastBuildDate><atom:link href="https://freedoms4.org/semester/s1/index.xml" rel="self" type="application/rss+xml"/><item><title>Unit 1</title><link>https://freedoms4.org/uninotes/bo-dcm1109-unit1/</link><pubDate>Mon, 06 Apr 2026 20:48:44 +0530</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/uninotes/bo-dcm1109-unit1/</guid><description>&lt;h2 class="heading" id="features-and-nature-of-business"&gt;
+ Features and Nature of Business&lt;span class="heading__anchor"&gt; &lt;a href="#features-and-nature-of-business"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Economic Activity.&lt;br&gt;
+B) Continuous Activity.&lt;br&gt;
+C) Profit Motive.&lt;br&gt;
+D) Exchange of goods and services.&lt;br&gt;
+E) Customer Orientation.&lt;br&gt;
+F) Risk and Uncertainty.&lt;br&gt;
+G) Legal and Ethical Compliance.&lt;br&gt;
+H) Global.&lt;/p&gt;
+&lt;h2 class="heading" id="concept"&gt;
+ Concept&lt;span class="heading__anchor"&gt; &lt;a href="#concept"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Value Creation.&lt;br&gt;
+B) Profit.&lt;br&gt;
+C) Social.&lt;br&gt;
+D) Organised.&lt;br&gt;
+E) Dynanic.&lt;/p&gt;
+&lt;h2 class="heading" id="scope"&gt;
+ Scope&lt;span class="heading__anchor"&gt; &lt;a href="#scope"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;h3 class="heading" id="a-industry"&gt;
+ A) Industry&lt;span class="heading__anchor"&gt; &lt;a href="#a-industry"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Primary Industry: Extraction of raw material (agriculture, mining).&lt;/li&gt;
+&lt;li&gt;Secondary Industry: Manufacturing.&lt;/li&gt;
+&lt;li&gt;Tertiary Industry: Service (banking, insurance, transport, delivery)&lt;/li&gt;
+&lt;li&gt;Quaternary Sector: Knowledge based services (IT, education/training)&lt;/li&gt;
+&lt;li&gt;Quinary Sector: Services of leading roles (Government services, NGOs)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="b-commerce"&gt;
+ B) Commerce&lt;span class="heading__anchor"&gt; &lt;a href="#b-commerce"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Trade.&lt;/li&gt;
+&lt;li&gt;Auxiliaries to Trade.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="c-modern-dimensions-of-business"&gt;
+ C) Modern Dimensions of Business&lt;span class="heading__anchor"&gt; &lt;a href="#c-modern-dimensions-of-business"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;E-Business.&lt;/li&gt;
+&lt;li&gt;Green Business.&lt;/li&gt;
+&lt;li&gt;Social Business.&lt;/li&gt;
+&lt;li&gt;Global Business.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 class="heading" id="business-as-a-system"&gt;
+ Business as a System&lt;span class="heading__anchor"&gt; &lt;a href="#business-as-a-system"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Interdependance.&lt;br&gt;
+B) Input-Process-Output Model.&lt;br&gt;
+C) Open System.&lt;br&gt;
+D) Dynamic Nature.&lt;/p&gt;</description></item><item><title>Unit 1</title><link>https://freedoms4.org/uninotes/et-dcm1107-unit1/</link><pubDate>Sun, 05 Apr 2026 20:48:44 +0530</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/uninotes/et-dcm1107-unit1/</guid><description>&lt;h2 class="heading" id="course-objectives"&gt;
+ Course Objectives&lt;span class="heading__anchor"&gt; &lt;a href="#course-objectives"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Develop analytical skills for interpreting consumer decision-making and market behaviour using economic tools.&lt;br&gt;
+B) Examine cost and revenue structures of firms.&lt;/p&gt;</description></item><item><title>Unit 1</title><link>https://freedoms4.org/uninotes/pbm-dcm1110-unit1/</link><pubDate>Tue, 11 Nov 2025 23:15:44 +0530</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/uninotes/pbm-dcm1110-unit1/</guid><description>&lt;h2 class="heading" id="characteristics-of-management"&gt;
+ Characteristics of Management&lt;span class="heading__anchor"&gt; &lt;a href="#characteristics-of-management"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Goal Oriented.&lt;br&gt;
+B) Pervasive.&lt;br&gt;
+C) Multidimentional:&lt;br&gt;
+         (i) Management of People.&lt;br&gt;
+         (ii) Management of Operations.&lt;br&gt;
+D) Continuous.&lt;br&gt;
+E) Dynamic.&lt;br&gt;
+F) Group Activity.&lt;br&gt;
+G) Intangible.&lt;/p&gt;
+&lt;h2 class="heading" id="functions-of-management"&gt;
+ Functions of Management&lt;span class="heading__anchor"&gt; &lt;a href="#functions-of-management"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Planning.&lt;br&gt;
+B) Organising.&lt;br&gt;
+C) Staffing.&lt;br&gt;
+D) Directing.&lt;br&gt;
+E) Controlling.&lt;/p&gt;
+&lt;h3 class="heading" id="a-planning"&gt;
+ A) Planning&lt;span class="heading__anchor"&gt; &lt;a href="#a-planning"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Determine the goals or mission of the organisation.&lt;/li&gt;
+&lt;li&gt;Forecast future conditions.&lt;/li&gt;
+&lt;li&gt;Select the best course of action.&lt;/li&gt;
+&lt;li&gt;Formulate policies, procedures, budgets.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="b-organising"&gt;
+ B) Organising&lt;span class="heading__anchor"&gt; &lt;a href="#b-organising"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Identify and analyse activities required to be operated on.&lt;/li&gt;
+&lt;li&gt;Group similar activities.&lt;/li&gt;
+&lt;li&gt;Assign duties to individuals.&lt;/li&gt;
+&lt;li&gt;Delegate authority and responsibility to the individuals in managerial roles.&lt;/li&gt;
+&lt;li&gt;Establish and announce clear authority relationships to ensure coordination and control.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="c-staffing"&gt;
+ C) Staffing&lt;span class="heading__anchor"&gt; &lt;a href="#c-staffing"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Recruitment and selection.&lt;/li&gt;
+&lt;li&gt;Training.&lt;/li&gt;
+&lt;li&gt;Performance appraisal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="d-directing"&gt;
+ D) Directing&lt;span class="heading__anchor"&gt; &lt;a href="#d-directing"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Leadership and supervision.&lt;/li&gt;
+&lt;li&gt;Motivation.&lt;/li&gt;
+&lt;li&gt;Communication.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="heading" id="e-controlling"&gt;
+ E) Controlling&lt;span class="heading__anchor"&gt; &lt;a href="#e-controlling"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Establish performance standards.&lt;/li&gt;
+&lt;li&gt;Measure performance.&lt;/li&gt;
+&lt;li&gt;Compare performance with the standards.&lt;/li&gt;
+&lt;li&gt;Identify reasons for deviations.&lt;/li&gt;
+&lt;li&gt;Implement corrective actions.&lt;/li&gt;
+&lt;li&gt;Use feedback to evaluate performance improvement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 class="heading" id="significance-of-management"&gt;
+ Significance of Management&lt;span class="heading__anchor"&gt; &lt;a href="#significance-of-management"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;A) Optimum unilization of resources.&lt;br&gt;
+B) Minimisation of costs.&lt;br&gt;
+C) Achievement of group goals.&lt;br&gt;
+D) Organisational stability.&lt;/p&gt;</description></item></channel></rss>

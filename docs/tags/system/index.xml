@@ -1,21 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>System on Freedoms4</title>
-    <link>http://localhost:1313/tags/system/</link>
-    <description>Recent content in System on Freedoms4</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>your-email@example.com (Freedoms4)</managingEditor>
-    <webMaster>your-email@example.com (Freedoms4)</webMaster>
-    <lastBuildDate>Sun, 01 Mar 2026 18:11:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/system/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What is Education?</title>
-      <link>http://localhost:1313/blog/what-is-education/</link>
-      <pubDate>Sun, 01 Mar 2026 18:11:14 +0000</pubDate><author>your-email@example.com (Freedoms4)</author>
-      <guid>http://localhost:1313/blog/what-is-education/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;what-is-education&#34;&gt;&#xA;  What is Education?&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#what-is-education&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;&lt;p&gt;Education simply means &amp;ldquo;learning&amp;rdquo;. It&amp;rsquo;s a natural process.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;ratio-of-components-in-education&#34;&gt;&#xA;  Ratio of components in Education:&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#ratio-of-components-in-education&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;50% Knowledge/Understanding, 30% Skills, 20% Experience.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;education-vs-academics&#34;&gt;&#xA;  Education vs Academics:&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#education-vs-academics&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;Education and Academics are not the same thing. Academics is Education based of a curriculum and an institution. Plato discovered the word while describing his school of philosophy.&lt;/p&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;academics-system-has-evolved-with-time-and-got-worst-lets-see-what-the-system-has-become-nowadays&#34;&gt;&#xA;  Academics system has evolved with time and got worst. Let&amp;rsquo;s see what the system has become nowadays:&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#academics-system-has-evolved-with-time-and-got-worst-lets-see-what-the-system-has-become-nowadays&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h4&gt;&lt;ul&gt;&#xA;&lt;li&gt;Wrong ratio of knowledge, skill, experience (knowledge takes about 90%).&lt;/li&gt;&#xA;&lt;li&gt;Generalised curriculum for all students.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;extra-bad&#34;&gt;&#xA;  Extra bad:&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#extra-bad&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h4&gt;&lt;ul&gt;&#xA;&lt;li&gt;Goals are only bound to exams/grades, degree or certifications (year 1088), then getting jobs.&lt;/li&gt;&#xA;&lt;li&gt;Unhealthy pressure and competition for students.&lt;/li&gt;&#xA;&lt;li&gt;Money game.&lt;/li&gt;&#xA;&lt;li&gt;Politics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Education as a concept/implementation/system is good.&#xA;Academics is good only as a concept. It&amp;rsquo;s implementation and system is always the worst and corrupted.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>System on Freedoms4</title><link>https://freedoms4.org/tags/system/</link><description>Recent content in System on Freedoms4</description><generator>Hugo</generator><language>en-us</language><managingEditor>your-email@example.com (Freedoms4)</managingEditor><webMaster>your-email@example.com (Freedoms4)</webMaster><lastBuildDate>Sun, 01 Mar 2026 18:11:14 +0000</lastBuildDate><atom:link href="https://freedoms4.org/tags/system/index.xml" rel="self" type="application/rss+xml"/><item><title>What is Education?</title><link>https://freedoms4.org/blog/what-is-education/</link><pubDate>Sun, 01 Mar 2026 18:11:14 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/blog/what-is-education/</guid><description>&lt;h1 class="heading" id="what-is-education"&gt;
+ What is Education?&lt;span class="heading__anchor"&gt; &lt;a href="#what-is-education"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h1&gt;&lt;p&gt;Education simply means &amp;ldquo;learning&amp;rdquo;. It&amp;rsquo;s a natural process.&lt;/p&gt;
+&lt;h3 class="heading" id="ratio-of-components-in-education"&gt;
+ Ratio of components in Education:&lt;span class="heading__anchor"&gt; &lt;a href="#ratio-of-components-in-education"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;50% Knowledge/Understanding, 30% Skills, 20% Experience.&lt;/p&gt;
+&lt;h3 class="heading" id="education-vs-academics"&gt;
+ Education vs Academics:&lt;span class="heading__anchor"&gt; &lt;a href="#education-vs-academics"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Education and Academics are not the same thing. Academics is Education based of a curriculum and an institution. Plato discovered the word while describing his school of philosophy.&lt;/p&gt;
+&lt;h4 class="heading" id="academics-system-has-evolved-with-time-and-got-worst-lets-see-what-the-system-has-become-nowadays"&gt;
+ Academics system has evolved with time and got worst. Let&amp;rsquo;s see what the system has become nowadays:&lt;span class="heading__anchor"&gt; &lt;a href="#academics-system-has-evolved-with-time-and-got-worst-lets-see-what-the-system-has-become-nowadays"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Wrong ratio of knowledge, skill, experience (knowledge takes about 90%).&lt;/li&gt;
+&lt;li&gt;Generalised curriculum for all students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 class="heading" id="extra-bad"&gt;
+ Extra bad:&lt;span class="heading__anchor"&gt; &lt;a href="#extra-bad"&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Goals are only bound to exams/grades, degree or certifications (year 1088), then getting jobs.&lt;/li&gt;
+&lt;li&gt;Unhealthy pressure and competition for students.&lt;/li&gt;
+&lt;li&gt;Money game.&lt;/li&gt;
+&lt;li&gt;Politics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Education as a concept/implementation/system is good.
+Academics is good only as a concept. It&amp;rsquo;s implementation and system is always the worst and corrupted.&lt;/p&gt;</description></item></channel></rss>
