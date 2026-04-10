@@ -15,7 +15,6 @@
   {{ $subjectcode = $subjectcodeRaw }}
 {{ end }}
 
-{{/* Breadcrumbs */}}
 <nav class="uninotes-breadcrumbs breadcrumbs">
   <a href="/uninotes/">UniNotes</a>
   {{ if $semester }}
@@ -33,7 +32,6 @@
   › <span>{{ .Params.unit | default .Title }}</span>
 </nav>
 
-{{/* Metadata pills */}}
 <div class="uninotes-meta">
   {{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
   {{ with $subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
@@ -41,7 +39,6 @@
 
 <h1>{{ .Params.unit | default .Title }}</h1>
 
-{{ partial "main/dates.html" . }}
 {{ partial "page/toc.html" . }}
 
 {{ .Content }}
@@ -49,15 +46,15 @@
 {{ partial "page/terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }}
 
-{{/* Next/prev: siblings = other posts with same subjectcode, sorted by date */}}
+{{/* Next/prev among sibling units in the same subjectcode */}}
 {{ if $subjectcode }}
   {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
   {{ if $subPage }}
-    {{ $siblings := $subPage.Pages.ByDate }}
-    {{ $currentTitle := .Title }}
+    {{ $siblings := $subPage.Pages.ByWeight }}
+    {{ $currentPermalink := .RelPermalink }}
     {{ $currentIdx := 0 }}
     {{ range $i, $p := $siblings }}
-      {{ if eq $p.Title $currentTitle }}{{ $currentIdx = $i }}{{ end }}
+      {{ if eq $p.RelPermalink $currentPermalink }}{{ $currentIdx = $i }}{{ end }}
     {{ end }}
     {{ if gt (len $siblings) 1 }}
     <nav class="page-nav">

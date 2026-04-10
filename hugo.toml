@@ -58,3 +58,8 @@ category = "categories"
 tag = "tags"
 semester = "semester"
 subjectcode = "subjectcode"
+
+[permalinks]
+  [permalinks.term]
+    semester    = '/uninotes/:slug/'
+    subjectcode = '/uninotes/:slug/'

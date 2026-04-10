@@ -1,11 +1,12 @@
 +++
-date = '2026-04-06T20:48:44+05:30'
 draft = false
 semester = ['S1']
 subjectcode = ['BO DCM1109']
 unit = 'Unit 1'
 title = 'Unit 1'
 toc = true
+weight = 1
+url = '/uninotes/s1/bo-dcm1109/bo-dcm1109-unit1/'
 +++
 
 ## Features and Nature of Business

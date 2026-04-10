@@ -1,11 +1,12 @@
 +++
-date = '2025-11-11T23:15:44+05:30'
 draft = false
 semester = ['S1']
 subjectcode = ['PBM DCM1110']
 unit = 'Unit 1'
 title = 'Unit 1'
 toc = true
+weight = 1
+url = '/uninotes/s1/pbm-dcm1110/pbm-dcm1110-unit1/'
 +++
 
 ## Characteristics of Management

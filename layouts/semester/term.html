@@ -9,7 +9,7 @@
 
 <h1>{{ $semesterName }}</h1>
 
-{{/* Collect unique subject codes from posts tagged with this semester */}}
+{{/* Collect unique subject codes from posts in this semester */}}
 {{ $subjectCodes := slice }}
 {{ range .Pages }}
   {{ $raw := .Params.subjectcode }}
@@ -23,7 +23,6 @@
     {{ $subjectCodes = $subjectCodes | append $code }}
   {{ end }}
 {{ end }}
-
 {{ $subjectCodes = sort $subjectCodes }}
 
 <ol class="uninotes-list uninotes-list--subjects">

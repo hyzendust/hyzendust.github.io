@@ -2,7 +2,7 @@
 
 {{ $subjectCode := .Title }}
 
-{{/* Find which semester this subject belongs to */}}
+{{/* Get semester from first post */}}
 {{ $semester := "" }}
 {{ range .Pages }}
   {{ if eq $semester "" }}
@@ -15,7 +15,6 @@
   {{ end }}
 {{ end }}
 
-{{/* Breadcrumbs */}}
 <nav class="uninotes-breadcrumbs breadcrumbs">
   <a href="/uninotes/">UniNotes</a>
   {{ if $semester }}
@@ -29,9 +28,8 @@
 
 <h1>{{ $subjectCode }}</h1>
 
-{{/* List units sorted by date */}}
 <ul class="uninotes-list uninotes-list--units">
-  {{ range .Pages.ByDate }}
+  {{ range .Pages.ByWeight }}
     <li class="uninotes-list__item">
       <a class="uninotes-list__link" href="{{ .RelPermalink }}">
         {{ with .Params.unit }}{{ . }}{{ else }}{{ .Title }}{{ end }}
@@ -40,7 +38,7 @@
   {{ end }}
 </ul>
 
-{{/* Subject prev/next — siblings are other subjectcodes in the same semester */}}
+{{/* Subject prev/next — siblings in same semester */}}
 {{ if $semester }}
   {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
   {{ if $semPage }}

@@ -1,14 +1,12 @@
 {{ define "main" }}
+
 <nav class="uninotes-breadcrumbs breadcrumbs">
   <a href="/uninotes/">UniNotes</a>
 </nav>
 
 <h1>UniNotes</h1>
 
-{{/* Pull all semester terms from the taxonomy */}}
-{{ $semesterTaxonomy := site.Taxonomies.semester }}
-{{ $semesters := $semesterTaxonomy.Alphabetical }}
-
+{{ $semesters := site.Taxonomies.semester.Alphabetical }}
 <ul class="uninotes-list">
   {{ range $semesters }}
     <li class="uninotes-list__item">
@@ -16,4 +14,5 @@
     </li>
   {{ end }}
 </ul>
+
 {{ end }}
