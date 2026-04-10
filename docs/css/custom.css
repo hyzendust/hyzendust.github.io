@@ -1,3 +1,8 @@
+/* ── TOC: gap between TOC and first content line ────────────────────────── */
+.toc {
+  margin-bottom: 2.2rem;
+}
+
 /* ── TOC: hide phantom empty bullet when post starts with ### (h3) ──────── */
 /* Hugo wraps orphaned h3s in a li>ul, leaving an empty li with no direct
    anchor. This hides it without affecting any meaningful TOC entry.         */

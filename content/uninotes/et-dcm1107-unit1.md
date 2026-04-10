@@ -9,7 +9,7 @@ weight = 1
 url = '/uninotes/s1/et-dcm1107/et-dcm1107-unit1/'
 +++
 
-### [ ***April 9, 2026*** ]
+### *April 9, 2026*
 
 ## Course Objectives
 
