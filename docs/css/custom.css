@@ -1,6 +1,6 @@
 /* ── TOC: gap between TOC and first content line ────────────────────────── */
 .toc {
-  margin-bottom: 2rem;
+  margin-bottom: 1.8rem;
 }
 
 /* ── TOC: hide phantom empty bullet when post starts with ### (h3) ──────── */
