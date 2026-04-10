@@ -9,6 +9,8 @@ weight = 1
 url = '/uninotes/s1/et-dcm1107/et-dcm1107-unit1/'
 +++
 
+### Date: April 9, 2026
+
 ## Course Objectives
 
 A) Develop analytical skills for interpreting consumer decision-making and market behaviour using economic tools.  

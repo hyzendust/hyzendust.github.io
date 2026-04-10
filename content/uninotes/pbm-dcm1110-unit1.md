@@ -9,6 +9,8 @@ weight = 1
 url = '/uninotes/s1/pbm-dcm1110/pbm-dcm1110-unit1/'
 +++
 
+### Date: April 5, 2026
+
 ## Characteristics of Management
 
 A) Goal Oriented.  
