@@ -659,3 +659,94 @@
 		display: none !important;
 	}
 }
+
+/* ── Unit Choice Page (Self / Live) ─────────────────────────────────────── */
+
+.unit-choice__subtitle {
+  color: var(--foreground-color3, #888);
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.unit-choice__options {
+  display: flex;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.unit-choice__card {
+  flex: 1;
+  min-width: 180px;
+  max-width: 260px;
+  border: 2px solid var(--accent-color);
+  border-radius: 12px;
+  padding: 1.75rem 1.5rem;
+  text-decoration: none;
+  color: var(--foreground-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  transition: background 0.18s ease, color 0.18s ease, transform 0.15s ease;
+  text-align: center;
+  cursor: pointer;
+}
+
+.unit-choice__card:hover {
+  background: var(--accent-color);
+  color: var(--background-color, #fff);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.unit-choice__card--live {
+  border-color: var(--foreground-color3, #888);
+  opacity: 0.7;
+}
+
+.unit-choice__card--live:hover {
+  background: var(--foreground-color3, #888);
+  border-color: var(--foreground-color3, #888);
+  color: var(--background-color, #fff);
+}
+
+.unit-choice__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.3rem;
+}
+
+.unit-choice__label {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.unit-choice__desc {
+  font-size: 0.8rem;
+  opacity: 0.72;
+  line-height: 1.45;
+}
+
+/* notecategory pill colour */
+.uninotes-meta__pill--self {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.uninotes-meta__pill--live {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.unit-choice__card--unavailable {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.unit-choice__card--unavailable:hover {
+  transform: none;
+}

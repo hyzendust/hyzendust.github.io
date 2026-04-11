@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+{{/* Get semester and subjectcode from child pages since _index.md doesn't carry taxonomy params */}}
+{{ $semester := "" }}
+{{ $subjectcode := "" }}
+{{ range .Pages }}
+  {{ if eq $semester "" }}
+    {{ $raw := .Params.semester }}
+    {{ $semester = cond (reflect.IsSlice $raw) (index $raw 0) $raw }}
+  {{ end }}
+  {{ if eq $subjectcode "" }}
+    {{ $raw := .Params.subjectcode }}
+    {{ $subjectcode = cond (reflect.IsSlice $raw) (index $raw 0) $raw }}
+  {{ end }}
+{{ end }}
+
+<nav class="uninotes-breadcrumbs breadcrumbs">
+  <a href="/uninotes/">UniNotes</a>
+  {{ if $semester }}
+    {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+    {{ if $semPage }}
+      › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a>
+    {{ end }}
+  {{ end }}
+  {{ if $subjectcode }}
+    {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
+    {{ if $subPage }}
+      › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a>
+    {{ end }}
+  {{ end }}
+  › <span>{{ .Params.unit | default .Title }}</span>
+</nav>
+
+<div class="uninotes-meta">
+  {{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+  {{ with $subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+</div>
+
+<h1>{{ .Params.unit | default .Title }}</h1>
+
+<p class="unit-choice__subtitle">Choose type:</p>
+
+{{/* Check if a live page exists at the expected URL */}}
+{{ $hasLive := false }}
+{{ range .Pages }}
+  {{ if eq (lower .Params.notecategory) "live" }}{{ $hasLive = true }}{{ end }}
+{{ end }}
+
+<div class="unit-choice__options">
+  <a class="unit-choice__card unit-choice__card--self" href="{{ .RelPermalink }}self/">
+    <div class="unit-choice__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
+        <path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"/>
+      </svg>
+    </div>
+    <div class="unit-choice__label">Self</div>
+    <div class="unit-choice__desc">Self-study notes</div>
+  </a>
+
+  {{ if $hasLive }}
+  <a class="unit-choice__card unit-choice__card--live" href="{{ .RelPermalink }}live/">
+  {{ else }}
+  <div class="unit-choice__card unit-choice__card--live unit-choice__card--unavailable">
+  {{ end }}
+    <div class="unit-choice__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
+        <path d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/>
+      </svg>
+    </div>
+    <div class="unit-choice__label">Live</div>
+    <div class="unit-choice__desc">
+      {{ if $hasLive }}Live class notes
+      {{ else }}Coming soon{{ end }}
+    </div>
+  {{ if $hasLive }}</a>{{ else }}</div>{{ end }}
+</div>
+
+{{ end }}

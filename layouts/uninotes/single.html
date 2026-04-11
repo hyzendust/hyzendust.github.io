@@ -29,12 +29,16 @@
       › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a>
     {{ end }}
   {{ end }}
-  › <span>{{ .Params.unit | default .Title }}</span>
+  › <a href="{{ .Params.uniturl }}">{{ .Params.unit | default .Title }}</a>
+  › <span>{{ .Params.notecategory | default "Notes" }}</span>
 </nav>
 
 <div class="uninotes-meta">
   {{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
   {{ with $subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+  {{ with .Params.notecategory }}
+    <span class="uninotes-meta__pill uninotes-meta__pill--{{ . | lower }}">{{ . }}</span>
+  {{ end }}
 </div>
 
 <h1>{{ .Params.unit | default .Title }}</h1>
@@ -46,25 +50,34 @@
 {{ partial "page/terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }}
 
-{{/* Next/prev among sibling units in the same subjectcode */}}
+{{/* Next/prev among sibling UNITS in the same subjectcode — deduplicated by unit label */}}
 {{ if $subjectcode }}
   {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
   {{ if $subPage }}
-    {{ $siblings := $subPage.Pages.ByWeight }}
-    {{ $currentPermalink := .RelPermalink }}
-    {{ $currentIdx := 0 }}
-    {{ range $i, $p := $siblings }}
-      {{ if eq $p.RelPermalink $currentPermalink }}{{ $currentIdx = $i }}{{ end }}
+    {{/* Build a deduplicated list of units: one entry per unit label, using the Self page as representative */}}
+    {{ $unitMap := slice }}
+    {{ $seenUnits := slice }}
+    {{ range $subPage.Pages.ByWeight }}
+      {{ $unitLabel := (.Params.unit | default .Title) }}
+      {{ if not (in $seenUnits $unitLabel) }}
+        {{ $seenUnits = $seenUnits | append $unitLabel }}
+        {{ $unitMap = $unitMap | append . }}
+      {{ end }}
     {{ end }}
-    {{ if gt (len $siblings) 1 }}
+    {{ $currentUnit := (.Params.unit | default .Title) }}
+    {{ $currentIdx := 0 }}
+    {{ range $i, $p := $unitMap }}
+      {{ if eq ($p.Params.unit | default $p.Title) $currentUnit }}{{ $currentIdx = $i }}{{ end }}
+    {{ end }}
+    {{ if gt (len $unitMap) 1 }}
     <nav class="page-nav">
       {{ if gt $currentIdx 0 }}
-        {{ $prev := index $siblings (sub $currentIdx 1) }}
-        <a class="page-nav__previous-link" href="{{ $prev.RelPermalink }}">← {{ $prev.Params.unit | default $prev.Title }}</a>
+        {{ $prev := index $unitMap (sub $currentIdx 1) }}
+        <a class="page-nav__previous-link" href="{{ $prev.Params.uniturl }}">← {{ $prev.Params.unit | default $prev.Title }}</a>
       {{ end }}
-      {{ if lt $currentIdx (sub (len $siblings) 1) }}
-        {{ $next := index $siblings (add $currentIdx 1) }}
-        <a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.Params.unit | default $next.Title }} →</a>
+      {{ if lt $currentIdx (sub (len $unitMap) 1) }}
+        {{ $next := index $unitMap (add $currentIdx 1) }}
+        <a class="page-nav__next-link" href="{{ $next.Params.uniturl }}">{{ $next.Params.unit | default $next.Title }} →</a>
       {{ end }}
     </nav>
     {{ end }}

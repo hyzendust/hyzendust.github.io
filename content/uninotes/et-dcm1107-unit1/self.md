@@ -3,10 +3,12 @@ draft = false
 semester = ['S1']
 subjectcode = ['ET DCM1107']
 unit = 'Unit 1'
+notecategory = 'Self'
 title = 'Unit 1'
 toc = true
 weight = 1
-url = '/uninotes/s1/et-dcm1107/et-dcm1107-unit1/'
+url = '/uninotes/s1/et-dcm1107/unit1/self/'
+uniturl = '/uninotes/s1/et-dcm1107/unit1/'
 +++
 
 ### ***April 9, 2026***

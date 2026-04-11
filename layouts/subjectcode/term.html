@@ -29,12 +29,17 @@
 <h1>{{ $subjectCode }}</h1>
 
 <ul class="uninotes-list uninotes-list--units">
+  {{ $seenUnits := slice }}
   {{ range .Pages.ByWeight }}
-    <li class="uninotes-list__item">
-      <a class="uninotes-list__link" href="{{ .RelPermalink }}">
-        {{ with .Params.unit }}{{ . }}{{ else }}{{ .Title }}{{ end }}
-      </a>
-    </li>
+    {{ $unitLabel := (.Params.unit | default .Title) }}
+    {{ if not (in $seenUnits $unitLabel) }}
+      {{ $seenUnits = $seenUnits | append $unitLabel }}
+      <li class="uninotes-list__item">
+        <a class="uninotes-list__link" href="{{ .Params.uniturl }}">
+          {{ $unitLabel }}
+        </a>
+      </li>
+    {{ end }}
   {{ end }}
 </ul>
 
