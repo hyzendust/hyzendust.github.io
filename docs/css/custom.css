@@ -660,6 +660,124 @@
 	}
 }
 
+/* ── UniNotes Contents Panel ─────────────────────────────────────────────── */
+
+.uninotes-contents {
+  margin: 1.25rem 0 2rem 0;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.uninotes-contents__semester {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.uninotes-contents__sem-link {
+  font-size: 1.11rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--foreground-color3, #888);
+  text-decoration: none;
+}
+
+.uninotes-contents__sem-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.uninotes-contents__subject {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding-left: 0.5rem;
+}
+
+.uninotes-contents__subject-link {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--foreground-color);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.uninotes-contents__subject-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.uninotes-contents__units {
+  list-style: none;
+  padding: 0;
+  margin: 0.15rem 0 0 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.uninotes-contents__unit {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+}
+
+.uninotes-contents__unit-link {
+  font-size: 0.9rem;
+  color: var(--foreground-color);
+  text-decoration: none;
+}
+
+.uninotes-contents__unit-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.uninotes-contents__unit-cats {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.uninotes-contents__cat {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.uninotes-contents__cat--self {
+  color: var(--accent-color);
+}
+
+.uninotes-contents__cat--self:hover {
+  background: var(--accent-color);
+  color: var(--background-color, #fff);
+}
+
+.uninotes-contents__cat--live {
+  color: var(--accent-color);
+}
+
+.uninotes-contents__cat--live:hover {
+  background: var(--accent-color);
+  color: var(--background-color, #fff);
+}
+
+.uninotes-contents__cat--na {
+  color: var(--foreground-color3, #888);
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 /* ── Unit Choice Page (Self / Live) ─────────────────────────────────────── */
 
 .unit-choice__subtitle {
@@ -713,16 +831,7 @@
   text-decoration: none;
 }
 
-.unit-choice__card--live {
-  border-color: var(--foreground-color3, #888);
-  opacity: 0.7;
-}
-
-.unit-choice__card--live:hover {
-  background: var(--foreground-color3, #888);
-  border-color: var(--foreground-color3, #888);
-  color: var(--background-color, #fff);
-}
+/* .unit-choice__card--live intentionally matches .unit-choice__card — no overrides */
 
 .unit-choice__icon {
   display: flex;
@@ -755,10 +864,14 @@
 }
 
 .unit-choice__card--unavailable {
+  border-color: var(--foreground-color3, #888);
+  color: var(--foreground-color3, #888);
   cursor: not-allowed;
   opacity: 0.45;
 }
 
 .unit-choice__card--unavailable:hover {
+  background: transparent;
+  color: var(--foreground-color3, #888);
   transform: none;
 }
