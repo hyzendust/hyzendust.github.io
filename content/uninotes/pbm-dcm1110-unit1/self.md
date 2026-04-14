@@ -6,7 +6,6 @@ unit = 'Unit 1'
 notecategory = 'Self'
 title = 'Unit 1'
 toc = true
-weight = 1
 url = '/uninotes/s1/pbm-dcm1110/unit1/self/'
 uniturl = '/uninotes/s1/pbm-dcm1110/unit1/'
 +++

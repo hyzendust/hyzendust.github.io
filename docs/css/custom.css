@@ -676,6 +676,18 @@
   margin-bottom: 2rem;
 }
 
+@media (max-width: 600px) {
+  .unit-choice__options {
+    flex-direction: column;
+    align-items: center;
+  }
+  .unit-choice__card {
+    width: 100%;
+    max-width: 260px;
+    flex: none;
+  }
+}
+
 .unit-choice__card {
   flex: 1;
   min-width: 180px;

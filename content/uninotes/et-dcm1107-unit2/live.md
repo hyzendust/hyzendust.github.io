@@ -6,7 +6,6 @@ unit = 'Unit 2'
 notecategory = 'Live'
 title = 'Unit 2'
 toc = true
-weight = 2
 url = '/uninotes/s1/et-dcm1107/unit2/live/'
 uniturl = '/uninotes/s1/et-dcm1107/unit2/'
 +++
