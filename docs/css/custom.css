@@ -712,7 +712,7 @@
 
 .uninotes-contents__units {
   list-style: none;
-  padding: 1px;
+  padding: 0.6px;
   margin: 0.15rem 0 0 0.75rem;
   display: flex;
   flex-direction: column;
