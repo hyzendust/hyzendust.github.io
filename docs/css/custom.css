@@ -674,7 +674,7 @@
 .uninotes-contents__semester {
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.3rem;
 }
 
 .uninotes-contents__sem-link {
@@ -693,7 +693,7 @@
 .uninotes-contents__subject {
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.25rem;
   padding-left: 0.7rem;
 }
 
@@ -716,7 +716,7 @@
   margin: 0.15rem 0 0.3rem 0.75rem;
   display: flex;
   flex-direction: column;
-  gap: 0.1rem;
+  gap: 0.03rem;
 }
 
 .uninotes-contents__unit {
