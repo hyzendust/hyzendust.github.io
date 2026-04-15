@@ -681,8 +681,8 @@
   text-transform: uppercase;
   color: var(--foreground-color);
   text-decoration: none;
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 620;
 }
 
 .uninotes-contents__sem-link:hover {
