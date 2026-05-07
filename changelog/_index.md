@@ -1,6 +1,8 @@
 ---
 title: "Changelog"
 ---
+### [2026-05-08]
+- Added UniNote ET DCM1107 Uni7 Self.
 
 ### [2026-05-02]
 - Added UniNote ET DCM1107 Uni6 Self.
