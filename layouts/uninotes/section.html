@@ -8,65 +8,110 @@
 
 <h3 class="uninotes-contents-heading">Contents</h3>
 
-{{/* Build full tree: semester → subjectcode → units → self/live */}} {{ $semesters :=
-site.Taxonomies.semester.Alphabetical }}
+{{/* Build full tree: semester → subjectcode → units → self/live */}}
+{{ $semesters := site.Taxonomies.semester.Alphabetical }}
 
 <div class="uninotes-contents">
-	{{ range $semesters }} {{ $semName := .Page.Title }} {{ $semPages := .Pages }} {{/* Collect
-	unique subject codes for this semester */}} {{ $subjectCodes := slice }} {{ range $semPages }}
-	{{ $raw := .Params.subjectcode }} {{ $code := "" }} {{ if reflect.IsSlice $raw }}{{ $code =
-	index $raw 0 }}{{ else }}{{ $code = $raw }}{{ end }} {{ if and $code (not (in $subjectCodes
-	$code)) }} {{ $subjectCodes = $subjectCodes | append $code }} {{ end }} {{ end }} {{
-	$subjectCodes = sort $subjectCodes }} {{ if $subjectCodes }}
+	{{ range $semesters }}
+	{{ $semName := .Page.Title }}
+	{{ $semPages := .Pages }}
+
+	{{/* Collect unique subject codes for this semester */}}
+	{{ $subjectCodes := slice }}
+	{{ range $semPages }}
+		{{ $raw := .Params.subjectcode }}
+		{{ $code := "" }}
+		{{ if reflect.IsSlice $raw }}{{ $code = index $raw 0 }}{{ else }}{{ $code = $raw }}{{ end }}
+		{{ if and $code (not (in $subjectCodes $code)) }}
+			{{ $subjectCodes = $subjectCodes | append $code }}
+		{{ end }}
+	{{ end }}
+
+	{{/* Sort subject codes numerically by extracting the number from the code (e.g. "BO DCM1109" → 1109) */}}
+	{{ $codeDicts := slice }}
+	{{ range $subjectCodes }}
+		{{ $code := . }}
+		{{ $parts := split $code " " }}
+		{{ $lastPart := index $parts (sub (len $parts) 1) }}
+		{{/* Extract digits only from the last part */}}
+		{{ $numStr := "" }}
+		{{ range (split $lastPart "") }}
+			{{ if ge . "0" }}{{ if le . "9" }}{{ $numStr = printf "%s%s" $numStr . }}{{ end }}{{ end }}
+		{{ end }}
+		{{ $num := int ($numStr | default "0") }}
+		{{ $codeDicts = $codeDicts | append (dict "code" $code "num" $num) }}
+	{{ end }}
+	{{ $sortedCodeDicts := sort $codeDicts "num" }}
+
+	{{ if $sortedCodeDicts }}
 	<div class="uninotes-contents__semester">
 		<a class="uninotes-contents__sem-link" href="{{ .Page.RelPermalink }}">{{ $semName }}</a>
 
-		{{ range $subjectCodes }} {{ $code := . }} {{ $subPage := site.GetPage (printf
-		"/subjectcode/%s" ($code | urlize)) }} {{/* Collect one representative page per unit for
-		this subject */}} {{ $units := slice }} {{ $seenUnits := slice }} {{ range
-		$semPages.ByWeight }} {{ $raw := .Params.subjectcode }} {{ $sc := "" }} {{ if
-		reflect.IsSlice $raw }}{{ $sc = index $raw 0 }}{{ else }}{{ $sc = $raw }}{{ end }} {{ if eq
-		$sc $code }} {{ $unitLabel := (.Params.unit | default .Title) }} {{ if not (in $seenUnits
-		$unitLabel) }} {{ $seenUnits = $seenUnits | append $unitLabel }} {{ $units = $units | append
-		. }} {{ end }} {{ end }} {{ end }}
+		{{ range $sortedCodeDicts }}
+		{{ $code := .code }}
+		{{ $subPage := site.GetPage (printf "/subjectcode/%s" ($code | urlize)) }}
+
+		{{/* Collect one representative page per unit for this subject, then sort numerically */}}
+		{{ $unitDicts := slice }}
+		{{ $seenUnits := slice }}
+		{{ range $semPages.ByWeight }}
+			{{ $raw := .Params.subjectcode }}
+			{{ $sc := "" }}
+			{{ if reflect.IsSlice $raw }}{{ $sc = index $raw 0 }}{{ else }}{{ $sc = $raw }}{{ end }}
+			{{ if eq $sc $code }}
+				{{ $unitLabel := (.Params.unit | default .Title) }}
+				{{ if not (in $seenUnits $unitLabel) }}
+					{{ $seenUnits = $seenUnits | append $unitLabel }}
+					{{/* Extract unit number for numeric sort, e.g. "Unit 11" → 11 */}}
+					{{ $uParts := split $unitLabel " " }}
+					{{ $uLast := index $uParts (sub (len $uParts) 1) }}
+					{{ $uNumStr := "" }}
+					{{ range (split $uLast "") }}
+						{{ if ge . "0" }}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }}
+					{{ end }}
+					{{ $uNum := int ($uNumStr | default "0") }}
+					{{ $unitDicts = $unitDicts | append (dict "label" $unitLabel "page" . "num" $uNum) }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+		{{ $sortedUnitDicts := sort $unitDicts "num" }}
 
 		<div class="uninotes-contents__subject">
 			{{ if $subPage }}
-			<a class="uninotes-contents__subject-link" href="{{ $subPage.RelPermalink }}"
-				>{{ $code }}</a
-			>
+			<a class="uninotes-contents__subject-link" href="{{ $subPage.RelPermalink }}">{{ $code }}</a>
 			{{ else }}
 			<span class="uninotes-contents__subject-link">{{ $code }}</span>
 			{{ end }}
 			<ul class="uninotes-contents__units">
-				{{ range $units }} {{ $unitLabel := (.Params.unit | default .Title) }} {{ $unitUrl
-				:= .Params.uniturl }} {{/* Find Self and Live URLs for this unit */}} {{ $selfUrl :=
-				"" }} {{ $liveUrl := "" }} {{ range $semPages }} {{ $raw := .Params.subjectcode }}
-				{{ $sc := "" }} {{ if reflect.IsSlice $raw }}{{ $sc = index $raw 0 }}{{ else }}{{
-				$sc = $raw }}{{ end }} {{ $ul := (.Params.unit | default .Title) }} {{ if and (eq
-				$sc $code) (eq $ul $unitLabel) }} {{ $cat := lower .Params.notecategory }} {{ if eq
-				$cat "self" }}{{ $selfUrl = .RelPermalink }}{{ end }} {{ if eq $cat "live" }}{{
-				$liveUrl = .RelPermalink }}{{ end }} {{ end }} {{ end }}
+				{{ range $sortedUnitDicts }}
+				{{ $unitLabel := .label }}
+				{{ $repPage := .page }}
+				{{ $unitUrl := $repPage.Params.uniturl }}
+				{{/* Find Self and Live URLs for this unit */}}
+				{{ $selfUrl := "" }}
+				{{ $liveUrl := "" }}
+				{{ range $semPages }}
+					{{ $raw := .Params.subjectcode }}
+					{{ $sc := "" }}
+					{{ if reflect.IsSlice $raw }}{{ $sc = index $raw 0 }}{{ else }}{{ $sc = $raw }}{{ end }}
+					{{ $ul := (.Params.unit | default .Title) }}
+					{{ if and (eq $sc $code) (eq $ul $unitLabel) }}
+						{{ $cat := lower .Params.notecategory }}
+						{{ if eq $cat "self" }}{{ $selfUrl = .RelPermalink }}{{ end }}
+						{{ if eq $cat "live" }}{{ $liveUrl = .RelPermalink }}{{ end }}
+					{{ end }}
+				{{ end }}
 
 				<li class="uninotes-contents__unit">
-					<a class="uninotes-contents__unit-link" href="{{ $unitUrl }}"
-						>{{ $unitLabel }}</a
-					>
+					<a class="uninotes-contents__unit-link" href="{{ $unitUrl }}">{{ $unitLabel }}</a>
 					<span class="uninotes-contents__unit-cats">
 						{{ if $selfUrl }}
-						<a
-							class="uninotes-contents__cat uninotes-contents__cat--self"
-							href="{{ $selfUrl }}"
-							>Self</a
-						>
+						<a class="uninotes-contents__cat uninotes-contents__cat--self" href="{{ $selfUrl }}">Self</a>
 						{{ else }}
 						<span class="uninotes-contents__cat uninotes-contents__cat--na">Self</span>
-						{{ end }} {{ if $liveUrl }}
-						<a
-							class="uninotes-contents__cat uninotes-contents__cat--live"
-							href="{{ $liveUrl }}"
-							>Live</a
-						>
+						{{ end }}
+						{{ if $liveUrl }}
+						<a class="uninotes-contents__cat uninotes-contents__cat--live" href="{{ $liveUrl }}">Live</a>
 						{{ else }}
 						<span class="uninotes-contents__cat uninotes-contents__cat--na">Live</span>
 						{{ end }}
@@ -77,7 +122,8 @@ site.Taxonomies.semester.Alphabetical }}
 		</div>
 		{{ end }}
 	</div>
-	{{ end }} {{ end }}
+	{{ end }}
+	{{ end }}
 </div>
 
 {{ end }}
