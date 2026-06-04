@@ -75,4 +75,12 @@
   {{ if $hasLive }}</a>{{ else }}</div>{{ end }}
 </div>
 
+<script>
+(function () {
+	if (localStorage.getItem('f4_username') !== 'hyzen') {
+		window.location.replace('/login/?next=' + encodeURIComponent(window.location.pathname));
+	}
+})();
+</script>
+
 {{ end }}

@@ -1,3 +1,10 @@
+/* ── UniNotes menu item: hidden by default, shown by JS for hyzen only ───── */
+.menu__item--uninotes {
+  display: none;
+}
+.hyzen-user .menu__item--uninotes {
+  display: list-item;
+}
 /* ── TOC: gap between TOC and first content line ────────────────────────── */
 .toc {
   margin-bottom: 1.73rem;

@@ -54,4 +54,12 @@ $d.code $subjectCode }}{{ $currentIdx = $i }}{{ end }} {{ end }}
 	<a class="page-nav__next-link" href="{{ $nextPage.RelPermalink }}">{{ $nextCode }} →</a>
 	{{ end }} {{ end }}
 </nav>
+<script>
+(function () {
+	if (localStorage.getItem('f4_username') !== 'hyzen') {
+		window.location.replace('/login/?next=' + encodeURIComponent(window.location.pathname));
+	}
+})();
+</script>
+
 {{ end }} {{ end }} {{ end }} {{ end }}

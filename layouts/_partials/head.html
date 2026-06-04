@@ -17,6 +17,9 @@
 (function(){
   var t = localStorage.getItem('theme');
   if (t) { document.documentElement.setAttribute('data-theme', t); }
+  if (localStorage.getItem('f4_username') === 'hyzen') {
+    document.documentElement.classList.add('hyzen-user');
+  }
 })();
 </script>
 

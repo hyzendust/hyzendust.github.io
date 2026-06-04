@@ -1,5 +1,16 @@
 <script>
 	(function () {
+		// Hide UniNotes menu item for everyone except hyzen
+		document.querySelectorAll('.menu__item').forEach(function (li) {
+			var a = li.querySelector('a');
+			if (a && a.getAttribute('href') === '/uninotes/') {
+				li.classList.add('menu__item--uninotes');
+			}
+		});
+	})();
+</script>
+<script>
+	(function () {
 		var btn = document.getElementById('theme-toggle');
 		if (!btn) return;
 

@@ -38,4 +38,12 @@ $s.Page.Title $semesterName }}{{ $currentIdx = $i }}{{ end }} {{ end }}
 	<a class="page-nav__next-link" href="{{ $next.Page.RelPermalink }}">{{ $next.Page.Title }} →</a>
 	{{ end }}
 </nav>
+<script>
+(function () {
+	if (localStorage.getItem('f4_username') !== 'hyzen') {
+		window.location.replace('/login/?next=' + encodeURIComponent(window.location.pathname));
+	}
+})();
+</script>
+
 {{ end }} {{ end }}

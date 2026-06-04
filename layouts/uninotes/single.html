@@ -49,4 +49,12 @@ gt (len $sortedUnitDicts) 1 }}
 	<a class="page-nav__next-link" href="{{ $next.page.Params.uniturl }}">{{ $next.label }} →</a>
 	{{ end }}
 </nav>
-{{ end }} {{ end }} {{ end }} {{ partial "page/page-end.html" . }} {{ end }}
+{{ end }} {{ end }} {{ end }} {{ partial "page/page-end.html" . }}
+<script>
+(function () {
+	if (localStorage.getItem('f4_username') !== 'hyzen') {
+		window.location.replace('/login/?next=' + encodeURIComponent(window.location.pathname));
+	}
+})();
+</script>
+{{ end }}
