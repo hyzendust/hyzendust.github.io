@@ -101,6 +101,7 @@
       .then(function (data) {
         if (data.success) {
           showMsg('Logged in successfully! Redirecting\u2026', 'success');
+          localStorage.setItem('f4_username', username);
           setTimeout(function () { window.location.href = data.redirect || '/'; }, 1000);
         } else {
           showMsg(data.message || 'Login failed. Please try again.', 'error');

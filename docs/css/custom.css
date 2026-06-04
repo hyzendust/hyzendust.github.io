@@ -233,10 +233,12 @@
 	display: none;
 }
 
-.brand__auth-toggle {
+.brand__auth-toggle,
+.brand__auth-user-btn {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
+	box-sizing: border-box;
 	padding: 0.355rem 0.5rem;
 	border-radius: 3px;
 	border: 1px solid #f26522;
@@ -245,6 +247,7 @@
 	cursor: pointer;
 	font-size: 0.7rem;
 	font-weight: 340;
+	font-family: inherit;
 	line-height: 1.4;
 	user-select: none;
 	outline: none;
@@ -254,21 +257,25 @@
 		color 0.2s ease;
 }
 
-.brand__auth-toggle:hover {
+.brand__auth-toggle:hover,
+.brand__auth-user-btn:hover {
 	background-color: transparent;
 	border-color: #f26522;
 	color: #f26522;
 }
 
 @media (prefers-color-scheme: dark) {
-	.brand__auth-toggle {
+	.brand__auth-toggle,
+	.brand__auth-user-btn {
 		background-color: transparent;
 		border-color: currentColor;
 		color: var(--foreground-color);
 	}
 
 	.brand__auth-toggle:hover,
-	.brand__auth:focus-within .brand__auth-toggle {
+	.brand__auth:focus-within .brand__auth-toggle,
+	.brand__auth-user-btn:hover,
+	.brand__auth-user.is-open .brand__auth-user-btn {
 		background-color: var(--foreground-color) !important;
 		border-color: var(--foreground-color) !important;
 		color: var(--background-color) !important;
@@ -477,13 +484,15 @@
 
 /* Default (system light): orange filled */
 @media (max-width: 600px) {
-	.brand__auth-toggle {
+	.brand__auth-toggle,
+	.brand__auth-user-btn {
 		background-color: #f26522 !important;
 		border-color: #f26522 !important;
 		color: #fff !important;
 	}
 
-	.brand__auth:focus-within .brand__auth-toggle {
+	.brand__auth:focus-within .brand__auth-toggle,
+	.brand__auth-user.is-open .brand__auth-user-btn {
 		background-color: transparent !important;
 		border-color: #f26522 !important;
 		color: #f26522 !important;
@@ -492,13 +501,15 @@
 
 /* System dark: outline */
 @media (max-width: 600px) and (prefers-color-scheme: dark) {
-	.brand__auth-toggle {
+	.brand__auth-toggle,
+	.brand__auth-user-btn {
 		background-color: transparent !important;
 		border-color: currentColor !important;
 		color: var(--foreground-color) !important;
 	}
 
-	.brand__auth:focus-within .brand__auth-toggle {
+	.brand__auth:focus-within .brand__auth-toggle,
+	.brand__auth-user.is-open .brand__auth-user-btn {
 		background-color: var(--foreground-color) !important;
 		border-color: var(--foreground-color) !important;
 		color: var(--background-color) !important;
@@ -507,26 +518,30 @@
 
 /* Manual light override */
 @media (max-width: 600px) {
-	[data-theme='light'] .brand__auth-toggle {
+	[data-theme='light'] .brand__auth-toggle,
+	[data-theme='light'] .brand__auth-user-btn {
 		background-color: #f26522 !important;
 		border-color: #f26522 !important;
 		color: #fff !important;
 	}
 
-	[data-theme='light'] .brand__auth:focus-within .brand__auth-toggle {
+	[data-theme='light'] .brand__auth:focus-within .brand__auth-toggle,
+	[data-theme='light'] .brand__auth-user.is-open .brand__auth-user-btn {
 		background-color: transparent !important;
 		border-color: #f26522 !important;
 		color: #f26522 !important;
 	}
 
 	/* Manual dark override */
-	[data-theme='dark'] .brand__auth-toggle {
+	[data-theme='dark'] .brand__auth-toggle,
+	[data-theme='dark'] .brand__auth-user-btn {
 		background-color: transparent !important;
 		border-color: currentColor !important;
 		color: var(--foreground-color) !important;
 	}
 
-	[data-theme='dark'] .brand__auth:focus-within .brand__auth-toggle {
+	[data-theme='dark'] .brand__auth:focus-within .brand__auth-toggle,
+	[data-theme='dark'] .brand__auth-user.is-open .brand__auth-user-btn {
 		background-color: var(--foreground-color) !important;
 		border-color: var(--foreground-color) !important;
 		color: var(--background-color) !important;
@@ -877,4 +892,91 @@
   background: transparent;
   color: var(--foreground-color3, #888);
   transform: none;
+}
+
+/* ── Logged-in user button in header ───────────────────────────────────────── */
+
+/* Hide the old checkbox toggle + login/signup links when logged in */
+.brand__auth--loggedin .brand__auth-check,
+.brand__auth--loggedin .brand__auth-toggle,
+.brand__auth--loggedin .brand__auth-links {
+  display: none !important;
+}
+
+.brand__auth-user {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Extra properties needed only because the user-btn contains text */
+.brand__auth-user-btn {
+  white-space: nowrap;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.brand__auth-user-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  background: var(--background-color);
+  border: 1px solid var(--background-color1);
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  min-width: 110px;
+  z-index: 100;
+  overflow: hidden;
+}
+
+.brand__auth-user.is-open .brand__auth-user-dropdown {
+  display: block;
+}
+
+.brand__auth-user-logout {
+  display: block;
+  width: 100%;
+  padding: 0.55rem 1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  font-size: 0.78rem;
+  font-family: inherit;
+  color: var(--foreground-color);
+  transition: background 0.12s;
+}
+
+.brand__auth-user-logout:hover {
+  background: var(--background-color1);
+  color: var(--foreground-color);
+}
+
+/* Mobile logged-in state */
+.brand__mobile-links .mobile-link--logout {
+  color: var(--foreground-color);
+}
+
+
+/* Reset native button styles + force subscribe-button dimensions on logged-in user button */
+.brand__auth-user-btn {
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+  vertical-align: middle;
+  padding: 0.2rem 0.65rem !important;
+  border-radius: 3px !important;
+  font-size: 0.7rem !important;
+  line-height: 1.4 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.25rem !important;
+}
+
+.brand__auth-user-btn svg {
+  flex: 0 0 auto;
 }
