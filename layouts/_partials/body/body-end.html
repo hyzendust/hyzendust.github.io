@@ -1,117 +1,119 @@
 <script>
-(function () {
-  var btn = document.getElementById('theme-toggle');
-  if (!btn) return;
+	(function () {
+		var btn = document.getElementById('theme-toggle');
+		if (!btn) return;
 
-  function getTheme() {
-    var stored = localStorage.getItem('theme');
-    if (stored) return stored;
-    return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-  }
+		function getTheme() {
+			var stored = localStorage.getItem('theme');
+			if (stored) return stored;
+			return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+		}
 
-  function applyTheme(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('theme', theme);
-  }
+		function applyTheme(theme) {
+			document.documentElement.setAttribute('data-theme', theme);
+			localStorage.setItem('theme', theme);
+		}
 
-  applyTheme(getTheme());
+		applyTheme(getTheme());
 
-  btn.addEventListener('click', function () {
-    var current = document.documentElement.getAttribute('data-theme') || getTheme();
-    applyTheme(current === 'dark' ? 'light' : 'dark');
-  });
-})();
+		btn.addEventListener('click', function () {
+			var current = document.documentElement.getAttribute('data-theme') || getTheme();
+			applyTheme(current === 'dark' ? 'light' : 'dark');
+		});
+	})();
 </script>
 <script>
-(function () {
-  var BACKEND = 'https://backend.freedoms4.org/auth.php';
-  var username = localStorage.getItem('f4_username');
-  if (!username) return;
+	(function () {
+		var BACKEND = 'https://backend.freedoms4.org/auth.php';
+		var username = localStorage.getItem('f4_username');
+		if (!username) return;
 
-  function applyLoggedIn(uname) {
-    // ── Desktop ──────────────────────────────────────────────────────────
-    var authDesktop = document.querySelector('.brand__auth--desktop');
-    if (authDesktop) {
-      authDesktop.classList.add('brand__auth--loggedin');
+		function applyLoggedIn(uname) {
+			// ── Desktop ──────────────────────────────────────────────────────────
+			var authDesktop = document.querySelector('.brand__auth--desktop');
+			if (authDesktop) {
+				authDesktop.classList.add('brand__auth--loggedin');
 
-      // Build user button + dropdown
-      var userWrap = document.createElement('div');
-      userWrap.className = 'brand__auth-user';
+				// Build user button + dropdown
+				var userWrap = document.createElement('div');
+				userWrap.className = 'brand__auth-user';
 
-      var userBtn = document.createElement('button');
-      userBtn.className = 'brand__auth-user-btn';
-      userBtn.setAttribute('aria-label', 'Account menu');
+				var userBtn = document.createElement('button');
+				userBtn.className = 'brand__auth-user-btn';
+				userBtn.setAttribute('aria-label', 'Account menu');
 
-      var iconSvg = document.createElement('span');
-      iconSvg.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>';
-      userBtn.appendChild(iconSvg.firstChild);
-      userBtn.appendChild(document.createTextNode('\u00a0' + uname));
+				var iconSvg = document.createElement('span');
+				iconSvg.innerHTML =
+					'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>';
+				userBtn.appendChild(iconSvg.firstChild);
+				userBtn.appendChild(document.createTextNode('\u00a0' + uname));
 
-      var dropdown = document.createElement('div');
-      dropdown.className = 'brand__auth-user-dropdown';
+				var dropdown = document.createElement('div');
+				dropdown.className = 'brand__auth-user-dropdown';
 
-      var logoutBtn = document.createElement('button');
-      logoutBtn.className = 'brand__auth-user-logout';
-      logoutBtn.textContent = 'Log Out';
-      logoutBtn.addEventListener('click', doLogout);
+				var logoutBtn = document.createElement('button');
+				logoutBtn.className = 'brand__auth-user-logout';
+				logoutBtn.textContent = 'Log Out';
+				logoutBtn.addEventListener('click', doLogout);
 
-      dropdown.appendChild(logoutBtn);
-      userWrap.appendChild(userBtn);
-      userWrap.appendChild(dropdown);
-      authDesktop.appendChild(userWrap);
+				dropdown.appendChild(logoutBtn);
+				userWrap.appendChild(userBtn);
+				userWrap.appendChild(dropdown);
+				authDesktop.appendChild(userWrap);
 
-      // Toggle dropdown on button click
-      userBtn.addEventListener('click', function (e) {
-        e.stopPropagation();
-        userWrap.classList.toggle('is-open');
-      });
-      document.addEventListener('click', function () {
-        userWrap.classList.remove('is-open');
-      });
-    }
+				// Toggle dropdown on button click
+				userBtn.addEventListener('click', function (e) {
+					e.stopPropagation();
+					userWrap.classList.toggle('is-open');
+				});
+				document.addEventListener('click', function () {
+					userWrap.classList.remove('is-open');
+				});
+			}
 
-    // ── Mobile ────────────────────────────────────────────────────────────
-    var mobileLinks = document.querySelector('.brand__mobile-links');
-    if (mobileLinks) {
-      // Remove Login / Sign Up links
-      mobileLinks.querySelectorAll('a.mobile-link').forEach(function (a) {
-        if (a.href.indexOf('/login/') !== -1 || a.href.indexOf('/signup/') !== -1) {
-          a.remove();
-        }
-      });
-      // Add logout link
-      var mLogout = document.createElement('button');
-      mLogout.className = 'mobile-link mobile-link--logout';
-      mLogout.textContent = 'Log Out (' + uname + ')';
-      mLogout.style.cssText = 'background:none;border:none;cursor:pointer;font-family:inherit;font-size:inherit;padding:0;text-align:left;width:100%;';
-      mLogout.addEventListener('click', doLogout);
-      mobileLinks.insertBefore(mLogout, mobileLinks.firstChild);
-    }
-  }
+			// ── Mobile ────────────────────────────────────────────────────────────
+			var mobileLinks = document.querySelector('.brand__mobile-links');
+			if (mobileLinks) {
+				// Remove Login / Sign Up links
+				mobileLinks.querySelectorAll('a.mobile-link').forEach(function (a) {
+					if (a.href.indexOf('/login/') !== -1 || a.href.indexOf('/signup/') !== -1) {
+						a.remove();
+					}
+				});
+				// Add logout link
+				var mLogout = document.createElement('button');
+				mLogout.className = 'mobile-link mobile-link--logout';
+				mLogout.textContent = 'Log Out (' + uname + ')';
+				mLogout.style.cssText =
+					'background:none;border:none;cursor:pointer;font-family:inherit;font-size:inherit;padding:0;text-align:left;width:100%;';
+				mLogout.addEventListener('click', doLogout);
+				mobileLinks.insertBefore(mLogout, mobileLinks.firstChild);
+			}
+		}
 
-  function doLogout() {
-    fetch(BACKEND, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      credentials: 'include',
-      body: JSON.stringify({ action: 'logout' })
-    }).finally(function () {
-      localStorage.removeItem('f4_username');
-      window.location.href = '/';
-    });
-  }
+		function doLogout() {
+			fetch(BACKEND, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				credentials: 'include',
+				body: JSON.stringify({ action: 'logout' }),
+			}).finally(function () {
+				localStorage.removeItem('f4_username');
+				window.location.href = '/';
+			});
+		}
 
-  applyLoggedIn(username);
-})();
+		applyLoggedIn(username);
+	})();
 </script>
 <script>
-(function () {
-  var check = document.getElementById('mobile-menu-check');
-  if (!check) return;
-  document.addEventListener('click', function (e) {
-    if (!check.checked) return;
-    var menu = check.closest('.brand__mobile-menu');
-    if (menu && !menu.contains(e.target)) check.checked = false;
-  });
-})();
+	(function () {
+		var check = document.getElementById('mobile-menu-check');
+		if (!check) return;
+		document.addEventListener('click', function (e) {
+			if (!check.checked) return;
+			var menu = check.closest('.brand__mobile-menu');
+			if (menu && !menu.contains(e.target)) check.checked = false;
+		});
+	})();
 </script>

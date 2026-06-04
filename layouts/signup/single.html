@@ -1,168 +1,214 @@
 {{ define "main" }}
 <div class="auth-page">
-  <h1 class="auth-page__title">{{ .Title }}</h1>
+	<h1 class="auth-page__title">{{ .Title }}</h1>
 
-  <div class="auth-card">
-    <div id="auth-message" class="auth-message" aria-live="polite" style="display:none"></div>
+	<div class="auth-card">
+		<div id="auth-message" class="auth-message" aria-live="polite" style="display: none"></div>
 
-    <form id="signup-form" class="auth-form" novalidate>
-      <div class="auth-form__group">
-        <label class="auth-form__label" for="signup-username">Username</label>
-        <input
-          class="auth-form__input"
-          type="text"
-          id="signup-username"
-          name="username"
-          autocomplete="username"
-          required
-          placeholder="choose_a_username"
-          minlength="3"
-          maxlength="32"
-          pattern="[a-zA-Z0-9_\-]+"
-        />
-        <span class="auth-form__hint">3–32 characters; letters, numbers, _ and - only.</span>
-      </div>
+		<form id="signup-form" class="auth-form" novalidate>
+			<div class="auth-form__input-wrap">
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-username">Username</label>
+					<input
+						class="auth-form__input"
+						type="text"
+						id="signup-username"
+						name="username"
+						autocomplete="username"
+						required
+						minlength="3"
+						maxlength="32"
+						pattern="[a-zA-Z0-9_\-]+"
+					/>
+					<span class="auth-form__hint"
+						>(3-32 characters; letters, numbers, _ and - only)</span
+					>
+				</div>
 
-      <div class="auth-form__group">
-        <label class="auth-form__label" for="signup-email">Email</label>
-        <input
-          class="auth-form__input"
-          type="email"
-          id="signup-email"
-          name="email"
-          autocomplete="email"
-          required
-          placeholder="you@example.com"
-        />
-      </div>
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-email">Email</label>
+					<input
+						class="auth-form__input"
+						type="email"
+						id="signup-email"
+						name="email"
+						autocomplete="email"
+						required
+					/>
+				</div>
 
-      <div class="auth-form__group">
-        <label class="auth-form__label" for="signup-password">Password</label>
-        <div class="auth-form__input-wrap">
-          <input
-            class="auth-form__input"
-            type="password"
-            id="signup-password"
-            name="password"
-            autocomplete="new-password"
-            required
-            placeholder="••••••••"
-            minlength="8"
-          />
-          <button type="button" class="auth-form__eye" aria-label="Toggle password visibility" tabindex="-1">
-            <svg class="eye-show" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
-            <svg class="eye-hide" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="display:none"><path d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"/></svg>
-          </button>
-        </div>
-        <span class="auth-form__hint">At least 8 characters.</span>
-      </div>
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-password">Password</label>
+					<input
+						class="auth-form__input"
+						type="password"
+						id="signup-password"
+						name="password"
+						autocomplete="new-password"
+						required
+						minlength="8"
+					/>
+					<button
+						type="button"
+						class="auth-form__eye"
+						aria-label="Toggle password visibility"
+						tabindex="-1"
+					>
+						<svg
+							class="eye-show"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							width="16"
+							height="16"
+							fill="currentColor"
+						>
+							<path
+								d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+							/>
+						</svg>
+						<svg
+							class="eye-hide"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							width="16"
+							height="16"
+							fill="currentColor"
+							style="display: none"
+						>
+							<path
+								d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"
+							/>
+						</svg>
+					</button>
+					<span class="auth-form__hint">(at least 8 characters)</span>
+				</div>
 
-      <div class="auth-form__group">
-        <label class="auth-form__label" for="signup-confirm">Confirm Password</label>
-        <div class="auth-form__input-wrap">
-          <input
-            class="auth-form__input"
-            type="password"
-            id="signup-confirm"
-            name="confirm_password"
-            autocomplete="new-password"
-            required
-            placeholder="••••••••"
-          />
-        </div>
-      </div>
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-confirm">Confirm Password</label>
+					<input
+						class="auth-form__input"
+						type="password"
+						id="signup-confirm"
+						name="confirm_password"
+						autocomplete="new-password"
+						required
+					/>
+				</div>
+			</div>
+			<button type="submit" class="auth-form__submit" id="signup-submit">
+				<span class="auth-form__submit-text">Create Account</span>
+				<span class="auth-form__submit-loader" style="display: none">
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 24 24"
+						width="16"
+						height="16"
+						fill="currentColor"
+						class="spin"
+					>
+						<path
+							d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"
+						/>
+					</svg>
+				</span>
+			</button>
+		</form>
 
-      <button type="submit" class="auth-form__submit" id="signup-submit">
-        <span class="auth-form__submit-text">Create Account</span>
-        <span class="auth-form__submit-loader" style="display:none">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" class="spin"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"/></svg>
-        </span>
-      </button>
-    </form>
-
-    <p class="auth-card__footer">
-      Already have an account? <a href="/login/" class="auth-card__link">Log in</a>
-    </p>
-  </div>
+		<p class="auth-card__footer">
+			Already have an account? <a href="/login/" class="auth-card__link">Log in</a>
+		</p>
+	</div>
 </div>
 
 <script>
-(function () {
-  var BACKEND = 'https://backend.freedoms4.org/auth.php';
+	(function () {
+		var BACKEND = 'https://backend.freedoms4.org/auth.php';
 
-  var form      = document.getElementById('signup-form');
-  var msgBox    = document.getElementById('auth-message');
-  var submitBtn = document.getElementById('signup-submit');
-  var pwdInput  = document.getElementById('signup-password');
-  var eyeBtn    = form.querySelector('.auth-form__eye');
+		var form = document.getElementById('signup-form');
+		var msgBox = document.getElementById('auth-message');
+		var submitBtn = document.getElementById('signup-submit');
+		var pwdInput = document.getElementById('signup-password');
+		var eyeBtn = form.querySelector('.auth-form__eye');
 
-  eyeBtn.addEventListener('click', function () {
-    var isText = pwdInput.type === 'text';
-    pwdInput.type = isText ? 'password' : 'text';
-    eyeBtn.querySelector('.eye-show').style.display = isText ? '' : 'none';
-    eyeBtn.querySelector('.eye-hide').style.display = isText ? 'none' : '';
-  });
+		eyeBtn.addEventListener('click', function () {
+			var isText = pwdInput.type === 'text';
+			pwdInput.type = isText ? 'password' : 'text';
+			eyeBtn.querySelector('.eye-show').style.display = isText ? '' : 'none';
+			eyeBtn.querySelector('.eye-hide').style.display = isText ? 'none' : '';
+		});
 
-  function showMsg(text, type) {
-    msgBox.textContent = text;
-    msgBox.className = 'auth-message auth-message--' + type;
-    msgBox.style.display = 'block';
-  }
+		function showMsg(text, type) {
+			msgBox.textContent = text;
+			msgBox.className = 'auth-message auth-message--' + type;
+			msgBox.style.display = 'block';
+		}
 
-  form.addEventListener('submit', function (e) {
-    e.preventDefault();
-    msgBox.style.display = 'none';
+		form.addEventListener('submit', function (e) {
+			e.preventDefault();
+			msgBox.style.display = 'none';
 
-    var username = document.getElementById('signup-username').value.trim();
-    var email    = document.getElementById('signup-email').value.trim();
-    var password = pwdInput.value;
-    var confirm  = document.getElementById('signup-confirm').value;
+			var username = document.getElementById('signup-username').value.trim();
+			var email = document.getElementById('signup-email').value.trim();
+			var password = pwdInput.value;
+			var confirm = document.getElementById('signup-confirm').value;
 
-    if (!username || !email || !password || !confirm) {
-      showMsg('Please fill in all fields.', 'error');
-      return;
-    }
-    if (!/^[a-zA-Z0-9_\-]{3,32}$/.test(username)) {
-      showMsg('Username must be 3\u201332 characters: letters, numbers, _ or -.', 'error');
-      return;
-    }
-    if (password.length < 8) {
-      showMsg('Password must be at least 8 characters.', 'error');
-      return;
-    }
-    if (password !== confirm) {
-      showMsg('Passwords do not match.', 'error');
-      return;
-    }
+			if (!username || !email || !password || !confirm) {
+				showMsg('Please fill in all fields.', 'error');
+				return;
+			}
+			if (!/^[a-zA-Z0-9_\-]{3,32}$/.test(username)) {
+				showMsg(
+					'Username must be 3\u201332 characters: letters, numbers, _ or -.',
+					'error'
+				);
+				return;
+			}
+			if (password.length < 8) {
+				showMsg('Password must be at least 8 characters.', 'error');
+				return;
+			}
+			if (password !== confirm) {
+				showMsg('Passwords do not match.', 'error');
+				return;
+			}
 
-    submitBtn.disabled = true;
-    submitBtn.querySelector('.auth-form__submit-text').style.display = 'none';
-    submitBtn.querySelector('.auth-form__submit-loader').style.display = 'inline-flex';
+			submitBtn.disabled = true;
+			submitBtn.querySelector('.auth-form__submit-text').style.display = 'none';
+			submitBtn.querySelector('.auth-form__submit-loader').style.display = 'inline-flex';
 
-    fetch(BACKEND, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      credentials: 'include',
-      body: JSON.stringify({ action: 'signup', username: username, email: email, password: password })
-    })
-      .then(function (r) { return r.json(); })
-      .then(function (data) {
-        if (data.success) {
-          showMsg('Account created! Redirecting to login\u2026', 'success');
-          setTimeout(function () { window.location.href = '/login/'; }, 1500);
-        } else {
-          showMsg(data.message || 'Sign-up failed. Please try again.', 'error');
-        }
-      })
-      .catch(function () {
-        showMsg('Network error. Please try again.', 'error');
-      })
-      .finally(function () {
-        submitBtn.disabled = false;
-        submitBtn.querySelector('.auth-form__submit-text').style.display = '';
-        submitBtn.querySelector('.auth-form__submit-loader').style.display = 'none';
-      });
-  });
-})();
+			fetch(BACKEND, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				credentials: 'include',
+				body: JSON.stringify({
+					action: 'signup',
+					username: username,
+					email: email,
+					password: password,
+				}),
+			})
+				.then(function (r) {
+					return r.json();
+				})
+				.then(function (data) {
+					if (data.success) {
+						showMsg('Account created! Redirecting to login\u2026', 'success');
+						setTimeout(function () {
+							window.location.href = '/login/';
+						}, 1500);
+					} else {
+						showMsg(data.message || 'Sign-up failed. Please try again.', 'error');
+					}
+				})
+				.catch(function () {
+					showMsg('Network error. Please try again.', 'error');
+				})
+				.finally(function () {
+					submitBtn.disabled = false;
+					submitBtn.querySelector('.auth-form__submit-text').style.display = '';
+					submitBtn.querySelector('.auth-form__submit-loader').style.display = 'none';
+				});
+		});
+	})();
 </script>
 {{ end }}
