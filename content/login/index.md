@@ -1,5 +1,5 @@
 ---
-title: "Coming soon!"
+title: "Login"
 description: "Login to Freedoms4."
 ---
 
