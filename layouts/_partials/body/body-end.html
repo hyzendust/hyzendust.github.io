@@ -81,25 +81,6 @@
 					userWrap.classList.remove('is-open');
 				});
 			}
-
-			// ── Mobile ────────────────────────────────────────────────────────────
-			var mobileLinks = document.querySelector('.brand__mobile-links');
-			if (mobileLinks) {
-				// Remove Login / Sign Up links
-				mobileLinks.querySelectorAll('a.mobile-link').forEach(function (a) {
-					if (a.href.indexOf('/login/') !== -1 || a.href.indexOf('/signup/') !== -1) {
-						a.remove();
-					}
-				});
-				// Add logout link
-				var mLogout = document.createElement('button');
-				mLogout.className = 'mobile-link mobile-link--logout';
-				mLogout.textContent = 'Log Out (' + uname + ')';
-				mLogout.style.cssText =
-					'background:none;border:none;cursor:pointer;font-family:inherit;font-size:inherit;padding:0;text-align:left;width:100%;';
-				mLogout.addEventListener('click', doLogout);
-				mobileLinks.insertBefore(mLogout, mobileLinks.firstChild);
-			}
 		}
 
 		function doLogout() {

@@ -99,6 +99,7 @@
 	color: var(--accent-color);
 }
 
+.breadcrumbs {
 	font-size: 0.9rem;
 	margin-bottom: 1rem;
 	font-weight: bold;
@@ -151,73 +152,7 @@
 	position: relative;
 }
 
-/* RSS Subscribe button */
-.rss-subscribe__link {
-	display: inline-flex;
-	align-items: center;
-	gap: 0.2rem;
-	padding: 0.2rem 0.4rem;
-	border-radius: 3px;
-	border: 1px solid #ff3d3d;
-	background-color: transparent;
-	color: #ff3d3d !important;
-	font-size: 0.7rem;
-	font-weight: 340;
-	text-decoration: none !important;
-	line-height: 1.4;
-	transition:
-		background-color 0.2s ease,
-		border-color 0.2s ease,
-		color 0.2s ease;
-}
 
-@media (prefers-color-scheme: dark) {
-	.rss-subscribe__link {
-		background-color: var(--foreground-color);
-		border-color: currentColor;
-		color: var(--background-color) !important;
-	}
-	.rss-subscribe__link:hover,
-	.rss-subscribe__link:focus {
-		background-color: transparent;
-		border-color: var(--foreground-color);
-		color: var(--foreground-color) !important;
-	}
-}
-[data-theme='dark'] .rss-subscribe__link {
-	background-color: var(--foreground-color);
-	border-color: currentColor;
-	color: var(--background-color) !important;
-}
-[data-theme='dark'] .rss-subscribe__link:hover,
-[data-theme='dark'] .rss-subscribe__link:focus {
-	background-color: transparent;
-	border-color: var(--foreground-color);
-	color: var(--foreground-color) !important;
-}
-[data-theme='light'] .rss-subscribe__link {
-	background-color: transparent;
-	border-color: #ff3d3d;
-	color: #ff3d3d !important;
-}
-[data-theme='light'] .rss-subscribe__link:hover,
-[data-theme='light'] .rss-subscribe__link:focus {
-	background-color: transparent;
-	border-color: #89808092;
-	color: #000000bc !important;
-}
-
-.rss-subscribe__link:hover,
-.rss-subscribe__link:focus {
-	background-color: transparent;
-	border-color: #89808092;
-	color: #000000bc !important;
-}
-
-.rss-subscribe__link svg {
-	width: 10px;
-	height: 10px;
-}
 
 /* Auth links base */
 .auth-link {
@@ -332,16 +267,9 @@
 
 /* Mobile */
 @media (max-width: 600px) {
-	.brand__actions {
-		gap: 0.16rem;
-	}
-
-	.brand__auth-text {
-		display: none;
-	}
-
 	/* Profile button: sit above the subscribe button, right-aligned to it */
 	.brand__actions {
+		gap: 0.16rem;
 		position: relative;
 	}
 
