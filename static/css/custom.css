@@ -1,88 +1,88 @@
 /* ── UniNotes menu item: hidden by default, shown by JS for hyzen only ───── */
 .menu__item--uninotes {
-  display: none;
+	display: none;
 }
 .hyzen-user .menu__item--uninotes {
-  display: list-item;
+	display: list-item;
 }
 /* ── TOC: gap between TOC and first content line ────────────────────────── */
 .toc {
-  margin-bottom: 1.73rem;
+	margin-bottom: 1.73rem;
 }
 
 /* ── TOC: hide phantom empty bullet when post starts with ### (h3) ──────── */
 /* Hugo wraps orphaned h3s in a li>ul, leaving an empty li with no direct
    anchor. This hides it without affecting any meaningful TOC entry.         */
 #TableOfContents > ul > li:first-child:not(:has(> a)) {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 /* ── UniNotes ───────────────────────────────────────────────────────────── */
 
 .uninotes-breadcrumbs {
-  font-size: 0.85rem;
-  margin-bottom: 1.4rem;
-  color: var(--foreground-color3, #888);
+	font-size: 0.85rem;
+	margin-bottom: 1.4rem;
+	color: var(--foreground-color3, #888);
 }
 
 .uninotes-breadcrumbs a {
-  color: var(--accent-color);
-  text-decoration: none;
+	color: var(--accent-color);
+	text-decoration: none;
 }
 
 .uninotes-breadcrumbs a:hover {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 
 .uninotes-list {
-  list-style: none;
-  padding: 0;
-  margin: 1.5rem 0 0 0;
+	list-style: none;
+	padding: 0;
+	margin: 1.5rem 0 0 0;
 }
 
 .uninotes-list__item {
-  margin-bottom: 0.6rem;
-  border-left: 3px solid var(--accent-color);
-  padding-left: 0.75rem;
+	margin-bottom: 0.6rem;
+	border-left: 3px solid var(--accent-color);
+	padding-left: 0.75rem;
 }
 
 .uninotes-list__link {
-  color: var(--foreground-color);
-  text-decoration: none;
-  font-size: 1rem;
+	color: var(--foreground-color);
+	text-decoration: none;
+	font-size: 1rem;
 }
 
 .uninotes-list__link:hover {
-  color: var(--accent-color);
-  text-decoration: underline;
+	color: var(--accent-color);
+	text-decoration: underline;
 }
 
 .uninotes-list--subjects .uninotes-list__item {
-  border-left-color: var(--accent-color);
+	border-left-color: var(--accent-color);
 }
 
 .uninotes-list--units .uninotes-list__item {
-  border-left-color: var(--foreground-color3, #888);
+	border-left-color: var(--foreground-color3, #888);
 }
 
 .uninotes-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-bottom: 0.75rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.4rem;
+	margin-bottom: 0.75rem;
 }
 
 .uninotes-meta__pill {
-  display: inline-block;
-  font-size: 0.72rem;
-  padding: 0.15rem 0.55rem;
-  border-radius: 999px;
-  border: 1px solid var(--accent-color);
-  color: var(--accent-color);
-  font-weight: 500;
-  letter-spacing: 0.02em;
+	display: inline-block;
+	font-size: 0.72rem;
+	padding: 0.15rem 0.55rem;
+	border-radius: 999px;
+	border: 1px solid var(--accent-color);
+	color: var(--accent-color);
+	font-weight: 500;
+	letter-spacing: 0.02em;
 }
 
 /* ── Menu links ─────────────────────────────────────────────────────────── */
@@ -136,8 +136,6 @@
 	gap: 0.3rem;
 	position: relative;
 }
-
-
 
 /* Auth links base */
 .auth-link {
@@ -262,7 +260,7 @@
 		position: absolute;
 		bottom: 100%;
 		right: 0;
-		margin-bottom: -0.297rem;
+		margin-bottom: -0.2rem;
 	}
 
 	.brand__auth-toggle,
@@ -277,10 +275,7 @@
 		padding: 0 0.4rem;
 		height: 1.75rem !important;
 	}
-
 }
-
-
 
 /* ── Subscribe dropdown ── */
 .rss-subscribe {
@@ -303,7 +298,10 @@
 	font-family: inherit;
 	line-height: 1.4;
 	cursor: pointer;
-	transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+	transition:
+		background-color 0.2s ease,
+		border-color 0.2s ease,
+		color 0.2s ease;
 }
 
 .rss-subscribe__btn svg {
@@ -570,220 +568,223 @@
 /* ── UniNotes Contents Panel ─────────────────────────────────────────────── */
 
 .uninotes-contents-heading {
-  margin-bottom: -15.5px;
+	margin-bottom: -15.5px;
 }
 
 .uninotes-contents {
-  margin: 1.25rem 0 2rem 0;
-  border-left: 3px solid var(--accent-color);
-  padding-left: 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
+	margin: 1.25rem 0 2rem 0;
+	border-left: 3px solid var(--accent-color);
+	padding-left: 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
 }
 
 .uninotes-contents__semester {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 .uninotes-contents__sem-link {
-  text-transform: uppercase;
-  color: var(--foreground-color);
-  text-decoration: none;
-  font-size: 2rem;
-  font-weight: 620;
+	text-transform: uppercase;
+	color: var(--foreground-color);
+	text-decoration: none;
+	font-size: 2rem;
+	font-weight: 620;
 }
 
 .uninotes-contents__sem-link:hover {
-  color: var(--accent-color);
-  text-decoration: underline;
+	color: var(--accent-color);
+	text-decoration: underline;
 }
 
 .uninotes-contents__subject {
-  display: flex;
-  flex-direction: column;
-  gap: 0.1rem;
-  padding-top: 0.3rem;
-  padding-left: 1.21rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.1rem;
+	padding-top: 0.3rem;
+	padding-left: 1.21rem;
 }
 
 .uninotes-contents__subject-link {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--foreground-color);
-  text-decoration: none;
-  letter-spacing: 0.04rem;
+	font-size: 0.95rem;
+	font-weight: 600;
+	color: var(--foreground-color);
+	text-decoration: none;
+	letter-spacing: 0.04rem;
 }
 
 .uninotes-contents__subject-link:hover {
-  color: var(--accent-color);
-  text-decoration: underline;
+	color: var(--accent-color);
+	text-decoration: underline;
 }
 
 .uninotes-contents__units {
-  list-style: none;
-  padding: 0.6px;
-  margin: 0.15rem 0 0.3rem 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.1rem;
+	list-style: none;
+	padding: 0.6px;
+	margin: 0.15rem 0 0.3rem 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.1rem;
 }
 
 .uninotes-contents__unit {
-  display: flex;
-  align-items: center;
-  gap: 0.7rem;
-  flex-wrap: wrap;
+	display: flex;
+	align-items: center;
+	gap: 0.7rem;
+	flex-wrap: wrap;
 }
 
 .uninotes-contents__unit-link {
-  font-size: 0.94rem;
-  color: var(--foreground-color);
-  text-decoration: none;
+	font-size: 0.94rem;
+	color: var(--foreground-color);
+	text-decoration: none;
 }
 
 .uninotes-contents__unit-link:hover {
-  color: var(--accent-color);
-  text-decoration: underline;
+	color: var(--accent-color);
+	text-decoration: underline;
 }
 
 .uninotes-contents__unit-cats {
-  display: flex;
-  gap: 0.04rem;
+	display: flex;
+	gap: 0.04rem;
 }
 
 .uninotes-contents__cat {
-  font-size: 0.65rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  padding: 0.1rem 0.45rem;
-  border-radius: 999px;
-  border: 1px solid currentColor;
-  text-decoration: none;
-  text-transform: uppercase;
+	font-size: 0.65rem;
+	font-weight: 600;
+	letter-spacing: 0.04em;
+	padding: 0.1rem 0.45rem;
+	border-radius: 999px;
+	border: 1px solid currentColor;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 
 .uninotes-contents__cat--self {
-  color: var(--accent-color);
+	color: var(--accent-color);
 }
 
 .uninotes-contents__cat--self:hover {
-  background: var(--accent-color);
-  color: var(--background-color, #fff);
+	background: var(--accent-color);
+	color: var(--background-color, #fff);
 }
 
 .uninotes-contents__cat--live {
-  color: var(--accent-color);
+	color: var(--accent-color);
 }
 
 .uninotes-contents__cat--live:hover {
-  background: var(--accent-color);
-  color: var(--background-color, #fff);
+	background: var(--accent-color);
+	color: var(--background-color, #fff);
 }
 
 .uninotes-contents__cat--na {
-  color: var(--foreground-color3, #888);
-  opacity: 0.45;
-  cursor: not-allowed;
+	color: var(--foreground-color3, #888);
+	opacity: 0.45;
+	cursor: not-allowed;
 }
 
 /* ── Unit Choice Page (Self / Live) ─────────────────────────────────────── */
 
 .unit-choice__subtitle {
-  color: var(--foreground-color3, #888);
-  margin-bottom: 1.5rem;
-  font-size: 0.95rem;
+	color: var(--foreground-color3, #888);
+	margin-bottom: 1.5rem;
+	font-size: 0.95rem;
 }
 
 .unit-choice__options {
-  display: flex;
-  gap: 1.2rem;
-  flex-wrap: wrap;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+	display: flex;
+	gap: 1.2rem;
+	flex-wrap: wrap;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
 }
 
 @media (max-width: 600px) {
-  .unit-choice__options {
-    flex-direction: column;
-    align-items: center;
-  }
-  .unit-choice__card {
-    width: 100%;
-    max-width: 260px;
-    flex: none;
-  }
+	.unit-choice__options {
+		flex-direction: column;
+		align-items: center;
+	}
+	.unit-choice__card {
+		width: 100%;
+		max-width: 260px;
+		flex: none;
+	}
 }
 
 .unit-choice__card {
-  flex: 1;
-  min-width: 180px;
-  max-width: 260px;
-  border: 2px solid var(--accent-color);
-  border-radius: 12px;
-  padding: 1.75rem 1.5rem;
-  text-decoration: none;
-  color: var(--foreground-color);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.6rem;
-  transition: background 0.18s ease, color 0.18s ease, transform 0.15s ease;
-  text-align: center;
-  cursor: pointer;
+	flex: 1;
+	min-width: 180px;
+	max-width: 260px;
+	border: 2px solid var(--accent-color);
+	border-radius: 12px;
+	padding: 1.75rem 1.5rem;
+	text-decoration: none;
+	color: var(--foreground-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.6rem;
+	transition:
+		background 0.18s ease,
+		color 0.18s ease,
+		transform 0.15s ease;
+	text-align: center;
+	cursor: pointer;
 }
 
 .unit-choice__card:hover {
-  background: var(--accent-color);
-  color: var(--background-color, #fff);
-  transform: translateY(-2px);
-  text-decoration: none;
+	background: var(--accent-color);
+	color: var(--background-color, #fff);
+	transform: translateY(-2px);
+	text-decoration: none;
 }
 
 /* .unit-choice__card--live intentionally matches .unit-choice__card — no overrides */
 
 .unit-choice__icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 0.3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 0.3rem;
 }
 
 .unit-choice__label {
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: 0.01em;
+	font-size: 1.25rem;
+	font-weight: 700;
+	letter-spacing: 0.01em;
 }
 
 .unit-choice__desc {
-  font-size: 0.8rem;
-  opacity: 0.72;
-  line-height: 1.45;
+	font-size: 0.8rem;
+	opacity: 0.72;
+	line-height: 1.45;
 }
 
 /* notecategory pill colour */
 .uninotes-meta__pill--self {
-  border-color: var(--accent-color);
-  color: var(--accent-color);
+	border-color: var(--accent-color);
+	color: var(--accent-color);
 }
 
 .uninotes-meta__pill--live {
-  border-color: var(--accent-color);
-  color: var(--accent-color);
+	border-color: var(--accent-color);
+	color: var(--accent-color);
 }
 
 .unit-choice__card--unavailable {
-  border-color: var(--foreground-color3, #888);
-  color: var(--foreground-color3, #888);
-  cursor: not-allowed;
-  opacity: 0.45;
+	border-color: var(--foreground-color3, #888);
+	color: var(--foreground-color3, #888);
+	cursor: not-allowed;
+	opacity: 0.45;
 }
 
 .unit-choice__card--unavailable:hover {
-  background: transparent;
-  color: var(--foreground-color3, #888);
-  transform: none;
+	background: transparent;
+	color: var(--foreground-color3, #888);
+	transform: none;
 }
 
 /* ── Logged-in user button in header ───────────────────────────────────────── */
@@ -792,79 +793,77 @@
 .brand__auth--loggedin .brand__auth-check,
 .brand__auth--loggedin .brand__auth-toggle,
 .brand__auth--loggedin .brand__auth-links {
-  display: none !important;
+	display: none !important;
 }
 
 .brand__auth-user {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
+	position: relative;
+	display: inline-flex;
+	align-items: center;
 }
 
 /* Extra properties needed only because the user-btn contains text */
 .brand__auth-user-btn {
-  white-space: nowrap;
-  max-width: 140px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 140px;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .brand__auth-user-dropdown {
-  display: none;
-  position: absolute;
-  top: calc(100% + 0.4rem);
-  right: 0;
-  background: var(--background-color);
-  border: 1px solid var(--background-color1);
-  border-radius: 6px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
-  min-width: 110px;
-  z-index: 100;
-  overflow: hidden;
+	display: none;
+	position: absolute;
+	top: calc(100% + 0.4rem);
+	right: 0;
+	background: var(--background-color);
+	border: 1px solid var(--background-color1);
+	border-radius: 6px;
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+	min-width: 110px;
+	z-index: 100;
+	overflow: hidden;
 }
 
 .brand__auth-user.is-open .brand__auth-user-dropdown {
-  display: block;
+	display: block;
 }
 
 .brand__auth-user-logout {
-  display: block;
-  width: 100%;
-  padding: 0.55rem 1rem;
-  background: none;
-  border: none;
-  cursor: pointer;
-  text-align: center;
-  font-size: 0.78rem;
-  font-family: inherit;
-  color: var(--foreground-color);
-  transition: background 0.12s;
+	display: block;
+	width: 100%;
+	padding: 0.55rem 1rem;
+	background: none;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+	font-size: 0.78rem;
+	font-family: inherit;
+	color: var(--foreground-color);
+	transition: background 0.12s;
 }
 
 .brand__auth-user-logout:hover {
-  background: var(--background-color1);
-  color: var(--foreground-color);
+	background: var(--background-color1);
+	color: var(--foreground-color);
 }
-
-
 
 /* Reset native button styles + force subscribe-button dimensions on logged-in user button */
 .brand__auth-user-btn {
-  -webkit-appearance: none !important;
-  appearance: none !important;
-  margin: 0 !important;
-  min-height: 0 !important;
-  height: auto !important;
-  vertical-align: middle;
-  padding: 0.2rem 0.65rem !important;
-  border-radius: 3px !important;
-  font-size: 0.7rem !important;
-  line-height: 1.4 !important;
-  display: inline-flex !important;
-  align-items: center !important;
-  gap: 0.25rem !important;
+	-webkit-appearance: none !important;
+	appearance: none !important;
+	margin: 0 !important;
+	min-height: 0 !important;
+	height: auto !important;
+	vertical-align: middle;
+	padding: 0.2rem 0.65rem !important;
+	border-radius: 3px !important;
+	font-size: 0.7rem !important;
+	line-height: 1.4 !important;
+	display: inline-flex !important;
+	align-items: center !important;
+	gap: 0.25rem !important;
 }
 
 .brand__auth-user-btn svg {
-  flex: 0 0 auto;
+	flex: 0 0 auto;
 }
