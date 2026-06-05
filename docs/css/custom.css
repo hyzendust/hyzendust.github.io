@@ -336,224 +336,116 @@
 		gap: 0.16rem;
 	}
 
-	/* Hide desktop-only elements on mobile */
-	.brand__auth--desktop,
-	.rss-subscribe__link--desktop {
-		display: none !important;
-	}
-
 	.brand__auth-text {
 		display: none;
 	}
-}
 
-/* Hide mobile menu on desktop, show on mobile */
-.brand__mobile-menu {
-	display: none;
-	position: relative;
-}
+	/* Profile button: sit above the subscribe button, right-aligned to it */
+	.brand__actions {
+		position: relative;
+	}
 
-@media (max-width: 600px) {
-	.brand__mobile-menu {
-		display: block;
+	.brand__auth {
+		position: absolute;
+		bottom: 100%;
+		right: 0;
+		margin-bottom: -0.297rem;
+	}
+
+	.brand__auth-toggle,
+	.brand__auth-user-btn {
+		width: 1.75rem;
+		height: 1.75rem;
+		padding: 0;
+	}
+
+	.brand__auth--loggedin .brand__auth-user-btn {
+		width: auto;
+		padding: 0 0.4rem;
+		height: 1.75rem !important;
+	}
+
+	/* Subscribe button on mobile: same size/shape as old hamburger */
+	.rss-subscribe__link {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 1.75rem;
+		height: 1.75rem;
+		padding: 0;
+		box-sizing: border-box;
+		border-radius: 3px;
+		border: 1px solid #ff3d3d;
+		background-color: transparent;
+		color: #ff3d3d !important;
+	}
+
+	/* Hide the "Subscribe" text label on mobile */
+	.rss-subscribe__link span {
+		display: none;
+	}
+
+	/* Make the RSS icon a bit larger to fill the button */
+	.rss-subscribe__link svg {
+		width: 14px;
+		height: 14px;
 	}
 }
 
-/* Mobile menu checkbox */
-.brand__mobile-check {
-	display: none;
-}
-
-/* Mobile toggle button — same color scheme as account button */
-.brand__mobile-toggle {
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	width: 1.75rem;
-	height: 1.75rem;
-	padding: 0;
-	box-sizing: border-box;
-	border-radius: 3px;
-	border: 1px solid #ff3d3d;
-	background-color: transparent;
-	color: #ff3d3d;
-	cursor: pointer;
-	user-select: none;
-	transition:
-		background-color 0.2s ease,
-		color 0.2s ease;
-}
-
-.brand__mobile-toggle:hover {
-	background-color: transparent;
-	border-color: #89808092;
-	color: #000000bc;
-}
-
-/* Mobile dropdown panel */
-.brand__mobile-links {
-	display: none;
-	position: absolute;
-	right: 0;
-	top: calc(100% + 0.3rem);
-	background-color: var(--background-color);
-	border: 1px solid var(--foreground-color3);
-	border-radius: 4px;
-	min-width: 130px;
-	z-index: 100;
-	flex-direction: column;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-.brand__mobile-check:checked ~ .brand__mobile-links {
-	display: flex;
-}
-
-
-[data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-toggle {
-	background-color: transparent;
-	border-color: #89808092;
-	color: #000000bc;
-}
-@media (prefers-color-scheme: light) {
-	.brand__mobile-check:checked ~ .brand__mobile-toggle {
+/* Mobile Subscribe hover — light */
+@media (max-width: 600px) {
+	.rss-subscribe__link:hover,
+	.rss-subscribe__link:focus {
 		background-color: transparent;
 		border-color: #89808092;
-		color: #000000bc;
+		color: #000000bc !important;
 	}
 }
 
-.mobile-link {
-	display: flex;
-	align-items: center;
-	gap: 0.4rem;
-	padding: 0.5rem 0.75rem;
-	color: var(--foreground-color);
-	text-decoration: none;
-	font-size: 0.8rem;
-	white-space: nowrap;
-	transition: background-color 0.15s ease;
-}
-
-[data-theme='light'] .brand__mobile-check:checked ~ .brand__mobile-links .mobile-link {
-	color: #ff3d3d;
-}
-
-@media (prefers-color-scheme: light) {
-	.brand__mobile-check:checked ~ .brand__mobile-links .mobile-link {
-		color: #ff3d3d;
-	}
-}
-
-.mobile-link:hover {
-	background-color: var(--background-color1);
-}
-
-.mobile-link:not(:last-child) {
-	border-bottom: 1px solid var(--foreground-color3);
-}
-
-
-/* Mobile toggle dark mode colors */
-@media (prefers-color-scheme: dark) {
-	.brand__mobile-toggle {
+/* Mobile Subscribe — system dark */
+@media (max-width: 600px) and (prefers-color-scheme: dark) {
+	.rss-subscribe__link {
 		background-color: transparent;
 		border-color: currentColor;
-		color: var(--foreground-color);
+		color: var(--foreground-color) !important;
 	}
-	.brand__mobile-toggle:hover {
+	.rss-subscribe__link:hover,
+	.rss-subscribe__link:focus {
 		background-color: var(--foreground-color);
-		color: var(--background-color);
-	}
-}
-
-[data-theme='light'] .brand__mobile-toggle {
-	background-color: transparent;
-	border-color: #ff3d3d;
-	color: #ff3d3d;
-}
-[data-theme='light'] .brand__mobile-toggle:hover {
-	background-color: transparent;
-	border-color: #89808092;
-	color: #000000bc;
-}
-[data-theme='dark'] .brand__mobile-toggle {
-	background-color: transparent;
-	border-color: currentColor;
-	color: var(--foreground-color);
-}
-[data-theme='dark'] .brand__mobile-toggle:hover {
-	background-color: var(--foreground-color);
-	color: var(--background-color);
-}
-
-/* ── Mobile auth toggle colors ── */
-
-/* Default (system light): orange filled */
-@media (max-width: 600px) {
-	.brand__auth-toggle,
-	.brand__auth-user-btn {
-		background-color: #f26522 !important;
-		border-color: #f26522 !important;
-		color: #fff !important;
-	}
-
-	.brand__auth:focus-within .brand__auth-toggle,
-	.brand__auth-user.is-open .brand__auth-user-btn {
-		background-color: transparent !important;
-		border-color: #f26522 !important;
-		color: #f26522 !important;
-	}
-}
-
-/* System dark: outline */
-@media (max-width: 600px) and (prefers-color-scheme: dark) {
-	.brand__auth-toggle,
-	.brand__auth-user-btn {
-		background-color: transparent !important;
-		border-color: currentColor !important;
-		color: var(--foreground-color) !important;
-	}
-
-	.brand__auth:focus-within .brand__auth-toggle,
-	.brand__auth-user.is-open .brand__auth-user-btn {
-		background-color: var(--foreground-color) !important;
-		border-color: var(--foreground-color) !important;
+		border-color: var(--foreground-color);
 		color: var(--background-color) !important;
 	}
 }
 
-/* Manual light override */
+/* Mobile Subscribe — manual light */
 @media (max-width: 600px) {
-	[data-theme='light'] .brand__auth-toggle,
-	[data-theme='light'] .brand__auth-user-btn {
-		background-color: #f26522 !important;
-		border-color: #f26522 !important;
-		color: #fff !important;
+	[data-theme='light'] .rss-subscribe__link {
+		border-color: #ff3d3d;
+		color: #ff3d3d !important;
+		background-color: transparent;
 	}
-
-	[data-theme='light'] .brand__auth:focus-within .brand__auth-toggle,
-	[data-theme='light'] .brand__auth-user.is-open .brand__auth-user-btn {
-		background-color: transparent !important;
-		border-color: #f26522 !important;
-		color: #f26522 !important;
+	[data-theme='light'] .rss-subscribe__link:hover,
+	[data-theme='light'] .rss-subscribe__link:focus {
+		border-color: #89808092;
+		color: #000000bc !important;
 	}
+}
 
-	/* Manual dark override */
-	[data-theme='dark'] .brand__auth-toggle,
-	[data-theme='dark'] .brand__auth-user-btn {
-		background-color: transparent !important;
-		border-color: currentColor !important;
+/* Mobile Subscribe — manual dark */
+@media (max-width: 600px) {
+	[data-theme='dark'] .rss-subscribe__link {
+		background-color: transparent;
+		border-color: currentColor;
 		color: var(--foreground-color) !important;
 	}
-
-	[data-theme='dark'] .brand__auth:focus-within .brand__auth-toggle,
-	[data-theme='dark'] .brand__auth-user.is-open .brand__auth-user-btn {
-		background-color: var(--foreground-color) !important;
-		border-color: var(--foreground-color) !important;
+	[data-theme='dark'] .rss-subscribe__link:hover,
+	[data-theme='dark'] .rss-subscribe__link:focus {
+		background-color: var(--foreground-color);
+		border-color: var(--foreground-color);
 		color: var(--background-color) !important;
 	}
 }
+
 
 /* ── Theme switcher ── */
 
@@ -961,10 +853,6 @@
   color: var(--foreground-color);
 }
 
-/* Mobile logged-in state */
-.brand__mobile-links .mobile-link--logout {
-  color: var(--foreground-color);
-}
 
 
 /* Reset native button styles + force subscribe-button dimensions on logged-in user button */
