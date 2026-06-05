@@ -119,12 +119,56 @@
 </script>
 <script>
 	(function () {
-		var check = document.getElementById('mobile-menu-check');
-		if (!check) return;
+		var sub = document.querySelector('.rss-subscribe');
+		if (!sub) return;
+		var btn = sub.querySelector('.rss-subscribe__btn');
+
+		// Toggle dropdown
+		btn.addEventListener('click', function (e) {
+			e.stopPropagation();
+			sub.classList.toggle('is-open');
+		});
+
+		// Close on outside click
 		document.addEventListener('click', function (e) {
-			if (!check.checked) return;
-			var menu = check.closest('.brand__mobile-menu');
-			if (menu && !menu.contains(e.target)) check.checked = false;
+			if (!sub.contains(e.target)) sub.classList.remove('is-open');
+		});
+
+		// Copy URL on item click
+		sub.querySelectorAll('.rss-subscribe__item').forEach(function (item) {
+			item.addEventListener('click', function (e) {
+				e.stopPropagation();
+				var url = item.getAttribute('data-rss-url');
+				var orig = item.textContent;
+
+				function showCopied() {
+					item.textContent = 'Copied!';
+					setTimeout(function () {
+						item.textContent = orig;
+						sub.classList.remove('is-open');
+					}, 1200);
+				}
+
+				// Synchronous fallback works on mobile within the click handler
+				try {
+					var ta = document.createElement('textarea');
+					ta.value = url;
+					ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0;pointer-events:none;';
+					document.body.appendChild(ta);
+					ta.focus();
+					ta.select();
+					document.execCommand('copy');
+					document.body.removeChild(ta);
+					showCopied();
+				} catch (err) {
+					// Try async clipboard as last resort
+					if (navigator.clipboard) {
+						navigator.clipboard.writeText(url).then(showCopied).catch(function() {
+							item.textContent = url;
+						});
+					}
+				}
+			});
 		});
 	})();
 </script>
