@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[05-06-2026]
+- ***Buttons restructure***
+
 [04-06-2026]
 - ***Login/Log Out***
 
