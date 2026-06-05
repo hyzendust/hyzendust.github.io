@@ -1,23 +1,29 @@
-{{ define "main" }} {{ $pages := .Pages }} {{ $sectionPagerSize := or site.Params.sectionPagerSize
-10 }} {{ $paginator := .Paginate $pages $sectionPagerSize }}
+{{ define "main" }}
+{{ $pages := .Pages }}
+{{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }}
+{{ $paginator := .Paginate $pages $sectionPagerSize }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-	<a href="/blog/">Blog</a>
-	{{ if gt $paginator.TotalPages 1 }} ›
-	<span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
-	{{ end }}
+  <a href="/blog/">Blog</a>
+  {{ if gt $paginator.TotalPages 1 }}
+    › <span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+  {{ end }}
 </nav>
 
-{{ .Content }}
-<h1>
-	All Posts |
-	<a href="/categories/" style="text-decoration: none; color: var(--accent-color)">Categories</a>
-</h1>
-{{ range $paginator.Pages }}
-<h2 class="home-post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ partial "main/dates.html" . }} {{ with .Summary }} {{- /* Create deterministic summary output for
-styling. See https://github.com/gohugoio/hugo/issues/8910 */ -}}
-<p class="summary">{{ . | plainify | htmlUnescape | chomp | truncate 150 }}</p>
-{{- end }} {{ end }}
-<nav class="paginator">{{- partial "pagination.html" . }} {{/* embedded template */}}</nav>
+  {{ .Content }}
+  <h1>All Posts | <a href="/categories/" style="text-decoration: none; color: var(--accent-color);">Categories</a></h1>
+  {{ range $paginator.Pages }}
+    <h2 class="home-post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ partial "main/dates.html" . }}
+    {{ with .Summary }}
+    {{- /*
+    Create deterministic summary output for styling.
+    See https://github.com/gohugoio/hugo/issues/8910
+    */ -}}
+    <p class="summary">{{ . | plainify | htmlUnescape | chomp | truncate 150 }}</p>
+    {{- end }}
+  {{ end }}
+  <nav class="paginator">
+  {{- partial "pagination.html" . }} {{/* embedded template */}}
+  </nav>
 {{ end }}

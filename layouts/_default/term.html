@@ -1,33 +1,39 @@
-{{ define "main" }} {{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }} {{ $paginator :=
-.Paginate .Pages.ByDate.Reverse $sectionPagerSize }}
+{{ define "main" }}
+
+{{ $sectionPagerSize := or site.Params.sectionPagerSize 10 }}
+{{ $paginator := .Paginate .Pages.ByDate.Reverse $sectionPagerSize }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-	<a href="/blog/">Blog</a>
-	› <a href="/categories/">Categories</a> › <span>{{ .Title }}</span> {{ if gt
-	$paginator.TotalPages 1 }} ›
-	<span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
-	{{ end }}
+  <a href="/blog/">Blog</a>
+  › <a href="/categories/">Categories</a>
+  › <span>{{ .Title }}</span>
+  {{ if gt $paginator.TotalPages 1 }}
+    › <span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+  {{ end }}
 </nav>
 
 {{ .Content }}
 
 <h1>
-	<a href="/blog/" style="text-decoration: none; color: var(--accent-color)">All Posts</a> |
-	<a href="/categories/" style="text-decoration: none; color: var(--accent-color)">Categories</a>
+  <a href="/blog/" style="text-decoration: none; color: var(--accent-color);">All Posts</a> |
+  <a href="/categories/" style="text-decoration: none; color: var(--accent-color);">Categories</a>
 </h1>
 
 <h2>{{ .Title }}</h2>
 
-<div style="margin-bottom: 2rem"></div>
+<div style="margin-bottom: 2rem;"></div>
 
 <section class="posts-list">
-	{{ range $paginator.Pages }} {{ partial "main/dates.html" . }}
-	<h2 class="term-post-title">
-		<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-	</h2>
-	{{ end }}
+  {{ range $paginator.Pages }}
+    {{ partial "main/dates.html" . }}
+    <h2 class="term-post-title">
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </h2>
+  {{ end }}
 </section>
 
-<nav class="paginator">{{- partial "pagination.html" . }}</nav>
+<nav class="paginator">
+  {{- partial "pagination.html" . }}
+</nav>
 
 {{ end }}

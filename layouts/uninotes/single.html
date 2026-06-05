@@ -1,60 +1,99 @@
-{{ define "main" }} {{ $semesterRaw := .Params.semester }} {{ $subjectcodeRaw := .Params.subjectcode
-}} {{ $semester := "" }} {{ if reflect.IsSlice $semesterRaw }} {{ $semester = index $semesterRaw 0
-}} {{ else }} {{ $semester = $semesterRaw }} {{ end }} {{ $subjectcode := "" }} {{ if
-reflect.IsSlice $subjectcodeRaw }} {{ $subjectcode = index $subjectcodeRaw 0 }} {{ else }} {{
-$subjectcode = $subjectcodeRaw }} {{ end }}
+{{ define "main" }}
+
+{{ $semesterRaw    := .Params.semester }}
+{{ $subjectcodeRaw := .Params.subjectcode }}
+{{ $semester := "" }}
+{{ if reflect.IsSlice $semesterRaw }}
+  {{ $semester = index $semesterRaw 0 }}
+{{ else }}
+  {{ $semester = $semesterRaw }}
+{{ end }}
+{{ $subjectcode := "" }}
+{{ if reflect.IsSlice $subjectcodeRaw }}
+  {{ $subjectcode = index $subjectcodeRaw 0 }}
+{{ else }}
+  {{ $subjectcode = $subjectcodeRaw }}
+{{ end }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-	<a href="/uninotes/">UniNotes</a>
-	{{ if $semester }} {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
-	{{ if $semPage }} › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a> {{ end }} {{ end
-	}} {{ if $subjectcode }} {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode |
-	urlize)) }} {{ if $subPage }} › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a> {{
-	end }} {{ end }} › <a href="{{ .Params.uniturl }}">{{ .Params.unit | default .Title }}</a> ›
-	<span>{{ .Params.notecategory | default "Notes" }}</span>
+  <a href="/uninotes/">UniNotes</a>
+  {{ if $semester }}
+    {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+    {{ if $semPage }}
+      › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a>
+    {{ end }}
+  {{ end }}
+  {{ if $subjectcode }}
+    {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
+    {{ if $subPage }}
+      › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a>
+    {{ end }}
+  {{ end }}
+  › <a href="{{ .Params.uniturl }}">{{ .Params.unit | default .Title }}</a>
+  › <span>{{ .Params.notecategory | default "Notes" }}</span>
 </nav>
 
 <div class="uninotes-meta">
-	{{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }} {{ with
-	$subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }} {{ with
-	.Params.notecategory }}
-	<span class="uninotes-meta__pill uninotes-meta__pill--{{ . | lower }}">{{ . }}</span>
-	{{ end }}
+  {{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+  {{ with $subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }}
+  {{ with .Params.notecategory }}
+    <span class="uninotes-meta__pill uninotes-meta__pill--{{ . | lower }}">{{ . }}</span>
+  {{ end }}
 </div>
 
 <h1>{{ .Params.unit | default .Title }}</h1>
 
-{{ partial "page/toc.html" . }} {{ .Content }} {{ partial "page/terms.html" (dict "taxonomy" "tags"
-"page" .) }} {{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }} {{/* Next/prev
-among sibling UNITS in the same subjectcode — sorted numerically */}} {{ if $subjectcode }} {{
-$subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }} {{ if $subPage }}
-{{/* Build deduplicated unit list with numeric sort key */}} {{ $seenUnits := slice }} {{ $unitDicts
-:= slice }} {{ range $subPage.Pages }} {{ $unitLabel := (.Params.unit | default .Title) }} {{ if not
-(in $seenUnits $unitLabel) }} {{ $seenUnits = $seenUnits | append $unitLabel }} {{/* Extract unit
-number for numeric sort, e.g. "Unit 11" → 11 */}} {{ $uParts := split $unitLabel " " }} {{ $uLast :=
-index $uParts (sub (len $uParts) 1) }} {{ $uNumStr := "" }} {{ range (split $uLast "") }} {{ if ge .
-"0" }}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }} {{ end }} {{
-$uNum := int ($uNumStr | default "0") }} {{ $unitDicts = $unitDicts | append (dict "label"
-$unitLabel "page" . "num" $uNum) }} {{ end }} {{ end }} {{ $sortedUnitDicts := sort $unitDicts "num"
-}} {{ $currentUnit := (.Params.unit | default .Title) }} {{ $currentIdx := 0 }} {{ range $i, $d :=
-$sortedUnitDicts }} {{ if eq $d.label $currentUnit }}{{ $currentIdx = $i }}{{ end }} {{ end }} {{ if
-gt (len $sortedUnitDicts) 1 }}
-<nav class="page-nav">
-	{{ if gt $currentIdx 0 }} {{ $prev := (index $sortedUnitDicts (sub $currentIdx 1)) }}
-	<a class="page-nav__previous-link" href="{{ $prev.page.Params.uniturl }}"
-		>← {{ $prev.label }}</a
-	>
-	{{ end }} {{ if lt $currentIdx (sub (len $sortedUnitDicts) 1) }} {{ $next := (index
-	$sortedUnitDicts (add $currentIdx 1)) }}
-	<a class="page-nav__next-link" href="{{ $next.page.Params.uniturl }}">{{ $next.label }} →</a>
-	{{ end }}
-</nav>
-{{ end }} {{ end }} {{ end }} {{ partial "page/page-end.html" . }}
-<script>
-(function () {
-	if (localStorage.getItem('f4_username') !== 'hyzen') {
-		window.location.replace('/login/?next=' + encodeURIComponent(window.location.pathname));
-	}
-})();
-</script>
+{{ partial "page/toc.html" . }}
+
+{{ .Content }}
+
+{{ partial "page/terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }}
+
+{{/* Next/prev among sibling UNITS in the same subjectcode — sorted numerically */}}
+{{ if $subjectcode }}
+  {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
+  {{ if $subPage }}
+    {{/* Build deduplicated unit list with numeric sort key */}}
+    {{ $seenUnits := slice }}
+    {{ $unitDicts := slice }}
+    {{ range $subPage.Pages }}
+      {{ $unitLabel := (.Params.unit | default .Title) }}
+      {{ if not (in $seenUnits $unitLabel) }}
+        {{ $seenUnits = $seenUnits | append $unitLabel }}
+        {{/* Extract unit number for numeric sort, e.g. "Unit 11" → 11 */}}
+        {{ $uParts := split $unitLabel " " }}
+        {{ $uLast := index $uParts (sub (len $uParts) 1) }}
+        {{ $uNumStr := "" }}
+        {{ range (split $uLast "") }}
+          {{ if ge . "0" }}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }}
+        {{ end }}
+        {{ $uNum := int ($uNumStr | default "0") }}
+        {{ $unitDicts = $unitDicts | append (dict "label" $unitLabel "page" . "num" $uNum) }}
+      {{ end }}
+    {{ end }}
+    {{ $sortedUnitDicts := sort $unitDicts "num" }}
+
+    {{ $currentUnit := (.Params.unit | default .Title) }}
+    {{ $currentIdx := 0 }}
+    {{ range $i, $d := $sortedUnitDicts }}
+      {{ if eq $d.label $currentUnit }}{{ $currentIdx = $i }}{{ end }}
+    {{ end }}
+
+    {{ if gt (len $sortedUnitDicts) 1 }}
+    <nav class="page-nav">
+      {{ if gt $currentIdx 0 }}
+        {{ $prev := (index $sortedUnitDicts (sub $currentIdx 1)) }}
+        <a class="page-nav__previous-link" href="{{ $prev.page.Params.uniturl }}">← {{ $prev.label }}</a>
+      {{ end }}
+      {{ if lt $currentIdx (sub (len $sortedUnitDicts) 1) }}
+        {{ $next := (index $sortedUnitDicts (add $currentIdx 1)) }}
+        <a class="page-nav__next-link" href="{{ $next.page.Params.uniturl }}">{{ $next.label }} →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ partial "page/page-end.html" . }}
 {{ end }}
