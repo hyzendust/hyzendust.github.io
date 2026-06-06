@@ -5,6 +5,25 @@
 	<div class="auth-card">
 		<div id="auth-message" class="auth-message" aria-live="polite" style="display: none"></div>
 
+		<!-- ── Step indicator ─────────────────────────────────────────── -->
+		<div class="otp-steps" id="otp-steps" aria-label="Sign-up steps">
+			<div class="otp-steps__item otp-steps__item--active" id="step-ind-1">
+				<span class="otp-steps__num">1</span>
+				<span class="otp-steps__label">Details</span>
+			</div>
+			<div class="otp-steps__line"></div>
+			<div class="otp-steps__item" id="step-ind-2">
+				<span class="otp-steps__num">2</span>
+				<span class="otp-steps__label">Verify email</span>
+			</div>
+			<div class="otp-steps__line"></div>
+			<div class="otp-steps__item" id="step-ind-3">
+				<span class="otp-steps__num">3</span>
+				<span class="otp-steps__label">Done</span>
+			</div>
+		</div>
+
+		<!-- ── STEP 1 — Account details ───────────────────────────────── -->
 		<form id="signup-form" class="auth-form" novalidate>
 			<div class="auth-form__input-wrap">
 				<div class="auth-form__group">
@@ -95,8 +114,9 @@
 					/>
 				</div>
 			</div>
+
 			<button type="submit" class="auth-form__submit" id="signup-submit">
-				<span class="auth-form__submit-text">Create Account</span>
+				<span class="auth-form__submit-text">Send verification code</span>
 				<span class="auth-form__submit-loader" style="display: none">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
@@ -114,6 +134,56 @@
 			</button>
 		</form>
 
+		<!-- ── STEP 2 — OTP verification ──────────────────────────────── -->
+		<div id="otp-panel" style="display: none">
+			<p class="otp-panel__hint">
+				A 6-digit code was sent to <strong id="otp-email-display"></strong>.<br />
+				Enter it below. The code expires in 10&nbsp;minutes.
+			</p>
+
+			<div class="auth-form" style="margin-top: 1rem">
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="otp-input">Verification code</label>
+					<input
+						class="auth-form__input otp-panel__input"
+						type="text"
+						id="otp-input"
+						inputmode="numeric"
+						maxlength="6"
+						pattern="\d{6}"
+						placeholder="000000"
+						autocomplete="one-time-code"
+					/>
+				</div>
+
+				<button type="button" class="auth-form__submit" id="otp-submit">
+					<span class="auth-form__submit-text">Verify &amp; create account</span>
+					<span class="auth-form__submit-loader" style="display: none">
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							width="16"
+							height="16"
+							fill="currentColor"
+							class="spin"
+						>
+							<path
+								d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"
+							/>
+						</svg>
+					</span>
+				</button>
+
+				<p class="otp-panel__resend">
+					Didn't get it?
+					<button type="button" id="otp-resend" class="otp-panel__resend-btn">
+						Resend code
+					</button>
+					<span id="otp-resend-timer" style="display: none"></span>
+				</p>
+			</div>
+		</div>
+
 		<p class="auth-card__footer">
 			Already have an account? <a href="/login/" class="auth-card__link">Log in</a>
 		</p>
@@ -124,12 +194,59 @@
 	(function () {
 		var BACKEND = 'https://backend.freedoms4.org/auth.php';
 
-		var form = document.getElementById('signup-form');
-		var msgBox = document.getElementById('auth-message');
-		var submitBtn = document.getElementById('signup-submit');
-		var pwdInput = document.getElementById('signup-password');
-		var eyeBtn = form.querySelector('.auth-form__eye');
+		// ── State ──────────────────────────────────────────────────────
+		var state = {
+			username: '',
+			email: '',
+			password: '',
+			otpToken: null,
+		};
 
+		// ── DOM refs ───────────────────────────────────────────────────
+		var msgBox = document.getElementById('auth-message');
+		var signupForm = document.getElementById('signup-form');
+		var signupSubmit = document.getElementById('signup-submit');
+		var otpPanel = document.getElementById('otp-panel');
+		var otpEmailDisp = document.getElementById('otp-email-display');
+		var otpInput = document.getElementById('otp-input');
+		var otpSubmit = document.getElementById('otp-submit');
+		var otpResendBtn = document.getElementById('otp-resend');
+		var otpResendTimer = document.getElementById('otp-resend-timer');
+		var pwdInput = document.getElementById('signup-password');
+		var eyeBtn = signupForm.querySelector('.auth-form__eye');
+
+		var stepInds = [
+			document.getElementById('step-ind-1'),
+			document.getElementById('step-ind-2'),
+			document.getElementById('step-ind-3'),
+		];
+
+		// ── Helpers ────────────────────────────────────────────────────
+		function showMsg(text, type) {
+			msgBox.textContent = text;
+			msgBox.className = 'auth-message auth-message--' + type;
+			msgBox.style.display = 'block';
+		}
+		function hideMsg() {
+			msgBox.style.display = 'none';
+		}
+
+		function setLoading(btn, loading) {
+			btn.disabled = loading;
+			btn.querySelector('.auth-form__submit-text').style.display = loading ? 'none' : '';
+			btn.querySelector('.auth-form__submit-loader').style.display = loading
+				? 'inline-flex'
+				: 'none';
+		}
+
+		function setStep(n) {
+			stepInds.forEach(function (el, i) {
+				el.classList.toggle('otp-steps__item--active', i + 1 === n);
+				el.classList.toggle('otp-steps__item--done', i + 1 < n);
+			});
+		}
+
+		// ── Password eye toggle ────────────────────────────────────────
 		eyeBtn.addEventListener('click', function () {
 			var isText = pwdInput.type === 'text';
 			pwdInput.type = isText ? 'password' : 'text';
@@ -137,15 +254,29 @@
 			eyeBtn.querySelector('.eye-hide').style.display = isText ? 'none' : '';
 		});
 
-		function showMsg(text, type) {
-			msgBox.textContent = text;
-			msgBox.className = 'auth-message auth-message--' + type;
-			msgBox.style.display = 'block';
+		// ── Resend cooldown ────────────────────────────────────────────
+		var resendTimeout = null;
+		function startResendCooldown(seconds) {
+			otpResendBtn.style.display = 'none';
+			otpResendTimer.style.display = '';
+			var remaining = seconds;
+			otpResendTimer.textContent = 'Resend in ' + remaining + 's';
+			resendTimeout = setInterval(function () {
+				remaining--;
+				if (remaining <= 0) {
+					clearInterval(resendTimeout);
+					otpResendTimer.style.display = 'none';
+					otpResendBtn.style.display = '';
+				} else {
+					otpResendTimer.textContent = 'Resend in ' + remaining + 's';
+				}
+			}, 1000);
 		}
 
-		form.addEventListener('submit', function (e) {
+		// ── STEP 1 submit — validate + send_otp ───────────────────────
+		signupForm.addEventListener('submit', function (e) {
 			e.preventDefault();
-			msgBox.style.display = 'none';
+			hideMsg();
 
 			var username = document.getElementById('signup-username').value.trim();
 			var email = document.getElementById('signup-email').value.trim();
@@ -172,42 +303,142 @@
 				return;
 			}
 
-			submitBtn.disabled = true;
-			submitBtn.querySelector('.auth-form__submit-text').style.display = 'none';
-			submitBtn.querySelector('.auth-form__submit-loader').style.display = 'inline-flex';
+			state.username = username;
+			state.email = email;
+			state.password = password;
+
+			setLoading(signupSubmit, true);
 
 			fetch(BACKEND, {
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
 				credentials: 'include',
-				body: JSON.stringify({
-					action: 'signup',
-					username: username,
-					email: email,
-					password: password,
-				}),
+				body: JSON.stringify({ action: 'send_otp', email: email }),
 			})
 				.then(function (r) {
 					return r.json();
 				})
 				.then(function (data) {
 					if (data.success) {
-						showMsg('Account created! Redirecting to login\u2026', 'success');
-						setTimeout(function () {
-							window.location.href = '/login/';
-						}, 1500);
+						// Switch to OTP panel
+						signupForm.style.display = 'none';
+						otpEmailDisp.textContent = email;
+						otpPanel.style.display = '';
+						otpInput.value = '';
+						otpInput.focus();
+						setStep(2);
+						startResendCooldown(60);
+						showMsg('Code sent! Check your inbox (and spam folder).', 'success');
 					} else {
-						showMsg(data.message || 'Sign-up failed. Please try again.', 'error');
+						showMsg(data.message || 'Failed to send code. Please try again.', 'error');
 					}
 				})
 				.catch(function () {
 					showMsg('Network error. Please try again.', 'error');
 				})
 				.finally(function () {
-					submitBtn.disabled = false;
-					submitBtn.querySelector('.auth-form__submit-text').style.display = '';
-					submitBtn.querySelector('.auth-form__submit-loader').style.display = 'none';
+					setLoading(signupSubmit, false);
 				});
+		});
+
+		// ── Resend button ──────────────────────────────────────────────
+		otpResendBtn.addEventListener('click', function () {
+			hideMsg();
+			otpResendBtn.disabled = true;
+
+			fetch(BACKEND, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				credentials: 'include',
+				body: JSON.stringify({ action: 'send_otp', email: state.email }),
+			})
+				.then(function (r) {
+					return r.json();
+				})
+				.then(function (data) {
+					if (data.success) {
+						showMsg('New code sent!', 'success');
+						startResendCooldown(60);
+					} else {
+						showMsg(data.message || 'Could not resend. Please try again.', 'error');
+						otpResendBtn.disabled = false;
+					}
+				})
+				.catch(function () {
+					showMsg('Network error. Please try again.', 'error');
+					otpResendBtn.disabled = false;
+				});
+		});
+
+		// ── STEP 2 submit — verify_otp then signup ────────────────────
+		otpSubmit.addEventListener('click', function () {
+			hideMsg();
+			var otp = otpInput.value.trim();
+
+			if (!/^\d{6}$/.test(otp)) {
+				showMsg('Please enter the 6-digit code from your email.', 'error');
+				return;
+			}
+
+			setLoading(otpSubmit, true);
+
+			// 2a. Verify OTP → get token
+			fetch(BACKEND, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				credentials: 'include',
+				body: JSON.stringify({ action: 'verify_otp', email: state.email, otp: otp }),
+			})
+				.then(function (r) {
+					return r.json();
+				})
+				.then(function (data) {
+					if (!data.success) {
+						showMsg(data.message || 'Invalid or expired code.', 'error');
+						setLoading(otpSubmit, false);
+						return;
+					}
+					state.otpToken = data.otp_token;
+
+					// 2b. Create account
+					return fetch(BACKEND, {
+						method: 'POST',
+						headers: { 'Content-Type': 'application/json' },
+						credentials: 'include',
+						body: JSON.stringify({
+							action: 'signup',
+							username: state.username,
+							email: state.email,
+							password: state.password,
+							otp_token: state.otpToken,
+						}),
+					})
+						.then(function (r) {
+							return r.json();
+						})
+						.then(function (d) {
+							if (d.success) {
+								setStep(3);
+								otpPanel.style.display = 'none';
+								showMsg('Account created! Redirecting to login\u2026', 'success');
+								setTimeout(function () {
+									window.location.href = '/login/';
+								}, 1800);
+							} else {
+								showMsg(d.message || 'Sign-up failed. Please try again.', 'error');
+								setLoading(otpSubmit, false);
+							}
+						});
+				})
+				.catch(function () {
+					showMsg('Network error. Please try again.', 'error');
+					setLoading(otpSubmit, false);
+				});
+		});
+
+		// Allow pressing Enter in OTP box to submit
+		otpInput.addEventListener('keydown', function (e) {
+			if (e.key === 'Enter') otpSubmit.click();
 		});
 	})();
 </script>
