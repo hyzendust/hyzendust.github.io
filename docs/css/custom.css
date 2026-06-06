@@ -469,7 +469,7 @@
 	cursor: pointer;
 	line-height: 1;
 	transition: opacity 0.2s ease;
-	margin-right: -0.25rem;
+	margin-right: -0.321rem;
 }
 
 .theme-toggle:hover {
