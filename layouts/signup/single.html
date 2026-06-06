@@ -5,59 +5,41 @@
 	<div class="auth-card">
 		<div id="auth-message" class="auth-message" aria-live="polite" style="display: none"></div>
 
-		<!-- ── Step indicator ─────────────────────────────────────────── -->
-		<div class="otp-steps" id="otp-steps" aria-label="Sign-up steps">
-			<div class="otp-steps__item otp-steps__item--active" id="step-ind-1">
-				<span class="otp-steps__num">1</span>
-				<span class="otp-steps__label">Details</span>
-			</div>
-			<div class="otp-steps__line"></div>
-			<div class="otp-steps__item" id="step-ind-2">
-				<span class="otp-steps__num">2</span>
-				<span class="otp-steps__label">Verify email</span>
-			</div>
-			<div class="otp-steps__line"></div>
-			<div class="otp-steps__item" id="step-ind-3">
-				<span class="otp-steps__num">3</span>
-				<span class="otp-steps__label">Done</span>
-			</div>
-		</div>
-
 		<!-- ── STEP 1 — Account details ───────────────────────────────── -->
 		<form id="signup-form" class="auth-form" novalidate>
-			<div class="auth-form__input-wrap">
-				<div class="auth-form__group">
-					<label class="auth-form__label" for="signup-username">Username</label>
-					<input
-						class="auth-form__input"
-						type="text"
-						id="signup-username"
-						name="username"
-						autocomplete="username"
-						required
-						minlength="3"
-						maxlength="32"
-						pattern="[a-zA-Z0-9_\-]+"
-					/>
-					<span class="auth-form__hint"
-						>(3-32 characters; letters, numbers, _ and - only)</span
-					>
-				</div>
+			<div class="auth-form__group">
+				<label class="auth-form__label" for="signup-username">Username</label>
+				<input
+					class="auth-form__input"
+					type="text"
+					id="signup-username"
+					name="username"
+					autocomplete="username"
+					required
+					minlength="3"
+					maxlength="32"
+					pattern="[a-zA-Z0-9_\-]+"
+				/>
+				<span class="auth-form__hint"
+					>(3-32 characters; letters, numbers, _ and - only)</span
+				>
+			</div>
 
-				<div class="auth-form__group">
-					<label class="auth-form__label" for="signup-email">Email</label>
-					<input
-						class="auth-form__input"
-						type="email"
-						id="signup-email"
-						name="email"
-						autocomplete="email"
-						required
-					/>
-				</div>
+			<div class="auth-form__group">
+				<label class="auth-form__label" for="signup-email">Email</label>
+				<input
+					class="auth-form__input"
+					type="email"
+					id="signup-email"
+					name="email"
+					autocomplete="email"
+					required
+				/>
+			</div>
 
-				<div class="auth-form__group">
-					<label class="auth-form__label" for="signup-password">Password</label>
+			<div class="auth-form__group">
+				<label class="auth-form__label" for="signup-password">Password</label>
+				<div class="auth-form__input-wrap">
 					<input
 						class="auth-form__input"
 						type="password"
@@ -99,20 +81,20 @@
 							/>
 						</svg>
 					</button>
-					<span class="auth-form__hint">(at least 8 characters)</span>
 				</div>
+				<span class="auth-form__hint">(at least 8 characters)</span>
+			</div>
 
-				<div class="auth-form__group">
-					<label class="auth-form__label" for="signup-confirm">Confirm Password</label>
-					<input
-						class="auth-form__input"
-						type="password"
-						id="signup-confirm"
-						name="confirm_password"
-						autocomplete="new-password"
-						required
-					/>
-				</div>
+			<div class="auth-form__group">
+				<label class="auth-form__label" for="signup-confirm">Confirm Password</label>
+				<input
+					class="auth-form__input"
+					type="password"
+					id="signup-confirm"
+					name="confirm_password"
+					autocomplete="new-password"
+					required
+				/>
 			</div>
 
 			<button type="submit" class="auth-form__submit" id="signup-submit">
@@ -194,15 +176,8 @@
 	(function () {
 		var BACKEND = 'https://backend.freedoms4.org/auth.php';
 
-		// ── State ──────────────────────────────────────────────────────
-		var state = {
-			username: '',
-			email: '',
-			password: '',
-			otpToken: null,
-		};
+		var state = { username: '', email: '', password: '' };
 
-		// ── DOM refs ───────────────────────────────────────────────────
 		var msgBox = document.getElementById('auth-message');
 		var signupForm = document.getElementById('signup-form');
 		var signupSubmit = document.getElementById('signup-submit');
@@ -215,13 +190,6 @@
 		var pwdInput = document.getElementById('signup-password');
 		var eyeBtn = signupForm.querySelector('.auth-form__eye');
 
-		var stepInds = [
-			document.getElementById('step-ind-1'),
-			document.getElementById('step-ind-2'),
-			document.getElementById('step-ind-3'),
-		];
-
-		// ── Helpers ────────────────────────────────────────────────────
 		function showMsg(text, type) {
 			msgBox.textContent = text;
 			msgBox.className = 'auth-message auth-message--' + type;
@@ -231,22 +199,15 @@
 			msgBox.style.display = 'none';
 		}
 
-		function setLoading(btn, loading) {
-			btn.disabled = loading;
-			btn.querySelector('.auth-form__submit-text').style.display = loading ? 'none' : '';
-			btn.querySelector('.auth-form__submit-loader').style.display = loading
+		function setLoading(btn, on) {
+			btn.disabled = on;
+			btn.querySelector('.auth-form__submit-text').style.display = on ? 'none' : '';
+			btn.querySelector('.auth-form__submit-loader').style.display = on
 				? 'inline-flex'
 				: 'none';
 		}
 
-		function setStep(n) {
-			stepInds.forEach(function (el, i) {
-				el.classList.toggle('otp-steps__item--active', i + 1 === n);
-				el.classList.toggle('otp-steps__item--done', i + 1 < n);
-			});
-		}
-
-		// ── Password eye toggle ────────────────────────────────────────
+		// Password eye toggle
 		eyeBtn.addEventListener('click', function () {
 			var isText = pwdInput.type === 'text';
 			pwdInput.type = isText ? 'password' : 'text';
@@ -254,26 +215,27 @@
 			eyeBtn.querySelector('.eye-hide').style.display = isText ? 'none' : '';
 		});
 
-		// ── Resend cooldown ────────────────────────────────────────────
-		var resendTimeout = null;
+		// Resend cooldown
+		var resendInterval = null;
 		function startResendCooldown(seconds) {
 			otpResendBtn.style.display = 'none';
 			otpResendTimer.style.display = '';
 			var remaining = seconds;
 			otpResendTimer.textContent = 'Resend in ' + remaining + 's';
-			resendTimeout = setInterval(function () {
+			resendInterval = setInterval(function () {
 				remaining--;
 				if (remaining <= 0) {
-					clearInterval(resendTimeout);
+					clearInterval(resendInterval);
 					otpResendTimer.style.display = 'none';
 					otpResendBtn.style.display = '';
+					otpResendBtn.disabled = false;
 				} else {
 					otpResendTimer.textContent = 'Resend in ' + remaining + 's';
 				}
 			}, 1000);
 		}
 
-		// ── STEP 1 submit — validate + send_otp ───────────────────────
+		// STEP 1 — validate fields and send OTP
 		signupForm.addEventListener('submit', function (e) {
 			e.preventDefault();
 			hideMsg();
@@ -320,13 +282,11 @@
 				})
 				.then(function (data) {
 					if (data.success) {
-						// Switch to OTP panel
 						signupForm.style.display = 'none';
 						otpEmailDisp.textContent = email;
 						otpPanel.style.display = '';
 						otpInput.value = '';
 						otpInput.focus();
-						setStep(2);
 						startResendCooldown(60);
 						showMsg('Code sent! Check your inbox (and spam folder).', 'success');
 					} else {
@@ -341,7 +301,7 @@
 				});
 		});
 
-		// ── Resend button ──────────────────────────────────────────────
+		// Resend
 		otpResendBtn.addEventListener('click', function () {
 			hideMsg();
 			otpResendBtn.disabled = true;
@@ -370,8 +330,8 @@
 				});
 		});
 
-		// ── STEP 2 submit — verify_otp then signup ────────────────────
-		otpSubmit.addEventListener('click', function () {
+		// STEP 2 — verify OTP and create account in one request
+		function doSignup() {
 			hideMsg();
 			var otp = otpInput.value.trim();
 
@@ -382,63 +342,41 @@
 
 			setLoading(otpSubmit, true);
 
-			// 2a. Verify OTP → get token
 			fetch(BACKEND, {
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
 				credentials: 'include',
-				body: JSON.stringify({ action: 'verify_otp', email: state.email, otp: otp }),
+				body: JSON.stringify({
+					action: 'signup',
+					username: state.username,
+					email: state.email,
+					password: state.password,
+					otp: otp,
+				}),
 			})
 				.then(function (r) {
 					return r.json();
 				})
 				.then(function (data) {
-					if (!data.success) {
-						showMsg(data.message || 'Invalid or expired code.', 'error');
+					if (data.success) {
+						showMsg('Account created! Redirecting to login\u2026', 'success');
+						setTimeout(function () {
+							window.location.href = '/login/';
+						}, 1800);
+					} else {
+						showMsg(data.message || 'Sign-up failed. Please try again.', 'error');
 						setLoading(otpSubmit, false);
-						return;
 					}
-					state.otpToken = data.otp_token;
-
-					// 2b. Create account
-					return fetch(BACKEND, {
-						method: 'POST',
-						headers: { 'Content-Type': 'application/json' },
-						credentials: 'include',
-						body: JSON.stringify({
-							action: 'signup',
-							username: state.username,
-							email: state.email,
-							password: state.password,
-							otp_token: state.otpToken,
-						}),
-					})
-						.then(function (r) {
-							return r.json();
-						})
-						.then(function (d) {
-							if (d.success) {
-								setStep(3);
-								otpPanel.style.display = 'none';
-								showMsg('Account created! Redirecting to login\u2026', 'success');
-								setTimeout(function () {
-									window.location.href = '/login/';
-								}, 1800);
-							} else {
-								showMsg(d.message || 'Sign-up failed. Please try again.', 'error');
-								setLoading(otpSubmit, false);
-							}
-						});
 				})
 				.catch(function () {
 					showMsg('Network error. Please try again.', 'error');
 					setLoading(otpSubmit, false);
 				});
-		});
+		}
 
-		// Allow pressing Enter in OTP box to submit
+		otpSubmit.addEventListener('click', doSignup);
 		otpInput.addEventListener('keydown', function (e) {
-			if (e.key === 'Enter') otpSubmit.click();
+			if (e.key === 'Enter') doSignup();
 		});
 	})();
 </script>
