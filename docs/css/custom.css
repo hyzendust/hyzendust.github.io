@@ -469,7 +469,7 @@
 	cursor: pointer;
 	line-height: 1;
 	transition: opacity 0.2s ease;
-	margin-right: -0.321rem;
+	margin-right: -0.32rem;
 }
 
 .theme-toggle:hover {
@@ -552,6 +552,7 @@
 		height: 2.3rem;
 		box-sizing: border-box;
 		padding: 0;
+		margin-right: -0.625rem;
 	}
 
 	.theme-toggle svg {
