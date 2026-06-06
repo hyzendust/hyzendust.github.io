@@ -252,7 +252,6 @@
 @media (max-width: 600px) {
 	/* Profile button: sit above the subscribe button, right-aligned to it */
 	.brand__actions {
-		gap: 0.16rem;
 		position: relative;
 	}
 
@@ -470,6 +469,7 @@
 	cursor: pointer;
 	line-height: 1;
 	transition: opacity 0.2s ease;
+	margin-right: -0.25rem;
 }
 
 .theme-toggle:hover {
