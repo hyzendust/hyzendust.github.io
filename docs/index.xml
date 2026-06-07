@@ -436,4 +436,21 @@ F) Net Operating Working Capital.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h3 class="heading" id="b-gross-revenue"&gt;
  B) Gross Revenue&lt;span class="heading__anchor"&gt; &lt;a href="#b-gross-revenue"&gt;#&lt;/a&gt;&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Gross revenue, often known as gross sales, is the entire amount of money your firm makes in a given accounting period before any deductions.&lt;/p&gt;</description></item><item><title>XMPP Account</title><link>https://freedoms4.org/services/xmpp-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/xmpp-account/</guid><description>&lt;p&gt;Send your desired username to &lt;a href="mailto:hyzen@freedoms4.org"&gt;hyzen@freedoms4.org&lt;/a&gt; via Email (or via XMPP if already have an XMPP account). Account creation can take upto 24 hours.&lt;/p&gt;</description></item></channel></rss>
+&lt;/h3&gt;&lt;p&gt;Gross revenue, often known as gross sales, is the entire amount of money your firm makes in a given accounting period before any deductions.&lt;/p&gt;</description></item><item><title>XMPP Account</title><link>https://freedoms4.org/services/xmpp-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/xmpp-account/</guid><description>&lt;div id="xmpp-loggedin" style="display:none"&gt;
+ &lt;p&gt;&lt;strong&gt;JID:&lt;/strong&gt; &lt;span id="xmpp-jid"&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; Use the same password that you used during registration.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="xmpp-loggedout" style="display:none"&gt;
+ &lt;p&gt;Please &lt;a href="https://freedoms4.org/signup/"&gt;sign up&lt;/a&gt; to create an XMPP account.&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function () {
+ var username = localStorage.getItem('f4_username');
+ if (username) {
+ document.getElementById('xmpp-jid').textContent = username + '@freedoms4.org';
+ document.getElementById('xmpp-loggedin').style.display = '';
+ } else {
+ document.getElementById('xmpp-loggedout').style.display = '';
+ }
+})();
+&lt;/script&gt;</description></item></channel></rss>
