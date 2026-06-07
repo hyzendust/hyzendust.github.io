@@ -30,7 +30,24 @@ Academics is good only as a concept. It&amp;rsquo;s implementation and system is
 &lt;h2 class="heading" id="follow-on"&gt;
  Follow on&lt;span class="heading__anchor"&gt; &lt;a href="#follow-on"&gt;#&lt;/a&gt;&lt;/span&gt;
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://mastodon.social/@hyzen"&gt;Mastodon&lt;/a&gt;:&lt;/strong&gt; &lt;a href="mailto:hyzen@mastodon.social"&gt;hyzen@mastodon.social&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lemmy:&lt;/strong&gt; &lt;a href="mailto:hyzen@lemmy.today"&gt;hyzen@lemmy.today&lt;/a&gt;&lt;/p&gt;</description></item><item><title>File share</title><link>https://freedoms4.org/services/file-share/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/file-share/</guid><description>&lt;p&gt;Visit &lt;a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer"&gt;
+&lt;p&gt;&lt;strong&gt;Lemmy:&lt;/strong&gt; &lt;a href="mailto:hyzen@lemmy.today"&gt;hyzen@lemmy.today&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Email Account</title><link>https://freedoms4.org/services/email-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/email-account/</guid><description>&lt;div id="email-loggedin" style="display:none"&gt;
+ &lt;p&gt;&lt;strong&gt;Email ID:&lt;/strong&gt; &lt;span id="email-address"&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; Use the same password that you used during registration.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="email-loggedout" style="display:none"&gt;
+ &lt;p&gt;Please &lt;a href="https://freedoms4.org/signup/"&gt;sign up&lt;/a&gt; to create an email account.&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function () {
+ var username = localStorage.getItem('f4_username');
+ if (username) {
+ document.getElementById('email-address').textContent = username + '@freedoms4.org';
+ document.getElementById('email-loggedin').style.display = '';
+ } else {
+ document.getElementById('email-loggedout').style.display = '';
+ }
+})();
+&lt;/script&gt;</description></item><item><title>File share</title><link>https://freedoms4.org/services/file-share/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/file-share/</guid><description>&lt;p&gt;Visit &lt;a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer"&gt;
 share.freedoms4.org↗
 &lt;/a&gt; to quickly upload files and get sharable links.&lt;/p&gt;</description></item><item><title>Login</title><link>https://freedoms4.org/login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/login/</guid><description/></item><item><title>Sign Up</title><link>https://freedoms4.org/signup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/signup/</guid><description/></item><item><title>Unit 1</title><link>https://freedoms4.org/uninotes/s1/bo-dcm1109/unit1/self/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/uninotes/s1/bo-dcm1109/unit1/self/</guid><description>&lt;h3 class="heading" id="april-6-2026"&gt;
  &lt;em&gt;&lt;strong&gt;April 6, 2026&lt;/strong&gt;&lt;/em&gt;&lt;span class="heading__anchor"&gt; &lt;a href="#april-6-2026"&gt;#&lt;/a&gt;&lt;/span&gt;
