@@ -45,7 +45,7 @@
 			var wrap = document.createElement('div');
 			wrap.className = 'comment-form';
 			wrap.innerHTML =
-				'<textarea class="comment-form__input" placeholder="' + escHtml(placeholder) + '" rows="3" maxlength="2000"></textarea>' +
+				'<textarea class="comment-form__input" placeholder="' + escHtml(placeholder) + '" rows="4" maxlength="2000" style="resize:none;width:100%;"></textarea>' +
 				'<div class="comment-form__footer">' +
 					'<span class="comment-form__counter">0 / 2000</span>' +
 					'<button class="comment-form__submit">' + escHtml(submitLabel) + '</button>' +
