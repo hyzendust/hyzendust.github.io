@@ -176,6 +176,39 @@
 	(function () {
 		var BACKEND = 'https://backend.freedoms4.org/auth.php';
 
+		// ── Already logged in ──
+		if (localStorage.getItem('f4_username')) {
+			document.getElementById('auth-message').textContent = 'You are already logged in!';
+			document.getElementById('auth-message').className =
+				'auth-message auth-message--success';
+			document.getElementById('auth-message').style.display = 'block';
+			document.getElementById('signup-form').style.display = 'none';
+			setTimeout(function () {
+				window.location.href = '/';
+			}, 1500);
+			return;
+		}
+
+		// ── Pass next-page through to login ──
+		var _signupNext =
+			new URLSearchParams(window.location.search).get('next') ||
+			sessionStorage.getItem('f4_login_next') ||
+			'';
+
+		// Save referrer as next-page if not already set and referrer is on this site
+		if (!_signupNext && document.referrer) {
+			try {
+				var _refUrl = new URL(document.referrer);
+				if (_refUrl.hostname === window.location.hostname) {
+					var _refPath = _refUrl.pathname;
+					if (_refPath !== '/login/' && _refPath !== '/signup/') {
+						_signupNext = _refPath;
+						sessionStorage.setItem('f4_login_next', _refPath);
+					}
+				}
+			} catch (e) {}
+		}
+
 		var state = { username: '', email: '', password: '' };
 
 		var msgBox = document.getElementById('auth-message');
@@ -361,6 +394,10 @@
 					if (data.success) {
 						showMsg('Account created! Redirecting to login\u2026', 'success');
 						setTimeout(function () {
+							window.location.href =
+								_signupNext && _signupNext.startsWith('/')
+									? '/login/?next=' + encodeURIComponent(_signupNext)
+									: '/login/';
 							window.location.href = '/login/';
 						}, 1800);
 					} else {

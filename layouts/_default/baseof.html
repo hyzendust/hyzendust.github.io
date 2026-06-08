@@ -70,7 +70,11 @@
 					</div>
 					<!-- Subscribe dropdown -->
 					<div class="rss-subscribe">
-						<button class="rss-subscribe__btn" aria-label="Subscribe via RSS" title="Subscribe via RSS">
+						<button
+							class="rss-subscribe__btn"
+							aria-label="Subscribe via RSS"
+							title="Subscribe via RSS"
+						>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								viewBox="0 0 24 24"
@@ -86,8 +90,18 @@
 							<span>Subscribe</span>
 						</button>
 						<div class="rss-subscribe__dropdown">
-							<button class="rss-subscribe__item" data-rss-url="https://freedoms4.org/index.xml">All updates</button>
-							<button class="rss-subscribe__item" data-rss-url="https://freedoms4.org/blog/index.xml">Blog posts</button>
+							<button
+								class="rss-subscribe__item"
+								data-rss-url="https://freedoms4.org/index.xml"
+							>
+								All updates
+							</button>
+							<button
+								class="rss-subscribe__item"
+								data-rss-url="https://freedoms4.org/blog/index.xml"
+							>
+								Blog posts
+							</button>
 						</div>
 					</div>
 				</div>
@@ -97,5 +111,18 @@
 		<main class="main">{{ block "main" . }}{{ end }}</main>
 		<footer class="footer">{{ partial "footer.html" . }}</footer>
 		{{ partial "body/body-end.html" . }}
+		<script>
+			(function () {
+				var path = window.location.pathname;
+				if (path === '/login/' || path === '/signup/') return;
+				document
+					.querySelectorAll('a[href="/login/"], a[href="/signup/"]')
+					.forEach(function (a) {
+						a.addEventListener('click', function () {
+							sessionStorage.setItem('f4_login_next', path);
+						});
+					});
+			})();
+		</script>
 	</body>
 </html>
