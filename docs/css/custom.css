@@ -914,7 +914,8 @@
 	color: var(--foreground-color);
 	font: inherit;
 	font-size: 0.9rem;
-	resize: vertical;
+	resize: none;
+	min-height: 100px;
 	outline: none;
 	transition: border-color 0.2s;
 }
