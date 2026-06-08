@@ -120,7 +120,7 @@
 		<div id="otp-panel" style="display: none">
 			<p class="otp-panel__hint">
 				A 6-digit code was sent to <strong id="otp-email-display"></strong>.<br />
-				Enter it below. The code expires in 10&nbsp;minutes.
+				Enter it below. The code will expire in 10&nbsp;minutes.
 			</p>
 
 			<div class="auth-form" style="margin-top: 1rem">
@@ -288,7 +288,7 @@
 						otpInput.value = '';
 						otpInput.focus();
 						startResendCooldown(60);
-						showMsg('Code sent! Check your inbox (and spam folder).', 'success');
+						showMsg('OTP sent! Check your inbox (and spam folder).', 'success');
 					} else {
 						showMsg(data.message || 'Failed to send code. Please try again.', 'error');
 					}
