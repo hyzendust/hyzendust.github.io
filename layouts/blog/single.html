@@ -1,18 +1,229 @@
 {{ define "main" }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-  <a href="/blog/">Blog</a>
-  › <span>{{ .Title }}</span>
+	<a href="/blog/">Blog</a>
+	› <span>{{ .Title }}</span>
 </nav>
 
 <h1>{{ .Title }}</h1>
-{{ partial "page/author.html" . }}
-{{ partial "main/dates.html" . }}
-{{ partial "page/translation_list.html" . }}
-{{ partial "page/toc.html" . }}
-{{ .Content }}
-{{ partial "page/terms.html" (dict "taxonomy" "tags" "page" .) }}
-{{ partial "page/terms.html" (dict "taxonomy" "categories" "page" .) }}
-{{ partial "page/page_nav.html" . }}
-{{ partial "page/page-end.html" . }}
+{{ partial "page/author.html" . }} {{ partial "main/dates.html" . }} {{ partial
+"page/translation_list.html" . }} {{ partial "page/toc.html" . }} {{ .Content }} {{ partial
+"page/terms.html" (dict "taxonomy" "tags" "page" .) }} {{ partial "page/terms.html" (dict "taxonomy"
+"categories" "page" .) }} {{ partial "page/page_nav.html" . }} {{ partial "page/page-end.html" . }}
+
+<!-- ── Comments ── -->
+<section class="comments" id="comments">
+	<h2 class="comments__title">Comments</h2>
+	<div id="comments-status" class="comments__status"></div>
+	<div id="comments-list" class="comments__list"></div>
+</section>
+
+<script>
+	(function () {
+		var BACKEND  = 'https://backend.freedoms4.org/comments.php';
+		var POST_ID  = {{ .RelPermalink | jsonify }};
+		var username = localStorage.getItem('f4_username');
+
+		var statusEl = document.getElementById('comments-status');
+		var listEl   = document.getElementById('comments-list');
+
+		// ── Helpers ──
+		function escHtml(s) {
+			return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+		}
+
+		function timeAgo(iso) {
+			var d    = new Date(iso);
+			var diff = Math.floor((Date.now() - d) / 1000);
+			if (diff < 60)   return 'just now';
+			if (diff < 3600) return Math.floor(diff/60) + 'm ago';
+			if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
+			return Math.floor(diff/86400) + 'd ago';
+		}
+
+		function makeForm(placeholder, submitLabel, onSubmit) {
+			var wrap = document.createElement('div');
+			wrap.className = 'comment-form';
+			wrap.innerHTML =
+				'<textarea class="comment-form__input" placeholder="' + escHtml(placeholder) + '" rows="3" maxlength="2000"></textarea>' +
+				'<div class="comment-form__footer">' +
+					'<span class="comment-form__counter">0 / 2000</span>' +
+					'<button class="comment-form__submit">' + escHtml(submitLabel) + '</button>' +
+				'</div>' +
+				'<div class="comment-form__error"></div>';
+
+			var ta      = wrap.querySelector('textarea');
+			var counter = wrap.querySelector('.comment-form__counter');
+			var errEl   = wrap.querySelector('.comment-form__error');
+			var btn     = wrap.querySelector('.comment-form__submit');
+
+			ta.addEventListener('input', function () {
+				counter.textContent = ta.value.length + ' / 2000';
+			});
+
+			btn.addEventListener('click', function () {
+				var text = ta.value.trim();
+				if (!text) { errEl.textContent = 'Comment cannot be empty.'; return; }
+				errEl.textContent = '';
+				btn.disabled = true;
+				onSubmit(text, function (err) {
+					btn.disabled = false;
+					if (err) { errEl.textContent = err; }
+					else { ta.value = ''; counter.textContent = '0 / 2000'; }
+				});
+			});
+
+			return wrap;
+		}
+
+		function renderComment(c, depth) {
+			var el = document.createElement('div');
+			el.className = 'comment' + (depth > 0 ? ' comment--reply' : '');
+			el.dataset.id = c.id;
+
+			var bodyHtml = c.body === null
+				? '<span class="comment__deleted">[deleted]</span>'
+				: '<p class="comment__body">' + escHtml(c.body) + '</p>';
+
+			var actionsHtml = '';
+			if (c.is_own && c.body !== null) {
+				actionsHtml += '<button class="comment__action comment__action--delete" data-id="' + c.id + '">Delete</button>';
+			}
+			if (username && depth === 0) {
+				actionsHtml += '<button class="comment__action comment__action--reply" data-id="' + c.id + '">Reply</button>';
+			}
+
+			el.innerHTML =
+				'<div class="comment__meta">' +
+					'<span class="comment__author">' + escHtml(c.username) + '</span>' +
+					'<span class="comment__time">' + timeAgo(c.created_at) + '</span>' +
+					(actionsHtml ? '<span class="comment__actions">' + actionsHtml + '</span>' : '') +
+				'</div>' +
+				bodyHtml +
+				'<div class="comment__reply-form"></div>' +
+				'<div class="comment__replies"></div>';
+
+			// Delete handler
+			var delBtn = el.querySelector('.comment__action--delete');
+			if (delBtn) {
+				delBtn.addEventListener('click', function () {
+					if (!confirm('Delete this comment?')) return;
+					delBtn.disabled = true;
+					fetch(BACKEND, {
+						method: 'POST',
+						headers: { 'Content-Type': 'application/json' },
+						credentials: 'include',
+						body: JSON.stringify({ action: 'delete', comment_id: c.id }),
+					})
+					.then(function (r) { return r.json(); })
+					.then(function (d) {
+						if (d.success) {
+							el.querySelector('.comment__body').outerHTML = '<span class="comment__deleted">[deleted]</span>';
+							delBtn.remove();
+						} else {
+							delBtn.disabled = false;
+							alert(d.message || 'Failed to delete.');
+						}
+					})
+					.catch(function () { delBtn.disabled = false; alert('Network error.'); });
+				});
+			}
+
+			// Reply handler
+			var replyBtn = el.querySelector('.comment__action--reply');
+			var replyFormEl = el.querySelector('.comment__reply-form');
+			if (replyBtn) {
+				replyBtn.addEventListener('click', function () {
+					if (replyFormEl.children.length) { replyFormEl.innerHTML = ''; return; }
+					var form = makeForm('Write a reply…', 'Reply', function (text, done) {
+						fetch(BACKEND, {
+							method: 'POST',
+							headers: { 'Content-Type': 'application/json' },
+							credentials: 'include',
+							body: JSON.stringify({ action: 'reply', post_id: POST_ID, parent_id: c.id, body: text }),
+						})
+						.then(function (r) { return r.json(); })
+						.then(function (d) {
+							if (d.success) {
+								done(null);
+								replyFormEl.innerHTML = '';
+								loadComments();
+							} else {
+								done(d.message || 'Failed to post reply.');
+							}
+						})
+						.catch(function () { done('Network error.'); });
+					});
+					replyFormEl.appendChild(form);
+				});
+			}
+
+			// Nested replies
+			var repliesEl = el.querySelector('.comment__replies');
+			if (c.replies && c.replies.length) {
+				c.replies.forEach(function (r) {
+					repliesEl.appendChild(renderComment(r, depth + 1));
+				});
+			}
+
+			return el;
+		}
+
+		function loadComments() {
+			fetch(BACKEND + '?action=get&post_id=' + encodeURIComponent(POST_ID), {
+				credentials: 'include',
+			})
+			.then(function (r) { return r.json(); })
+			.then(function (data) {
+				listEl.innerHTML = '';
+
+				if (!data.success) {
+					listEl.innerHTML = '<p class="comments__error">Failed to load comments.</p>';
+					return;
+				}
+
+				// Comment form for logged-in users
+				if (data.logged_in) {
+					var form = makeForm('Write a comment…', 'Post comment', function (text, done) {
+						fetch(BACKEND, {
+							method: 'POST',
+							headers: { 'Content-Type': 'application/json' },
+							credentials: 'include',
+							body: JSON.stringify({ action: 'post', post_id: POST_ID, body: text }),
+						})
+						.then(function (r) { return r.json(); })
+						.then(function (d) {
+							if (d.success) { done(null); loadComments(); }
+							else { done(d.message || 'Failed to post.'); }
+						})
+						.catch(function () { done('Network error.'); });
+					});
+					listEl.appendChild(form);
+				} else {
+					var msg = document.createElement('p');
+					msg.className = 'comments__login-msg';
+					msg.innerHTML = '<a href="/login/">Log in</a> or <a href="/signup/">Sign up</a> to comment.';
+					listEl.appendChild(msg);
+				}
+
+				if (!data.comments.length) {
+					var empty = document.createElement('p');
+					empty.className = 'comments__empty';
+					empty.textContent = 'No comments yet. Be the first!';
+					listEl.appendChild(empty);
+					return;
+				}
+
+				data.comments.forEach(function (c) {
+					listEl.appendChild(renderComment(c, 0));
+				});
+			})
+			.catch(function () {
+				listEl.innerHTML = '<p class="comments__error">Failed to load comments.</p>';
+			});
+		}
+
+		loadComments();
+	})();
+</script>
 {{ end }}
