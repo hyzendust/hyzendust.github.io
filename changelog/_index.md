@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[08-06-2026]
+- ***Email registration on the website.***
+
 [07-06-2026]
 - ***XMPP registration on the website.***
 
