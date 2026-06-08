@@ -1,6 +1,7 @@
 +++
 draft = false
-title = 'File share'
+title = 'File Share'
+weight = 3
 +++
 
 Visit <a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer">

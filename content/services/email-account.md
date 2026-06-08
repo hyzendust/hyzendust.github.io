@@ -1,6 +1,7 @@
 +++
 draft = false
-title = 'Email Account'
+title = 'Email'
+weight = 1
 +++
 
 <div id="email-loggedin" style="display:none">

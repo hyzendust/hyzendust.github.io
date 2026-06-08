@@ -1,6 +1,7 @@
 +++
 draft = false
-title = 'XMPP Account'
+title = 'XMPP'
+weight = 2
 +++
 
 <div id="xmpp-loggedin" style="display:none">
