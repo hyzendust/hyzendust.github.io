@@ -940,12 +940,16 @@
 	padding: 0.35rem 0.9rem;
 	background: var(--accent-color);
 	color: #fff;
-	border: none;
+	border: 1px solid var(--accent-color);
 	border-radius: 4px;
 	font: inherit;
 	font-size: 0.85rem;
 	cursor: pointer;
-	transition: opacity 0.15s;
+	transition:
+		opacity 0.15s,
+		background-color 0.2s ease,
+		border-color 0.2s ease,
+		color 0.2s ease;
 }
 
 .comment-form__submit:hover {
@@ -954,6 +958,32 @@
 .comment-form__submit:disabled {
 	opacity: 0.5;
 	cursor: not-allowed;
+}
+
+[data-theme='dark'] .comment-form__submit {
+	background-color: transparent;
+	border-color: var(--foreground-color);
+	color: var(--foreground-color);
+}
+
+[data-theme='dark'] .comment-form__submit:hover:not(:disabled) {
+	background-color: var(--foreground-color);
+	border-color: var(--foreground-color);
+	color: var(--background-color);
+}
+
+@media (prefers-color-scheme: dark) {
+	.comment-form__submit {
+		background-color: transparent;
+		border-color: var(--foreground-color);
+		color: var(--foreground-color);
+	}
+
+	.comment-form__submit:hover:not(:disabled) {
+		background-color: var(--foreground-color);
+		border-color: var(--foreground-color);
+		color: var(--background-color);
+	}
 }
 
 .comment-form__error {
