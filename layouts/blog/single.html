@@ -23,6 +23,7 @@
 		var BACKEND  = 'https://backend.freedoms4.org/comments.php';
 		var POST_ID  = {{ .RelPermalink | jsonify }};
 		var username = localStorage.getItem('f4_username');
+		var isAdmin  = false;
 
 		var statusEl = document.getElementById('comments-status');
 		var listEl   = document.getElementById('comments-list');
@@ -81,15 +82,22 @@
 			el.className = 'comment' + (depth > 0 ? ' comment--reply' : '');
 			el.dataset.id = c.id;
 
-			var bodyHtml = c.body === null
-				? '<span class="comment__deleted">[deleted]</span>'
+			var isDeleted = c.body === null;
+			var deletedLabel = c.deleted_label || 'deleted';
+
+			var bodyHtml = isDeleted
+				? '<span class="comment__deleted">[' + escHtml(deletedLabel) + ']</span>'
 				: '<p class="comment__body">' + escHtml(c.body) + '</p>';
 
 			var actionsHtml = '';
-			if (c.is_own && c.body !== null) {
+
+			// Delete button: own comment OR admin, only if not already deleted
+			if (!isDeleted && (c.is_own || isAdmin)) {
 				actionsHtml += '<button class="comment__action comment__action--delete" data-id="' + c.id + '">Delete</button>';
 			}
-			if (username && depth === 0) {
+
+			// Reply button: any logged-in user can reply to any non-deleted comment at any depth
+			if (username && !isDeleted) {
 				actionsHtml += '<button class="comment__action comment__action--reply" data-id="' + c.id + '">Reply</button>';
 			}
 
@@ -118,8 +126,7 @@
 					.then(function (r) { return r.json(); })
 					.then(function (d) {
 						if (d.success) {
-							el.querySelector('.comment__body').outerHTML = '<span class="comment__deleted">[deleted]</span>';
-							delBtn.remove();
+							loadComments();
 						} else {
 							delBtn.disabled = false;
 							alert(d.message || 'Failed to delete.');
@@ -158,13 +165,15 @@
 				});
 			}
 
-			// Nested replies
+			// Nested replies — suppressed entirely when parent is deleted
 			var repliesEl = el.querySelector('.comment__replies');
-			var replyList = Array.isArray(c.replies) ? c.replies : Object.values(c.replies || {});
-			if (replyList.length) {
-				replyList.forEach(function (r) {
-					repliesEl.appendChild(renderComment(r, depth + 1));
-				});
+			if (!isDeleted) {
+				var replyList = Array.isArray(c.replies) ? c.replies : Object.values(c.replies || {});
+				if (replyList.length) {
+					replyList.forEach(function (r) {
+						repliesEl.appendChild(renderComment(r, depth + 1));
+					});
+				}
 			}
 
 			return el;
@@ -182,6 +191,8 @@
 					listEl.innerHTML = '<p class="comments__error">Failed to load comments.</p>';
 					return;
 				}
+
+				isAdmin = !!data.is_admin;
 
 				// Comment form for logged-in users
 				if (data.logged_in) {
