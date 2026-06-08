@@ -940,7 +940,7 @@
 	padding: 0.35rem 0.9rem;
 	background: var(--accent-color);
 	color: #fff;
-	border: 1px solid var(--accent-color);
+	border: none;
 	border-radius: 4px;
 	font: inherit;
 	font-size: 0.85rem;
@@ -962,7 +962,7 @@
 
 [data-theme='dark'] .comment-form__submit {
 	background-color: transparent;
-	border-color: var(--foreground-color);
+	border: 1px solid var(--foreground-color);
 	color: var(--foreground-color);
 }
 
@@ -975,7 +975,7 @@
 @media (prefers-color-scheme: dark) {
 	.comment-form__submit {
 		background-color: transparent;
-		border-color: var(--foreground-color);
+		border: 1px solid var(--foreground-color);
 		color: var(--foreground-color);
 	}
 

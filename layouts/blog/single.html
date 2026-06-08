@@ -160,8 +160,9 @@
 
 			// Nested replies
 			var repliesEl = el.querySelector('.comment__replies');
-			if (c.replies && c.replies.length) {
-				c.replies.forEach(function (r) {
+			var replyList = Array.isArray(c.replies) ? c.replies : Object.values(c.replies || {});
+			if (replyList.length) {
+				replyList.forEach(function (r) {
 					repliesEl.appendChild(renderComment(r, depth + 1));
 				});
 			}
