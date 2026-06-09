@@ -100,9 +100,6 @@
 				'auth-message auth-message--success';
 			document.getElementById('auth-message').style.display = 'block';
 			document.getElementById('login-form').style.display = 'none';
-			setTimeout(function () {
-				window.location.href = '/';
-			}, 1500);
 			return;
 		}
 
@@ -129,6 +126,7 @@
 		var msgBox = document.getElementById('auth-message');
 		var submitBtn = document.getElementById('login-submit');
 		var eyeBtn = form.querySelector('.auth-form__eye');
+		var pwdInput = document.getElementById('login-password');
 		var pwdInput = document.getElementById('login-password');
 
 		eyeBtn.addEventListener('click', function () {

@@ -1,33 +1,22 @@
 {{ define "main" }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-  <a href="/services/">Services</a>
-  › <span>{{ .Title }}</span>
+	<a href="/services/">Services</a>
+	› <span>{{ .Title }}</span>
 </nav>
 
 <h1>{{ .Title }}</h1>
 
-{{ .Content }}
-
-{{/* Prev/next among sibling services */}}
-{{ $allPages := .CurrentSection.Pages.ByTitle }}
-{{ $currentTitle := .Title }}
-{{ $currentIdx := 0 }}
-{{ range $i, $p := $allPages }}
-  {{ if eq $p.Title $currentTitle }}{{ $currentIdx = $i }}{{ end }}
-{{ end }}
-
-{{ if gt (len $allPages) 1 }}
+{{ .Content }} {{/* Prev/next among sibling services */}} {{ $allPages :=
+.CurrentSection.Pages.ByWeight }} {{ $currentTitle := .Title }} {{ $currentIdx := 0 }} {{ range $i,
+$p := $allPages }} {{ if eq $p.Title $currentTitle }}{{ $currentIdx = $i }}{{ end }} {{ end }} {{ if
+gt (len $allPages) 1 }}
 <nav class="page-nav">
-  {{ if gt $currentIdx 0 }}
-    {{ $prev := index $allPages (sub $currentIdx 1) }}
-    <a class="page-nav__previous-link" href="{{ $prev.RelPermalink }}">← {{ $prev.LinkTitle }}</a>
-  {{ end }}
-  {{ if lt $currentIdx (sub (len $allPages) 1) }}
-    {{ $next := index $allPages (add $currentIdx 1) }}
-    <a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.LinkTitle }} →</a>
-  {{ end }}
+	{{ if gt $currentIdx 0 }} {{ $prev := index $allPages (sub $currentIdx 1) }}
+	<a class="page-nav__previous-link" href="{{ $prev.RelPermalink }}">← {{ $prev.LinkTitle }}</a>
+	{{ end }} {{ if lt $currentIdx (sub (len $allPages) 1) }} {{ $next := index $allPages (add
+	$currentIdx 1) }}
+	<a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.LinkTitle }} →</a>
+	{{ end }}
 </nav>
-{{ end }}
-
-{{ end }}
+{{ end }} {{ end }}
