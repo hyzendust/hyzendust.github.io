@@ -14,7 +14,6 @@
 <!-- ── Comments ── -->
 <section class="comments" id="comments">
 	<h2 class="comments__title">Comments</h2>
-	<div id="comments-status" class="comments__status"></div>
 	<div id="comments-list" class="comments__list"></div>
 </section>
 
@@ -25,8 +24,7 @@
 		var username = localStorage.getItem('f4_username');
 		var isAdmin  = false;
 
-		var statusEl = document.getElementById('comments-status');
-		var listEl   = document.getElementById('comments-list');
+		var listEl = document.getElementById('comments-list');
 
 		// ── Helpers ──
 		function escHtml(s) {
@@ -192,11 +190,24 @@
 					return;
 				}
 
-				isAdmin = !!data.is_admin;
+				isAdmin  = !!data.is_admin;
+				username = data.username || null;
 
-				// Comment form for logged-in users
+				// ── Render comments first ──
+				if (!data.comments.length) {
+					var empty = document.createElement('p');
+					empty.className = 'comments__empty';
+					empty.textContent = 'No comments yet. Be the first!';
+					listEl.appendChild(empty);
+				} else {
+					data.comments.forEach(function (c) {
+						listEl.appendChild(renderComment(c, 0));
+					});
+				}
+
+				// ── Then: form (logged in) or login prompt (logged out) ──
 				if (data.logged_in) {
-					var form = makeForm('Write a comment…', 'Post comment', function (text, done) {
+					var form = makeForm('Comment as ' + data.username + '…', 'Post comment', function (text, done) {
 						fetch(BACKEND, {
 							method: 'POST',
 							headers: { 'Content-Type': 'application/json' },
@@ -217,18 +228,6 @@
 					msg.innerHTML = '<a href="/login/">Log in</a> or <a href="/signup/">Sign up</a> to comment.';
 					listEl.appendChild(msg);
 				}
-
-				if (!data.comments.length) {
-					var empty = document.createElement('p');
-					empty.className = 'comments__empty';
-					empty.textContent = 'No comments yet. Be the first!';
-					listEl.appendChild(empty);
-					return;
-				}
-
-				data.comments.forEach(function (c) {
-					listEl.appendChild(renderComment(c, 0));
-				});
 			})
 			.catch(function () {
 				listEl.innerHTML = '<p class="comments__error">Failed to load comments.</p>';
