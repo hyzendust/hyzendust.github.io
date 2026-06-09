@@ -171,6 +171,7 @@
 					if (data.success) {
 						showMsg('Logged in successfully! Redirecting\u2026', 'success');
 						localStorage.setItem('f4_username', username);
+						localStorage.setItem('f4_login_time', Date.now());
 						setTimeout(function () {
 							var _next = sessionStorage.getItem('f4_login_next');
 							sessionStorage.removeItem('f4_login_next');

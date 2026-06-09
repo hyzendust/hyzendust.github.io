@@ -42,7 +42,7 @@
 		function applyLoggedIn(uname) {
 			// ── Desktop ──────────────────────────────────────────────────────────
 			var authDesktop = document.querySelector('.brand__auth');
-			if (authDesktop) {
+			if (authDesktop && !authDesktop.querySelector('.brand__auth-user')) {
 				authDesktop.classList.add('brand__auth--loggedin');
 
 				// Build user button + dropdown
@@ -144,9 +144,12 @@
 				} catch (err) {
 					// Try async clipboard as last resort
 					if (navigator.clipboard) {
-						navigator.clipboard.writeText(url).then(showCopied).catch(function() {
-							item.textContent = url;
-						});
+						navigator.clipboard
+							.writeText(url)
+							.then(showCopied)
+							.catch(function () {
+								item.textContent = url;
+							});
 					}
 				}
 			});
