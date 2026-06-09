@@ -168,16 +168,12 @@
 						}
 					})
 					.catch(function () {
-						// Network/404 error — count failures, force logout after 3
-						var fails =
-							parseInt(localStorage.getItem('f4_session_fails') || '0', 10) + 1;
-						localStorage.setItem('f4_session_fails', fails);
-						if (fails >= 3) {
-							localStorage.removeItem('f4_username');
-							localStorage.removeItem('f4_login_time');
-							localStorage.removeItem('f4_session_fails');
-							window.location.reload();
-						}
+						// Backend completely unreachable (404, files gone, server down)
+						// Force logout immediately
+						localStorage.removeItem('f4_username');
+						localStorage.removeItem('f4_login_time');
+						localStorage.removeItem('f4_session_fails');
+						window.location.reload();
 					});
 			})();
 		</script>
