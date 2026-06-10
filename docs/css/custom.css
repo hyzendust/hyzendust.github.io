@@ -1085,6 +1085,7 @@
 .auth-page__title {
 	margin-top: 55.2px;
 	margin-bottom: 1.2rem;
+	text-align: center;
 }
 
 .auth-card {
