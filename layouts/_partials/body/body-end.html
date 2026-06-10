@@ -91,7 +91,9 @@
 				body: JSON.stringify({ action: 'logout' }),
 			}).finally(function () {
 				localStorage.removeItem('f4_username');
-				window.location.href = '/';
+				localStorage.removeItem('f4_login_time');
+				localStorage.removeItem('f4_session_fails');
+				window.location.reload();
 			});
 		}
 
