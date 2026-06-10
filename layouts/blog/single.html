@@ -81,7 +81,7 @@
 			el.dataset.id = c.id;
 
 			var isDeleted = c.body === null;
-			var deletedLabel = c.deleted_label || 'deleted';
+			var deletedLabel = c.deleted_label || 'deleted by user';
 
 			var bodyHtml = isDeleted
 				? '<span class="comment__deleted">[' + escHtml(deletedLabel) + ']</span>'
@@ -119,7 +119,7 @@
 						method: 'POST',
 						headers: { 'Content-Type': 'application/json' },
 						credentials: 'include',
-						body: JSON.stringify({ action: 'delete', comment_id: c.id }),
+						body: JSON.stringify({ action: 'delete', comment_id: c.id, deleted_by_owner: c.username === username }),
 					})
 					.then(function (r) { return r.json(); })
 					.then(function (d) {
