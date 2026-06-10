@@ -1098,9 +1098,9 @@
 	border-radius: 6px;
 	padding: 0.65rem 0.9rem;
 	font-size: 0.88rem;
-	margin-bottom: 1.2rem;
+	margin-bottom: 0.5rem;
 	line-height: 1.4;
-	min-height: 3rem;
+	min-height: 1.5rem;
 	box-sizing: border-box;
 	border: 1px solid transparent;
 	opacity: 0;
@@ -1159,7 +1159,8 @@
 .auth-form__input-wrap {
 	position: relative;
 	display: flex;
-	align-items: center;
+	flex-direction: column;
+	gap: 1.1rem;
 }
 
 .auth-form__input-wrap .auth-form__input {
