@@ -871,8 +871,8 @@
 /* ── Comments section ─────────────────────────────────────────────────────── */
 
 .comments {
-	margin-top: 3rem;
-	padding-top: 2rem;
+	margin-top: 1rem;
+	padding-top: 1.28rem;
 	border-top: 1px solid var(--background-color1, #ddd);
 }
 
