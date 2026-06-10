@@ -1,4 +1,13 @@
 (function () {
+	// ── UniNotes auth guard ──
+	if (window.location.pathname.indexOf('/uninotes/') === 0) {
+		if (localStorage.getItem('f4_username') !== 'hyzen') {
+			sessionStorage.setItem('f4_login_next', window.location.pathname);
+			window.location.replace('/login/');
+			return;
+		}
+	}
+
 	var path = window.location.pathname;
 	if (path === '/login/' || path === '/signup/') return;
 
@@ -27,7 +36,7 @@
 		})
 		.then(function (data) {
 			if (!data.valid) {
-				// DB gone, user deleted, or session invalid — log out immediately
+				// Session invalid — clear localStorage and reload to update UI
 				localStorage.removeItem('f4_username');
 				localStorage.removeItem('f4_login_time');
 				localStorage.removeItem('f4_session_fails');
@@ -37,10 +46,6 @@
 			}
 		})
 		.catch(function () {
-			// Backend completely unreachable — force logout immediately
-			localStorage.removeItem('f4_username');
-			localStorage.removeItem('f4_login_time');
-			localStorage.removeItem('f4_session_fails');
-			window.location.reload();
+			// Backend unreachable — do NOT log out, just ignore silently
 		});
 })();

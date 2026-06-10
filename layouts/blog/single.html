@@ -191,7 +191,13 @@
 				}
 
 				isAdmin  = !!data.is_admin;
-				username = data.username || null;
+				username = data.logged_in ? (data.username || null) : null;
+				// Keep localStorage in sync with what the server says
+				if (!data.logged_in && localStorage.getItem('f4_username')) {
+					localStorage.removeItem('f4_username');
+					localStorage.removeItem('f4_login_time');
+					localStorage.removeItem('f4_session_fails');
+				}
 
 				// ── Render comments first ──
 				if (!data.comments.length) {
