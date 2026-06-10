@@ -1100,12 +1100,13 @@
 	font-size: 0.88rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.4;
-	min-height: 1.5rem;
+	height: 2.8rem;
 	box-sizing: border-box;
 	border: 1px solid transparent;
 	opacity: 0;
 	pointer-events: none;
 	transition: opacity 0.15s ease;
+	overflow: hidden;
 }
 
 .auth-message.is-visible {
