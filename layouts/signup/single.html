@@ -165,7 +165,7 @@
 			</div>
 		</div>
 
-		<p class="auth-card__footer">
+		<p class="auth-card__footer" id="signup-footer">
 			Already have an account? <a href="/login/" class="auth-card__link">Log in</a>
 		</p>
 	</div>
@@ -181,6 +181,7 @@
 			document.getElementById('auth-message').className =
 				'auth-message auth-message--success is-visible';
 			document.getElementById('signup-form').style.display = 'none';
+			document.getElementById('signup-footer').style.display = 'none';
 			return;
 		}
 

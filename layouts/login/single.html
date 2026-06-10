@@ -82,7 +82,7 @@
 			</button>
 		</form>
 
-		<p class="auth-card__footer">
+		<p class="auth-card__footer" id="login-footer">
 			Don't have an account? <a href="/signup/" class="auth-card__link">Sign up</a>
 		</p>
 	</div>
@@ -98,6 +98,7 @@
 			document.getElementById('auth-message').className =
 				'auth-message auth-message--success is-visible';
 			document.getElementById('login-form').style.display = 'none';
+			document.getElementById('login-footer').style.display = 'none';
 			return;
 		}
 
