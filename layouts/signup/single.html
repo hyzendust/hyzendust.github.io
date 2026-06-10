@@ -7,39 +7,39 @@
 
 		<!-- ── STEP 1 — Account details ───────────────────────────────── -->
 		<form id="signup-form" class="auth-form" novalidate>
-			<div class="auth-form__group">
-				<label class="auth-form__label" for="signup-username">Username</label>
-				<input
-					class="auth-form__input"
-					type="text"
-					id="signup-username"
-					name="username"
-					autocomplete="username"
-					required
-					minlength="3"
-					maxlength="32"
-					pattern="[a-zA-Z0-9_\-]+"
-				/>
-				<span class="auth-form__hint"
-					>(3-32 characters; letters, numbers, _ and - only)</span
-				>
-			</div>
+			<div class="auth-form__input-wrap">
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-username">Username</label>
+					<input
+						class="auth-form__input"
+						type="text"
+						id="signup-username"
+						name="username"
+						autocomplete="username"
+						required
+						minlength="3"
+						maxlength="32"
+						pattern="[a-zA-Z0-9_\-]+"
+					/>
+					<span class="auth-form__hint"
+						>(3-32 characters; letters, numbers, _ and - only)</span
+					>
+				</div>
 
-			<div class="auth-form__group">
-				<label class="auth-form__label" for="signup-email">Email</label>
-				<input
-					class="auth-form__input"
-					type="email"
-					id="signup-email"
-					name="email"
-					autocomplete="email"
-					required
-				/>
-			</div>
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-email">Email</label>
+					<input
+						class="auth-form__input"
+						type="email"
+						id="signup-email"
+						name="email"
+						autocomplete="email"
+						required
+					/>
+				</div>
 
-			<div class="auth-form__group">
-				<label class="auth-form__label" for="signup-password">Password</label>
-				<div class="auth-form__input-wrap">
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-password">Password</label>
 					<input
 						class="auth-form__input"
 						type="password"
@@ -81,20 +81,20 @@
 							/>
 						</svg>
 					</button>
+					<span class="auth-form__hint">(at least 8 characters)</span>
 				</div>
-				<span class="auth-form__hint">(at least 8 characters)</span>
-			</div>
 
-			<div class="auth-form__group">
-				<label class="auth-form__label" for="signup-confirm">Confirm Password</label>
-				<input
-					class="auth-form__input"
-					type="password"
-					id="signup-confirm"
-					name="confirm_password"
-					autocomplete="new-password"
-					required
-				/>
+				<div class="auth-form__group">
+					<label class="auth-form__label" for="signup-confirm">Confirm Password</label>
+					<input
+						class="auth-form__input"
+						type="password"
+						id="signup-confirm"
+						name="confirm_password"
+						autocomplete="new-password"
+						required
+					/>
+				</div>
 			</div>
 
 			<button type="submit" class="auth-form__submit" id="signup-submit">
