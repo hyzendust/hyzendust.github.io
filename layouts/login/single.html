@@ -3,7 +3,7 @@
 	<h1 class="auth-page__title">{{ .Title }}</h1>
 
 	<div class="auth-card">
-		<div id="auth-message" class="auth-message" aria-live="polite" style="display: none"></div>
+		<div id="auth-message" class="auth-message" aria-live="polite"></div>
 
 		<form id="login-form" class="auth-form" novalidate>
 			<div class="auth-form__input-wrap">
@@ -97,8 +97,7 @@
 		if (localStorage.getItem('f4_username')) {
 			document.getElementById('auth-message').textContent = 'You are already logged in!';
 			document.getElementById('auth-message').className =
-				'auth-message auth-message--success';
-			document.getElementById('auth-message').style.display = 'block';
+				'auth-message auth-message--success is-visible';
 			document.getElementById('login-form').style.display = 'none';
 			return;
 		}
@@ -138,13 +137,12 @@
 
 		function showMsg(text, type) {
 			msgBox.textContent = text;
-			msgBox.className = 'auth-message auth-message--' + type;
-			msgBox.style.display = 'block';
+			msgBox.className = 'auth-message auth-message--' + type + ' is-visible';
 		}
 
 		form.addEventListener('submit', function (e) {
 			e.preventDefault();
-			msgBox.style.display = 'none';
+			msgBox.className = 'auth-message';
 
 			var username = document.getElementById('login-username').value.trim();
 			var password = pwdInput.value;
