@@ -886,6 +886,7 @@
 	font-size: 0.9rem;
 	margin-bottom: 1.2rem;
 	color: var(--foreground-color3, #888);
+	padding-top: 0.06rem;
 }
 
 .comments__empty {
