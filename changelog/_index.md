@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[10-06-2026]
+- ***Comments on blogpost.***
+
 [08-06-2026]
 - ***Email registration on the website.***
 
