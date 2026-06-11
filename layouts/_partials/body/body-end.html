@@ -67,6 +67,16 @@
 				logoutBtn.textContent = 'Log Out';
 				logoutBtn.addEventListener('click', doLogout);
 
+				// ── Admin link for hyzen only ──
+				if (uname === 'hyzen') {
+					var adminLink = document.createElement('a');
+					adminLink.className = 'brand__auth-user-admin';
+					adminLink.href = '/admin/';
+					adminLink.textContent = 'User Management';
+					dropdown.appendChild(adminLink);
+				}
+
+				dropdown.appendChild(logoutBtn);
 				dropdown.appendChild(logoutBtn);
 				userWrap.appendChild(userBtn);
 				userWrap.appendChild(dropdown);

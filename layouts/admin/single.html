@@ -1,0 +1,181 @@
+{{ define "main" }}
+
+<div id="admin-gate" style="display: none">
+	<p>You do not have permission to access this page.</p>
+</div>
+
+<div id="admin-panel" style="display: none">
+	<h1>User Management</h1>
+	<div id="admin-msg" class="auth-message" style="display: none" aria-live="polite"></div>
+	<div id="admin-table-wrap"></div>
+</div>
+
+<script>
+	(function () {
+		var BACKEND = 'https://backend.freedoms4.org/admin.php';
+		var username = localStorage.getItem('f4_username');
+
+		var gate = document.getElementById('admin-gate');
+		var panel = document.getElementById('admin-panel');
+		var msg = document.getElementById('admin-msg');
+		var wrap = document.getElementById('admin-table-wrap');
+
+		if (username !== 'hyzen') {
+			gate.style.display = '';
+			return;
+		}
+		panel.style.display = '';
+
+		function showMsg(text, type) {
+			msg.textContent = text;
+			msg.className = 'auth-message auth-message--' + type;
+			msg.style.display = 'block';
+			setTimeout(function () {
+				msg.style.display = 'none';
+			}, 3000);
+		}
+
+		function escHtml(s) {
+			return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+		}
+
+		function renderTable(users) {
+			if (!users.length) {
+				wrap.innerHTML = '<p>No users found.</p>';
+				return;
+			}
+
+			var html =
+				'<table class="admin-table">' +
+				'<thead><tr>' +
+				'<th>#</th><th>Username</th><th>Email</th><th>Joined</th><th>Status</th><th>Actions</th>' +
+				'</tr></thead><tbody>';
+
+			users.forEach(function (u) {
+				var joined = new Date(u.created_at).toLocaleDateString();
+				var blocked = u.blocked === true || u.blocked === 't' || u.blocked === '1';
+				var status = blocked
+					? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
+					: '<span class="admin-badge admin-badge--active">Active</span>';
+
+				var blockBtn = blocked
+					? '<button class="admin-btn admin-btn--unblock" data-id="' +
+						u.id +
+						'" data-action="unblock_user">Unblock</button>'
+					: '<button class="admin-btn admin-btn--block"   data-id="' +
+						u.id +
+						'" data-action="block_user">Block</button>';
+
+				var deleteBtn =
+					'<button class="admin-btn admin-btn--delete" data-id="' +
+					u.id +
+					'" data-username="' +
+					escHtml(u.username) +
+					'" data-action="delete_user">Delete</button>';
+
+				html +=
+					'<tr id="user-row-' +
+					u.id +
+					'">' +
+					'<td>' +
+					u.id +
+					'</td>' +
+					'<td>' +
+					escHtml(u.username) +
+					'</td>' +
+					'<td>' +
+					escHtml(u.email) +
+					'</td>' +
+					'<td>' +
+					joined +
+					'</td>' +
+					'<td>' +
+					status +
+					'</td>' +
+					'<td class="admin-actions">' +
+					blockBtn +
+					' ' +
+					deleteBtn +
+					'</td>' +
+					'</tr>';
+			});
+
+			html += '</tbody></table>';
+			wrap.innerHTML = html;
+
+			wrap.querySelectorAll('[data-action]').forEach(function (btn) {
+				btn.addEventListener('click', function () {
+					var action = btn.dataset.action;
+					var id = parseInt(btn.dataset.id, 10);
+					var uname = btn.dataset.username || '';
+
+					if (action === 'delete_user') {
+						if (
+							!confirm(
+								'Permanently delete user "' + uname + '"? This cannot be undone.'
+							)
+						)
+							return;
+					}
+
+					btn.disabled = true;
+
+					fetch(BACKEND, {
+						method: 'POST',
+						headers: { 'Content-Type': 'application/json' },
+						credentials: 'include',
+						body: JSON.stringify({ action: action, user_id: id }),
+					})
+						.then(function (r) {
+							return r.json();
+						})
+						.then(function (data) {
+							if (data.success) {
+								if (action === 'delete_user') {
+									var row = document.getElementById('user-row-' + id);
+									if (row) row.remove();
+									showMsg('User deleted.', 'success');
+								} else {
+									// Reload to reflect new block state
+									loadUsers();
+								}
+							} else {
+								showMsg(data.message || 'Action failed.', 'error');
+								btn.disabled = false;
+							}
+						})
+						.catch(function () {
+							showMsg('Network error.', 'error');
+							btn.disabled = false;
+						});
+				});
+			});
+		}
+
+		function loadUsers() {
+			wrap.innerHTML = '<p>Loading&hellip;</p>';
+			fetch(BACKEND + '?action=list_users', {
+				credentials: 'include',
+			})
+				.then(function (r) {
+					return r.json();
+				})
+				.then(function (data) {
+					if (data.success) {
+						renderTable(data.users);
+					} else {
+						wrap.innerHTML =
+							'<p class="admin-error">' +
+							escHtml(data.message || 'Failed to load users.') +
+							'</p>';
+					}
+				})
+				.catch(function () {
+					wrap.innerHTML = '<p class="admin-error">Network error.</p>';
+				});
+		}
+
+		loadUsers();
+	})();
+</script>
+{{ end }}
