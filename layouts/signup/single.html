@@ -302,7 +302,7 @@
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
 				credentials: 'include',
-				body: JSON.stringify({ action: 'send_otp', email: email }),
+				body: JSON.stringify({ action: 'send_otp', username: username, email: email }),
 			})
 				.then(function (r) {
 					return r.json();
@@ -337,7 +337,11 @@
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
 				credentials: 'include',
-				body: JSON.stringify({ action: 'send_otp', email: state.email }),
+				body: JSON.stringify({
+					action: 'send_otp',
+					username: state.username,
+					email: state.email,
+				}),
 			})
 				.then(function (r) {
 					return r.json();
