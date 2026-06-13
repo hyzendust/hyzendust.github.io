@@ -65,7 +65,7 @@ We may suspend or terminate your account if:
 * Your use poses a security risk.
 * We are required to do so by law.
 
-You may stop using the services and request account deletion at any time.
+You may stop using the services and [request](https://freedoms4.org/contact/) account deletion at any time.
 
 ### 9. Disclaimer of Warranties
 
