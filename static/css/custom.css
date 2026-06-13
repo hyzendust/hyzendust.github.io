@@ -1188,6 +1188,7 @@
 
 .auth-form__group--checkbox {
 	flex-direction: row;
+	margin-top: 6px;
 }
 
 .auth-form__checkbox-label {
