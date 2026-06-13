@@ -57,47 +57,31 @@
 				return;
 			}
 
-			var adminIndex = users.findIndex(function (u) {
-				return u.username === username;
-			});
-			var adminUser = adminIndex === -1 ? null : users[adminIndex];
-			var otherUsers = users.filter(function (u) {
-				return u.username !== username;
-			});
 			var html =
 				'<table class="admin-table">' +
 				'<tbody><tr class="admin-table__header">' +
-				'<th>#</th><th>Username</th><th>Email</th><th>Joined</th><th>Status</th>' +
-				(adminUser ? '<th rowspan="2">Actions</th>' : '<th>Actions</th>') +
+				'<th>#</th><th>Username</th><th>Email</th><th>Joined</th><th>Status</th><th>Actions</th>' +
 				'</tr>';
 
-			function userRow(u, isCurrentUser) {
+			function userRow(u) {
 				var joined = new Date(u.created_at).toLocaleDateString();
 				var blocked = u.blocked === true || u.blocked === 't' || u.blocked === '1';
-				var status = isCurrentUser
-					? '<span class="admin-badge admin-badge--admin">Admin</span>'
-					: blocked
-						? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
-						: '<span class="admin-badge admin-badge--active">Active</span>';
-				var blockBtn = '';
-				var deleteBtn = '';
-
-				if (!isCurrentUser) {
-					blockBtn = blocked
-						? '<button class="admin-btn admin-btn--unblock" data-id="' +
-							u.id +
-							'" data-action="unblock_user">Unblock</button>'
-						: '<button class="admin-btn admin-btn--block" data-id="' +
-							u.id +
-							'" data-action="block_user">Block</button>';
-
-					deleteBtn =
-						'<button class="admin-btn admin-btn--delete" data-id="' +
+				var status = blocked
+					? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
+					: '<span class="admin-badge admin-badge--active">Active</span>';
+				var blockBtn = blocked
+					? '<button class="admin-btn admin-btn--unblock" data-id="' +
+						u.id +
+						'" data-action="unblock_user">Unblock</button>'
+					: '<button class="admin-btn admin-btn--block" data-id="' +
+						u.id +
+						'" data-action="block_user">Block</button>';
+				var deleteBtn =
+					'<button class="admin-btn admin-btn--delete" data-id="' +
 						u.id +
 						'" data-username="' +
 						escHtml(u.username) +
 						'" data-action="delete_user">Delete Records</button>';
-				}
 
 				return (
 					'<tr id="user-row-' +
@@ -118,18 +102,17 @@
 					'<td>' +
 					status +
 					'</td>' +
-					(isCurrentUser
-						? ''
-						: '<td class="admin-actions">' + blockBtn + ' ' + deleteBtn + '</td>') +
+					'<td class="admin-actions">' +
+					blockBtn +
+					' ' +
+					deleteBtn +
+					'</td>' +
 					'</tr>'
 				);
 			}
 
-			if (adminUser) {
-				html += userRow(adminUser, true);
-			}
-			otherUsers.forEach(function (u) {
-				html += userRow(u, false);
+			users.forEach(function (u) {
+				html += userRow(u);
 			});
 
 			html += '</tbody></table>';
@@ -220,9 +203,10 @@
 			var query = search.value.trim().toLowerCase();
 			var users = allUsers.filter(function (u) {
 				return (
-					!query ||
-					String(u.username).toLowerCase().includes(query) ||
-					String(u.email).toLowerCase().includes(query)
+					u.username !== username &&
+					(!query ||
+						String(u.username).toLowerCase().includes(query) ||
+						String(u.email).toLowerCase().includes(query))
 				);
 			});
 			renderTable(users);
