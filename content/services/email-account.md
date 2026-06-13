@@ -2,6 +2,7 @@
 draft = false
 title = 'Email'
 weight = 1
+registration-needed = true
 +++
 
 <div id="email-loggedin" style="display:none">

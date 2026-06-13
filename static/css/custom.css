@@ -1084,6 +1084,12 @@
 }
 /* ── Auth pages (login / signup) ───────────────────────────────────────── */
 
+.auth-page__services {
+	margin: -0.4rem 0 1rem;
+	font-size: 0.78rem;
+	line-height: 1.45;
+}
+
 .auth-page {
 	max-width: 420px;
 	margin: 2.5rem auto 0;

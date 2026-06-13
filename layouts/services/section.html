@@ -6,12 +6,36 @@
 
 <h1>Services</h1>
 
+{{ $registrationServices := slice }}
+{{ $openServices := slice }}
+{{ range .Pages.ByWeight }}
+	{{ if index .Params "registration-needed" }}
+		{{ $registrationServices = $registrationServices | append . }}
+	{{ else }}
+		{{ $openServices = $openServices | append . }}
+	{{ end }}
+{{ end }}
+
+{{ with $registrationServices }}
+<h2>Need Registration</h2>
 <ol class="uninotes-list uninotes-list--subjects">
-	{{ range .Pages.ByWeight }}
+	{{ range . }}
 	<li class="uninotes-list__item">
 		<a class="uninotes-list__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
 	</li>
 	{{ end }}
 </ol>
+{{ end }}
+
+{{ with $openServices }}
+<h2>Without Registration</h2>
+<ol class="uninotes-list uninotes-list--subjects">
+	{{ range . }}
+	<li class="uninotes-list__item">
+		<a class="uninotes-list__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+	</li>
+	{{ end }}
+</ol>
+{{ end }}
 
 {{ end }}

@@ -2,6 +2,7 @@
 draft = false
 title = 'XMPP'
 weight = 2
+registration-needed = true
 +++
 
 <div id="xmpp-loggedin" style="display:none">

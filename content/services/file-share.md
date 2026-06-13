@@ -2,6 +2,7 @@
 draft = false
 title = 'File Share'
 weight = 3
+registration-needed = false
 +++
 
 Visit <a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer">
