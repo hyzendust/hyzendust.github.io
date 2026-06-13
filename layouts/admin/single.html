@@ -6,6 +6,16 @@
 
 <div id="admin-panel" style="display: none">
 	<h1>User Management</h1>
+	<label class="admin-search" for="admin-user-search">
+		<span class="admin-search__label">Search users</span>
+		<input
+			id="admin-user-search"
+			class="admin-search__input"
+			type="search"
+			placeholder="Search by username or email"
+			autocomplete="off"
+		/>
+	</label>
 	<div id="admin-msg" class="auth-message" style="display: none" aria-live="polite"></div>
 	<div id="admin-table-wrap"></div>
 </div>
@@ -19,6 +29,8 @@
 		var panel = document.getElementById('admin-panel');
 		var msg = document.getElementById('admin-msg');
 		var wrap = document.getElementById('admin-table-wrap');
+		var search = document.getElementById('admin-user-search');
+		var allUsers = [];
 
 		if (username !== 'hyzen') {
 			gate.style.display = '';
@@ -41,24 +53,32 @@
 
 		function renderTable(users) {
 			if (!users.length) {
-				wrap.innerHTML = '<p>No users found.</p>';
+				wrap.innerHTML = '<p>No matching users found.</p>';
 				return;
 			}
 
+			var adminIndex = users.findIndex(function (u) {
+				return u.username === username;
+			});
+			var adminUser = adminIndex === -1 ? null : users[adminIndex];
+			var otherUsers = users.filter(function (u) {
+				return u.username !== username;
+			});
 			var html =
 				'<table class="admin-table">' +
-				'<thead><tr>' +
-				'<th>#</th><th>Username</th><th>Email</th><th>Joined</th><th>Status</th><th>Actions</th>' +
-				'</tr></thead><tbody>';
+				'<tbody><tr class="admin-table__header">' +
+				'<th>#</th><th>Username</th><th>Email</th><th>Joined</th><th>Status</th>' +
+				(adminUser ? '<th rowspan="2">Actions</th>' : '<th>Actions</th>') +
+				'</tr>';
 
-			users.forEach(function (u) {
+			function userRow(u, isCurrentUser) {
 				var joined = new Date(u.created_at).toLocaleDateString();
 				var blocked = u.blocked === true || u.blocked === 't' || u.blocked === '1';
-				var status = blocked
-					? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
-					: '<span class="admin-badge admin-badge--active">Active</span>';
-
-				var isCurrentUser = u.username === username;
+				var status = isCurrentUser
+					? '<span class="admin-badge admin-badge--admin">Admin</span>'
+					: blocked
+						? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
+						: '<span class="admin-badge admin-badge--active">Active</span>';
 				var blockBtn = '';
 				var deleteBtn = '';
 
@@ -79,7 +99,7 @@
 						'" data-action="delete_user">Delete Records</button>';
 				}
 
-				html +=
+				return (
 					'<tr id="user-row-' +
 					u.id +
 					'">' +
@@ -98,12 +118,18 @@
 					'<td>' +
 					status +
 					'</td>' +
-					'<td class="admin-actions">' +
-					blockBtn +
-					' ' +
-					deleteBtn +
-					'</td>' +
-					'</tr>';
+					(isCurrentUser
+						? ''
+						: '<td class="admin-actions">' + blockBtn + ' ' + deleteBtn + '</td>') +
+					'</tr>'
+				);
+			}
+
+			if (adminUser) {
+				html += userRow(adminUser, true);
+			}
+			otherUsers.forEach(function (u) {
+				html += userRow(u, false);
 			});
 
 			html += '</tbody></table>';
@@ -145,11 +171,12 @@
 						.then(function (data) {
 							if (data.success) {
 								if (action === 'delete_user') {
-									var row = document.getElementById('user-row-' + id);
-									if (row) row.remove();
+									allUsers = allUsers.filter(function (u) {
+										return Number(u.id) !== id;
+									});
+									filterUsers();
 									showMsg('User deleted.', 'success');
 								} else {
-									// Reload to reflect new block state
 									loadUsers();
 								}
 							} else {
@@ -175,7 +202,8 @@
 				})
 				.then(function (data) {
 					if (data.success) {
-						renderTable(data.users);
+						allUsers = data.users;
+						filterUsers();
 					} else {
 						wrap.innerHTML =
 							'<p class="admin-error">' +
@@ -188,6 +216,19 @@
 				});
 		}
 
+		function filterUsers() {
+			var query = search.value.trim().toLowerCase();
+			var users = allUsers.filter(function (u) {
+				return (
+					!query ||
+					String(u.username).toLowerCase().includes(query) ||
+					String(u.email).toLowerCase().includes(query)
+				);
+			});
+			renderTable(users);
+		}
+
+		search.addEventListener('input', filterUsers);
 		loadUsers();
 	})();
 </script>

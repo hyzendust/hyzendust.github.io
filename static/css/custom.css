@@ -1364,6 +1364,7 @@
 	border-collapse: collapse;
 	font-size: 0.88rem;
 	margin-top: 1rem;
+	background: var(--background-color);
 }
 
 .admin-table th,
@@ -1373,9 +1374,9 @@
 	border-bottom: 1px solid var(--background-color1, #e0e0e0);
 }
 
-.admin-table th {
+.admin-table__header th {
 	font-weight: 700;
-	background: var(--background-color1, #f5f5f5);
+	background: var(--background-color);
 }
 
 .admin-table tr:last-child td {
@@ -1400,9 +1401,37 @@
 	background: #d4edda;
 	color: #155724;
 }
+.admin-badge--admin {
+	background: #dbeafe;
+	color: #1e3a8a;
+}
 .admin-badge--blocked {
 	background: #f8d7da;
 	color: #721c24;
+}
+
+.admin-search {
+	display: block;
+	max-width: 32rem;
+	margin-top: 1rem;
+}
+
+.admin-search__label {
+	display: block;
+	margin-bottom: 0.35rem;
+	font-size: 0.88rem;
+	font-weight: 600;
+}
+
+.admin-search__input {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.55rem 0.7rem;
+	border: 1px solid var(--background-color1, #ccc);
+	border-radius: 4px;
+	background: var(--background-color);
+	color: var(--foreground-color);
+	font: inherit;
 }
 
 .admin-btn {
