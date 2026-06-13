@@ -4,6 +4,7 @@ title: "Terms and Conditions"
 
 **Last Updated: June 13, 2026**
 
+This service is operated as a non-profit initiative with the goal of providing reliable services to its users. We are not driven by commercial interests and any resources received are used solely to support, maintain, and improve the services.
 
 ### 1. Acceptance of Terms
 
