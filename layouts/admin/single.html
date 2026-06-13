@@ -58,20 +58,26 @@
 					? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
 					: '<span class="admin-badge admin-badge--active">Active</span>';
 
-				var blockBtn = blocked
-					? '<button class="admin-btn admin-btn--unblock" data-id="' +
-						u.id +
-						'" data-action="unblock_user">Unblock</button>'
-					: '<button class="admin-btn admin-btn--block"   data-id="' +
-						u.id +
-						'" data-action="block_user">Block</button>';
+				var isCurrentUser = u.username === username;
+				var blockBtn = '';
+				var deleteBtn = '';
 
-				var deleteBtn =
-					'<button class="admin-btn admin-btn--delete" data-id="' +
-					u.id +
-					'" data-username="' +
-					escHtml(u.username) +
-					'" data-action="delete_user">Delete</button>';
+				if (!isCurrentUser) {
+					blockBtn = blocked
+						? '<button class="admin-btn admin-btn--unblock" data-id="' +
+							u.id +
+							'" data-action="unblock_user">Unblock</button>'
+						: '<button class="admin-btn admin-btn--block" data-id="' +
+							u.id +
+							'" data-action="block_user">Block</button>';
+
+					deleteBtn =
+						'<button class="admin-btn admin-btn--delete" data-id="' +
+						u.id +
+						'" data-username="' +
+						escHtml(u.username) +
+						'" data-action="delete_user">Delete Records</button>';
+				}
 
 				html +=
 					'<tr id="user-row-' +
@@ -113,6 +119,13 @@
 						if (
 							!confirm(
 								'Permanently delete user "' + uname + '"? This cannot be undone.'
+							)
+						)
+							return;
+					} else if (action === 'block_user') {
+						if (
+							!confirm(
+								"This will permanently delete the user's email history and cannot be undone"
 							)
 						)
 							return;
