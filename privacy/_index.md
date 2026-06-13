@@ -4,7 +4,7 @@ title: "Privacy Policy"
 
 **Last Updated: June 13, 2026**
 
-We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and the choices available to you when using our services.
+We respect your privacy and are committed to protecting your personal information. This "Privacy Policy" explains what information we collect, how we use it, and the choices available to you when using our services.
 
 This service is operated as a non-profit initiative. We collect only the information reasonably necessary to provide and maintain our services.
 
@@ -101,4 +101,4 @@ Our services are not intended for children under the age required by applicable 
 
 We may update these policies from time to time. Updated versions will be posted on this page with a revised "Last Updated" date.
 
-**If you have any questions about this privacy policy, please [contact](https://freedoms4.org/contact/) us.**
+**If you have any questions about any policy, please [contact](https://freedoms4.org/contact/) us.**

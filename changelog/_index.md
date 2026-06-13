@@ -3,7 +3,7 @@ title: "Changelog"
 ---
 
 [13-06-2026]
-- ***Add: Terms and Conditions and Privacy Policy.***
+- ***Add: Terms and Conditions, Privacy Policy.***
 - ***Add: Backend repository link.***
 
 [10-06-2026]

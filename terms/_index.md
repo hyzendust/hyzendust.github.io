@@ -8,7 +8,7 @@ This service is operated as a non-profit initiative with the goal of providing r
 
 ### 1. Acceptance of Terms
 
-By creating an account or using our services, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, you must not use our services.
+By creating an account or using our services, you agree to be bound by these "Terms and Conditions". If you do not agree to these terms, you must not use our services.
 
 ### 2. Services
 
@@ -55,13 +55,13 @@ Services may be unavailable due to maintenance, upgrades, security issues, or ci
 
 ### 7. Privacy
 
-Your use of the services is also governed by our [Privacy Policy](https://freedoms4.org/privacy/). Please review the Privacy Policy to understand how we collect, use, and protect your information.
+Your use of the services is also governed by our [Privacy Policy](https://freedoms4.org/privacy/). Please review the policies to understand how we collect, use, and protect your information.
 
 ### 8. Account Suspension and Termination
 
 We may suspend or terminate your account if:
 
-* You violate these Terms.
+* You violate these terms.
 * Your use poses a security risk.
 * We are required to do so by law.
 
@@ -79,13 +79,13 @@ To the maximum extent permitted by law, we shall not be liable for any indirect,
 
 ### 11. Changes to These Terms
 
-We may update these Terms from time to time.
+We may update these terms from time to time.
 
-If we make material changes, we will provide reasonable notice through the website or by email. Continued use of the services after changes become effective constitutes acceptance of the revised Terms.
+If we make material changes, we will provide reasonable notice through the website or by email. Continued use of the services after changes become effective constitutes acceptance of the revised terms.
 
 ### 12. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the applicable jurisdiction where our servers are located.
+These terms shall be governed by and construed in accordance with the laws of the applicable jurisdiction where our servers are located.
 
-**If you have any questions about these Terms, please [contact](https://freedoms4.org/contact/) us.**
+**If you have any questions about these terms, please [contact](https://freedoms4.org/contact/) us.**
 
