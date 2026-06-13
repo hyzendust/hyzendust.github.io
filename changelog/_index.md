@@ -2,24 +2,28 @@
 title: "Changelog"
 ---
 
+[13-06-2026]
+- ***Add: Terms and Conditions and Privacy Policy.***
+- ***Add: Backend repository link.***
+
 [10-06-2026]
-- ***Comments on blogposts.***
+- ***Add: Comments on blogposts.***
 
 [08-06-2026]
-- ***Email registration on the website.***
+- ***Add: Email registration on the website.***
 
 [07-06-2026]
-- ***XMPP registration on the website.***
+- ***Add: XMPP registration on the website.***
 
 [06-06-2026]
-- ***OTP verification during sign up.***
+- ***Add: OTP verification during sign up.***
 
 [05-06-2026]
-- ***Buttons restructure.***
+- ***Update: Buttons restructure.***
 
 [04-06-2026]
-- ***Login/Log Out.***
+- ***Add: Login/Log Out.***
 
 [14-04-2026]
-- ***Changelog page.***
-- ***Remove year from footer copyright.***
+- ***Add: Changelog page.***
+- ***Remove: Year from footer copyright.***

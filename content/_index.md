@@ -29,5 +29,5 @@ My goal is for everyone who visits this site to leave with something valuable.
 ### Site's Code:
 
 <p style="text-indent: 1.185em;">
-This site is also built with open source tools like Hugo and served freely. If you're interested in the code , you can find it <a href="https://git.freedoms4.org/hyzen/hyzendust.github.io" target="_blank" rel="noopener noreferrer"> here↗.</a>
+This site is also built with open source tools like Hugo and served freely. If you're interested in the code , you can find its frontend <a href="https://git.freedoms4.org/hyzen/hyzendust.github.io" target="_blank" rel="noopener noreferrer"> here↗.</a> and backend <a href="https://github.com/hyzendust/freedoms4-backend-public.git" target="_blank" rel="noopener noreferrer"> here↗.</a>
 </p>
