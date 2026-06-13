@@ -1085,9 +1085,14 @@
 /* ── Auth pages (login / signup) ───────────────────────────────────────── */
 
 .auth-page__services {
-	margin: -0.4rem 0 1rem;
+	margin-top: 25px;
+	margin-bottom: -25px;
 	font-size: 0.78rem;
 	line-height: 1.45;
+}
+
+.services-group__title {
+	font-size: inherit;
 }
 
 .auth-page {

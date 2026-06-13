@@ -2,22 +2,16 @@
 <div class="auth-page">
 	<div class="auth-card">
 		<h1 class="auth-page__title">{{ .Title }}</h1>
-		{{ with site.GetPage "/services" }}
-			{{ $registrationServices := slice }}
-			{{ range .Pages.ByWeight }}
-				{{ if index .Params "registration-needed" }}
-					{{ $registrationServices = $registrationServices | append . }}
-				{{ end }}
-			{{ end }}
-			{{ with $registrationServices }}
-			<p class="auth-page__services">
-				By signing up, you will get access to these services:
-				{{ range $index, $service := . }}{{ if $index }}, {{ end }}<a href="{{ $service.RelPermalink }}"
-						>{{ $service.LinkTitle }}</a
-					>{{ end }}.
-			</p>
-			{{ end }}
-		{{ end }}
+		{{ with site.GetPage "/services" }} {{ $registrationServices := slice }} {{ range
+		.Pages.ByWeight }} {{ if index .Params "registration-needed" }} {{ $registrationServices =
+		$registrationServices | append . }} {{ end }} {{ end }} {{ with $registrationServices }}
+		<p class="auth-page__services">
+			(By signing up, you will get access to the following services: {{ range $index, $service
+			:= . }}{{ if $index }}, {{ end }}<a href="{{ $service.RelPermalink }}"
+				>{{ $service.LinkTitle }}</a
+			>{{ end }})
+		</p>
+		{{ end }} {{ end }}
 		<div id="auth-message" class="auth-message" aria-live="polite"></div>
 
 		<!-- ── STEP 1 — Account details ───────────────────────────────── -->
