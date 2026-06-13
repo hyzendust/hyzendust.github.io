@@ -1085,10 +1085,12 @@
 /* ── Auth pages (login / signup) ───────────────────────────────────────── */
 
 .auth-page__services {
-	margin-top: 25px;
-	margin-bottom: -25px;
+	margin-top: 0;
+	margin-bottom: 0.75rem;
 	font-size: 0.78rem;
 	line-height: 1.45;
+	color: var(--foreground-color);
+	display: block;
 }
 
 .services-group__title {
@@ -1114,12 +1116,12 @@
 	background: var(--background-color);
 }
 
-/* Message banner — fixed height always reserved so the form never shifts */
+/* Message banner — always in flow; min-height reserves space so the form never shifts */
 .auth-message {
 	border-radius: 4px;
 	font-size: 0.82rem;
-	line-height: 1.3;
-	height: 1.8rem;
+	line-height: 1.4;
+	min-height: 1.8rem;
 	margin-bottom: 0.75rem;
 	box-sizing: border-box;
 	border: 1px solid transparent;
@@ -1127,15 +1129,18 @@
 	opacity: 0;
 	pointer-events: none;
 	transition: opacity 0.15s ease;
-	overflow: hidden;
-	display: flex;
-	align-items: center;
-	padding: 0 0.7rem;
+	padding: 0.25rem 0.7rem;
 }
 
 .auth-message.is-visible {
 	opacity: 1;
 	pointer-events: auto;
+}
+
+.auth-message--info {
+	background: transparent;
+	border-color: transparent;
+	color: var(--foreground-color);
 }
 
 .auth-message--error {

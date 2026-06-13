@@ -2,17 +2,23 @@
 <div class="auth-page">
 	<div class="auth-card">
 		<h1 class="auth-page__title">{{ .Title }}</h1>
-		{{ with site.GetPage "/services" }} {{ $registrationServices := slice }} {{ range
-		.Pages.ByWeight }} {{ if index .Params "registration-needed" }} {{ $registrationServices =
-		$registrationServices | append . }} {{ end }} {{ end }} {{ with $registrationServices }}
-		<p class="auth-page__services">
-			(By signing up, you will get access to the following services: {{ range $index, $service
-			:= . }}{{ if $index }}, {{ end }}<a href="{{ $service.RelPermalink }}"
-				>{{ $service.LinkTitle }}</a
-			>{{ end }})
-		</p>
-		{{ end }} {{ end }}
+		{{- with site.GetPage "/services" -}} {{- $registrationServices := slice -}} {{- range
+		.Pages.ByWeight -}} {{- if index .Params "registration-needed" -}} {{- $registrationServices
+		= $registrationServices | append . -}} {{- end -}} {{- end -}} {{- with
+		$registrationServices -}} {{- $serviceLinks := slice -}} {{- range . -}} {{- $serviceLinks =
+		$serviceLinks | append (printf `<a href="%s">%s</a>` .RelPermalink .LinkTitle) -}} {{- end
+		-}}
+		<div
+			id="auth-message"
+			class="auth-message auth-message--info is-visible"
+			aria-live="polite"
+		>
+			Signing up is giving you access to the following services: {{ delimit $serviceLinks ", "
+			| safeHTML }}
+		</div>
+		{{- end -}} {{- if not $registrationServices -}}
 		<div id="auth-message" class="auth-message" aria-live="polite"></div>
+		{{- end -}} {{- end -}}
 
 		<!-- ── STEP 1 — Account details ───────────────────────────────── -->
 		<form id="signup-form" class="auth-form" novalidate>
@@ -228,12 +234,21 @@
 		var pwdInput = document.getElementById('signup-password');
 		var eyeBtn = signupForm.querySelector('.auth-form__eye');
 
+		// Snapshot the server-rendered services notice so we can restore it after errors
+		var _servicesHTML = msgBox.innerHTML;
+		var _servicesClass = msgBox.className;
+
+		// Pin the box height to whatever the services text renders at, so switching
+		// to a one-line error message never shrinks the box and causes layout shift.
+		msgBox.style.minHeight = msgBox.offsetHeight + 'px';
+
 		function showMsg(text, type) {
 			msgBox.textContent = text;
 			msgBox.className = 'auth-message auth-message--' + type + ' is-visible';
 		}
 		function hideMsg() {
-			msgBox.className = 'auth-message';
+			msgBox.innerHTML = _servicesHTML;
+			msgBox.className = _servicesClass;
 		}
 
 		function setLoading(btn, on) {
