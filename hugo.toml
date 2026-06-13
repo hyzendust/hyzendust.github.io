@@ -6,11 +6,17 @@ publishDir = "docs"
 
 [module]
 [[module.mounts]]
-  source = "content"
-  target = "content"
+source = "content"
+target = "content"
 [[module.mounts]]
-  source = "changelog"
-  target = "content/changelog"
+source = "changelog"
+target = "content/changelog"
+[[module.mounts]]
+source = "terms"
+target = "content/terms"
+[[module.mounts]]
+source = "privacy"
+target = "content/privacy"
 
 [markup]
 [markup.goldmark]
@@ -68,24 +74,24 @@ semester = "semester"
 subjectcode = "subjectcode"
 
 [permalinks]
-  [permalinks.term]
-    semester    = '/uninotes/:slug/'
-    subjectcode = '/uninotes/:slug/'
+[permalinks.term]
+semester = '/uninotes/:slug/'
+subjectcode = '/uninotes/:slug/'
 [[module.mounts]]
-  source = "layouts"
-  target = "layouts"
+source = "layouts"
+target = "layouts"
 [[module.mounts]]
-  source = "static"
-  target = "static"
+source = "static"
+target = "static"
 [[module.mounts]]
-  source = "assets"
-  target = "assets"
+source = "assets"
+target = "assets"
 [[module.mounts]]
-  source = "data"
-  target = "data"
+source = "data"
+target = "data"
 [[module.mounts]]
-  source = "i18n"
-  target = "i18n"
+source = "i18n"
+target = "i18n"
 [[module.mounts]]
-  source = "archetypes"
-  target = "archetypes"
+source = "archetypes"
+target = "archetypes"
