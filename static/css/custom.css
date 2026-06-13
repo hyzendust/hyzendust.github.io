@@ -1200,6 +1200,10 @@
 	cursor: pointer;
 }
 
+.footer__copyright-notice a {
+	margin-right: 5px;
+}
+
 .auth-form__checkbox {
 	margin-top: 0.2rem;
 	flex-shrink: 0;

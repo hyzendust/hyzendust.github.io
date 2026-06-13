@@ -16,9 +16,10 @@
 </button>
 <span class=auth-form__hint>(at least 8 characters)</span></div><div class=auth-form__group><label class=auth-form__label for=signup-confirm>Confirm Password</label>
 <input class=auth-form__input type=password id=signup-confirm name=confirm_password autocomplete=new-password required></div></div><div class="auth-form__group auth-form__group--checkbox"><label class=auth-form__checkbox-label for=signup-terms><input class=auth-form__checkbox type=checkbox id=signup-terms name=terms required>
-I agree to the
-<a href=/terms/ target=_blank rel=noopener>Terms and Conditions</a> and
-<a href=/privacy/ target=_blank rel=noopener>Privacy Policy</a>.</label></div><button type=submit class=auth-form__submit id=signup-submit>
+<span>I agree to the
+<a href=/terms/ target=_blank rel=noopener>Terms and Conditions</a>
+and
+<a href=/privacy/ target=_blank rel=noopener>Privacy Policy</a>.</span></label></div><button type=submit class=auth-form__submit id=signup-submit>
 <span class=auth-form__submit-text>Send verification code</span>
 <span class=auth-form__submit-loader style=display:none><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" class="spin"><path d="M12 4V1L8 5l4 4V6c3.31.0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31.0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"/></svg></span></button></form><div id=otp-panel style=display:none><p class=otp-panel__hint>A 6-digit code was sent to <strong id=otp-email-display></strong>.<br>Enter it below. The code will expire in 10&nbsp;minutes.</p><div class=auth-form style=margin-top:1rem><div class=auth-form__group><label class=auth-form__label for=otp-input>Verification code</label>
 <input class="auth-form__input otp-panel__input" type=text id=otp-input inputmode=numeric maxlength=6 pattern=\d{6} placeholder=000000 autocomplete=one-time-code></div><button type=button class=auth-form__submit id=otp-submit>
