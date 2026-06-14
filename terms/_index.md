@@ -6,17 +6,17 @@ title: "Terms and Conditions"
 
 This service is operated as a non-profit initiative with the goal of providing reliable services to its users. We are not driven by commercial interests and any resources received are used solely to support, maintain, and improve the services.
 
-### 1. Acceptance of Terms
+## 1. Acceptance of Terms
 
 By creating an account or using our services, you agree to be bound by these "Terms and Conditions". If you do not agree to these terms, you must not use our services.
 
-### 2. Services
+## 2. Services
 
 We provide communication-related services, including but not limited to: [Email](https://freedoms4.org/services/email-account/) and [XMPP](http://localhost:1313/services/xmpp-account/) messaging services, and online [File Share](https://freedoms4.org/services/file-share/) service.
 
 We may modify, suspend, or discontinue any part of the services at any time with prior notice.
 
-### 3. Account Registration
+## 3. Account Registration
 
 To use certain services, you must create an account with a valid email address.
 
@@ -26,7 +26,7 @@ You are responsible for:
 * All activities that occur under your account.
 * Promptly notifying us of any unauthorized access or security breach.
 
-### 4. Acceptable Use
+## 4. Acceptable Use
 
 You agree not to use the services to:
 
@@ -39,7 +39,7 @@ You agree not to use the services to:
 
 We reserve the right to suspend or terminate accounts that violate these rules.
 
-### 5. User Content
+## 5. User Content
 
 You retain ownership of any content you transmit or store through the services.
 
@@ -47,17 +47,17 @@ By using the services, you grant us the limited rights necessary to operate, mai
 
 You are solely responsible for the content associated with your account.
 
-### 6. Service Availability
+## 6. Service Availability
 
 We strive to provide reliable services but do not guarantee uninterrupted availability.
 
 Services may be unavailable due to maintenance, upgrades, security issues, or circumstances beyond our control.
 
-### 7. Privacy
+## 7. Privacy
 
 Your use of the services is also governed by our [Privacy Policy](https://freedoms4.org/privacy/). Please review the policies to understand how we collect, use, and protect your information.
 
-### 8. Account Suspension and Termination
+## 8. Account Suspension and Termination
 
 We may suspend or terminate your account if:
 
@@ -67,23 +67,23 @@ We may suspend or terminate your account if:
 
 You may stop using the services and [request](https://freedoms4.org/contact/) account deletion at any time.
 
-### 9. Disclaimer of Warranties
+## 9. Disclaimer of Warranties
 
 The services are provided "as is" and "as available".
 
 To the fullest extent permitted by law, we disclaim all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-### 10. Limitation of Liability
+## 10. Limitation of Liability
 
 To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the services.
 
-### 11. Changes to These Terms
+## 11. Changes to These Terms
 
 We may update these terms from time to time.
 
 If we make material changes, we will provide reasonable notice through the website or by email. Continued use of the services after changes become effective constitutes acceptance of the revised terms.
 
-### 12. Governing Law
+## 12. Governing Law
 
 These terms shall be governed by and construed in accordance with the laws of the applicable jurisdiction where our servers are located.
 
