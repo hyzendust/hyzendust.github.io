@@ -78,10 +78,10 @@
 						'" data-action="block_user">Block</button>';
 				var deleteBtn =
 					'<button class="admin-btn admin-btn--delete" data-id="' +
-						u.id +
-						'" data-username="' +
-						escHtml(u.username) +
-						'" data-action="delete_user">Delete Records</button>';
+					u.id +
+					'" data-username="' +
+					escHtml(u.username) +
+					'" data-action="delete_user">Delete Records</button>';
 
 				return (
 					'<tr id="user-row-' +
@@ -127,14 +127,14 @@
 					if (action === 'delete_user') {
 						if (
 							!confirm(
-								'Permanently delete user "' + uname + '"? This cannot be undone.'
+								'Permanently delete user ' + uname + '? This cannot be undone.'
 							)
 						)
 							return;
 					} else if (action === 'block_user') {
 						if (
 							!confirm(
-								"This will permanently delete the user's email history and cannot be undone"
+								"This will permanently delete the user's email history and cannot be undone."
 							)
 						)
 							return;
