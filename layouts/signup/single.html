@@ -342,6 +342,7 @@
 			state.username = username;
 			state.email = email;
 			state.password = password;
+			state.terms_agreed = true;
 
 			setLoading(signupSubmit, true);
 
@@ -430,6 +431,7 @@
 					email: state.email,
 					password: state.password,
 					otp: otp,
+					terms_agreed: state.terms_agreed,
 				}),
 			})
 				.then(function (r) {
