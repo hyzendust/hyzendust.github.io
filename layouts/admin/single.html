@@ -64,7 +64,7 @@
 				'</tr>';
 
 			function userRow(u) {
-				var joined = new Date(u.created_at).toLocaleDateString();
+				var joined = new Date(u.created_at).toLocaleDateString('en-GB');
 				var blocked = u.blocked === true || u.blocked === 't' || u.blocked === '1';
 				var status = blocked
 					? '<span class="admin-badge admin-badge--blocked">Blocked</span>'
