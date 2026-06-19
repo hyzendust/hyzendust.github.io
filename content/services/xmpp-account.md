@@ -18,7 +18,7 @@ registration-needed = true
 (function () {
   var username = localStorage.getItem('f4_username');
   if (username) {
-    document.getElementById('xmpp-jid').textContent = username + '@freedoms4.org';
+    document.getElementById('xmpp-jid').textContent = username.toLowerCase() + '@freedoms4.org';
     document.getElementById('xmpp-loggedin').style.display = '';
   } else {
     document.getElementById('xmpp-loggedout').style.display = '';
