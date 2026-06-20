@@ -70,6 +70,7 @@
 						{{ if ge . "0" }}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }}
 					{{ end }}
 					{{ $uNum := int ($uNumStr | default "0") }}
+					{{ if eq (upper $unitLabel) "QNA" }}{{ $uNum = 999999 }}{{ end }}
 					{{ $unitDicts = $unitDicts | append (dict "label" $unitLabel "page" . "num" $uNum) }}
 				{{ end }}
 			{{ end }}
@@ -87,6 +88,7 @@
 				{{ $unitLabel := .label }}
 				{{ $repPage := .page }}
 				{{ $unitUrl := $repPage.Params.uniturl }}
+				{{ if not $unitUrl }}{{ $unitUrl = $repPage.RelPermalink }}{{ end }}
 				{{/* Find Self and Live URLs for this unit */}}
 				{{ $selfUrl := "" }}
 				{{ $liveUrl := "" }}
@@ -103,6 +105,9 @@
 				{{ end }}
 
 				<li class="uninotes-contents__unit">
+					{{ if eq (upper $unitLabel) "QNA" }}
+					<a class="uninotes-contents__unit-link" href="{{ $unitUrl }}">{{ $unitLabel }}</a>
+					{{ else }}
 					<a class="uninotes-contents__unit-link" href="{{ $unitUrl }}">{{ $unitLabel }}</a>
 					<span class="uninotes-contents__unit-cats">
 						{{ if $selfUrl }}
@@ -116,6 +121,7 @@
 						<span class="uninotes-contents__cat uninotes-contents__cat--na">Live</span>
 						{{ end }}
 					</span>
+					{{ end }}
 				</li>
 				{{ end }}
 			</ul>
