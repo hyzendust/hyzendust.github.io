@@ -9,11 +9,11 @@ registration-needed = true
   <p><strong>Email ID:</strong> <span id="email-address"></span></p>
   <p><strong>Password:</strong> Use the same password that you used during registration.</p>
 </div>
-
 <div id="email-loggedout" style="display:none">
-  <p>Please <a href="/signup/">sign up</a> to create an email account.</p>
+  <p>Big corporate email providers read and scan every message that passes through their servers. Your conversations become training data and ad-targeting fuel. That's not email but surveillance with an inbox attached!</p>
+  <p>We provide this service because privacy shouldn't be a premium feature, it should just be how things work by default. Your email here isn't mined or isn't sold, and isn't anyone's business but yours.</p>
+  <p>Please <a href="/signup/">sign up</a> to use this service.</p>
 </div>
-
 <script>
 (function () {
   var username = localStorage.getItem('f4_username');

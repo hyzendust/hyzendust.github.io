@@ -3,36 +3,13 @@
  &lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; Use the same password that you used during registration.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id="email-loggedout" style="display:none"&gt;
- &lt;p&gt;Please &lt;a href="https://freedoms4.org/signup/"&gt;sign up&lt;/a&gt; to create an email account.&lt;/p&gt;
-&lt;/div&gt;
-&lt;script&gt;
-(function () {
- var username = localStorage.getItem('f4_username');
- if (username) {
- document.getElementById('email-address').textContent = username + '@freedoms4.org';
- document.getElementById('email-loggedin').style.display = '';
- } else {
- document.getElementById('email-loggedout').style.display = '';
- }
-})();
-&lt;/script&gt;</description></item><item><title>XMPP</title><link>https://freedoms4.org/services/xmpp-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/xmpp-account/</guid><description>&lt;div id="xmpp-loggedin" style="display:none"&gt;
+ &lt;p&gt;Big corporate email providers read and scan every message that passes through their servers. Your conversations become training data and ad-targeting fuel. That's not email but surveillance with an inbox attached!&lt;/p&gt;
+ &lt;p&gt;We provide this service because privacy shouldn't be a premium feature, it should just be how things work by default. Your email here isn't mined or isn't sold, and isn't anyone's business but yours.&lt;/p&gt;</description></item><item><title>XMPP</title><link>https://freedoms4.org/services/xmpp-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/xmpp-account/</guid><description>&lt;div id="xmpp-loggedin" style="display:none"&gt;
  &lt;p&gt;&lt;strong&gt;JID:&lt;/strong&gt; &lt;span id="xmpp-jid"&gt;&lt;/span&gt;&lt;/p&gt;
  &lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; Use the same password that you used during registration.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id="xmpp-loggedout" style="display:none"&gt;
- &lt;p&gt;Please &lt;a href="https://freedoms4.org/signup/"&gt;sign up&lt;/a&gt; to create an XMPP account.&lt;/p&gt;
-&lt;/div&gt;
-&lt;script&gt;
-(function () {
- var username = localStorage.getItem('f4_username');
- if (username) {
- document.getElementById('xmpp-jid').textContent = username.toLowerCase() + '@freedoms4.org';
- document.getElementById('xmpp-loggedin').style.display = '';
- } else {
- document.getElementById('xmpp-loggedout').style.display = '';
- }
-})();
-&lt;/script&gt;</description></item><item><title>File Share</title><link>https://freedoms4.org/services/file-share/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/file-share/</guid><description>&lt;p&gt;Visit &lt;a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;p&gt;XMPP has been around since 1999, originally called Jabber, built as an open and decentralized protocol so that anyone could run their own server and still talk to anyone else. It works in the same way email works across providers. No ads reading your conversations, no algorithm deciding who sees what, no single corporation owning the network or able to shut it off. Just an open standard that's outlasted most of the "modern" chat apps that came after it.&lt;/p&gt;</description></item><item><title>File Share</title><link>https://freedoms4.org/services/file-share/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/services/file-share/</guid><description>&lt;p&gt;Visit &lt;a href="https://share.freedoms4.org" target="_blank" rel="noopener noreferrer"&gt;
 share.freedoms4.org↗
 &lt;/a&gt; to quickly upload files and get sharable links.&lt;/p&gt;</description></item><item><title>What is Education?</title><link>https://freedoms4.org/blog/what-is-education/</link><pubDate>Sun, 01 Mar 2026 18:11:14 +0000</pubDate><author>your-email@example.com (Freedoms4)</author><guid>https://freedoms4.org/blog/what-is-education/</guid><description>&lt;h1 class="heading" id="what-is-education"&gt;
  What is Education?&lt;span class="heading__anchor"&gt; &lt;a href="#what-is-education"&gt;#&lt;/a&gt;&lt;/span&gt;
