@@ -337,9 +337,6 @@ The manner in which profits are shared and the objectives of the business also a
 
 The choice of a suitable form of business organization depends on several factors, including the nature and size of the business, capital requirements, control, liability, continuity, government regulations, flexibility, and profit objectives. Careful consideration of these factors helps entrepreneurs select the most appropriate form of organization, ensuring efficient operations, growth, and long-term success.
 
-### Questions from Previous Year Question Papers 5 Marks
-
-
 ### Questions from Previous Year Question Papers 10 Marks
 
 **1. What is a partnership firm? What are its features, merits and demerits?**
