@@ -102,7 +102,7 @@ Changes within organizations, such as workforce diversity, leadership styles, or
 
 Management thoughts are continuously influenced by social, economic, technological, political, global, environmental, and organizational forces. These forces encourage managers to develop new approaches and adapt to changing business environments for organizational success.
 
-**4. Discuss Abraham Maslow’s Hierarchy of Need Theory. 
+**4. Discuss Abraham Maslow’s Hierarchy of Need Theory.**
 
 **Ans.**
 
