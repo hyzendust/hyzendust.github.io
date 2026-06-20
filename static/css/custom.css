@@ -1541,3 +1541,12 @@ th {
 	border: 1px solid var(--foreground-color);
 	color: var(--foreground-color);
 }
+
+/* Hide the "#" anchor link the theme appends after every heading
+   (blog, services, uninotes, homepage), including the theme's
+   :hover reveal. The heading id stays in place for deep-linking;
+   only the visible "#" is removed. */
+.heading .heading__anchor,
+.heading:hover > .heading__anchor {
+	display: none;
+}
