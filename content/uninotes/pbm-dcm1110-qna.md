@@ -14,7 +14,7 @@ url = '/uninotes/s1/pbm-dcm1110/qna/'
 
 ### Model Question Paper 5 Marks (200-250 words)
 
-1. Describe the characteristics of management:
+**1. Describe the characteristics of management:**
 
 **Ans.**
 
@@ -39,7 +39,7 @@ Management is the process of planning, organizing, staffing, directing, and cont
 
 Thus, management is a goal-oriented, continuous, dynamic, and multidimensional activity essential for the success of every organization.
 
-2. Explain the skills that should be possessed by a manager.
+**2. Explain the skills that should be possessed by a manager.**
 
 **Ans.**
 
@@ -69,7 +69,7 @@ Managers regularly face situations that require choosing the best course of acti
 
 A successful manager combines technical, human, conceptual, communication, and decision-making skills. These skills enable managers to lead employees effectively, handle challenges, and contribute to the overall success of the organization.
 
-3. Discuss the forces affecting management thoughts.
+**3. Discuss the forces affecting management thoughts.**
 
 **Ans.**
 
@@ -102,7 +102,7 @@ Changes within organizations, such as workforce diversity, leadership styles, or
 
 Management thoughts are continuously influenced by social, economic, technological, political, global, environmental, and organizational forces. These forces encourage managers to develop new approaches and adapt to changing business environments for organizational success.
 
-4. Discuss the forces affecting management thoughts.
+**4. Discuss the forces affecting management thoughts.**
 
 **Ans.**
 
@@ -129,7 +129,7 @@ This is the highest level of need. It refers to the desire to realize one's full
 
 Maslow's Hierarchy of Need Theory explains that human needs are arranged in a sequence. As lower-level needs are satisfied, individuals become motivated to achieve higher-level needs, ultimately striving for self-actualization and personal fulfillment.
 
-5. Write a short note on scalar chain principle of management.
+**5. Write a short note on scalar chain principle of management.**
 
 **Ans.**
 
@@ -159,7 +159,7 @@ In urgent situations, Fayol permitted direct communication between employees at 
 
 The Scalar Chain Principle ensures a clear flow of authority and communication within an organization. It promotes discipline, coordination, accountability, and efficiency, thereby contributing to the smooth and effective functioning of the organization.
 
-6. Briefly explain the objectives of planning strategies.
+**6. Briefly explain the objectives of planning strategies.**
 
 **Ans.**
 
@@ -194,7 +194,7 @@ The objectives of planning strategies are to achieve organizational goals, reduc
 
 ### Model Question Paper 10 Marks (400-500 words)
 
-1. Discuss the benefits and limitations of MBO.
+**1. Discuss the benefits and limitations of MBO.**
 
 **Ans.**
 
@@ -239,7 +239,7 @@ Once objectives are established, it may become difficult to modify them in respo
 
 Management by Objectives is an effective technique that improves goal clarity, motivation, communication, coordination, and performance evaluation. However, it also faces limitations such as time consumption, difficulty in setting objectives, excessive focus on measurable results, resistance to change, and lack of flexibility. Therefore, organizations should implement MBO carefully to maximize its benefits and minimize its limitations.
 
-2. Explain the process of staffing in an organization.
+**2. Explain the process of staffing in an organization.**
 
 **Ans.**
 
@@ -275,7 +275,7 @@ The final step in staffing is retaining competent employees. Organizations adopt
 
 The staffing process plays a vital role in ensuring the availability of skilled and competent employees in an organization. Through manpower planning, recruitment, selection, placement, training, performance appraisal, promotion, compensation, and retention, staffing helps build an efficient workforce. An effective staffing process contributes significantly to organizational productivity, growth, and long-term success.
 
-3. Distinguish between financial and non-financial incentives.
+**3. Distinguish between financial and non-financial incentives.**
 
 **Ans.**
 
@@ -311,7 +311,7 @@ The effect of financial incentives may be temporary, as employees may continuous
 
 Financial and non-financial incentives are both essential for motivating employees and improving organizational performance. Financial incentives provide monetary rewards and satisfy economic needs, while non-financial incentives offer recognition, growth opportunities, and psychological satisfaction. A balanced combination of both types of incentives helps organizations maintain a motivated workforce, improve productivity, and achieve long-term success.
 
-4. Explain steps involved in communication in an organization.
+**4. Explain steps involved in communication in an organization.**
 
 **Ans.**
 
@@ -349,7 +349,7 @@ Communication in an organization involves a series of steps, including idea form
 
 ### Questions from Previous Year Question Papers 5 Marks
 
-1. Differenctiate between Formal and Informal Organisation. Mention any five.
+**1. Differenctiate between Formal and Informal Organisation. Mention any five.**
 
 **Ans.**
 
@@ -369,7 +369,7 @@ An organization can be classified into formal and informal organization. A forma
 
 Formal and informal organizations coexist in every organization. The formal organization ensures discipline, coordination, and achievement of objectives, while the informal organization promotes friendship, cooperation, and employee satisfaction. Together, they contribute to the efficient functioning and success of the organization.
 
-2. Write short note on Six C's of Decision Making.
+**2. Write short note on Six C's of Decision Making.**
 
 **Ans.**
 
@@ -399,7 +399,7 @@ Once a decision is made, it should be implemented effectively. Managers must mon
 
 The Six C's of Decision Making provide a structured approach for solving problems and making effective decisions. By constructing a clear picture, compiling alternatives, collecting information, comparing options, choosing the best alternative, and committing to implementation, managers can improve decision quality and achieve organizational success.
 
-3. Write short note on Administrative Management.
+**3. Write short note on Administrative Management.**
 
 **Ans.**
 
@@ -429,7 +429,7 @@ By directing and controlling organizational activities, administrative managemen
 
 Administrative Management is concerned with managing the overall activities of an organization through planning, organizing, coordinating, and controlling. It plays a vital role in ensuring efficient utilization of resources, smooth functioning of operations, and successful achievement of organizational goals. Therefore, it is an essential aspect of modern management.
 
-4. Write short note on Managerial Competencies.
+**4. Write short note on Managerial Competencies.**
 
 **Ans.**
 
@@ -459,7 +459,7 @@ Good communication skills help managers convey information clearly, provide inst
 
 Managerial competencies are essential qualities that enable managers to perform their responsibilities efficiently. Technical, human, conceptual, decision-making, leadership, and communication competencies help managers improve productivity, motivate employees, and achieve organizational goals. Therefore, managerial competencies are crucial for effective management and organizational success.
 
-5. Write short note on Herzberg's Two Factor Theory.
+**5. Write short note on Herzberg's Two Factor Theory.**
 
 **Ans.**
 
@@ -483,7 +483,7 @@ Once hygiene factors are satisfied, motivational factors become important in imp
 
 Herzberg's Two Factor Theory explains that employee satisfaction and dissatisfaction are influenced by different factors. Hygiene factors prevent dissatisfaction, while motivational factors create satisfaction and encourage better performance. Therefore, organizations should focus on both types of factors to maintain a motivated, productive, and satisfied workforce.
 
-6. Mention any five functions of Managerial Leader.
+**6. Mention any five functions of Managerial Leader.**
 
 **Ans.**
 
@@ -510,7 +510,7 @@ The leader monitors employee performance and compares actual results with planne
 
 A managerial leader performs several important functions, including planning, organizing, motivating employees, communicating effectively, and controlling activities. These functions help maintain coordination, improve employee performance, and achieve organizational objectives. Therefore, managerial leadership is essential for the smooth functioning and success of any organization.
 
-7. What are the merits and demerits of Democratic Leadership style?
+**7. What are the merits and demerits of Democratic Leadership style?**
 
 **Ans.**
 
@@ -542,7 +542,7 @@ Democratic leadership is an effective style that promotes employee participation
 
 ### Questions from Previous Year Question Papers 10 Marks
 
-1. Briefly describe the principles of management as laid down by Henri Fayol.
+**1. Briefly describe the principles of management as laid down by Henri Fayol.**
 
 **Ans.**
 
@@ -596,7 +596,7 @@ Managers should promote team spirit, cooperation, and unity among employees to c
 
 Henri Fayol's fourteen principles of management provide valuable guidelines for effective organizational management. These principles emphasize specialization, discipline, authority, coordination, fairness, and teamwork. Even today, they remain highly relevant and help managers improve efficiency, productivity, and organizational success.
 
-2. Define Directing. What are the essentials or principles required to make the directing effective.
+**2. Define Directing. What are the essentials or principles required to make the directing effective.**
 
 **Ans.**
 
@@ -635,7 +635,7 @@ Employees should be motivated through financial and non-financial incentives. Mo
 
 Directing is the managerial function of guiding, supervising, motivating, and communicating with employees to achieve organizational goals. Effective directing requires harmony of objectives, maximum individual contribution, unity of command, proper communication, leadership, motivation, and continuous follow-up. By applying these principles, managers can improve employee performance, strengthen teamwork, and ensure the successful achievement of organizational objectives.
 
-3. Discuss various stages of controlling with the help of an example.
+**3. Discuss various stages of controlling with the help of an example.**
 
 **Ans.**
 
@@ -677,7 +677,7 @@ After corrective actions are implemented, managers continue to monitor performan
 
 Controlling is a systematic process that helps organizations achieve their goals by ensuring that activities are performed according to plans. The stages of controlling include establishing standards, measuring performance, comparing results, analyzing deviations, taking corrective action, and follow-up monitoring. Through effective controlling, organizations can improve efficiency, productivity, and overall performance while ensuring the successful achievement of objectives.
 
-4. "SWOT analysis plays important role in formulating strategy for Planning". Explain.
+**4. "SWOT analysis plays important role in formulating strategy for Planning". Explain.**
 
 **Ans.**
 
@@ -710,7 +710,7 @@ SWOT analysis helps organizations identify areas where they have an advantage ov
 
 SWOT analysis plays a significant role in formulating strategies for planning. It helps organizations identify their strengths and weaknesses, recognize opportunities and threats, improve decision-making, and develop effective strategies. By providing a comprehensive understanding of the business environment, SWOT analysis contributes to better planning, enhanced competitiveness, and long-term organizational success.
 
-5. What are the various steps involved in planning process?
+**5. What are the various steps involved in planning process?**
 
 **Ans.**
 
@@ -745,7 +745,7 @@ The final step involves monitoring the implementation of the plan and reviewing 
 
 The planning process is a systematic approach that helps organizations achieve their goals effectively. It involves setting objectives, developing planning premises, identifying and evaluating alternatives, selecting the best option, formulating supporting plans, implementing the plan, and monitoring progress. Through proper planning, organizations can reduce uncertainty, improve decision-making, utilize resources efficiently, and achieve long-term success.
 
-6. Explain the contribution made by F.W Taylor towards management.
+**6. Explain the contribution made by F.W Taylor towards management.**
 
 **Ans.**
 
@@ -777,7 +777,7 @@ F.W. Taylor's contributions laid the foundation of modern management practices. 
 
 ### Unit 1 Long Answer (400-500 words)
 
-1. Summarise the nature of management as a science and profession.
+**1. Summarise the nature of management as a science and profession.**
 
 **Ans.**
 
@@ -813,7 +813,7 @@ Like other professions, management aims not only at earning profits but also at 
 
 Management possesses characteristics of both a science and a profession. As a science, it is based on systematic knowledge, principles, and research. As a profession, it requires specialized knowledge, training, ethical conduct, and a service-oriented approach. Therefore, management can be regarded as both a science and an emerging profession that plays a vital role in organizational success.
 
-2. Explain the five main functions of management with examples.
+**2. Explain the five main functions of management with examples.**
 
 **Ans.**
 
@@ -850,7 +850,7 @@ Controlling is the process of measuring actual performance, comparing it with pr
 
 The five main functions of management—planning, organizing, staffing, directing, and controlling—are essential for the successful operation of any organization. Planning provides direction, organizing arranges resources, staffing ensures the availability of competent employees, directing motivates and guides workers, and controlling monitors performance. Together, these functions help organizations achieve their goals efficiently and effectively.
 
-3. Illustrate the significance of management in achieving organisational success.
+**3. Illustrate the significance of management in achieving organisational success.**
 
 **Ans.**
 
@@ -889,7 +889,7 @@ Management promotes creativity and innovation by encouraging employees to develo
 
 Management is essential for achieving organizational success. It helps in attaining goals, utilizing resources efficiently, improving productivity, promoting coordination, facilitating decision-making, adapting to change, motivating employees, ensuring stability, and encouraging innovation. Therefore, effective management serves as the foundation for the growth, profitability, and long-term success of any organization.
 
-4. Conclude the major operational areas included in the scope of management.
+**4. Conclude the major operational areas included in the scope of management.**
 
 **Ans.**
 
@@ -928,7 +928,7 @@ Quality management focuses on maintaining and improving the quality of products 
 
 The scope of management includes various operational areas such as production, finance, human resources, marketing, materials, research and development, administration, information technology, and quality management. Effective management of these areas ensures efficient utilization of resources, improved productivity, customer satisfaction, and long-term organizational success. Therefore, the scope of management is comprehensive and essential for the growth and sustainability of every organization.
 
-5. Simplify the importance of balancing efficiency and effectiveness in management.
+**5. Simplify the importance of balancing efficiency and effectiveness in management.**
 
 **Ans.**
 
