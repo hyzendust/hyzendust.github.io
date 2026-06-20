@@ -10,9 +10,9 @@ registration-needed = true
   <p><strong>Password:</strong> Use the same password that you used during registration.</p>
 </div>
 <div id="email-loggedout" style="display:none">
-  <p>Big corporate email providers read and scan every message that passes through their servers. Your conversations become training data and ad-targeting fuel. That's not email but surveillance with an inbox attached!</p>
-  <p>We provide this service because privacy shouldn't be a premium feature, it should just be how things work by default. Your email here isn't mined or isn't sold, and isn't anyone's business but yours.</p>
-  <p>Please <a href="/signup/">sign up</a> to use this service.</p>
+  <p>Big corporate email providers read and scan every message that passes through their servers. Your emails become training data and ad-targeting fuel.</p>
+  <p>We provide this service because email privacy shouldn't be a premium feature, it should be the default! Your emails here aren't mined or sold. They aren't anyone's business but yours.</p>
+  <p>Please <a href="/signup/">sign up</a> to have an email account.</p>
 </div>
 <script>
 (function () {
