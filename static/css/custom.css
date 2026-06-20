@@ -1528,3 +1528,16 @@
 		font-size: 0.72rem;
 	}
 }
+
+/* Markdown tables (uninotes, blog posts, etc.): match page background
+   and use the normal text color for borders, instead of the theme's
+   grey/white box styling meant for blockquotes/code blocks. */
+table {
+	background-color: var(--background-color);
+}
+
+td,
+th {
+	border: 1px solid var(--foreground-color);
+	color: var(--foreground-color);
+}
