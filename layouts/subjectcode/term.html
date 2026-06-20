@@ -1,120 +1,59 @@
-{{ define "main" }}
-
-{{ $subjectCode := .Title }}
-
-{{/* Get semester from first post */}}
-{{ $semester := "" }}
-{{ range .Pages }}
-  {{ if eq $semester "" }}
-    {{ $raw := .Params.semester }}
-    {{ if reflect.IsSlice $raw }}
-      {{ $semester = index $raw 0 }}
-    {{ else }}
-      {{ $semester = $raw }}
-    {{ end }}
-  {{ end }}
-{{ end }}
+{{ define "main" }} {{ $subjectCode := .Title }} {{/* Get semester from first post */}} {{ $semester
+:= "" }} {{ range .Pages }} {{ if eq $semester "" }} {{ $raw := .Params.semester }} {{ if
+reflect.IsSlice $raw }} {{ $semester = index $raw 0 }} {{ else }} {{ $semester = $raw }} {{ end }}
+{{ end }} {{ end }}
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
-  <a href="/uninotes/">UniNotes</a>
-  {{ if $semester }}
-    {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
-    {{ if $semPage }}
-      › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a>
-    {{ end }}
-  {{ end }}
-  › <span>{{ $subjectCode }}</span>
+	<a href="/uninotes/">UniNotes</a>
+	{{ if $semester }} {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
+	{{ if $semPage }} › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a> {{ end }} {{ end
+	}} › <span>{{ $subjectCode }}</span>
 </nav>
 
 <h1>{{ $subjectCode }}</h1>
 
-{{/* Collect unique unit labels and sort numerically */}}
-{{ $seenUnits := slice }}
-{{ $unitDicts := slice }}
-{{ range .Pages }}
-  {{ $unitLabel := (.Params.unit | default .Title) }}
-  {{ if not (in $seenUnits $unitLabel) }}
-    {{ $seenUnits = $seenUnits | append $unitLabel }}
-    {{/* Extract unit number for numeric sort, e.g. "Unit 11" → 11 */}}
-    {{ $uParts := split $unitLabel " " }}
-    {{ $uLast := index $uParts (sub (len $uParts) 1) }}
-    {{ $uNumStr := "" }}
-    {{ range (split $uLast "") }}
-      {{ if ge . "0" }}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }}
-    {{ end }}
-    {{ $uNum := int ($uNumStr | default "0") }}
-    {{ $unitDicts = $unitDicts | append (dict "label" $unitLabel "page" . "num" $uNum) }}
-  {{ end }}
-{{ end }}
-{{ $sortedUnitDicts := sort $unitDicts "num" }}
+{{/* Collect unique unit labels and sort numerically */}} {{ $seenUnits := slice }} {{ $unitDicts :=
+slice }} {{ range .Pages }} {{ $unitLabel := (.Params.unit | default .Title) }} {{ if not (in
+$seenUnits $unitLabel) }} {{ $seenUnits = $seenUnits | append $unitLabel }} {{/* Extract unit number
+for numeric sort, e.g. "Unit 11" → 11 */}} {{ $uParts := split $unitLabel " " }} {{ $uLast := index
+$uParts (sub (len $uParts) 1) }} {{ $uNumStr := "" }} {{ range (split $uLast "") }} {{ if ge . "0"
+}}{{ if le . "9" }}{{ $uNumStr = printf "%s%s" $uNumStr . }}{{ end }}{{ end }} {{ end }} {{ $uNum :=
+int ($uNumStr | default "0") }} {{ if eq (upper $unitLabel) "QNA" }}{{ $uNum = 999999 }}{{ end }} {{
+$unitDicts = $unitDicts | append (dict "label" $unitLabel "page" . "num" $uNum) }} {{ end }} {{ end
+}} {{ $sortedUnitDicts := sort $unitDicts "num" }}
 
 <ul class="uninotes-list uninotes-list--units">
-  {{ range $sortedUnitDicts }}
-    <li class="uninotes-list__item">
-      <a class="uninotes-list__link" href="{{ .page.Params.uniturl }}">
-        {{ .label }}
-      </a>
-    </li>
-  {{ end }}
+	{{ range $sortedUnitDicts }} {{ $unitUrl := .page.Params.uniturl }} {{ if not $unitUrl }}{{
+	$unitUrl = .page.RelPermalink }}{{ end }}
+	<li class="uninotes-list__item">
+		<a class="uninotes-list__link" href="{{ $unitUrl }}"> {{ .label }} </a>
+	</li>
+	{{ end }}
 </ul>
 
-{{/* Subject prev/next — siblings in same semester, sorted numerically by code number */}}
-{{ if $semester }}
-  {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
-  {{ if $semPage }}
-    {{/* Collect unique subject codes */}}
-    {{ $siblingCodes := slice }}
-    {{ range $semPage.Pages }}
-      {{ $raw := .Params.subjectcode }}
-      {{ $code := "" }}
-      {{ if reflect.IsSlice $raw }}
-        {{ $code = index $raw 0 }}
-      {{ else }}
-        {{ $code = $raw }}
-      {{ end }}
-      {{ if and $code (not (in $siblingCodes $code)) }}
-        {{ $siblingCodes = $siblingCodes | append $code }}
-      {{ end }}
-    {{ end }}
-
-    {{/* Sort subject codes numerically by extracting the number (e.g. "BO DCM1109" → 1109) */}}
-    {{ $codeDicts := slice }}
-    {{ range $siblingCodes }}
-      {{ $code := . }}
-      {{ $parts := split $code " " }}
-      {{ $lastPart := index $parts (sub (len $parts) 1) }}
-      {{ $numStr := "" }}
-      {{ range (split $lastPart "") }}
-        {{ if ge . "0" }}{{ if le . "9" }}{{ $numStr = printf "%s%s" $numStr . }}{{ end }}{{ end }}
-      {{ end }}
-      {{ $num := int ($numStr | default "0") }}
-      {{ $codeDicts = $codeDicts | append (dict "code" $code "num" $num) }}
-    {{ end }}
-    {{ $sortedCodeDicts := sort $codeDicts "num" }}
-
-    {{ if gt (len $sortedCodeDicts) 1 }}
-      {{ $currentIdx := 0 }}
-      {{ range $i, $d := $sortedCodeDicts }}
-        {{ if eq $d.code $subjectCode }}{{ $currentIdx = $i }}{{ end }}
-      {{ end }}
-      <nav class="page-nav">
-        {{ if gt $currentIdx 0 }}
-          {{ $prevCode := (index $sortedCodeDicts (sub $currentIdx 1)).code }}
-          {{ $prevPage := site.GetPage (printf "/subjectcode/%s" ($prevCode | urlize)) }}
-          {{ if $prevPage }}
-            <a class="page-nav__previous-link" href="{{ $prevPage.RelPermalink }}">← {{ $prevCode }}</a>
-          {{ end }}
-        {{ end }}
-        {{ if lt $currentIdx (sub (len $sortedCodeDicts) 1) }}
-          {{ $nextCode := (index $sortedCodeDicts (add $currentIdx 1)).code }}
-          {{ $nextPage := site.GetPage (printf "/subjectcode/%s" ($nextCode | urlize)) }}
-          {{ if $nextPage }}
-            <a class="page-nav__next-link" href="{{ $nextPage.RelPermalink }}">{{ $nextCode }} →</a>
-          {{ end }}
-        {{ end }}
-      </nav>
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-{{ end }}
+{{/* Subject prev/next — siblings in same semester, sorted numerically by code number */}} {{ if
+$semester }} {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }} {{ if
+$semPage }} {{/* Collect unique subject codes */}} {{ $siblingCodes := slice }} {{ range
+$semPage.Pages }} {{ $raw := .Params.subjectcode }} {{ $code := "" }} {{ if reflect.IsSlice $raw }}
+{{ $code = index $raw 0 }} {{ else }} {{ $code = $raw }} {{ end }} {{ if and $code (not (in
+$siblingCodes $code)) }} {{ $siblingCodes = $siblingCodes | append $code }} {{ end }} {{ end }} {{/*
+Sort subject codes numerically by extracting the number (e.g. "BO DCM1109" → 1109) */}} {{
+$codeDicts := slice }} {{ range $siblingCodes }} {{ $code := . }} {{ $parts := split $code " " }} {{
+$lastPart := index $parts (sub (len $parts) 1) }} {{ $numStr := "" }} {{ range (split $lastPart "")
+}} {{ if ge . "0" }}{{ if le . "9" }}{{ $numStr = printf "%s%s" $numStr . }}{{ end }}{{ end }} {{
+end }} {{ $num := int ($numStr | default "0") }} {{ $codeDicts = $codeDicts | append (dict "code"
+$code "num" $num) }} {{ end }} {{ $sortedCodeDicts := sort $codeDicts "num" }} {{ if gt (len
+$sortedCodeDicts) 1 }} {{ $currentIdx := 0 }} {{ range $i, $d := $sortedCodeDicts }} {{ if eq
+$d.code $subjectCode }}{{ $currentIdx = $i }}{{ end }} {{ end }}
+<nav class="page-nav">
+	{{ if gt $currentIdx 0 }} {{ $prevCode := (index $sortedCodeDicts (sub $currentIdx 1)).code }}
+	{{ $prevPage := site.GetPage (printf "/subjectcode/%s" ($prevCode | urlize)) }} {{ if $prevPage
+	}}
+	<a class="page-nav__previous-link" href="{{ $prevPage.RelPermalink }}">← {{ $prevCode }}</a>
+	{{ end }} {{ end }} {{ if lt $currentIdx (sub (len $sortedCodeDicts) 1) }} {{ $nextCode :=
+	(index $sortedCodeDicts (add $currentIdx 1)).code }} {{ $nextPage := site.GetPage (printf
+	"/subjectcode/%s" ($nextCode | urlize)) }} {{ if $nextPage }}
+	<a class="page-nav__next-link" href="{{ $nextPage.RelPermalink }}">{{ $nextCode }} →</a>
+	{{ end }} {{ end }}
+</nav>
+{{ end }} {{ end }} {{ end }} {{ end }}

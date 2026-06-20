@@ -19,9 +19,15 @@ $subjectcode = $subjectcodeRaw }} {{ end }}
 
 <div class="uninotes-meta">
 	{{ with $semester }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }} {{ with
-	$subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }} {{ with
+	$subjectcode }}<span class="uninotes-meta__pill">{{ . }}</span>{{ end }} {{ if
 	.Params.notecategory }}
-	<span class="uninotes-meta__pill uninotes-meta__pill--{{ . | lower }}">{{ . }}</span>
+	<span class="uninotes-meta__pill uninotes-meta__pill--{{ .Params.notecategory | lower }}"
+		>{{ .Params.notecategory }}</span
+	>
+	{{ else if .Params.unit }}
+	<span class="uninotes-meta__pill uninotes-meta__pill--{{ .Params.unit | lower }}"
+		>{{ .Params.unit }}</span
+	>
 	{{ end }}
 </div>
 
