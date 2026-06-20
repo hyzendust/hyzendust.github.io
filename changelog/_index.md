@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[21-06-2026]
+- ***Update: Email and XMPP pages.***
+
 [13-06-2026]
 - ***Add: Terms and Conditions, Privacy Policy.***
 - ***Add: Backend repository link.***
