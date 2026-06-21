@@ -3,7 +3,7 @@ draft = false
 title = 'XMPP'
 weight = 2
 registration-needed = true
-summary = 'Get an XMPP account on freedoms4.org'
+summary = 'Get an XMPP account.'
 +++
 
 <div id="xmpp-loggedin" style="display:none">

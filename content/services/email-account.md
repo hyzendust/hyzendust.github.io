@@ -3,7 +3,7 @@ draft = false
 title = 'Email'
 weight = 1
 registration-needed = true
-summary = 'Get a private email account on freedoms4.org'
+summary = 'Get a private email account.'
 +++
 
 <div id="email-loggedin" style="display:none">
