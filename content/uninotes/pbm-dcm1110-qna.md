@@ -290,7 +290,7 @@ Financial incentives have a direct monetary value and increase the earnings of e
 **C) Objective:**
 The main objective of financial incentives is to encourage employees to improve productivity by offering economic rewards. Non-financial incentives aim to improve morale, commitment, loyalty, and job satisfaction among employees.
 
-**D) Examples:**
+*Examples:*
 Financial incentives include salary increases, bonuses, commissions, profit-sharing, stock options, incentives, and performance-based rewards. Non-financial incentives include recognition, appreciation, promotion, job security, participation in decision-making, flexible working conditions, and opportunities for training and career development.
 
 **E) Employee Needs Satisfied:**
@@ -1103,21 +1103,21 @@ Technical skills refer to the knowledge, expertise, and ability required to perf
 
 Technical skills enable managers to understand the work being performed and provide guidance to employees. For example, a production supervisor in a manufacturing company must understand machine operations and production processes. Similarly, an Information Technology (IT) manager should possess knowledge of computer systems, software, and network management.
 
-***Example:*** A factory supervisor who knows how to operate and maintain production equipment demonstrates strong technical skills.
+*Example:* A factory supervisor who knows how to operate and maintain production equipment demonstrates strong technical skills.
 
 **B) Human Skills:**
 Human skills refer to the ability to work effectively with people, communicate clearly, build relationships, and motivate employees. These skills are essential for managers at all levels because organizations depend on teamwork and cooperation to achieve objectives.
 
 Managers with strong human skills can understand employee needs, resolve conflicts, encourage collaboration, and create a positive work environment. Effective communication and interpersonal relationships help improve employee morale and productivity.
 
-***Example:*** A department manager who listens to employee concerns, provides constructive feedback, and motivates team members to achieve targets demonstrates strong human skills.
+*Example:* A department manager who listens to employee concerns, provides constructive feedback, and motivates team members to achieve targets demonstrates strong human skills.
 
 **C) Conceptual Skills:**
 Conceptual skills involve the ability to think strategically, analyze complex situations, and understand how different parts of an organization work together. These skills are particularly important for top-level managers who are responsible for long-term planning and decision-making.
 
 Conceptual skills help managers identify opportunities, solve organizational problems, and develop strategies for future growth. They allow managers to view the organization as a whole and understand the impact of their decisions on various departments and stakeholders.
 
-***Example:*** A Chief Executive Officer (CEO) developing a long-term expansion strategy by analyzing market trends, competition, and business opportunities demonstrates strong conceptual skills.
+*Example:* A Chief Executive Officer (CEO) developing a long-term expansion strategy by analyzing market trends, competition, and business opportunities demonstrates strong conceptual skills.
 
 **Importance of Managerial Skills**
 
@@ -1127,7 +1127,7 @@ All three managerial skills are important for organizational success. Technical 
 
 In conclusion, managerial skills can be classified into technical skills, human skills, and conceptual skills. These skills enable managers to perform their responsibilities efficiently, build strong relationships, and make sound decisions. A successful manager develops all three skills to ensure organizational effectiveness, employee satisfaction, and long-term growth.
 
-**5. Distinguish between managers and non-managers on the basis of work, authority, and responsibility.
+**5. Distinguish between managers and non-managers on the basis of work, authority, and responsibility.**
 
 **Ans.**
 
@@ -1140,21 +1140,21 @@ Managers are responsible for coordinating and supervising the work of others. Th
 
 On the other hand, non-managers perform the actual operational or technical tasks required by the organization. They follow instructions provided by managers and concentrate on completing their assigned duties rather than supervising others.
 
-***Example:*** A sales manager plans sales targets and supervises the sales team, whereas a salesperson focuses on selling products and serving customers.
+*Example:* A sales manager plans sales targets and supervises the sales team, whereas a salesperson focuses on selling products and serving customers.
 
 **B) Difference on the Basis of Authority:**
 Managers possess formal authority that is granted by the organization. This authority allows them to make decisions, assign work, supervise employees, and take corrective actions when necessary. Their authority varies according to their position and level in the management hierarchy.
 
 Non-managers generally have little or no formal authority over other employees. They are expected to follow organizational policies and instructions rather than make managerial decisions. Their authority is usually limited to performing their assigned tasks.
 
-***Example:*** A production manager can allocate work among employees and approve schedules, while a machine operator has authority only over the operation of assigned equipment.
+*Example:* A production manager can allocate work among employees and approve schedules, while a machine operator has authority only over the operation of assigned equipment.
 
 **C) Difference on the Basis of Responsibility:**
 Managers are responsible not only for their own work but also for the performance of the employees under their supervision. They are accountable for achieving departmental and organizational objectives, maintaining productivity, and ensuring efficient use of resources.
 
 In contrast, non-managers are primarily responsible for completing their own tasks accurately and on time. Their accountability is generally limited to their individual performance and job responsibilities.
 
-***Example:*** A department manager is responsible for the overall performance of the department, whereas an office assistant is responsible only for completing assigned administrative tasks.
+*Example:* A department manager is responsible for the overall performance of the department, whereas an office assistant is responsible only for completing assigned administrative tasks.
 
 **Importance of Both Managers and Non-Managers**
 
@@ -1179,21 +1179,21 @@ Social forces refer to changes in societal values, culture, education, demograph
 
 The growth of education and awareness also encouraged organizations to focus on teamwork, leadership, diversity, and employee welfare. Modern management thought recognizes that employees are valuable assets whose contributions are essential for organizational success.
 
-***Example:*** The Human Relations Movement, led by Elton Mayo, emerged because organizations realized that social and psychological factors significantly affect employee productivity.
+*Example:* The Human Relations Movement, led by Elton Mayo, emerged because organizations realized that social and psychological factors significantly affect employee productivity.
 
 **B) Impact of Political Forces:**
 Political forces include government policies, laws, regulations, and political stability. Governments introduced labor laws, workplace safety regulations, minimum wage requirements, and employment protection measures. These regulations required organizations to adopt fair and ethical management practices.
 
 Political stability encourages business growth and investment, while political uncertainty may force organizations to adapt their management strategies. As governments increased their involvement in economic and social matters, management thought evolved to include legal compliance, corporate governance, and ethical decision-making.
 
-***Example:*** Labor laws requiring safe working environments led managers to develop policies and systems that prioritize employee health and safety.
+*Example:* Labor laws requiring safe working environments led managers to develop policies and systems that prioritize employee health and safety.
 
 **C) Impact of Economic Forces:**
 Economic forces have played a major role in shaping management thought. Industrialization, technological advancements, globalization, competition, inflation, and changing market conditions have influenced how organizations are managed. During the Industrial Revolution, the need for increased productivity led to the development of Scientific Management by Frederick W. Taylor, which focused on improving efficiency and reducing waste.
 
 As economies became more competitive, organizations adopted modern management techniques such as strategic planning, quality management, innovation, and performance measurement. Economic challenges also encouraged managers to improve resource utilization and organizational effectiveness.
 
-***Example:*** Scientific Management emerged during rapid industrial growth when businesses needed efficient methods to increase production and reduce costs.
+*Example:* Scientific Management emerged during rapid industrial growth when businesses needed efficient methods to increase production and reduce costs.
 
 **Combined Influence on Management Thought**
 
@@ -1244,19 +1244,19 @@ Frederick W. Taylor's contributions to Scientific Management revolutionized the 
 
 The Classical Approach is one of the earliest schools of management thought. It developed during the late nineteenth and early twentieth centuries when organizations were seeking ways to improve productivity, efficiency, and organizational structure. The Classical Approach focuses on rationality, specialization, and formal organizational arrangements. It is broadly divided into three main branches: Scientific Management, Administrative Management, and Bureaucratic Management. Each branch was developed by influential management thinkers who contributed significantly to the field of management.
 
-**A) Scientific Management**
+**A) Scientific Management:**
 
 Scientific Management focuses on improving the efficiency and productivity of workers through scientific methods and systematic study of tasks. It emphasizes finding the "one best way" to perform a job and improving work performance through standardization and training.
 
 The main contributor to this branch was **Frederick W. Taylor**, who is widely known as the "Father of Scientific Management." Taylor introduced concepts such as time and motion studies, scientific selection and training of workers, standardization of work methods, and performance-based wage systems. Other contributors included **Frank and Lillian Gilbreth**, who focused on motion studies, and **Henry L. Gantt**, who developed the Gantt Chart for planning and scheduling work.
 
-**B) Administrative Management**
+**B) Administrative Management:**
 
 Administrative Management focuses on the management of the entire organization rather than individual workers. It emphasizes managerial functions and principles that can be applied to improve organizational efficiency and effectiveness.
 
 The primary contributor to this branch was **Henri Fayol**. Fayol identified the five functions of management—planning, organizing, commanding, coordinating, and controlling. He also developed fourteen principles of management, including unity of command, division of work, authority and responsibility, and scalar chain. His ideas provided managers with a framework for managing organizations effectively.
 
-**C) Bureaucratic Management**
+**C) Bureaucratic Management:**
 
 Bureaucratic Management emphasizes a formal organizational structure based on rules, regulations, hierarchy, and clearly defined responsibilities. It aims to ensure consistency, fairness, and efficiency in organizational operations.
 
@@ -1274,31 +1274,31 @@ The Classical Approach laid the foundation for modern management theory through 
 
 Henri Fayol was a French management theorist who made significant contributions to the field of management through his Administrative Management Theory. He believed that management is a universal process and identified key managerial functions and principles that could be applied in all types of organizations. Although Fayol developed his ideas in the early twentieth century, many of his concepts remain relevant and continue to influence modern organizations. His administrative approach provides a foundation for effective planning, organization, coordination, and control.
 
-**A) Importance of Management Functions**
+**A) Importance of Management Functions:**
 
 Fayol identified five basic functions of management: planning, organizing, commanding, coordinating, and controlling. These functions continue to be essential in modern organizations. Managers still rely on planning to set objectives, organizing to allocate resources, coordinating to ensure teamwork, and controlling to monitor performance and achieve organizational goals.
 
-**B) Emphasis on Division of Work**
+**B) Emphasis on Division of Work:**
 
 Fayol's principle of division of work remains highly relevant today. Specialization allows employees to focus on specific tasks, develop expertise, and improve productivity. Modern organizations use specialization to increase efficiency and maintain high standards of performance.
 
-**C) Clear Authority and Responsibility**
+**C) Clear Authority and Responsibility:**
 
 Fayol emphasized that authority should be accompanied by responsibility. In modern organizations, managers are given authority to make decisions and are held accountable for their outcomes. This principle promotes effective leadership and ensures that responsibilities are clearly defined.
 
-**D) Unity of Command and Direction**
+**D) Unity of Command and Direction:**
 
 According to Fayol, employees should receive instructions from only one superior and work toward common organizational objectives. While modern organizations may use team-based structures, clear reporting relationships and unified goals remain important for avoiding confusion and improving coordination.
 
-**E) Importance of Discipline and Order**
+**E) Importance of Discipline and Order:**
 
 Fayol believed that discipline and order are necessary for organizational success. Modern organizations continue to establish rules, policies, and procedures to maintain professionalism, efficiency, and a productive work environment.
 
-**F) Encouragement of Team Spirit**
+**F) Encouragement of Team Spirit:**
 
 One of Fayol's important principles was *esprit de corps*, which refers to team spirit and unity among employees. In today's competitive business environment, teamwork, collaboration, and employee engagement are considered essential for achieving organizational success and innovation.
 
-**G) Adaptability to Modern Management**
+**G) Adaptability to Modern Management:**
 
 Although some of Fayol's principles were developed for traditional hierarchical organizations, many of them can be adapted to modern management practices. Concepts such as planning, coordination, accountability, and teamwork remain valuable in both traditional and contemporary organizational structures.
 
