@@ -10,8 +10,6 @@ url = '/uninotes/s1/bo-dcm1109/qna/'
 
 ### ***June 20, 2026***
 
-## QNA
-
 ### Model Question Paper 5 Marks (200-250 words)
 
 **1. Discuss the difference between entrepreneurship and intrapreneurship.**
