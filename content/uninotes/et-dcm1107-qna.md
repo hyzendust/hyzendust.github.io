@@ -4,6 +4,20 @@ semester = ['S1']
 subjectcode = ['ET DCM1107']
 unit = 'QNA'
 title = 'ET DCM1107 QNA'
-toc = false
+toc = true
 url = '/uninotes/s1/et-dcm1107/qna/'
 +++
+
+### ***June 24, 2026***
+
+### Model Question Paper 5 Marks (200-250 words)
+
+**1. Discuss the difference between entrepreneurship and intrapreneurship.**
+
+**Ans.**
+
+### Questions from Previous Year Question Papers 10 Marks
+
+### Unit 1 Long Answer (400-500 words)
+
+### Unit 1 Short Answer
