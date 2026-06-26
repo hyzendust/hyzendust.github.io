@@ -1006,8 +1006,7 @@
 	margin-bottom: 0.85rem;
 	padding: 0.75rem 0.75rem 0.1rem 0.75rem;
 	background: var(--background-color);
-	border: 0.762px solid var(--foreground-color3);
-	border-radius: 4px;
+	border-left: 1.4px solid var(--foreground-color3);
 }
 
 .comment--reply {
