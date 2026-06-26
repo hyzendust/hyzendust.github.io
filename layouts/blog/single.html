@@ -20,7 +20,7 @@
 <script>
 	(function () {
 		var BACKEND  = 'https://backend.freedoms4.org/comments.php';
-		var POST_ID  = {{ .RelPermalink | jsonify }};
+		var POST_ID  = {{ .RelPermalink | jsonify | safeJS }};
 		var username = localStorage.getItem('f4_username');
 		var isAdmin  = false;
 
