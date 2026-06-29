@@ -1919,3 +1919,267 @@ The approach further supports **innovation and problem-solving**. Since managers
 **Conclusion**
 
 The contingency approach is highly valuable in today's dynamic organisational environment because it promotes flexibility, better decision-making, adaptability, efficient resource utilisation, effective employee management, and innovation. Rather than relying on fixed management principles, it encourages managers to analyze each situation carefully and adopt the most suitable course of action. As a result, organisations become more responsive, competitive, and capable of achieving long-term success in an ever-changing business environment.
+
+### ***June 30, 2026***
+
+### Unit 6 Short Answer (200-250 words)
+
+**1. Apply the concept of planning to show how a manager would schedule a month-long sales promotion.**
+
+**Ans.**
+
+**Planning a Month-Long Sales Promotion**
+
+Planning is the process of deciding in advance what should be done, how it should be done, when it should be done, and who should do it. A manager uses planning to ensure that a month-long sales promotion is organized systematically and achieves the desired objectives.
+
+The manager first sets a **clear objective**, such as increasing sales by 20% or attracting new customers during the promotion period. After defining the goal, the manager studies market conditions, customer preferences, competitors' offers, and the available budget.
+
+Next, the manager prepares a detailed **action plan** for the four weeks. During the first week, advertisements are launched through newspapers, social media, and local radio to create awareness. In the second week, special discounts, coupons, or buy-one-get-one offers are introduced to encourage customer purchases. During the third week, customer engagement activities such as lucky draws, product demonstrations, or contests are organized to increase participation. In the final week, the manager offers clearance discounts and reviews the campaign's performance.
+
+The manager also assigns responsibilities to different departments. The marketing team handles advertising, the sales team manages customer service, the finance department controls the promotion budget, and the inventory department ensures adequate stock is available throughout the campaign.
+
+Regular monitoring is an important part of planning. The manager reviews daily sales reports, customer feedback, and promotional expenses to make necessary adjustments. If certain promotional activities are not producing the expected results, corrective measures are taken immediately.
+
+In conclusion, effective planning helps managers organize resources, coordinate employee efforts, reduce risks, and achieve the objectives of a month-long sales promotion efficiently. It ensures that the campaign runs smoothly and contributes to increased sales and customer satisfaction.
+
+**2. Analyze why estimating “type of resources required” is critical during planning.**
+
+**Ans.**
+
+Estimating the **type of resources required** is a crucial part of planning because it helps managers identify and arrange everything needed to achieve organisational objectives. Resources include human resources, financial resources, raw materials, machinery, technology, information, and time. Proper estimation ensures that the right resources are available at the right time and in the required quantity.
+
+One of the main reasons for estimating resource requirements is to **avoid shortages or excesses**. Insufficient resources may delay production and reduce efficiency, while excess resources increase unnecessary costs and wastage. Accurate estimation also helps managers prepare realistic budgets and allocate funds efficiently.
+
+Resource estimation improves **coordination and scheduling** by ensuring that employees, equipment, and materials are available when needed. It also supports better decision-making, as managers can identify potential problems in advance and make suitable arrangements before implementing plans.
+
+In addition, estimating resource requirements helps organisations use their resources efficiently and improve productivity. Managers can assign tasks according to employee skills, purchase the required materials, and invest in suitable technology. This reduces operational risks and increases the chances of achieving organisational goals within the planned time and budget.
+
+For example, if a company plans to introduce a new product, it must estimate the number of workers, raw materials, machinery, advertising budget, and distribution facilities required. Proper planning ensures that production and marketing activities proceed without interruption.
+
+In conclusion, estimating the type of resources required is essential because it ensures efficient resource allocation, cost control, smooth operations, and successful implementation of organisational plans. It enables managers to achieve objectives effectively while minimizing risks and wastage.
+
+**3. Analyze why identifying both controllable and non-controllable premises is essential for accurate planning.**
+
+**Ans.**
+
+Identifying both **controllable and non-controllable premises** is essential for accurate planning because it enables managers to prepare realistic plans and respond effectively to changing business conditions. Planning premises are the assumptions about future events on which business plans are based. Controllable premises are factors that the organisation can influence, such as production capacity, employee performance, budgets, and company policies. Non-controllable premises include external factors such as government regulations, economic conditions, technological changes, competition, and customer preferences.
+
+By identifying controllable premises, managers can make better decisions regarding resource allocation, production schedules, staffing, and financial planning. These factors can be managed and adjusted to achieve organisational objectives efficiently.
+
+At the same time, recognising non-controllable premises helps managers anticipate external risks and uncertainties. Since these factors cannot be controlled, organisations can prepare alternative strategies or contingency plans to minimize their impact. This improves flexibility and enables businesses to respond quickly to changes in the external environment.
+
+For example, a company planning to launch a new product can control its advertising budget, production process, and pricing strategy. However, it cannot control changes in government policies, inflation, or competitors' actions. By considering both types of premises, the company can develop a more practical and adaptable business plan.
+
+In conclusion, identifying both controllable and non-controllable premises is vital for effective planning. It helps managers make informed decisions, reduce uncertainty, allocate resources efficiently, and prepare for unexpected changes. As a result, organisations can improve their performance and achieve their goals more successfully.
+
+**4. Explain why programmed decisions are useful for lower-level managers.**
+
+**Ans.**
+
+**Programmed decisions** are routine and repetitive decisions made according to established rules, procedures, and policies. They are especially useful for **lower-level managers** because these managers handle day-to-day operational activities and frequently encounter similar situations. Using programmed decisions allows them to solve routine problems quickly without requiring extensive analysis or approval from higher management.
+
+One of the major advantages of programmed decisions is that they **save time and effort**. Since standard procedures are already available, lower-level managers can make decisions efficiently and focus on maintaining smooth business operations. They also ensure **consistency and uniformity** in decision-making, reducing confusion and ensuring that similar situations are handled in the same manner.
+
+Programmed decisions help **reduce errors and uncertainty** because they are based on proven methods and organisational policies. They also improve coordination among departments, as employees follow the same rules and procedures. This increases productivity and operational efficiency.
+
+For example, a retail store manager follows company guidelines for handling customer returns, approving employee leave, or reordering stock when inventory reaches a minimum level. These routine decisions can be made quickly without consulting senior managers.
+
+In conclusion, programmed decisions are valuable for lower-level managers because they simplify routine decision-making, save time, improve consistency, reduce mistakes, and enhance operational efficiency. By following established policies and procedures, lower-level managers can effectively manage daily activities while allowing senior managers to concentrate on strategic and non-routine decisions.
+
+**5. Analyze why decision making under risk requires probability estimation.**
+
+**Ans.**
+
+Decision-making under **risk** requires **probability estimation** because managers know the possible outcomes of a decision, but they are uncertain about which outcome will actually occur. Estimating probabilities helps managers measure the likelihood of different events and compare the potential benefits and risks of each alternative before making a decision.
+
+Probability estimation enables managers to make **more informed and rational decisions** by evaluating the chances of success or failure. It helps in forecasting demand, estimating profits, assessing financial risks, and planning for uncertain business conditions. By assigning probabilities to different outcomes, managers can choose the option that offers the highest expected benefit while minimizing potential losses.
+
+It also improves **risk management** by helping organizations prepare contingency plans for unexpected situations. Businesses can allocate resources more effectively, reduce uncertainty, and increase the likelihood of achieving their objectives. Probability estimation is widely used in investment decisions, inventory management, insurance, project planning, and marketing strategies.
+
+For example, a company planning to launch a new product may estimate a 70% probability of high customer demand and a 30% probability of low demand. Based on these estimates, managers can decide the appropriate production level and marketing budget while preparing backup plans if demand is lower than expected.
+
+In conclusion, probability estimation is essential in decision-making under risk because it provides a scientific basis for evaluating uncertain situations. It helps managers compare alternatives, reduce uncertainty, manage risks effectively, and make decisions that improve organizational performance and long-term success.
+
+### Unit 5 Long Answer (400-500 words)
+
+**1. Evaluate the role of planning as the foundation for other managerial functions (organizing, staffing, directing and controlling).**
+
+**Ans.**
+
+**Role of Planning as the Foundation for Other Managerial Functions**
+
+Planning is the primary function of management and forms the foundation for all other managerial functions. It involves deciding in advance what is to be done, how it should be done, when it should be done, and by whom. Planning provides direction to the organisation by establishing objectives and determining the best course of action to achieve them. Since all other management functions depend on planning, it is regarded as the basis of effective management.
+
+**A) Planning and Organizing:**
+Planning provides the framework for organizing. Once objectives are determined, managers identify the activities to be performed, divide work among departments, assign responsibilities, and allocate resources. Without planning, organizing would lack direction and coordination.
+
+**B) Planning and Staffing:**
+Planning helps managers estimate the number and type of employees required to achieve organisational goals. It guides recruitment, selection, training, and placement of employees. Proper planning ensures that the right people are appointed for the right jobs at the right time.
+
+**C) Planning and Directing:**
+Directing involves guiding, motivating, supervising, and communicating with employees to achieve organisational objectives. Planning establishes clear goals and work schedules, enabling managers to provide proper instructions and motivate employees effectively. Employees perform better when they clearly understand organisational plans.
+
+**D) Planning and Controlling:**
+Planning and controlling are closely related. Planning sets performance standards and expected results, while controlling compares actual performance with planned objectives. If deviations are found, managers take corrective action to ensure that organisational goals are achieved.
+
+**E) Better Coordination:**
+Planning promotes coordination among different departments by ensuring that all activities are directed toward common organisational objectives. It reduces conflicts and duplication of work.
+
+**F) Efficient Resource Utilisation:**
+Planning helps managers allocate human, financial, and physical resources efficiently. Proper resource utilisation reduces waste, lowers costs, and improves productivity.
+
+**G) Reduces Uncertainty and Risk:**
+Planning enables managers to anticipate future challenges, analyse possible alternatives, and prepare suitable strategies. This reduces uncertainty and improves decision-making in a changing business environment.
+
+*Example:* A company planning to launch a new product first prepares a production schedule, marketing strategy, budget, and staffing plan. Organizing arranges the necessary resources, staffing recruits skilled employees, directing motivates workers to achieve production targets, and controlling evaluates whether the project meets the planned objectives.
+
+**Conclusion**
+
+Planning is the foundation of all managerial functions because it provides direction for organizing, staffing, directing, and controlling. It improves coordination, ensures efficient use of resources, reduces uncertainty, and establishes performance standards. Therefore, effective planning is essential for achieving organisational objectives and ensuring long-term business success.
+
+**2. Create a six-step checklist a department manager should follow when preparing a tactical plan for the next quarter.**
+
+**Ans.**
+
+**Six-Step Checklist for Preparing a Tactical Plan for the Next Quarter**
+
+A **tactical plan** is a short-term plan prepared by middle-level or departmental managers to achieve the objectives set in the organisation's strategic plan. It usually covers a period of a few months to one year and focuses on the efficient use of resources, coordination of activities, and achievement of departmental goals. A well-prepared tactical plan helps managers improve productivity, monitor performance, and respond effectively to changing business conditions. The following six-step checklist can be followed while preparing a tactical plan for the next quarter.
+
+**A) Define Departmental Objectives:**
+The first step is to establish clear and measurable objectives for the department. These objectives should support the overall goals of the organisation and specify the expected results to be achieved during the next quarter. Clear objectives provide direction for all departmental activities.
+
+**B) Analyse the Current Situation:**
+The manager should assess the department's current performance, available resources, strengths, weaknesses, opportunities, and possible challenges. Reviewing previous performance reports and market conditions helps identify areas that require improvement and supports better planning.
+
+**C) Estimate Resource Requirements:**
+The next step is to determine the human, financial, technological, and material resources needed to achieve the planned objectives. Proper estimation ensures that adequate resources are available and helps avoid shortages, delays, and unnecessary expenses.
+
+**D) Prepare an Action Plan:**
+The manager should divide the objectives into specific tasks and assign responsibilities to employees or teams. Timelines, priorities, and performance standards should also be established so that everyone clearly understands their duties and deadlines.
+
+**E) Implement and Coordinate Activities:**
+After finalizing the plan, the manager should communicate it to employees and coordinate activities among different departments if necessary. Effective communication, supervision, and teamwork ensure that the plan is implemented smoothly and efficiently.
+
+**F) Monitor Performance and Review Results:**
+The final step is to regularly monitor progress by comparing actual performance with planned targets. Managers should identify deviations, take corrective actions whenever necessary, and review the overall results at the end of the quarter. This helps improve future planning and decision-making.
+
+**Importance of a Tactical Plan**
+
+A tactical plan helps managers coordinate departmental activities, utilize resources efficiently, improve employee accountability, reduce operational risks, and achieve short-term organisational objectives. It also provides a clear roadmap for employees and ensures that departmental efforts contribute to the overall success of the organisation.
+
+*Example:* A sales department planning for the next quarter may set a target to increase sales by 15%, allocate a marketing budget, assign sales targets to team members, schedule promotional campaigns, and review sales performance every month to ensure the objectives are achieved.
+
+**Conclusion**
+
+A six-step checklist consisting of defining objectives, analysing the current situation, estimating resources, preparing an action plan, implementing activities, and monitoring performance enables department managers to prepare an effective tactical plan. By following these steps, managers can improve departmental efficiency, achieve short-term goals, and contribute to the long-term success of the organisation.
+
+**3. Evaluate the importance of environmental assessment as a step in the strategic planning process.**
+
+**Ans.**
+
+**Importance of Environmental Assessment in the Strategic Planning Process**
+
+Environmental assessment is an important step in the **strategic planning process**. It involves analyzing both the internal and external environments of an organization to identify factors that may influence its performance and future growth. Internal factors include strengths and weaknesses, while external factors include opportunities and threats arising from economic conditions, competition, technology, government policies, and customer preferences. Environmental assessment helps managers prepare realistic strategies and make informed decisions.
+
+**A) Identifies Opportunities and Threats:**
+Environmental assessment enables managers to identify external opportunities that can be utilized for business growth and threats that may affect organizational performance. Recognizing these factors early allows organizations to prepare suitable strategies and remain competitive.
+
+**B) Helps in Setting Realistic Objectives:**
+By understanding the business environment, managers can establish practical and achievable goals. Strategic plans become more realistic because they are based on actual market conditions and organizational capabilities.
+
+**C) Improves Decision-Making:**
+Environmental assessment provides valuable information about competitors, customer needs, technological developments, and economic trends. Managers use this information to make informed and effective strategic decisions.
+
+**D) Supports Efficient Resource Allocation:**
+Understanding the organization's strengths and weaknesses helps managers allocate financial, human, and technological resources efficiently. Resources can be directed toward areas with the greatest potential for success.
+
+**E) Enhances Adaptability to Change:**
+Business environments change rapidly due to globalization, technological innovation, changing consumer preferences, and government regulations. Environmental assessment helps organizations anticipate these changes and adapt their strategies accordingly.
+
+**F) Reduces Risk and Uncertainty:**
+Strategic planning always involves future uncertainty. Environmental assessment helps managers identify possible risks and prepare contingency plans, reducing the chances of business failure.
+
+**G) Strengthens Competitive Advantage:**
+By continuously monitoring competitors, market trends, and customer expectations, organizations can develop innovative products, improve services, and maintain a strong competitive position in the market.
+
+**Importance of Environmental Assessment**
+
+Environmental assessment ensures that strategic planning is based on accurate information rather than assumptions. It enables organizations to respond proactively to external challenges, improve long-term planning, and achieve sustainable growth.
+
+*Example:* Before expanding into a new market, a retail company studies customer demand, competitors, government regulations, economic conditions, and available resources. Based on this environmental assessment, the company develops an appropriate expansion strategy, reducing business risks and increasing the chances of success.
+
+**Conclusion**
+
+Environmental assessment is a vital step in the strategic planning process because it helps organizations understand their internal strengths and weaknesses as well as external opportunities and threats. It improves decision-making, supports efficient resource allocation, enhances adaptability, reduces uncertainty, and strengthens competitive advantage. Therefore, effective environmental assessment is essential for successful strategic planning and long-term organizational success.
+
+**4. Evaluate the importance of defining the problem correctly in the decision-making process.**
+
+**Ans.**
+
+**Importance of Defining the Problem Correctly in the Decision-Making Process**
+
+Decision-making is the process of selecting the best course of action from among various alternatives to achieve organisational objectives. The first and most important step in this process is **defining the problem correctly**. If managers fail to identify the real problem, they may choose inappropriate solutions, leading to wasted resources and poor organisational performance. Therefore, a clear understanding of the problem is essential for effective decision-making.
+
+**A) Provides Clear Direction:**
+Correctly defining the problem helps managers understand the actual issue that needs attention. It provides a clear direction for collecting information, identifying alternatives, and selecting the most suitable solution.
+
+**B) Improves Decision Quality:**
+When the real problem is identified, managers can focus on solving the root cause rather than dealing only with its symptoms. This leads to more accurate and effective decisions.
+
+**C) Saves Time and Resources:**
+A properly defined problem prevents unnecessary investigation and avoids spending time, money, and effort on irrelevant issues. It ensures that organisational resources are used efficiently.
+
+**D) Helps Identify Suitable Alternatives:**
+Once the problem is clearly understood, managers can develop appropriate alternatives to solve it. Better alternatives increase the likelihood of selecting the best possible solution.
+
+**E) Reduces Risk and Uncertainty:**
+Correct problem identification helps managers anticipate possible challenges and evaluate the consequences of different decisions. This reduces uncertainty and improves the chances of success.
+
+**F) Improves Coordination and Communication:**
+When the problem is clearly defined, employees and departments understand the issue in the same way. This promotes better communication, cooperation, and coordinated efforts to solve the problem.
+
+**G) Supports Organisational Goals:**
+Proper problem definition ensures that decisions are aligned with the organisation's objectives. Managers can select solutions that contribute to long-term growth and overall organisational success.
+
+**Importance of Correct Problem Definition**
+
+Defining the problem accurately forms the foundation of the entire decision-making process. It enables managers to gather relevant information, evaluate alternatives logically, and implement effective solutions. Without a clear problem definition, even well-planned decisions may fail to achieve the desired results.
+
+*Example:* Suppose a company's sales are declining. If managers assume the problem is poor advertising, they may increase promotional spending. However, if the actual problem is poor product quality, advertising alone will not improve sales. Correctly identifying the real cause allows the company to improve product quality and restore customer satisfaction.
+
+**Conclusion**
+
+Defining the problem correctly is the most critical step in the decision-making process because it provides direction, improves decision quality, saves resources, identifies suitable alternatives, reduces uncertainty, and supports organisational objectives. A well-defined problem leads to effective solutions, better managerial decisions, and long-term organisational success.
+
+**5. Propose how a manager might handle decision making under uncertainty using group techniques.**
+
+**Ans.**
+
+**Decision Making Under Uncertainty Using Group Techniques**
+
+Decision-making under **uncertainty** occurs when managers cannot accurately predict future events or determine the probability of different outcomes. Factors such as changing market conditions, technological advancements, customer preferences, and economic fluctuations make decision-making difficult. In such situations, managers can improve the quality of decisions by using **group techniques**, which involve collecting ideas and opinions from employees and experts. Group decision-making reduces uncertainty by combining different perspectives and experiences.
+
+**A) Brainstorming:**
+Brainstorming is a technique in which group members freely generate ideas without criticism. Managers encourage participants to suggest as many solutions as possible to a problem. After all ideas are collected, they are evaluated, and the most suitable alternative is selected. This technique promotes creativity and innovation.
+
+**B) Nominal Group Technique (NGT):**
+In the Nominal Group Technique, each member writes down ideas independently before discussing them with the group. The ideas are then presented, discussed, and ranked through voting. This method ensures equal participation and prevents a few individuals from dominating the discussion.
+
+**C) Delphi Technique:**
+The Delphi Technique involves obtaining opinions from experts through a series of questionnaires. Experts do not meet face-to-face, which reduces bias and group pressure. Their responses are analyzed, and repeated rounds continue until a consensus is reached. This technique is useful for long-term planning and forecasting.
+
+**D) Committee Decision-Making:**
+Managers may form a committee consisting of representatives from different departments. Members discuss the problem, analyze available information, and jointly recommend the best solution. This improves coordination and results in balanced decisions.
+
+**E) Group Discussion and Consultation:**
+Managers can organize meetings where employees and specialists share their knowledge, experience, and suggestions. Open discussions help identify risks, evaluate alternatives, and improve the quality of decisions.
+
+**Importance of Group Techniques**
+
+Group techniques improve decision-making by bringing together diverse knowledge, experience, and viewpoints. They reduce uncertainty, encourage creativity, improve communication, increase employee participation, and lead to more acceptable and effective decisions.
+
+*Example:* Suppose a company plans to introduce a new product in a highly competitive market. Since customer demand is uncertain, the manager organizes brainstorming sessions, consults marketing experts through the Delphi Technique, and forms a committee of production, finance, and marketing managers. After evaluating all suggestions, the company selects the most suitable strategy for launching the product.
+
+**Conclusion**
+
+Decision-making under uncertainty can be challenging because future outcomes are unpredictable. By using group techniques such as brainstorming, the Nominal Group Technique, the Delphi Technique, committee decision-making, and group discussions, managers can gather valuable information, reduce uncertainty, and make better decisions. These techniques improve organisational effectiveness and increase the likelihood of achieving business objectives.
