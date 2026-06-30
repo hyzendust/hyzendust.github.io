@@ -2678,3 +2678,334 @@ Ethical businesses develop strong relationships with customers, employees, suppl
 **Conclusion**
 
 Entrepreneurs commonly face ethical issues related to product quality, advertising, pricing, employee welfare, environmental responsibility, and legal compliance. Ethical behaviour helps businesses build trust, strengthen their reputation, improve employee relations, reduce legal risks, and achieve long-term success. Therefore, maintaining high ethical standards is essential for sustainable business growth and positive contributions to society.
+
+### ***June 30, 2026***
+
+### Unit 7 Short Answer (200-250 words)
+
+**1. Define Business risk.**
+
+**Ans.**
+
+**Business Risk**
+
+Business risk refers to the possibility that a business may suffer losses or fail to achieve its objectives due to uncertainties in its internal and external environment. It is an unavoidable part of every business because future conditions cannot be predicted with complete certainty. Effective management of business risk helps organizations reduce losses and achieve long-term success.
+
+**A) Meaning of Business Risk:**
+Business risk is the chance that actual business results may differ from expected results because of unforeseen events. It may affect the profitability, growth, and survival of a business.
+
+**B) Internal Risks:**
+Internal risks arise from factors within the organization, such as poor management, inefficient production, labour disputes, financial mismanagement, or lack of skilled employees. These risks can usually be controlled through effective management practices.
+
+**C) External Risks:**
+External risks arise from factors beyond the control of the business. These include changes in market demand, competition, government policies, inflation, technological changes, natural disasters, and economic recession.
+
+**D) Importance of Managing Business Risk:**
+Proper risk management helps businesses identify potential problems, reduce financial losses, improve decision-making, protect organizational resources, and ensure business continuity.
+
+**E) Methods to Reduce Business Risk:**
+Businesses can reduce risk through proper planning, market research, diversification, insurance, quality control, employee training, and effective financial management.
+
+*Example:* A food manufacturing company may face business risk if the prices of raw materials suddenly increase or customer preferences change. By improving production efficiency, introducing new products, and conducting market research, the company can reduce the impact of these risks.
+
+**Conclusion**
+
+Business risk is an unavoidable part of every business activity. Although risks cannot be eliminated completely, they can be minimized through careful planning, efficient management, and timely decision-making. Effective risk management helps organizations achieve stability, profitability, and long-term growth.
+
+**2. Illustrate the different types of systematic and unsystematic risk?**
+
+**Ans.**
+
+**Types of Systematic and Unsystematic Risk**
+
+Business risk is broadly classified into **systematic risk** and **unsystematic risk**. Understanding these risks helps managers and investors make better financial and business decisions.
+
+**A) Systematic Risk:**
+Systematic risk refers to the risk that affects the entire economy or market and cannot be eliminated through diversification. It arises from external factors beyond the control of an individual business.
+
+**Types of Systematic Risk:**
+
+* **Market Risk:** Risk arising from changes in market prices due to economic conditions.
+* **Interest Rate Risk:** Risk caused by changes in interest rates that affect borrowing costs and investments.
+* **Inflation Risk:** Risk resulting from rising prices, which reduce purchasing power and increase business costs.
+* **Political and Economic Risk:** Risk arising from changes in government policies, taxation, trade regulations, or economic recession.
+
+**B) Unsystematic Risk:**
+Unsystematic risk is specific to a particular company or industry. It arises from internal factors and can be reduced through effective management and diversification.
+
+**Types of Unsystematic Risk:**
+
+* **Business Risk:** Risk due to poor management, labour disputes, production problems, or changing customer preferences.
+* **Financial Risk:** Risk arising from excessive borrowing, poor financial management, or inability to meet financial obligations.
+
+*Example:* A recession affecting all industries is a systematic risk, whereas a workers' strike in a single company is an unsystematic risk.
+
+**Conclusion**
+
+Systematic risk affects the entire market and cannot be avoided, while unsystematic risk is specific to an individual business and can be minimized through proper planning, diversification, and efficient management.
+
+**3. Explain liquidity risk.**
+
+**Ans.**
+
+**Liquidity Risk**
+
+Liquidity risk refers to the possibility that a business or investor may be unable to convert assets into cash quickly without suffering a significant loss in value. It arises when sufficient cash is not available to meet short-term financial obligations such as paying suppliers, employees, or creditors. Liquidity risk can affect the smooth functioning and financial stability of a business.
+
+**A) Meaning of Liquidity Risk:**
+Liquidity risk is the risk of not having enough cash or liquid assets to meet immediate financial commitments when they become due.
+
+**B) Causes of Liquidity Risk:**
+Liquidity risk may arise due to poor cash flow management, excessive investment in fixed assets, unexpected business losses, decline in sales, or difficulty in selling assets quickly.
+
+**C) Effects of Liquidity Risk:**
+A shortage of cash may delay payments to suppliers and employees, damage the firm's reputation, increase borrowing costs, and even lead to financial distress or business failure.
+
+**D) Management of Liquidity Risk:**
+Businesses can reduce liquidity risk by maintaining adequate cash reserves, preparing cash budgets, improving cash flow management, collecting receivables on time, and arranging short-term credit facilities.
+
+*Example:* A manufacturing company may own expensive machinery and buildings but still face liquidity risk if it does not have enough cash to pay wages or purchase raw materials. Selling these assets immediately may not be possible without incurring a loss.
+
+**Conclusion**
+
+Liquidity risk is an important financial risk that affects a firm's ability to meet its short-term obligations. Effective cash management, proper financial planning, and maintaining sufficient liquid assets help businesses reduce liquidity risk and ensure smooth day-to-day operations.
+
+**4. Identify different dimensions of business risks.**
+
+**Ans.**
+
+**Different Dimensions of Business Risks**
+
+Business risk refers to the possibility of loss or failure to achieve business objectives due to various internal and external factors. Business risks have different dimensions that affect the operations, profitability, and long-term growth of an organization. Understanding these dimensions helps managers identify risks and take suitable preventive measures.
+
+**A) Financial Risk:**
+Financial risk arises from inadequate funds, excessive borrowing, cash flow problems, or fluctuations in interest rates. It affects the financial stability of a business.
+
+**B) Operational Risk:**
+Operational risk results from failures in internal processes, human errors, equipment breakdowns, or inefficient management. It can disrupt normal business operations.
+
+**C) Market Risk:**
+Market risk is caused by changes in customer preferences, competition, demand, prices, or economic conditions. It directly affects sales and profitability.
+
+**D) Strategic Risk:**
+Strategic risk arises from poor business decisions, ineffective planning, or failure to adapt to changes in the business environment. It may reduce the organization's competitive advantage.
+
+**E) Legal and Compliance Risk:**
+This risk occurs when a business fails to comply with laws, regulations, or government policies. It may lead to legal action, penalties, or damage to the company's reputation.
+
+*Example:* A company may face market risk due to increasing competition, financial risk because of rising loan interest rates, and operational risk if machinery breaks down unexpectedly.
+
+**Conclusion**
+
+Business risks have several dimensions, including financial, operational, market, strategic, and legal risks. Identifying these dimensions enables managers to prepare effective risk management strategies, minimize losses, and ensure the long-term success and stability of the organization.
+
+**5. Outline the purpose of risk management.**
+
+**Ans.**
+
+**Purpose of Risk Management**
+
+Risk management is the process of identifying, assessing, controlling, and monitoring risks that may affect the operations and objectives of a business. Its main purpose is to reduce the possibility of losses and ensure the smooth functioning of the organization. Effective risk management enables businesses to respond to uncertainties and achieve long-term success.
+
+**A) Identifying Risks:**
+The first purpose of risk management is to identify potential risks that may arise from internal or external sources, such as financial problems, operational failures, market changes, or legal issues.
+
+**B) Minimizing Losses:**
+Risk management helps businesses reduce the impact of unexpected events by implementing preventive measures and developing suitable response strategies.
+
+**C) Protecting Business Resources:**
+It safeguards the organization's financial resources, employees, assets, reputation, and information from potential threats and losses.
+
+**D) Supporting Better Decision-Making:**
+Risk management provides managers with relevant information about possible risks, enabling them to make informed and effective business decisions.
+
+**E) Ensuring Business Continuity:**
+By preparing contingency plans and maintaining adequate resources, risk management helps organizations continue operations even during emergencies or adverse situations.
+
+*Example:* A manufacturing company may identify the risk of fire in its factory and reduce the impact by installing fire safety equipment, purchasing insurance, and preparing an emergency response plan.
+
+**Conclusion**
+
+The main purpose of risk management is to identify risks, minimize losses, protect business resources, support effective decision-making, and ensure business continuity. A well-planned risk management system improves organizational stability, enhances profitability, and contributes to long-term business success.
+
+### Unit 7 Long Answer (400-500 words)
+
+**1. Interpret the concept of business risk and reasons that make business risk unavoidable in modern globalised markets.**
+
+**Ans.**
+
+**Concept of Business Risk and Reasons That Make Business Risk Unavoidable in Modern Globalised Markets**
+
+Business risk refers to the possibility that a business may suffer losses or fail to achieve its expected objectives because of uncertainties in its internal and external environment. Every business faces some degree of risk as future events cannot be predicted with complete accuracy. In today's globalised economy, businesses operate in highly competitive and rapidly changing markets, making business risk an unavoidable part of business operations. Effective management of these risks is essential for long-term growth and sustainability.
+
+**A) Meaning of Business Risk:**
+Business risk is the uncertainty that actual business results may differ from expected outcomes due to changes in market conditions, competition, technology, government policies, or internal business operations.
+
+**B) Changing Market Conditions:**
+Consumer preferences and market demand change continuously. Businesses must adapt quickly to changing customer needs, otherwise they may lose sales and market share.
+
+**C) Global Competition:**
+Globalisation has increased competition by allowing companies from different countries to enter new markets. Businesses must compete in terms of price, quality, innovation, and customer service, increasing business risk.
+
+**D) Technological Advancements:**
+Rapid technological changes require businesses to update their products, production methods, and digital systems. Failure to adopt new technology may reduce competitiveness and profitability.
+
+**E) Economic and Financial Changes:**
+Inflation, recession, exchange rate fluctuations, and changes in interest rates affect production costs, investment decisions, and consumer purchasing power. These economic factors increase uncertainty in business operations.
+
+**F) Government Policies and Regulations:**
+Changes in taxation, trade policies, environmental regulations, labour laws, and import-export rules directly affect business activities. Since these factors are beyond the control of firms, they contribute to business risk.
+
+**G) Natural and Unexpected Events:**
+Natural disasters, pandemics, political instability, cyber-attacks, and supply chain disruptions can interrupt business operations and create significant financial losses.
+
+**Importance of Managing Business Risk**
+
+Although business risk cannot be completely eliminated, it can be managed effectively through proper planning, market research, diversification, insurance, financial management, and continuous monitoring of the business environment. Effective risk management helps organizations reduce losses and improve decision-making.
+
+*Example:* An automobile manufacturer may face rising production costs due to an increase in steel prices, changing customer demand for electric vehicles, and stricter environmental regulations. By investing in new technology, diversifying products, and improving supply chain management, the company can reduce the impact of these risks.
+
+**Conclusion**
+
+Business risk is an unavoidable aspect of modern business because organizations operate in a dynamic and globalized environment. Factors such as changing market conditions, global competition, technological advancements, economic fluctuations, government policies, and unexpected events make risk inevitable. However, effective risk management enables businesses to minimize losses, adapt to changing conditions, and achieve sustainable growth and long-term success.
+
+**2. Explain the different types of risks faced by businesses.**
+
+**Ans.**
+
+**Different Types of Risks Faced by Businesses**
+
+Business risk refers to the possibility that a business may suffer losses or fail to achieve its objectives due to uncertainties in its internal or external environment. Every business, regardless of its size or industry, faces different types of risks that can affect its operations, profitability, and growth. Understanding these risks enables managers to take preventive measures and develop effective risk management strategies.
+
+**A) Financial Risk:**
+Financial risk arises from problems related to finance, such as excessive borrowing, cash flow shortages, rising interest rates, or inability to repay debts. Poor financial management can affect the stability and profitability of a business.
+
+**B) Operational Risk:**
+Operational risk results from failures in internal processes, human errors, equipment breakdowns, supply chain disruptions, or technological failures. These risks can interrupt production and reduce business efficiency.
+
+**C) Market Risk:**
+Market risk is caused by changes in customer preferences, market demand, competition, prices, or economic conditions. Businesses must continuously adapt to changing market trends to remain competitive.
+
+**D) Strategic Risk:**
+Strategic risk arises from poor business decisions, ineffective planning, failure to adopt new technology, or inability to respond to changes in the business environment. Such risks may reduce the firm's competitive advantage.
+
+**E) Legal and Compliance Risk:**
+Legal risk occurs when a business fails to comply with government laws, regulations, taxation policies, labour laws, or environmental standards. This may result in legal action, penalties, or damage to the company's reputation.
+
+**F) Liquidity Risk:**
+Liquidity risk refers to the inability of a business to meet its short-term financial obligations due to insufficient cash or liquid assets. It may affect day-to-day business operations and financial stability.
+
+**G) Systematic and Unsystematic Risk:**
+Systematic risk affects the entire economy or market due to factors such as inflation, recession, interest rate changes, and political instability. It cannot be eliminated through diversification. Unsystematic risk is specific to an individual company or industry and arises from internal factors such as poor management or labour disputes. It can be reduced through proper planning and diversification.
+
+**Importance of Identifying Business Risks**
+
+Identifying different types of risks enables managers to prepare suitable risk management strategies, improve decision-making, allocate resources efficiently, and protect business assets. It also helps organizations reduce losses and maintain long-term stability.
+
+*Example:* A manufacturing company may face financial risk because of rising loan interest rates, operational risk due to machinery breakdown, market risk from changing customer preferences, and legal risk if it fails to comply with environmental regulations.
+
+**Conclusion**
+
+Businesses face various risks, including financial, operational, market, strategic, legal, liquidity, systematic, and unsystematic risks. Although these risks cannot be completely eliminated, they can be effectively managed through proper planning, continuous monitoring, diversification, and sound management practices. Effective risk management helps businesses achieve sustainable growth and long-term success.
+
+**3. Outline the process of risk management.**
+
+**Ans.**
+
+**Process of Risk Management**
+
+Risk management is the systematic process of identifying, assessing, controlling, and monitoring risks that may affect the achievement of business objectives. Every business faces uncertainties arising from internal and external factors, making risk management essential for minimizing losses and ensuring smooth operations. A well-planned risk management process helps organizations improve decision-making, protect resources, and achieve long-term success.
+
+**A) Risk Identification:**
+The first step in the risk management process is identifying potential risks that may affect the business. These risks may be financial, operational, market-related, legal, technological, or environmental. Managers collect information through inspections, market research, financial reports, and employee feedback to recognize possible threats.
+
+**B) Risk Assessment:**
+After identifying risks, managers assess their likelihood of occurrence and the extent of their possible impact on business operations. Risks are evaluated based on their severity, probability, and potential financial or operational consequences. This helps prioritize risks that require immediate attention.
+
+**C) Risk Evaluation and Prioritisation:**
+In this step, identified risks are compared and ranked according to their importance. High-risk issues that can significantly affect the organization receive priority, while low-risk issues may require only routine monitoring. This enables managers to allocate resources effectively.
+
+**D) Risk Control and Treatment:**
+Managers develop suitable strategies to reduce or control identified risks. Common risk treatment methods include avoiding risky activities, reducing risks through preventive measures, transferring risks through insurance or contracts, and accepting minor risks when they cannot be avoided economically.
+
+**E) Implementation of Risk Management Measures:**
+The selected risk control measures are put into practice. Employees are informed about safety procedures, financial controls, operational guidelines, and emergency response plans. Proper implementation ensures that risk management strategies are effectively applied throughout the organization.
+
+**F) Monitoring and Review:**
+Risk management is a continuous process. Managers regularly monitor business activities, review the effectiveness of risk control measures, identify new risks, and make necessary improvements. Continuous monitoring helps organizations respond quickly to changing business conditions.
+
+**Importance of Risk Management**
+
+The risk management process helps businesses minimize financial losses, improve decision-making, protect organizational assets, ensure legal compliance, enhance operational efficiency, and maintain business continuity during unexpected events.
+
+*Example:* A manufacturing company identifies the risk of machinery breakdown, assesses its impact on production, installs preventive maintenance systems, purchases insurance, trains employees in equipment handling, and regularly monitors machine performance to reduce operational risk.
+
+**Conclusion**
+
+The risk management process consists of risk identification, assessment, evaluation, control, implementation, and continuous monitoring. By following these steps, organizations can reduce uncertainty, protect valuable resources, improve operational efficiency, and achieve sustainable growth. Effective risk management is essential for ensuring the long-term success and stability of any business.
+
+**4. Differentiate between systematic and unsystematic risks.**
+
+**Ans.**
+
+**Difference Between Systematic and Unsystematic Risks**
+
+Business risks are broadly classified into **systematic risk** and **unsystematic risk**. Although both affect business performance and profitability, they differ in their causes, impact, and methods of control. The following table highlights the major differences between them.
+
+| **Basis of Difference** | **Systematic Risk**                                                                                                                                                                   | **Unsystematic Risk**                                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Meaning**             | Systematic risk is the risk that affects the entire economy, market, or industry due to external factors beyond the control of an individual business.                                | Unsystematic risk is the risk that affects a particular company or industry due to internal or company-specific factors.                                    |
+| **Nature**              | It is unavoidable because it arises from changes in the overall economic or political environment.                                                                                    | It is partly controllable because it originates within the organization and can be managed effectively.                                                     |
+| **Causes**              | Caused by inflation, recession, changes in interest rates, exchange rate fluctuations, political instability, government policies, natural disasters, and global economic conditions. | Caused by poor management, labour disputes, machinery breakdown, financial mismanagement, product failure, technological issues, or inefficient production. |
+| **Impact**              | It affects all businesses, industries, and investors in the economy, regardless of their size or type.                                                                                | It affects only a specific company, project, or industry and usually does not influence the entire market.                                                  |
+| **Control**             | Individual businesses have little or no control over systematic risk.                                                                                                                 | Businesses can reduce or control unsystematic risk through efficient management, planning, and internal controls.                                           |
+| **Diversification**     | It cannot be eliminated through diversification because it affects the whole market.                                                                                                  | It can be significantly reduced through diversification and improved management practices.                                                                  |
+| **Scope**               | It has a broad impact on the entire economy or financial market.                                                                                                                      | It has a limited impact on a particular organization or sector.                                                                                             |
+| **Examples**            | Economic recession, inflation, war, changes in taxation, political instability, and fluctuations in interest or exchange rates.                                                       | Employee strikes, factory fire, poor financial planning, product defects, management inefficiency, and equipment failure.                                   |
+| **Risk Management**     | Businesses manage it by strategic planning, insurance, hedging, and preparing contingency plans.                                                                                      | Businesses manage it through quality control, employee training, diversification, proper supervision, and effective financial management.                   |
+
+**Importance of Understanding These Risks**
+
+Understanding the difference between systematic and unsystematic risks helps managers identify the sources of uncertainty and adopt suitable risk management strategies. It enables organizations to allocate resources efficiently, make better investment decisions, and reduce unnecessary losses. While systematic risks require long-term strategic planning, unsystematic risks can often be minimized through effective internal management.
+
+*Example:* During an economic recession, almost every business experiences a decline in demand and profits. This is a systematic risk because it affects the entire economy. On the other hand, if a single company suffers losses due to poor management or a machinery breakdown, it is an unsystematic risk because it affects only that organization.
+
+**Conclusion**
+
+Systematic risk affects the entire market and cannot be eliminated through diversification, whereas unsystematic risk is specific to an individual business and can be reduced through proper planning, diversification, and efficient management. Understanding both types of risks enables businesses to manage uncertainty effectively and achieve long-term growth and stability.
+
+**5. Identify country risk and its impact on international business decisions.**
+
+**Ans.**
+
+**Country Risk and Its Impact on International Business Decisions**
+
+Country risk refers to the possibility that political, economic, social, or legal conditions in a particular country may negatively affect the operations, investments, or profitability of foreign businesses. Companies engaged in international trade or investment must evaluate country risk before entering a foreign market because unexpected changes in a country's environment can lead to financial losses and operational difficulties. Assessing country risk helps businesses make informed decisions and reduce uncertainties in global markets.
+
+**A) Meaning of Country Risk:**
+Country risk is the risk that arises from factors specific to a country, such as political instability, economic changes, government policies, legal systems, or social conditions. These factors may influence the success of international business activities.
+
+**B) Political Risk:**
+Political instability, changes in government, war, civil unrest, corruption, or changes in trade policies can disrupt business operations. Political risk may result in restrictions on foreign investment, nationalization of assets, or cancellation of business contracts.
+
+**C) Economic Risk:**
+Economic conditions such as inflation, recession, exchange rate fluctuations, unemployment, and high interest rates affect production costs, consumer demand, and business profitability. Weak economic performance increases the uncertainty of international investments.
+
+**D) Legal and Regulatory Risk:**
+Different countries have different laws relating to taxation, labour, environmental protection, intellectual property, and foreign investment. Frequent changes in regulations may increase compliance costs and affect business operations.
+
+**E) Social and Cultural Risk:**
+Differences in language, culture, customs, consumer preferences, education, and social values may influence the acceptance of products and services. Businesses must adapt their strategies to local market conditions.
+
+**F) Impact on International Business Decisions:**
+Country risk influences decisions regarding market entry, investment, production, pricing, financing, and expansion. Companies evaluate country risk before selecting a location for manufacturing plants, opening branches, or entering joint ventures. High country risk may discourage foreign investment or require additional safeguards such as insurance and risk-sharing agreements.
+
+**Importance of Assessing Country Risk**
+
+Assessing country risk helps businesses identify potential threats, allocate resources wisely, choose suitable markets, protect investments, and prepare contingency plans. It also supports better strategic planning and long-term international growth.
+
+*Example:* A multinational company planning to establish a factory in another country will assess political stability, tax policies, labour laws, exchange rate movements, and economic conditions before making its investment. If the country has frequent political unrest or unstable economic conditions, the company may postpone its investment or choose another market.
+
+**Conclusion**
+
+Country risk is a major consideration in international business because it affects investment decisions, operational efficiency, and profitability. Political, economic, legal, and social factors all contribute to country risk. By carefully assessing these risks before entering foreign markets, businesses can reduce uncertainty, protect their investments, and achieve sustainable success in international operations.
