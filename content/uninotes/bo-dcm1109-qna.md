@@ -3291,3 +3291,365 @@ Incorporation provides legal recognition, limited liability, perpetual successio
 **Conclusion**
 
 The incorporation and registration of a company involve obtaining a DSC and DIN, reserving the company name, preparing the MOA and AOA, filing SPICe+ forms, obtaining the Certificate of Incorporation, and completing post-incorporation formalities. This process gives the company a separate legal identity and enables it to operate lawfully, ensuring long-term growth and business stability.
+
+### ***July 01, 2026***
+
+### Unit 9 Short Answer (200-250 words)
+
+**1. Define the promoter.**
+
+**Ans.**
+
+**Promoter**
+
+A promoter is a person or a group of persons who undertakes the preliminary steps for the formation and registration of a company. Promotion involves identifying a business opportunity, making initial arrangements, preparing the required documents, and taking all necessary steps to incorporate the company. A promoter may be an individual, a firm, an association of persons, a partnership, or even another company. Persons who merely provide professional services, such as lawyers or accountants, are not regarded as promoters. 
+
+**A) Meaning of Promoter:**
+A promoter is the person who conceives the idea of establishing a company and takes the initiative to bring it into existence by completing all the preliminary formalities. 
+
+**B) Role in Company Formation:**
+The promoter identifies a profitable business opportunity, arranges the necessary resources, prepares important documents, and completes the legal formalities required for company registration. 
+
+**C) Types of Promoters:**
+A promoter may be an individual, a partnership firm, an association of persons, or a company. They undertake the responsibility of promoting and organizing the proposed business. 
+
+**D) Professional Assistance:**
+Professionals such as solicitors, accountants, or consultants who assist in drafting documents or valuing assets are not considered promoters merely because they provide professional services. 
+
+**Conclusion**
+
+A promoter plays a vital role in the formation of a company by taking the initiative to establish the business and completing all preliminary legal and organizational formalities. The success of a company's formation largely depends on the promoter's ability, honesty, and efficient planning. 
+
+**2. Outline the role of promoter in the formation of a company.**
+
+**Ans.**
+
+**Role of Promoter in the Formation of a Company**
+
+A promoter plays a vital role in the formation of a company by taking the initiative to convert a business idea into a legally incorporated company. The promoter performs all preliminary activities required for the registration and establishment of the company, including arranging resources, preparing legal documents, and completing statutory formalities. The promoter is regarded as the driving force behind the formation of a company.
+
+**A) Conceives the Business Idea:**
+The promoter identifies a profitable business opportunity and takes the initiative to establish a company based on that idea.
+
+**B) Investigates Feasibility:**
+The promoter examines the technical, financial, and commercial feasibility of the proposed business to ensure that it can be established successfully.
+
+**C) Arranges Finance:**
+The promoter estimates the capital requirements and arranges funds from suitable sources to meet the company's financial needs during formation.
+
+**D) Prepares Legal Documents:**
+The promoter prepares important incorporation documents such as the **Memorandum of Association (MOA)** and **Articles of Association (AOA)** and ensures that all required information is accurate.
+
+**E) Enters into Preliminary Contracts:**
+Before incorporation, the promoter enters into necessary contracts for land, machinery, raw materials, and other essential services required for setting up the company.
+
+**F) Completes Legal Formalities:**
+The promoter obtains approvals, files the required documents with the Registrar of Companies (ROC), and ensures compliance with the Companies Act, 2013 for successful incorporation.
+
+**Conclusion**
+
+The promoter is the foundation of a company's formation. By identifying business opportunities, arranging finance, preparing legal documents, entering into preliminary contracts, and completing statutory formalities, the promoter transforms a business idea into a legally incorporated company.
+
+**3. Explain the Memorandum of Association.**
+
+**Ans.**
+
+**Memorandum of Association (MOA)**
+
+The **Memorandum of Association (MOA)** is one of the most important documents required for the incorporation of a company under the **Companies Act, 2013**. It is known as the **charter** or **constitution** of the company because it defines the company's objectives, powers, scope of activities, and relationship with the outside world. The company cannot undertake any activity beyond the limits specified in its MOA, and any such act is considered **ultra vires** (beyond its powers) and is void.
+
+**A) Meaning of MOA:**
+The MOA is a legal document that sets out the company's objectives and the scope within which it can operate. It is submitted to the Registrar of Companies (ROC) at the time of incorporation.
+
+**B) Charter of the Company:**
+The MOA acts as the company's charter by defining its powers, limitations, and the fundamental conditions upon which the company is incorporated.
+
+**C) Regulates External Relationship:**
+The MOA governs the relationship between the company and outsiders such as investors, creditors, suppliers, and banks. It informs them about the company's legal capacity and permitted business activities.
+
+**D) Protects Shareholders and Investors:**
+The MOA protects the interests of shareholders by ensuring that the company operates only within its stated objectives. Any alteration to the MOA must follow the procedure prescribed under the Companies Act, 2013.
+
+**E) Public Document:**
+After registration, the MOA becomes a public document that can be inspected by any member of the public. It is binding on both the company and its members.
+
+**Conclusion**
+
+The Memorandum of Association is the foundation of a company. It defines the company's objectives, powers, and legal boundaries, regulates its relationship with the outside world, and protects the interests of shareholders and other stakeholders.
+
+**4. Illustrate the content of article of association.**
+
+**Ans.**
+
+**Contents of Articles of Association (AOA)**
+
+The **Articles of Association (AOA)** is a document that contains the internal rules, regulations, and by-laws for the management of a company. It governs the company's internal affairs and defines the rights, duties, powers, and responsibilities of directors and shareholders. The AOA acts as a contract between the company and its members and regulates the day-to-day administration of the company.
+
+**A) Business Activities:**
+The AOA contains provisions relating to the conduct of the company's business and its internal management.
+
+**B) Share Capital:**
+It specifies the share capital structure, classes of shares, and the rights attached to each class of shareholders.
+
+**C) Allotment and Transfer of Shares:**
+The AOA includes rules regarding the allotment of shares, calls on shares, forfeiture for non-payment, and the transfer and transmission of shares.
+
+**D) Borrowing Powers:**
+It lays down the procedures for exercising borrowing powers and issuing debentures on behalf of the company.
+
+**E) Meetings and Voting:**
+The AOA provides rules relating to general meetings, notices, quorum, proxies, voting procedures, and maintenance of minutes.
+
+**F) Directors, Dividends, and Accounts:**
+It contains provisions regarding the appointment, powers, and duties of directors, declaration of dividends, maintenance of reserves, accounts, audit, and appointment of auditors. It also includes provisions relating to statutory books and winding up of the company.
+
+**Conclusion**
+
+The Articles of Association serve as the internal rulebook of a company. They regulate its day-to-day management, define the rights and responsibilities of members and directors, and ensure the smooth and efficient functioning of the company's internal affairs.
+
+**5. Distinguish between MOA and AOA.**
+
+**Ans.**
+
+**Difference Between Memorandum of Association (MOA) and Articles of Association (AOA)**
+
+| **Basis**        | **Memorandum of Association (MOA)**                                                                | **Articles of Association (AOA)**                                                                    |
+| ---------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Meaning**      | MOA is the charter of the company that defines its objectives, powers, and scope of operations.    | AOA contains the internal rules and regulations for the management of the company.                   |
+| **Nature**       | It is the fundamental and primary document of the company.                                         | It is a secondary document subordinate to the MOA.                                                   |
+| **Purpose**      | It regulates the company's relationship with outsiders and limits its activities.                  | It regulates the internal management and governance of the company.                                  |
+| **Scope**        | Defines the company's objectives, powers, and legal boundaries.                                    | Defines the procedures for meetings, directors, voting, dividends, and administration.               |
+| **Alteration**   | Alteration is difficult and requires a special resolution and, in many cases, government approval. | It can be altered more easily by passing a special resolution.                                       |
+| **Ultra Vires**  | Acts beyond the MOA are void and cannot be ratified.                                               | Acts beyond the AOA may be ratified if they do not conflict with the MOA.                            |
+| **Contents**     | Contains clauses such as Name, Registered Office, Objects, Liability, Capital, and Subscription.   | Contains rules relating to meetings, shares, voting, directors, dividends, accounts, and winding up. |
+| **Legal Effect** | Defines the company's relationship with outsiders.                                                 | Defines the relationship between the company and its members.                                        |
+
+**Conclusion**
+
+The **MOA** is the company's constitutional document that defines its objectives and external powers, whereas the **AOA** provides the internal rules for managing the company's affairs. The AOA must always remain subordinate to the MOA and cannot contain provisions that conflict with it.
+
+### Unit 9 Long Answer (400-500 words)
+
+**1. Explain the Memorandum of Association in detail and discuss its compulsory clauses with suitable examples.**
+
+**Ans.**
+
+**Memorandum of Association (MOA) and Its Compulsory Clauses**
+
+The **Memorandum of Association (MOA)** is one of the most important legal documents required for the incorporation of a company under the **Companies Act, 2013**. It is known as the **charter** or **constitution** of the company because it defines the company's objectives, powers, scope of operations, and relationship with the outside world. The MOA specifies the limits within which a company can operate, and any act beyond these limits is considered **ultra vires** (beyond the powers of the company) and is therefore void. The MOA is submitted to the Registrar of Companies (ROC) during incorporation and becomes a public document after registration. It binds both the company and its members.
+
+**Compulsory Clauses of the Memorandum of Association**
+
+**A) Name Clause:**
+The Name Clause specifies the official name of the company. The name must be unique and approved by the Registrar of Companies. A private company ends with **"Private Limited"**, while a public company ends with **"Limited."**
+
+*Example:* **ABC Technologies Private Limited.**
+
+**B) Registered Office Clause:**
+This clause states the **State** in which the company's registered office is situated. It determines the jurisdiction of the Registrar of Companies and the place where official communications are sent.
+
+*Example:* Registered Office – **Karnataka**.
+
+**C) Objects Clause:**
+The Objects Clause defines the main objectives and ancillary activities of the company. It specifies the nature of business that the company is authorized to undertake. The company cannot engage in activities beyond these stated objects.
+
+*Example:* Manufacturing and marketing of electronic products.
+
+**D) Liability Clause:**
+This clause specifies the liability of the company's members. In most companies, the liability of shareholders is limited to the unpaid amount on the shares held by them.
+
+*Example:* A shareholder holding shares worth ₹1,00,000 is liable only up to the unpaid amount on those shares.
+
+**E) Capital Clause:**
+The Capital Clause states the **authorised share capital** of the company and its division into shares of a fixed value.
+
+*Example:* Authorised capital of **₹10 lakh**, divided into **1,00,000 equity shares of ₹10 each.**
+
+**F) Subscription (Association) Clause:**
+This clause contains the names, addresses, occupations, and signatures of the subscribers who agree to form the company. It records their intention to become members and subscribe to the shares of the company.
+
+*Example:* Two subscribers for a private company or seven subscribers for a public company sign the MOA.
+
+**Importance of MOA**
+
+The MOA defines the legal boundaries within which a company must operate. It protects the interests of shareholders, investors, creditors, and other stakeholders by clearly stating the company's objectives and powers. It also enables outsiders to understand the legal capacity of the company before entering into business transactions.
+
+**Conclusion**
+
+The Memorandum of Association is the foundation of a company. Through its compulsory clauses—Name, Registered Office, Objects, Liability, Capital, and Subscription—it establishes the company's identity, powers, and legal framework. The MOA ensures transparency, legal certainty, and disciplined functioning, making it an indispensable document in company formation.
+
+**2. Discuss the duties and liabilities of promoters under the companies Act 2013 with relevant example.**
+
+**Ans.**
+
+**Duties and Liabilities of Promoters under the Companies Act, 2013**
+
+A promoter is a person who undertakes the preliminary steps necessary for the formation of a company. The promoter identifies business opportunities, arranges finance, prepares legal documents, and completes the formalities required for incorporation. Since a promoter occupies a fiduciary position, the Companies Act, 2013 imposes several duties and liabilities to ensure honesty, transparency, and protection of the company's interests.
+
+**A) Duties of Promoters**
+
+**1. Duty to Disclose All Material Facts:**
+A promoter must disclose all important facts relating to the company, including agreements, contracts, purchase price of assets, and expenses incurred during formation. This ensures transparency and helps future shareholders make informed decisions.
+
+**2. Duty Not to Make Secret Profits:**
+A promoter must not earn any undisclosed profit while forming the company. If any profit is earned, it must be fully disclosed to the company. Secret profits can be recovered by the company.
+
+**3. Duty to Avoid Conflict of Interest:**
+The promoter must always act in the company's best interest and avoid situations where personal interests conflict with those of the company. Any personal benefit must be properly disclosed.
+
+**4. Duty to Perform Duties Honestly and Carefully:**
+The promoter must carry out all activities with honesty, due diligence, and reasonable care. All documents, agreements, and financial dealings should be accurate and lawful.
+
+**5. Duty to Prepare Necessary Documents Correctly:**
+The promoter must ensure that documents such as the **Memorandum of Association (MOA)**, **Articles of Association (AOA)**, and prospectus are prepared accurately without any false or misleading information.
+
+**6. Duty to Ensure Compliance with Laws:**
+The promoter must comply with all legal requirements under the Companies Act, 2013, including obtaining approvals, filing incorporation documents, and completing statutory formalities.
+
+**B) Liabilities of Promoters**
+
+**1. Fiduciary Liability:**
+A promoter stands in a fiduciary relationship with the company and is liable for any breach of trust or failure to disclose material facts.
+
+**2. Liability for Misstatements in Prospectus:**
+Under **Sections 34 and 35** of the Companies Act, 2013, promoters are liable for false or misleading statements in the prospectus and may face civil as well as criminal liability.
+
+**3. Liability for False Incorporation Documents:**
+If false declarations or incorrect documents are filed during incorporation, the promoter may be punished under **Sections 7(5) and 7(6)** of the Companies Act.
+
+**4. Liability for Fraudulent Conduct:**
+Under **Section 447**, promoters are liable for fraudulent activities such as concealing facts, inflating asset values, or misusing company funds.
+
+**5. Liability for Pre-incorporation Contracts:**
+If the company does not adopt contracts entered into before incorporation, the promoter remains personally liable for such contracts.
+
+**Example:**
+If a promoter purchases land for **₹5 lakh** and sells it to the company for **₹15 lakh** without disclosing the profit, the hidden profit of **₹10 lakh** can be recovered by the company. Similarly, if a promoter includes false profit figures in the prospectus to attract investors, they may face civil compensation, criminal penalties, and imprisonment under the Companies Act, 2013.
+
+**Conclusion**
+
+Promoters play a crucial role in the formation of a company and are expected to act honestly, transparently, and in the company's best interest. The Companies Act, 2013 imposes various duties and liabilities on promoters to prevent fraud, protect investors, and ensure the lawful formation and smooth functioning of companies.
+
+**3. Analyze the relationship between Memorandum of Association and Articles of Association. Why must AOA remain subordinate to MOA?**
+
+**Ans.**
+
+**Relationship Between Memorandum of Association (MOA) and Articles of Association (AOA) and Why AOA Must Remain Subordinate to MOA**
+
+The **Memorandum of Association (MOA)** and the **Articles of Association (AOA)** are the two most important legal documents required for the incorporation of a company under the **Companies Act, 2013**. Although both documents are prepared during the formation of a company, they serve different purposes and complement each other. The MOA defines the company's objectives, powers, and scope of activities, whereas the AOA contains the internal rules and regulations for managing the company's day-to-day affairs. Together, they provide a legal framework for the smooth functioning of the company.
+
+**A) MOA Defines the Company's External Powers:**
+The MOA is the charter or constitution of the company. It specifies the company's objectives, powers, and legal boundaries and regulates the relationship between the company and outsiders such as investors, creditors, and customers. The company cannot undertake any activity beyond the scope mentioned in the MOA.
+
+**B) AOA Governs Internal Management:**
+The AOA contains the internal rules and regulations governing the company's administration. It defines the rights, duties, and powers of directors and shareholders and lays down procedures relating to meetings, voting, transfer of shares, dividends, accounts, and other internal matters.
+
+**C) MOA and AOA Complement Each Other:**
+The MOA establishes **what** the company is legally permitted to do, while the AOA explains **how** those activities should be carried out. The MOA provides the legal framework, and the AOA prescribes the procedures for implementing it effectively. Both documents work together to ensure proper governance and efficient management of the company.
+
+**D) Why Must the AOA Remain Subordinate to the MOA?**
+The AOA must always remain subordinate to the MOA because the MOA is the company's fundamental legal document. The AOA cannot contain any provision that is inconsistent with or contrary to the MOA. If any clause in the AOA conflicts with the MOA, it becomes invalid and unenforceable. This ensures that the company's internal rules do not exceed or alter the powers granted by the MOA.
+
+**E) Legal Consequences of Conflict:**
+Acts performed beyond the MOA are **ultra vires** and void, meaning they cannot be ratified even by unanimous consent of the shareholders. However, acts beyond the AOA may be ratified if they do not conflict with the MOA or the Companies Act. Therefore, the MOA always prevails over the AOA in case of inconsistency.
+
+**F) Importance of Maintaining Subordination:**
+Keeping the AOA subordinate to the MOA protects shareholders, investors, creditors, and other stakeholders by ensuring that the company's internal management remains within its legally approved objectives and powers. It also promotes transparency, accountability, and legal certainty in company administration.
+
+**Example:**
+Suppose the MOA states that the company is formed to manufacture electronic products. If the AOA contains a rule allowing the company to operate a banking business, that provision will be void because it exceeds the objects specified in the MOA. Similarly, while the AOA may prescribe procedures for appointing directors or conducting meetings, it cannot authorize activities beyond the company's stated objectives.
+
+**Conclusion**
+
+The MOA and AOA are complementary documents that together regulate the formation and functioning of a company. The MOA defines the company's objectives and legal limits, while the AOA provides the internal rules for administration. Since the MOA is the supreme constitutional document, the AOA must always remain subordinate to it. This relationship ensures lawful governance, protects stakeholders' interests, and enables the company to function efficiently within its legal boundaries.
+
+**4. Explain in detail the various contents that must be included in a company’s prospectus.**
+
+**Ans.**
+
+**Contents of a Company's Prospectus**
+
+A **prospectus** is a formal legal document issued by a public company inviting the public to subscribe to its shares or debentures. It provides complete and accurate information about the company so that potential investors can make informed investment decisions. Under the **Companies Act, 2013**, a prospectus must contain all material facts and should not include any false or misleading statements. It promotes transparency and protects the interests of investors.
+
+**A) Company Information:**
+The prospectus must contain the basic details of the company, including its name, registered office address, date of incorporation, nature of business, objectives, and details of its capital structure. This helps investors understand the identity and purpose of the company.
+
+**B) Objectives of the Issue:**
+It should clearly state the purpose for which the company is raising funds from the public. This may include expansion of business, purchase of machinery, repayment of loans, modernization, or financing new projects.
+
+**C) Promoters' Contribution:**
+The prospectus must disclose the names of the promoters, their contribution to the company's capital, and their interest in the company. This enables investors to assess the commitment of the promoters.
+
+**D) Financial Statements:**
+It should include audited financial statements such as the balance sheet, profit and loss account, cash flow information, and auditors' reports. These statements help investors evaluate the company's financial position and profitability.
+
+**E) Details of Directors and Management:**
+The prospectus must provide information about the directors, key managerial personnel, their qualifications, experience, remuneration, and responsibilities. This allows investors to assess the quality of the company's management.
+
+**F) Risk Factors:**
+The company must disclose all significant business, financial, legal, and operational risks that may affect its performance. Full disclosure enables investors to understand the possible uncertainties before investing.
+
+**G) Underwriting Arrangements and Application Procedure:**
+The prospectus should contain details of underwriting agreements, methods of applying for securities, allotment procedures, payment schedules, and refund policies. This provides clarity regarding the issue process.
+
+**H) Material Contracts and Legal Information:**
+It must disclose important contracts entered into by the company, pending litigation, related-party transactions, and any other legal matters that may influence investment decisions.
+
+**I) Mandatory Declarations:**
+The prospectus should include declarations regarding compliance with the **Companies Act, 2013**, **SEBI regulations**, auditors' reports, and other statutory requirements. These declarations ensure that the issue complies with all applicable legal provisions.
+
+**J) Importance of a Prospectus:**
+A prospectus provides complete, accurate, and reliable information to potential investors. It promotes transparency, protects investors from misleading statements, and enables them to make informed investment decisions. It also strengthens public confidence in the company and the securities market.
+
+**Conclusion**
+
+A company's prospectus is an essential legal document that contains comprehensive information about the company's objectives, financial position, management, risks, capital structure, and issue details. By ensuring full disclosure and compliance with the Companies Act, 2013, the prospectus safeguards investors' interests and promotes fairness, transparency, and accountability in the capital market.
+
+**5. Define the promoter. Explain the duties and liabilities of promoter in the formation of a company.**
+
+**Ans.**
+
+**Promoter: Duties and Liabilities of a Promoter in the Formation of a Company**
+
+A **promoter** is a person who undertakes the necessary steps for the formation of a company. The promoter identifies a business opportunity, arranges finance, prepares legal documents, negotiates preliminary contracts, and completes the legal formalities required for incorporation. Although a promoter is neither an agent nor a trustee of the company, he occupies a **fiduciary position** and must act honestly, in good faith, and in the best interests of the proposed company.
+
+**A) Duties of a Promoter**
+
+**1. Duty to Disclose Material Facts:**
+The promoter must disclose all important facts relating to the company, including contracts, purchase of assets, and any personal interest in transactions. Full disclosure ensures transparency and protects the interests of investors and the company.
+
+**2. Duty to Avoid Secret Profits:**
+A promoter must not make any undisclosed profit while promoting the company. If any profit is earned, it must be fully disclosed to the company; otherwise, the promoter is required to refund the secret profit.
+
+**3. Duty to Avoid Conflict of Interest:**
+The promoter should always act in the best interests of the company and avoid situations where personal interests conflict with those of the company. Any such conflict must be disclosed honestly.
+
+**4. Duty to Perform Duties Honestly and Carefully:**
+The promoter must exercise honesty, good faith, and due diligence while carrying out all activities related to company formation. Documents, agreements, and financial dealings should be accurate and properly recorded.
+
+**5. Duty to Prepare Documents Correctly:**
+The promoter is responsible for preparing important documents such as the **Memorandum of Association (MOA)**, **Articles of Association (AOA)**, and the prospectus accurately without false or misleading information.
+
+**6. Duty to Ensure Compliance with the Law:**
+The promoter must comply with all legal requirements under the **Companies Act, 2013**, including obtaining approvals, filing incorporation documents, and completing statutory formalities.
+
+**B) Liabilities of a Promoter**
+
+**1. Liability for Breach of Fiduciary Duty:**
+If the promoter fails to act honestly or does not disclose material facts, the company can recover any loss suffered due to such breach.
+
+**2. Liability for Misstatements in the Prospectus:**
+Under **Sections 34 and 35 of the Companies Act, 2013**, a promoter is liable for any false or misleading statement in the prospectus. Such liability may be civil as well as criminal.
+
+**3. Liability for Fraudulent Conduct:**
+A promoter is liable for fraud, concealment of facts, or dishonest conduct during company formation and may face penalties, compensation claims, or criminal punishment under the Companies Act.
+
+**4. Liability for Pre-incorporation Contracts:**
+If the company does not adopt contracts entered into before incorporation, the promoter remains personally liable for those contracts.
+
+**Example:**
+Suppose a promoter purchases land for **₹5 lakh** and later sells it to the proposed company for **₹15 lakh** without informing the company about the profit earned. This undisclosed **₹10 lakh** is a secret profit, and the promoter is legally bound to refund the amount to the company. Similarly, if a promoter includes false financial information in the prospectus to attract investors, he may be held liable for civil compensation and criminal penalties under the Companies Act, 2013.
+
+**Conclusion**
+
+A promoter is the driving force behind the formation of a company and performs all preliminary activities required for its incorporation. Since a promoter occupies a fiduciary position, the Companies Act, 2013 imposes several duties and liabilities to ensure honesty, transparency, and legal compliance. By fulfilling these responsibilities faithfully, the promoter helps establish a legally sound and trustworthy company.
