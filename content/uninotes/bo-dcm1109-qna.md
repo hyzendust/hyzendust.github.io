@@ -3653,3 +3653,336 @@ Suppose a promoter purchases land for **₹5 lakh** and later sells it to the pr
 **Conclusion**
 
 A promoter is the driving force behind the formation of a company and performs all preliminary activities required for its incorporation. Since a promoter occupies a fiduciary position, the Companies Act, 2013 imposes several duties and liabilities to ensure honesty, transparency, and legal compliance. By fulfilling these responsibilities faithfully, the promoter helps establish a legally sound and trustworthy company.
+
+### Unit 10 Short Answer (200-250 words)
+
+**1. Describe the concept of winding up of a company.**
+
+**Ans.**
+
+**Concept of Winding Up of a Company**
+
+**Winding up** is the legal process through which a company is brought to an end by settling its affairs. Under the **Companies Act, 2013**, winding up involves collecting and selling the company's assets, paying its liabilities, and distributing the remaining surplus among the shareholders according to their rights. After the completion of this process, the company is dissolved and its name is removed from the Register of Companies. 
+
+**A) Meaning of Winding Up:**
+Winding up is the legal procedure by which a company ceases to exist. It is undertaken when the company becomes insolvent, is no longer able to continue its business, or when the members decide to close it voluntarily. 
+
+**B) Purpose of Winding Up:**
+The main purpose of winding up is to ensure the orderly closure of the company, realise its assets, settle all liabilities, protect the interests of creditors and shareholders, and distribute any remaining assets fairly. 
+
+**C) Role of the Liquidator:**
+During winding up, a **liquidator** is appointed to take control of the company's affairs. The liquidator collects and sells the company's assets, pays creditors, settles liabilities, and distributes the remaining amount among the members. 
+
+**D) Modes of Winding Up:**
+Under the Companies Act, 2013, a company may be wound up in two ways:
+
+* **Winding up by the Tribunal (Compulsory Winding Up)**
+* **Voluntary Winding Up** (Governed by the Insolvency and Bankruptcy Code, 2016). 
+
+**Conclusion**
+
+Winding up is a structured legal process that ensures the proper closure of a company by settling its assets and liabilities in a fair and transparent manner. It safeguards the interests of creditors, shareholders, employees, and other stakeholders before the company is finally dissolved. 
+
+**2. State the role of liquidator during liquidation.**
+
+**Ans.**
+
+**Role of Liquidator During Liquidation**
+
+A **liquidator** is an officer appointed to wind up the affairs of a company during liquidation. Under the **Companies Act, 2013**, the liquidator plays a vital role in ensuring that the company's assets are properly realised, liabilities are settled fairly, and the interests of creditors, shareholders, and other stakeholders are protected. The liquidator acts honestly, impartially, and in accordance with the law throughout the liquidation process.
+
+**A) Takes Custody of Company Assets:**
+The liquidator takes immediate control of all the company's assets, cash, bank accounts, books of accounts, legal documents, and other properties to prevent loss or misuse.
+
+**B) Prepares and Verifies Statement of Affairs:**
+The liquidator obtains and verifies the company's Statement of Affairs, which contains details of assets, liabilities, creditors, debtors, and financial position. This helps determine the company's actual financial condition.
+
+**C) Collects Outstanding Debts:**
+The liquidator recovers all money due to the company from debtors and other parties through negotiations or legal action, if required.
+
+**D) Realises Company Assets:**
+The liquidator sells the company's movable and immovable assets through public auction or private sale to obtain the maximum possible value.
+
+**E) Settles Claims and Distributes Funds:**
+The liquidator invites claims from creditors, verifies them, settles liabilities, and distributes the realised funds according to the legal order of priority prescribed under the Companies Act, 2013.
+
+**F) Represents the Company and Reports to the Tribunal:**
+The liquidator acts as the legal representative of the company, handles legal proceedings, submits reports to the Tribunal, maintains proper accounts, and finally applies for the dissolution of the company after completing the liquidation process.
+
+**Conclusion**
+
+The liquidator is the key person responsible for conducting the liquidation process in a lawful, transparent, and fair manner. By protecting company assets, settling liabilities, distributing funds, and ensuring legal compliance, the liquidator safeguards the interests of all stakeholders until the company is finally dissolved.
+
+**3. Differentiate between liquidation and winding up.**
+
+**Ans.**
+
+**Difference Between Winding Up and Liquidation**
+
+| **Basis**          | **Winding Up**                                                                                   | **Liquidation**                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **Meaning**        | Winding up is the legal process of bringing the life of a company to an end.                     | Liquidation is the process of converting the company's assets into cash to pay its debts and liabilities. |
+| **Nature**         | It is the overall legal procedure for closing a company.                                         | It is a part of the winding-up process.                                                                   |
+| **Objective**      | To stop the company's business operations and settle its affairs before dissolution.             | To realise assets, pay creditors, and distribute the remaining funds among shareholders.                  |
+| **Commencement**   | Begins when the company passes a special resolution or when the NCLT passes a winding-up order.  | Begins after the appointment of a liquidator.                                                             |
+| **Main Activity**  | Includes legal formalities, appointment of a liquidator, and supervision of the closure process. | Focuses mainly on taking control of assets, selling them, collecting dues, and settling liabilities.      |
+| **Responsibility** | Supervised by the Tribunal (NCLT) or conducted voluntarily according to law.                     | Carried out by the liquidator appointed by the Tribunal or the company.                                   |
+| **Outcome**        | Leads to liquidation and finally the dissolution of the company.                                 | Results in the settlement of accounts and distribution of realised funds.                                 |
+
+**Conclusion**
+
+Winding up and liquidation are closely related but different concepts. **Winding up** is the complete legal process of closing a company, whereas **liquidation** is one stage within that process that focuses on selling assets and paying liabilities. Liquidation ultimately leads to the dissolution of the company.
+
+**4. Classify the different modes of company winding up.**
+
+**Ans.**
+
+**Different Modes of Company Winding Up**
+
+A company may be wound up through different modes depending on its financial condition and the circumstances leading to its closure. Under the **Companies Act, 2013** and the **Insolvency and Bankruptcy Code (IBC), 2016**, winding up ensures that the company's affairs are settled in an orderly and lawful manner while protecting the interests of creditors, shareholders, and other stakeholders.
+
+**A) Winding Up by the Tribunal (Compulsory Winding Up):**
+This mode is initiated by an order of the **National Company Law Tribunal (NCLT)**. It is adopted when a company is unable to pay its debts, acts against national interest, carries on fraudulent or unlawful activities, fails to comply with legal requirements, or when it is just and equitable to wind up the company. The Tribunal appoints an official liquidator to conduct the winding-up process.
+
+**B) Voluntary Winding Up by Members:**
+A solvent company may decide to close its business voluntarily by passing a **special resolution** in a general meeting. The members appoint a liquidator to realise the company's assets, settle liabilities, and distribute the remaining surplus among shareholders.
+
+**C) Voluntary Winding Up by Creditors:**
+When a company is unable to pay its debts but decides to wind up voluntarily, the approval of creditors is required. Creditors representing at least **two-thirds in value** of the total debt must approve the resolution. The appointed liquidator then carries out the liquidation process under the IBC, 2016.
+
+**D) Winding Up Under Special Circumstances:**
+A company may also be wound up under special circumstances as provided by law, depending on its legal status, financial position, or statutory requirements.
+
+**Conclusion**
+
+The major modes of company winding up are **winding up by the Tribunal (compulsory), voluntary winding up by members, voluntary winding up by creditors, and winding up under special circumstances**. These methods ensure that the company's closure is carried out fairly, legally, and in an orderly manner.
+
+**5. Outline the circumstances under which a company may be wound up by the Tribunal.**
+
+**Ans.**
+
+**Circumstances Under Which a Company May Be Wound Up by the Tribunal**
+
+A company may be wound up by the **National Company Law Tribunal (NCLT)** under the **Companies Act, 2013** when it becomes impossible or undesirable to continue its business due to legal, financial, or administrative reasons. The Tribunal orders compulsory winding up to protect the interests of creditors, shareholders, and the public.
+
+**A) Inability to Pay Debts:**
+The Tribunal may order winding up if the company is unable to pay its debts. This includes situations where the company fails to pay creditors after receiving a legal demand notice, fails to satisfy a court decree, or becomes commercially insolvent.
+
+**B) Special Resolution by the Company:**
+A company may pass a **special resolution** requesting the Tribunal to wind up the company when the members decide that it should no longer continue its business.
+
+**C) Acting Against National Interest:**
+The Tribunal may order winding up if the company acts against the sovereignty and integrity of India, national security, public order, decency, morality, or friendly relations with foreign states.
+
+**D) Fraudulent or Unlawful Activities:**
+If the company is formed for unlawful purposes or its affairs are conducted fraudulently, the Tribunal may order winding up to protect investors, creditors, and the public.
+
+**E) Continuous Default in Statutory Filings:**
+The Tribunal may wind up a company if it fails to file its **financial statements** or **annual returns** with the Registrar of Companies for **five consecutive financial years**.
+
+**F) Just and Equitable Grounds:**
+The Tribunal may order winding up when it is **just and equitable** to do so, such as in cases of management deadlock, continuous losses, loss of the company's main objective, or lack of any reasonable prospect of recovery.
+
+**Conclusion**
+
+The Tribunal may order the winding up of a company in circumstances such as inability to pay debts, passing of a special resolution, activities against national interest, fraudulent conduct, continuous statutory defaults, and situations where it is just and equitable to do so. These provisions ensure that only financially and legally compliant companies continue to operate.
+
+### Unit 10 Long Answer (400-500 words)
+
+**1. Describe the reason for failure of company.**
+
+**Ans.**
+
+**Reasons for Failure of a Company**
+
+A company may fail when it is unable to continue its business operations profitably or meet its financial and legal obligations. Company failure can result from poor management, financial problems, market changes, legal issues, or external economic factors. When these problems become severe, the company may become insolvent and ultimately undergo winding up or liquidation. Understanding the reasons for failure helps businesses take preventive measures and improve their chances of long-term success.
+
+**A) Poor Financial Management:**
+One of the major reasons for company failure is poor financial planning and management. Excessive borrowing, shortage of working capital, poor cash flow management, and inability to control expenses weaken the financial position of the company and may lead to insolvency.
+
+**B) Continuous Losses:**
+When a company continuously incurs losses and fails to generate sufficient revenue to cover its operating costs, debts, and employee salaries, it becomes financially unstable. Persistent losses eventually force the company to close its business.
+
+**C) Lack of Market Demand and Heavy Competition:**
+Changes in customer preferences, declining demand for products, and intense competition from rival firms reduce sales and profitability. Companies that fail to adapt to changing market conditions often lose their market share and face closure.
+
+**D) Technological Changes:**
+Companies that fail to adopt modern technology, digital systems, or innovative production methods become less competitive. Technological obsolescence increases operating costs, reduces efficiency, and makes products less attractive to customers.
+
+**E) Ineffective Leadership and Poor Management:**
+Wrong business decisions, lack of strategic planning, weak leadership, poor inventory control, and inefficient production management can adversely affect business performance. Ineffective management often leads to operational inefficiencies and financial losses.
+
+**F) Non-Compliance with Legal Requirements:**
+Failure to comply with statutory requirements, such as filing annual returns and financial statements, maintaining proper records, or following the provisions of the Companies Act, 2013, may result in penalties, legal action, and even compulsory winding up by the Tribunal.
+
+**G) Unethical Practices and Loss of Reputation:**
+Fraudulent activities, poor customer service, defective products, and unethical business practices damage the company's goodwill and public image. Loss of customer confidence reduces sales and makes business survival difficult.
+
+**H) Economic and External Factors:**
+Economic recessions, inflation, shortage of capital, government policy changes, natural disasters, and global market uncertainties can negatively affect business operations and contribute to company failure.
+
+**Example:**
+**Kingfisher Airlines** expanded rapidly without maintaining financial stability, resulting in excessive debt and insolvency. Similarly, **Nokia** failed to adapt quickly to smartphone technology, causing a sharp decline in market share and business performance. These examples show how poor financial decisions and failure to innovate can lead to company failure.
+
+**Conclusion**
+
+A company may fail due to poor financial management, continuous losses, ineffective leadership, technological changes, legal non-compliance, market competition, and external economic factors. Identifying and addressing these problems at an early stage helps businesses improve operational efficiency, maintain financial stability, and achieve long-term success.
+
+**2. Analyse the legal procedure involved in compulsory winding up by the Tribunal.**
+
+**Ans.**
+
+**Legal Procedure Involved in Compulsory Winding Up by the Tribunal**
+
+Compulsory winding up by the **National Company Law Tribunal (NCLT)** is a legal process under the **Companies Act, 2013** through which a company is dissolved by an order of the Tribunal. This procedure is followed when a company is unable to continue its business due to financial, legal, or administrative reasons. The objective is to ensure an orderly closure of the company, protect the interests of creditors and shareholders, and distribute the company's assets fairly. The procedure is governed mainly by **Sections 271 to 303** of the Companies Act, 2013.
+
+**A) Filing of Petition (Section 272):**
+The winding-up process begins with the filing of a petition before the Tribunal. The petition may be presented by the company, creditors, contributories (shareholders), the Registrar of Companies with prior approval of the Central Government, or any person authorised by the Central Government. The petition must clearly state the grounds for winding up and be supported by an affidavit.
+
+**B) Powers of the Tribunal (Section 273):**
+After receiving the petition, the Tribunal examines the case. It may dismiss the petition, adjourn the hearing, issue interim orders, appoint a provisional liquidator, or admit the petition if a prima facie case exists. Notices are then issued to the company and other concerned parties.
+
+**C) Directions for Conduct of Proceedings (Section 274):**
+The Tribunal may issue directions regarding the submission of financial records, company documents, and other necessary information to ensure a fair and transparent winding-up process.
+
+**D) Appointment of Provisional Liquidator (Section 275):**
+Where necessary, the Tribunal appoints a **Provisional Liquidator** to take custody of the company's assets and protect them from misuse or diversion until the final winding-up order is passed.
+
+**E) Passing of Winding-Up Order (Sections 275 & 277):**
+If the Tribunal is satisfied that valid grounds for winding up exist, it passes a winding-up order. The order includes the appointment of the **Official Liquidator**, who takes charge of the company's affairs and assets. A copy of the order is sent to the Registrar of Companies.
+
+**F) Publication and Effect of the Order (Sections 277 & 278):**
+The winding-up order is published in the **Official Gazette** and newspapers to inform the public and stakeholders. From the date of the order, the company ceases its normal business operations, the powers of the directors come to an end, and the Official Liquidator assumes control of the company.
+
+**G) Custody, Realisation of Assets and Settlement of Liabilities:**
+The Official Liquidator takes custody of the company's property, realises the assets, collects outstanding dues, invites and verifies creditors' claims, settles liabilities, and distributes the realised funds according to the statutory order of priority prescribed under the Companies Act, 2013.
+
+**H) Dissolution of the Company (Section 302):**
+After completing the winding-up process, the Official Liquidator submits a final report to the Tribunal. If the Tribunal is satisfied that the company's affairs have been properly wound up, it passes an order for dissolution. A copy of the order is filed with the Registrar of Companies, and the company legally ceases to exist.
+
+**Conclusion**
+
+The legal procedure for compulsory winding up by the Tribunal is a structured and supervised process that ensures the orderly closure of a company. Through judicial oversight, appointment of a liquidator, settlement of liabilities, and fair distribution of assets, the Companies Act, 2013 protects the interests of creditors, shareholders, employees, and other stakeholders before the company is finally dissolved.
+
+**3. Evaluate the role and powers of a liquidator in protecting the interests of stakeholders.**
+
+**Ans.**
+
+**Role and Powers of a Liquidator in Protecting the Interests of Stakeholders**
+
+A **liquidator** is an officer appointed to wind up the affairs of a company during its closure. Under the **Companies Act, 2013**, the liquidator plays a crucial role in ensuring that the company's assets are properly managed, liabilities are settled fairly, and the interests of creditors, shareholders, employees, and other stakeholders are protected. The liquidator performs his duties under the supervision of the **National Company Law Tribunal (NCLT)** and must act honestly, impartially, and in accordance with the law.
+
+**A) Taking Custody and Control of Company Assets:**
+The liquidator takes immediate possession of the company's assets, cash, bank accounts, books of accounts, legal documents, and other properties. This prevents misuse, loss, or unauthorized disposal of company assets and protects the interests of stakeholders.
+
+**B) Preparation and Verification of Statement of Affairs:**
+The liquidator obtains and verifies the company's Statement of Affairs, which contains details of assets, liabilities, creditors, debtors, guarantees, and financial position. This ensures transparency and provides a clear picture of the company's financial condition.
+
+**C) Collection of Outstanding Debts:**
+The liquidator has the power to recover all outstanding amounts due to the company from debtors and other parties. He may negotiate settlements or initiate legal proceedings whenever necessary to maximise the funds available for repayment.
+
+**D) Protection and Realisation of Assets:**
+The liquidator safeguards the company's assets and arranges for their sale through public auction or private sale to obtain the maximum possible value. He ensures that assets are not sold below their fair value and that the sale process remains transparent.
+
+**E) Invitation and Settlement of Claims:**
+The liquidator invites claims from creditors, employees, and other stakeholders, verifies their authenticity, prepares the list of valid claims, and settles them according to the provisions of the Companies Act, 2013.
+
+**F) Distribution of Realised Funds:**
+After realising the company's assets, the liquidator distributes the funds according to the statutory order of priority. Liquidation expenses are paid first, followed by workmen's dues, secured creditors, unsecured creditors, government dues, and finally shareholders. This ensures fairness and equality among stakeholders.
+
+**G) Representation in Legal Proceedings:**
+The liquidator represents the company in all legal matters after the winding-up order. He has the authority to institute or defend legal proceedings to safeguard the company's interests and recover assets wherever required.
+
+**H) Reporting and Accountability to the Tribunal:**
+The liquidator submits periodic reports, maintains proper books of accounts, and remains accountable to the Tribunal throughout the winding-up process. After completing all duties, he prepares the final accounts and applies for the dissolution of the company.
+
+**I) Duty to Act Honestly and Impartially:**
+The liquidator must perform all duties with integrity, honesty, and impartiality. He must avoid conflicts of interest and ensure that every stakeholder receives fair treatment during the liquidation process.
+
+**Example:**
+Suppose a company is being wound up due to insolvency. The liquidator takes control of its factory, machinery, and inventory, recovers outstanding debts from customers, sells the assets through auction, settles the claims of employees and creditors according to legal priority, and finally distributes any remaining amount among shareholders before submitting the final report to the Tribunal.
+
+**Conclusion**
+
+The liquidator plays a vital role in protecting the interests of stakeholders during the winding-up process. Through the proper management of assets, recovery of debts, settlement of liabilities, fair distribution of funds, legal representation, and accountability to the Tribunal, the liquidator ensures that the company's closure is carried out lawfully, transparently, and equitably.
+
+**4. Construct a structured flow of steps involved in the winding up process of a company.**
+
+**Ans.**
+
+**Structured Flow of Steps Involved in the Winding Up Process of a Company**
+
+Winding up is the legal process through which a company brings its business to an end by settling its affairs. Under the **Companies Act, 2013**, the winding-up process ensures that the company's assets are realised, liabilities are paid, and any remaining surplus is distributed among the shareholders before the company is dissolved. The process is carried out in a systematic manner to protect the interests of creditors, employees, shareholders, and other stakeholders.
+
+**A) Passing of Resolution or Filing of Petition:**
+The winding-up process begins either when the company passes a **special resolution** for voluntary winding up or when a petition is filed before the **National Company Law Tribunal (NCLT)** for compulsory winding up. The petition may be filed by the company, creditors, contributories, the Registrar of Companies, or any authorised person.
+
+**B) Order of the Tribunal or Approval of Members:**
+In compulsory winding up, the Tribunal examines the petition and, if satisfied, passes a winding-up order. In voluntary winding up, the members or creditors approve the resolution according to the provisions of law.
+
+**C) Appointment of Liquidator:**
+After the winding-up order or resolution, an **Official Liquidator** or Company Liquidator is appointed. The liquidator takes charge of the company's affairs and performs all duties under the supervision of the Tribunal or as provided by law.
+
+**D) Taking Custody of Company Assets:**
+The liquidator takes possession of all company assets, bank accounts, books of accounts, records, and legal documents. He safeguards the assets to prevent misuse or loss during the winding-up process. 
+
+**E) Preparation of Statement of Affairs:**
+The directors and officers of the company submit a **Statement of Affairs** containing details of assets, liabilities, creditors, debtors, and other financial information. The liquidator verifies this statement to assess the company's financial position.
+
+**F) Realisation of Assets:**
+The liquidator values and sells the company's movable and immovable assets through public auction or private sale. Outstanding debts due to the company are also collected to maximise the funds available for settlement.
+
+**G) Settlement of Liabilities:**
+The liquidator invites claims from creditors, verifies them, and pays liabilities according to the statutory order of priority. Liquidation expenses, workmen's dues, secured creditors, unsecured creditors, government dues, and shareholders are paid in the prescribed sequence.
+
+**H) Preparation of Final Accounts:**
+After all assets are realised and liabilities settled, the liquidator prepares the final accounts of the winding-up process and submits them to the Tribunal along with a final report.
+
+**I) Dissolution of the Company:**
+If the Tribunal is satisfied that the winding-up process has been properly completed, it passes an order for the **dissolution of the company**. A copy of the dissolution order is filed with the Registrar of Companies, and the company's name is removed from the Register of Companies. The company then legally ceases to exist.
+
+**Example:**
+Suppose a company becomes insolvent and is unable to pay its debts. A creditor files a petition before the NCLT. After examining the case, the Tribunal orders winding up and appoints a liquidator. The liquidator takes control of the company's assets, sells them, settles creditors' claims, distributes any remaining funds to shareholders, submits the final report, and the Tribunal finally dissolves the company.
+
+**Conclusion**
+
+The winding-up process follows a systematic sequence of legal steps, beginning with the filing of a petition or passing of a resolution and ending with the dissolution of the company. Through the appointment of a liquidator, realisation of assets, settlement of liabilities, preparation of final accounts, and dissolution, the Companies Act, 2013 ensures that the company's closure is lawful, transparent, and fair to all stakeholders.
+
+**5. Explain the concept and procedure of voluntary winding up.**
+
+**Ans.**
+
+**Concept and Procedure of Voluntary Winding Up**
+
+**Voluntary winding up** is the process by which a company is closed by the decision of its members or creditors without direct intervention of the **National Company Law Tribunal (NCLT)**. It is generally adopted when the company has achieved its objectives, is no longer required, or the members decide that it should discontinue its business. Under the **Insolvency and Bankruptcy Code (IBC), 2016**, voluntary winding up provides a legal and orderly method for closing a company while protecting the interests of creditors, shareholders, and other stakeholders.
+
+**A) Passing of Special Resolution:**
+The voluntary winding-up process begins when the company passes a **special resolution** in a general meeting approving the closure of the company. If the company has creditors, their approval is also obtained as required by law.
+
+**B) Appointment of Liquidator:**
+After passing the resolution, the company appoints a **liquidator** to conduct the winding-up process. The appointment is approved by the members and, where necessary, by the creditors. The liquidator takes charge of the company's affairs and assets.
+
+**C) Taking Custody of Assets and Records:**
+The liquidator takes possession of all company assets, books of accounts, records, bank accounts, and other important documents. He safeguards these assets throughout the winding-up process. 
+
+**D) Preparation of Statement of Affairs:**
+The directors prepare and submit a **Statement of Affairs**, containing details of the company's assets, liabilities, creditors, debtors, and financial position. The liquidator verifies the statement before proceeding further.
+
+**E) Realisation of Assets:**
+The liquidator values and sells the company's movable and immovable assets. He also collects outstanding debts due to the company to maximise the funds available for distribution.
+
+**F) Settlement of Liabilities:**
+The liquidator invites claims from creditors, verifies them, and pays all liabilities according to the statutory order of priority. Creditors, employees, government dues, and other obligations are settled before distributing any surplus.
+
+**G) Preparation of Final Accounts and Meeting:**
+After completing the liquidation, the liquidator prepares the **final accounts** showing how the winding-up process was conducted. A final meeting of the members or creditors is held to present these accounts.
+
+**H) Submission of Final Report and Dissolution:**
+The liquidator submits the final report to the **Registrar of Companies**. After completion of all legal formalities, the company is dissolved, and its name is removed from the Register of Companies, thereby bringing its legal existence to an end.
+
+**Example:**
+Suppose a company has successfully completed the purpose for which it was established. The members decide to close the business by passing a special resolution. A liquidator is appointed to sell the company's assets, pay creditors, distribute the remaining funds among shareholders, submit the final report, and complete the dissolution process.
+
+**Conclusion**
+
+Voluntary winding up is a legal and systematic method of closing a company through the decision of its members or creditors. By following steps such as passing a special resolution, appointing a liquidator, realising assets, settling liabilities, preparing final accounts, and obtaining dissolution, the process ensures that the company's affairs are concluded fairly, transparently, and in accordance with the law.
