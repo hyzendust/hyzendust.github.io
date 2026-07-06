@@ -2641,3 +2641,343 @@ Total Revenue increases as more units are sold. Average Revenue represents the r
 **Conclusion**
 
 Total Revenue, Average Revenue, and Marginal Revenue are the three main concepts of revenue used in economics. They help firms evaluate sales performance, determine production levels, set prices, and maximize profits. Understanding these revenue concepts enables businesses to make efficient production and marketing decisions in both competitive and imperfect markets.
+
+### ***July 07, 2026***
+
+### Unit 7 Short Answer
+
+**1. Explain the meaning of market.**
+
+**Ans.**
+
+**Meaning of Market**
+
+A market is a place or a system that facilitates the interaction between buyers and sellers for the exchange of goods and services. In economics, the term market does not refer only to a physical location where buying and selling take place. It includes all arrangements through which buyers and sellers communicate and conduct transactions at mutually agreed prices. Markets may exist in physical locations, retail outlets, or virtual platforms through the internet. 
+
+**A) Place for Exchange:**
+
+A market brings together buyers and sellers for the exchange of goods, services, or factors of production. It provides a platform where transactions can take place efficiently. 
+
+**B) Broader Economic Concept:**
+
+In economics, a market is not limited to a physical place. It includes all forms of interaction and communication between buyers and sellers that enable the exchange of goods and services. 
+
+**C) Price Determination:**
+
+The market determines the prices of goods and services through the interaction of demand and supply. The equilibrium between demand and supply helps establish mutually acceptable prices. 
+
+**D) Modern Forms of Market:**
+
+Modern markets operate through both physical and digital platforms. Online marketplaces allow buyers and sellers to conduct transactions without meeting in person, expanding the scope of markets globally. 
+
+**Conclusion**
+
+A market is an essential economic institution that connects buyers and sellers for the exchange of goods and services. By facilitating transactions and determining prices through demand and supply, markets play a vital role in the efficient functioning and growth of an economy.
+
+**2. What is imperfect market competition?**
+
+**Ans.**
+
+**Imperfect Market Competition**
+
+Imperfect market competition is a market structure in which sellers compete with one another by offering heterogeneous or differentiated products instead of identical products. Unlike perfect competition, firms in an imperfect market have some control over the prices of their products and can earn higher profits through product differentiation and pricing strategies. Imperfect competition exists because of limited market information, monopolistic control by some sellers, and differences in products offered to consumers. 
+
+**A) Product Differentiation:**
+
+In an imperfect market, firms sell heterogeneous or differentiated products. Since products are not identical, sellers can attract customers through quality, branding, or unique features. 
+
+**B) Large Number of Buyers and Sellers:**
+
+Although there are many buyers and sellers, firms have some degree of market power because their products are different from those of competitors. 
+
+**C) Price Determination:**
+
+Sellers have the ability to determine or influence the prices of their products instead of accepting the market price. This allows them to earn higher profits. 
+
+**D) Free Entry and Exit:**
+
+Firms are generally free to enter or leave the market. However, competition is influenced by product differentiation and selling costs. 
+
+**E) Combination of Monopoly and Competition:**
+
+Imperfect competition combines features of both monopoly and competition. Firms compete with one another while also enjoying some monopoly power over their differentiated products. 
+
+**Conclusion**
+
+Imperfect market competition is characterised by differentiated products, price-setting ability, and competition among sellers. It combines elements of monopoly and competition, allowing firms to influence prices while continuing to compete for customers.
+
+**3. Explain monopolistic competition.**
+
+**Ans.**
+
+**Monopolistic Competition**
+
+Monopolistic competition is a market structure that combines the features of monopoly and perfect competition. In this type of market, there are many firms selling similar products, but the products are not perfect substitutes. Each firm differentiates its products through factors such as brand name, quality, design, colour, or packaging, allowing it to exercise some control over pricing.
+
+**A) Large Number of Sellers:**
+
+There are many firms operating in the market, and no single seller is large enough to influence the entire market. Firms compete with one another to attract customers. 
+
+**B) Product Differentiation:**
+
+Products are differentiated based on brand name, trademark, colour, taste, design, and other features. Although products are different, they are close substitutes for one another. 
+
+**C) Freedom of Entry and Exit:**
+
+Firms are free to enter or leave the market. This encourages competition and allows new firms to participate whenever profitable opportunities arise. 
+
+**D) Price Determination:**
+
+Firms have some control over the prices of their products because of product differentiation. The demand curve is downward sloping, enabling firms to sell more by reducing prices. 
+
+**E) Selling Costs and Profits:**
+
+Firms incur selling costs such as advertising and promotion to differentiate their products. They may earn high profits in the short run, but in the long run they generally earn only normal profits due to competition. 
+
+**Conclusion**
+
+Monopolistic competition combines features of monopoly and perfect competition. With many sellers, differentiated products, pricing flexibility, and free entry and exit, it promotes competition while allowing firms to create a unique identity for their products.
+
+**4. Write few essential conditions for formation of a market.**
+
+**Ans.**
+
+**Essential Conditions for the Formation of a Market**
+
+A market is formed only when certain essential conditions are fulfilled. These conditions ensure that buyers and sellers can interact efficiently for the exchange of goods and services. Without these basic requirements, a market cannot function effectively.
+
+**A) Existence of Buyers:**
+
+The first requirement for a market is the presence of buyers. Buyers create demand for goods and services, and their preferences and behaviour influence the size and nature of the market. 
+
+**B) Purchasing Power:**
+
+Buyers must have sufficient purchasing power to buy goods and services. Mere willingness to buy is not enough; demand becomes effective only when it is supported by the ability to pay.
+
+**C) Presence of Sellers:**
+
+Sellers are equally essential because they supply goods and services to meet consumer demand. The number of sellers and their production capacity influence the supply side of the market. 
+
+**D) Transactions Between Buyers and Sellers:**
+
+A market can function only when buyers and sellers interact and carry out transactions. These transactions may take place directly or through online platforms and other intermediaries. 
+
+**E) Knowledge and Information:**
+
+Both buyers and sellers should have proper information about prices, quality, quantity, and availability of goods. This helps them make informed decisions and ensures fair competition. 
+
+**F) Medium of Exchange:**
+
+A commonly accepted medium of exchange, such as money, is necessary to facilitate smooth buying and selling activities. 
+
+**Conclusion**
+
+The formation of a market depends on the existence of buyers and sellers, purchasing power, regular transactions, proper market information, and a suitable medium of exchange. These conditions ensure the smooth and efficient functioning of the market.
+
+**5. Describe the function of facilitating of exchange of goods and services of a market.**
+
+**Ans.**
+
+**Function of Facilitating Exchange of Goods and Services**
+
+One of the primary functions of a market is to facilitate the exchange of goods and services between buyers and sellers. A market provides a common platform where producers bring their goods and consumers purchase them according to their needs. It ensures that the process of buying and selling takes place smoothly, regularly, and efficiently. Without markets, people would have to depend on the barter system, which is inconvenient and inefficient. 
+
+**A) Provides a Platform for Exchange:**
+
+The market brings buyers and sellers together, making it easier to exchange goods and services. This enables producers to sell their products and consumers to obtain the goods they need. 
+
+**B) Eliminates the Problems of Barter:**
+
+Markets replace the barter system by using money as a medium of exchange. This removes the difficulty of finding people with matching needs and makes transactions more convenient.
+
+**C) Ensures Smooth Transactions:**
+
+Markets organise buying and selling activities in a systematic manner. Regular transactions help maintain the continuous flow of goods and services in the economy. 
+
+**D) Satisfies Consumer Needs:**
+
+Markets allow consumers to purchase goods and services according to their preferences and requirements. At the same time, producers are able to reach a larger number of customers. 
+
+**E) Promotes Economic Activity:**
+
+By facilitating exchange, markets encourage production, trade, and business activities, contributing to the growth and development of the economy. 
+
+**Conclusion**
+
+Facilitating the exchange of goods and services is the most fundamental function of a market. By providing an organised platform for transactions, markets improve efficiency, satisfy consumer needs, support producers, and contribute to the smooth functioning of the economy.
+
+### Unit 7 Long Answer (400-500 words)
+
+**1. What are the different types of markets?**
+
+**Ans.**
+
+**Different Types of Markets**
+
+A market is a place or system that facilitates the exchange of goods and services between buyers and sellers. Markets are not limited to physical locations but also include virtual platforms where transactions take place through the internet. Based on the nature of transactions and the purpose they serve, markets can be classified into different types. Each type performs a specific role in the economy by meeting the needs of consumers and producers. 
+
+**A) Physical Markets:**
+
+Physical markets are traditional markets where buyers and sellers meet personally to exchange goods and services. Examples include retail shops, supermarkets, shopping malls, and local markets. These markets allow customers to inspect products before purchasing them. 
+
+**B) Virtual Markets:**
+
+Virtual markets operate through the internet, allowing buyers and sellers to conduct transactions online without meeting physically. E-commerce companies such as Amazon, Flipkart, Rediff Shopping, and eBay are examples of virtual markets. They provide convenience and enable customers to purchase products from anywhere. 
+
+**C) Auction Markets:**
+
+In auction markets, goods are sold to the buyer who offers the highest bid. The price is determined through competitive bidding among buyers. This type of market is commonly used for selling valuable goods, antiques, artworks, and government assets. 
+
+**D) Market for Intermediate Goods:**
+
+These markets deal with the sale of raw materials, components, and inventory required for producing final goods. They mainly serve manufacturers and business organisations by supplying essential production inputs. 
+
+**E) Black Markets:**
+
+Black markets are illegal markets where prohibited goods such as drugs and weapons are bought and sold. These transactions take place outside the legal framework and are not regulated by the government. 
+
+**F) Knowledge Markets:**
+
+Knowledge markets are markets where information, ideas, and knowledge-based products are exchanged. They facilitate the sharing of intellectual resources, research, and expertise among individuals and organisations. 
+
+**Conclusion**
+
+Different types of markets perform different economic functions by facilitating the exchange of goods, services, and information. Physical, virtual, auction, intermediate goods, black, and knowledge markets together contribute to efficient trade, economic development, and consumer satisfaction. 
+
+**2. Explain market competition.**
+
+**Ans.**
+
+**Market Competition**
+
+Market competition refers to the rivalry among firms in the production and sale of goods and services within a market. In economics, market competition explains how industries are classified based on the nature and intensity of competition among sellers. The market structure determines the relationship between buyers and sellers, sellers and other sellers, and influences pricing, production, and business decisions. Understanding market competition helps firms decide whether to enter or exit a market and develop suitable business strategies.
+
+**A) Meaning of Market Competition:**
+
+Market competition exists when multiple firms compete to attract customers by offering goods and services. The degree of competition varies depending on the number of firms, the nature of products, and the freedom of firms to enter or leave the market. Different industries therefore have different market structures. 
+
+**B) Characteristics of Market Competition:**
+
+The important characteristics of market competition include:
+
+* **Number of Buyers and Sellers:** The level of competition depends on the number of buyers and sellers operating in the market.
+* **Nature of Products:** Products may be homogeneous or differentiated, depending on the market structure.
+* **Freedom of Entry and Exit:** Firms should have the ability to enter profitable markets and leave unprofitable ones.
+* **Knowledge of Prices and Technology:** Buyers and sellers should have knowledge of market prices and production technology to make informed decisions. 
+
+**C) Types of Market Competition:**
+
+The four major market systems are:
+
+* **Perfect Competition:** A market with a large number of buyers and sellers offering homogeneous products.
+* **Monopoly:** A market where a single seller offers a unique product and faces no competition.
+* **Monopolistic Competition:** A market with many firms selling similar but differentiated products.
+* **Oligopoly:** A market dominated by a few large firms producing similar goods or services.
+
+**D) Importance of Market Competition:**
+
+Market competition encourages firms to improve product quality, reduce production costs, adopt new technologies, and satisfy consumer needs. It also promotes efficient resource allocation, fair pricing, innovation, and better choices for consumers, contributing to economic growth. 
+
+**Conclusion**
+
+Market competition plays a vital role in determining how firms operate and interact within an economy. By promoting efficiency, innovation, and consumer welfare through different market structures, it contributes significantly to the effective functioning and development of markets.
+
+**3. Explain the features of perfect competition.**
+
+**Ans.**
+
+**Features of Perfect Competition**
+
+Perfect competition is a market structure characterised by a large number of buyers and sellers, where no individual buyer or seller can influence the market price. All firms produce identical products, and prices are determined by the forces of demand and supply. Since competition is intense and there are no barriers to entry or exit, firms operate efficiently and earn only normal profits in the long run. Perfect competition is considered an ideal form of market structure.
+
+**A) Large Number of Buyers and Sellers:**
+
+A perfect competition market consists of a large number of buyers and sellers. Each buyer purchases only a small quantity, and each seller supplies only a small share of the total market. Therefore, no individual participant can influence the prevailing market price. 
+
+**B) Homogeneous Products:**
+
+All firms produce identical or homogeneous products. Since there is no difference in quality, design, or features, consumers have no preference for any particular seller, and products are perfect substitutes. 
+
+**C) Free Entry and Exit of Firms:**
+
+There are no legal, financial, or technological barriers preventing firms from entering or leaving the market. New firms enter when profits are high, while existing firms leave when losses occur, ensuring healthy competition. 
+
+**D) No Advertising Cost:**
+
+As all firms sell identical products, there is no need for advertising or promotional activities to attract customers. Consumers make purchasing decisions mainly on the basis of price. 
+
+**E) Perfect Knowledge:**
+
+Both buyers and sellers possess complete information regarding market prices, product quality, and market conditions. This prevents exploitation and ensures informed decision-making. 
+
+**F) Perfect Mobility of Factors of Production:**
+
+Factors of production such as land, labour, and capital can move freely from one industry or firm to another. This enables resources to be allocated efficiently where they are most productive. 
+
+**G) Normal Profits:**
+
+In the long run, firms earn only normal profits because free entry and exit eliminate abnormal profits. Competition ensures that firms operate efficiently without excessive earnings. 
+
+**H) Price Determination by Demand and Supply:**
+
+Prices are determined solely by the interaction of demand and supply in the market. Individual firms are price takers and must accept the market price without influencing it. There are also no transportation costs involved in the market. 
+
+**Conclusion**
+
+Perfect competition is an ideal market structure that promotes fair pricing, efficient resource allocation, and consumer welfare. Its features, such as homogeneous products, free entry and exit, perfect knowledge, and price determination through demand and supply, ensure healthy competition and efficient market functioning.
+
+**4. What are the applications of monopolistic competition?**
+
+**Ans.**
+
+**Applications of Monopolistic Competition**
+
+Monopolistic competition is a market structure that combines the features of monopoly and perfect competition. In this market, many firms sell similar but differentiated products. Firms compete by distinguishing their products through quality, brand name, design, price, packaging, and customer service. As a result, monopolistic competition is widely observed in industries where businesses try to create a unique identity for their products while competing with many rivals. 
+
+**A) Hotels and Restaurants:**
+
+The hotel and restaurant industry is one of the most common examples of monopolistic competition. Numerous hotels and restaurants operate in the market and compete by offering different standards of food, room quality, ambience, pricing, customer service, and additional facilities. These differences help them attract and retain customers. 
+
+**B) Beauty Parlours:**
+
+Beauty parlours function under monopolistic competition because they provide similar services but differentiate themselves through service quality, reputation, pricing, customer satisfaction, skilled professionals, and loyalty programmes. Customers choose parlours based on these distinguishing factors. 
+
+**C) Apparel and Clothing Industry:**
+
+The apparel and clothing industry is another important application of monopolistic competition. Designer labels and clothing brands compete by offering products with different styles, colours, fabrics, designs, quality, and brand value. Product differentiation enables firms to build customer loyalty and charge different prices. 
+
+**D) Television Channels and Programmes:**
+
+Television channels operate in a monopolistically competitive environment by offering a wide variety of programmes, including news, entertainment, sports, movies, and educational content. Globalisation has increased the number of television networks, providing consumers with numerous viewing options and encouraging competition based on programme quality and content. 
+
+**E) Soaps and Shampoos:**
+
+Manufacturers of soaps and shampoos compete by differentiating their products based on quality, fragrance, ingredients, packaging, brand name, and price. Although these products perform similar functions, consumers often develop preferences for particular brands, creating healthy competition among firms. 
+
+**Conclusion**
+
+Monopolistic competition is widely applicable in industries where firms differentiate their products to attract customers. Hotels, restaurants, beauty parlours, apparel brands, television channels, and personal care products are common examples. Through product differentiation and competition, monopolistic markets provide consumers with greater choice, encourage innovation, and improve product quality.
+
+**5. Differentiate between oligopoly, monopoly, and duopoly.**
+
+**Ans.**
+
+**Difference Between Oligopoly, Monopoly, and Duopoly**
+
+Oligopoly, monopoly, and duopoly are important forms of imperfect market competition. They differ mainly in the number of sellers, nature of competition, pricing power, and market control. In a monopoly, a single seller dominates the market; in a duopoly, two firms dominate; and in an oligopoly, a few large firms control the market. Each market structure has distinct characteristics that influence business decisions and consumer choices.
+
+| **Basis**              | **Oligopoly**                                                                               | **Monopoly**                                                                                 | **Duopoly**                                                                           |
+| ---------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Meaning**            | A market structure in which a few large firms dominate the market for a product or service. | A market structure with a single seller offering a unique product and facing no competition. | A market structure where two companies operate and produce similar goods or services. |
+| **Number of Sellers**  | Few large firms.                                                                            | One seller.                                                                                  | Two sellers.                                                                          |
+| **Nature of Products** | Similar or differentiated products.                                                         | Unique product with no close substitutes.                                                    | Similar goods or services produced by two firms.                                      |
+| **Competition**        | Limited competition among a few firms.                                                      | No competition.                                                                              | Competition exists only between two firms.                                            |
+| **Price Control**      | Firms can influence market prices through their decisions.                                  | The monopolist has significant control over price and output.                                | Both firms influence prices through their competitive strategies.                     |
+| **Entry of Firms**     | Entry may be difficult due to barriers.                                                     | Entry is highly restricted because of patents, licences, ownership, or high costs.           | Other firms may exist, but the two dominant firms control the market.                 |
+| **Examples/Features**  | Each firm's decisions affect the other firms in the market.                                 | The seller is the sole supplier with complete market control.                                | The interaction between the two firms determines market behaviour.                    |
+
+Oligopoly involves a few dominant firms whose actions are interdependent. Monopoly gives complete market power to a single seller, while duopoly is the simplest form of oligopoly, where two firms dominate the market and compete directly with each other.
+
+**Conclusion**
+
+Oligopoly, monopoly, and duopoly differ mainly in the number of firms and the level of competition. While monopoly provides complete control to one seller, duopoly involves competition between two firms, and oligopoly consists of a few dominant firms whose decisions significantly influence the market.
