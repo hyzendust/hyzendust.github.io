@@ -4731,3 +4731,404 @@ The **Federation of Indian Chambers of Commerce and Industry (FICCI)**, the **Co
 **Conclusion**
 
 FICCI, CII, and ASSOCHAM play complementary roles in the development of Indian trade and industry. While **FICCI** focuses on policy advocacy and global business promotion, **CII** concentrates on industrial competitiveness and innovation, and **ASSOCHAM** emphasizes business representation and policy support. Together, these organizations strengthen the Indian business ecosystem, encourage industrial growth, and contribute significantly to the country's economic development.
+
+### ***July 08, 2026***
+
+### Unit 13 Short Answer (200-250 words)
+
+**1. Define the term “multinational corporation” and distinguish it from a domestic company. Give two examples of well-known MNCs operating in India.**
+
+**Ans.**
+
+**Multinational Corporation (MNC) and its Difference from a Domestic Company**
+
+A **Multinational Corporation (MNC)** is a company that is headquartered in one country but operates its business activities, such as production, marketing, or services, in one or more other countries. It has its headquarters in the **home country** and carries out business through branches, subsidiaries, or affiliates in **host countries**. MNCs are also known as **transnational corporations** or **global enterprises**. 
+
+### Difference between a Multinational Corporation and a Domestic Company
+
+| **Basis**             | **Multinational Corporation (MNC)**                             | **Domestic Company**                                    |
+| --------------------- | --------------------------------------------------------------- | ------------------------------------------------------- |
+| **Area of Operation** | Operates in more than one country.                              | Operates only within one country.                       |
+| **Business Presence** | Has branches, subsidiaries, or affiliates in foreign countries. | Operates only through offices within the home country.  |
+| **Market**            | Serves both domestic and international markets.                 | Serves only the domestic market.                        |
+| **Management**        | Requires international management and coordination.             | Managed within a single country's business environment. |
+| **Resources**         | Has access to global capital, technology, and skilled manpower. | Depends mainly on domestic resources.                   |
+
+**Examples of MNCs Operating in India:**
+
+The PDF mentions several well-known multinational corporations operating in India, including:
+
+* **Coca-Cola Corporation** – Operates in India through **Coca-Cola India**.
+* **Cadbury** – Operates in India through **Cadbury India**.
+
+Other examples include **ABB**, **Colgate-Palmolive**, **Nestlé**, and **Bayer**. 
+
+**Conclusion**
+
+A multinational corporation differs from a domestic company mainly in its international presence and global operations. By operating across several countries, MNCs contribute to economic growth, technology transfer, and employment generation while expanding their business globally.
+
+**2. State any four salient characteristics of multinational corporations.**
+
+**Ans.**
+
+**Salient Characteristics of Multinational Corporations (MNCs)**
+
+A **Multinational Corporation (MNC)** is a company that operates in more than one country through its branches, subsidiaries, or affiliates. MNCs play a significant role in the global economy by expanding business operations across international markets. They possess several unique characteristics that distinguish them from domestic companies. 
+
+**A) Large Size:**
+
+MNCs have enormous assets and high sales turnover. Their financial strength often exceeds the Gross National Product (GNP) of several developing countries, enabling them to undertake large-scale business operations. 
+
+**B) International Operations:**
+
+An MNC carries out production, marketing, and other business activities in many countries. It operates through a network of subsidiaries, branches, and affiliates, allowing it to serve customers in international markets. 
+
+**C) Centralised Control:**
+
+Although MNCs operate globally, they are controlled from their headquarters located in the home country. The parent company formulates policies, while subsidiaries and branches function within these guidelines. 
+
+**D) Sophisticated Technology:**
+
+MNCs use advanced technology in manufacturing, marketing, and business operations. Their modern technology helps produce high-quality products, improve productivity, and maintain competitiveness in the global market. 
+**Conclusion**
+
+Multinational corporations are characterized by their large size, international operations, centralized control, and advanced technology. These features enable them to expand globally, improve efficiency, and contribute significantly to economic development in both home and host countries. 
+
+**3. Outline the concept of Transnational Corporation (TNC)? How does it differ from an MNC? Give two examples of foreign TNCs in India.**
+
+**Ans.**
+
+**Concept of Transnational Corporation (TNC) and its Difference from an MNC**
+
+A **Transnational Corporation (TNC)** is a large company that operates in more than one country simultaneously. It has its headquarters in one country while carrying out business activities such as production, marketing, and sales in several other countries. TNCs establish subsidiaries, branches, or affiliates in host countries and contribute through capital investment, technology, and international business operations. 
+
+### Difference between a TNC and an MNC
+
+| **Basis**              | **Transnational Corporation (TNC)**                                                            | **Multinational Corporation (MNC)**                                                                                            |
+| ---------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Meaning**            | A company operating in many countries with production and business activities spread globally. | A company headquartered in one country with operations in one or more foreign countries.                                       |
+| **Focus**              | Operates as a global enterprise with business activities across several countries.             | Expands business internationally through branches and subsidiaries while remaining centrally controlled from the home country. |
+| **Business Structure** | Conducts production, marketing, and sales simultaneously in different countries.               | Operates international businesses mainly through subsidiaries and affiliates under the parent company.                         |
+
+**Examples of Foreign TNCs in India:**
+
+The PDF lists several foreign transnational corporations operating in India, including:
+
+* **Coca-Cola Corporation** – Operates through **Coca-Cola India**.
+* **Colgate-Palmolive** – Operates through **Colgate India**.
+
+Other examples include **ABB** and **Cadbury**. 
+
+**Conclusion**
+
+A Transnational Corporation is a globally operating enterprise that conducts business activities across multiple countries, while an MNC primarily expands its operations internationally under the control of its home-country headquarters. Both contribute significantly to international trade, investment, and economic development.
+
+**4. List any four benefits that MNCs provide to the host country and any two advantages to the home country.**
+
+**Ans.**
+
+Multinational Corporations (MNCs) play an important role in the economic development of both the countries where they operate (host countries) and the countries where they originate (home countries). They contribute through investment, technology, employment, and international trade. 
+
+**A) Benefits to the Host Country:**
+
+**i) Capital Investment:**
+
+MNCs bring foreign direct investment (FDI), which supports industrial growth, infrastructure development, and economic progress. 
+
+**ii) Technology Development:**
+
+They transfer advanced technology, technical know-how, and modern production methods, helping improve product quality and reduce production costs. 
+
+**iii) Employment Generation:**
+
+MNCs create large-scale employment opportunities for skilled, technical, and managerial personnel, thereby increasing income levels. 
+
+**iv) Healthy Competition:**
+
+The presence of MNCs increases competition in the market, encouraging domestic companies to improve efficiency, quality, and innovation. 
+
+**B) Advantages to the Home Country:**
+
+**i) Expansion of Markets:**
+
+The home country can export components and finished products to foreign markets, thereby increasing business opportunities and revenue. 
+
+**ii) Higher Earnings:**
+
+Home countries earn substantial income through dividends, royalties, licensing fees, and other returns from overseas operations. 
+
+**Conclusion**
+
+MNCs benefit host countries by providing investment, technology, employment, and competition, while home countries gain through expanded markets and increased earnings. Thus, MNCs contribute significantly to global economic growth and international business development.
+
+**5. Name and briefly explain any four key drivers of the international expansion of MNCs and TNCs.**
+
+**Ans.**
+
+**Key Drivers of the International Expansion of MNCs and TNCs**
+
+The international expansion of **Multinational Corporations (MNCs)** and **Transnational Corporations (TNCs)** is driven by several economic and strategic factors. These drivers encourage firms to expand beyond their domestic markets, increase profitability, and strengthen their global presence.
+
+**A) Survival:**
+
+Companies operating in small or saturated domestic markets expand internationally to ensure long-term survival and sustain business growth. International expansion provides access to new customers and business opportunities. 
+
+**B) Growth of Overseas Markets:**
+
+Slow population and economic growth in developed countries encourage firms to enter emerging markets such as India and China. These countries offer large consumer markets and significant growth potential.
+
+**C) Diversification:**
+
+Operating in different countries helps companies reduce business risk. Losses in one market can be offset by profits earned in another because business cycles differ across countries. This provides greater stability to the firm's operations. 
+
+**D) Access to Resources:**
+
+Many MNCs and TNCs expand internationally to obtain raw materials, skilled labour, and other resources at lower costs. For example, **Nike** manufactures in Southeast Asia, while **Walmart** has a purchasing office in India to access economical resources.
+
+**Conclusion**
+
+The major drivers of international expansion include survival, overseas market growth, diversification, and access to resources. These factors enable MNCs and TNCs to improve competitiveness, reduce costs, expand globally, and achieve sustainable long-term growth.
+
+### Unit 13 Long Answer (400-500 words)
+
+**1. Explain in detail the concept of multinational corporations, including the four definitional criteria (size, structure, performance, behaviour). Illustrate your answer with suitable Indian and international examples.**
+
+**Ans.**
+
+**Concept of Multinational Corporations (MNCs) and the Four Definitional Criteria**
+
+A **Multinational Corporation (MNC)** is an enterprise that is headquartered in one country (home country) but owns and controls production, marketing, and other business facilities in one or more foreign countries (host countries). It operates through subsidiaries, branches, and affiliates and conducts business across national boundaries. MNCs are also known as **transnational corporations, global enterprises,** or **international enterprises**. They play a vital role in global trade by promoting investment, technology transfer, employment generation, and economic development. International examples include **Coca-Cola, IBM, Nestlé,** and **Unilever**, while **Ranbaxy** is a well-known Indian company that expanded globally.
+
+**A) Four Definitional Criteria of MNCs:**
+
+**i) Size:**
+
+The size criterion measures an MNC based on its sales, assets, or market capitalization. Large multinational companies possess enormous financial resources and operate on a global scale. For example, **IBM** has assets worth billions of dollars, making it one of the world's largest multinational corporations. However, size alone is not sufficient to classify a company as an MNC. 
+
+**ii) Structure:**
+
+The structural criterion focuses on the number of countries in which the company operates and the diversity of its ownership and management. An MNC generally has subsidiaries, branches, or affiliates spread across many countries. **Coca-Cola**, for example, operates in nearly **200 countries**, demonstrating a highly diversified international structure. 
+
+**iii) Performance:**
+
+The performance criterion evaluates the proportion of earnings, sales, and assets generated from foreign operations. A company is considered a true multinational when a substantial share of its business comes from overseas markets. **Ranbaxy**, an Indian pharmaceutical company, was regarded as an MNC when more than half of its turnover originated from international markets. 
+
+**iv) Behaviour:**
+
+The behavioural criterion refers to the **geocentric orientation** of top management. A true MNC treats the entire world as a single market rather than focusing only on its home country. Its policies, decision-making, and management practices are designed to serve global customers and maximize international business opportunities. 
+
+**B) Examples of Multinational Corporations:**
+
+**i) International Examples:**
+
+Some globally recognized MNCs include **Coca-Cola (USA)**, **IBM (USA)**, **Nestlé (Switzerland)**, and **Unilever (UK/Netherlands)**, all of which have operations in numerous countries. 
+
+**ii) Indian Example:**
+
+**Ranbaxy** is a notable Indian multinational corporation that expanded successfully into international markets, with a significant portion of its revenue generated from overseas operations. 
+
+**Conclusion**
+
+Multinational Corporations are global business enterprises that operate across national boundaries through subsidiaries and affiliates. They are defined by four important criteria—**size, structure, performance, and behaviour**—which distinguish them from domestic companies. Through international operations, MNCs contribute significantly to global trade, economic development, technology transfer, and employment generation while strengthening business integration across countries.
+
+**2. Critically examine the role of MNCs in developing countries. Discuss both their positive contributions and the major criticisms levelled against them, with reference to Indian examples.**
+
+**Ans.**
+
+**Role of Multinational Corporations (MNCs) in Developing Countries**
+
+Multinational Corporations (MNCs) play a significant role in the economic development of developing countries. They bring foreign capital, advanced technology, managerial expertise, and employment opportunities, thereby promoting industrial and economic growth. However, MNCs have also been criticized for focusing primarily on profit, creating monopolies, and sometimes neglecting the development priorities of host countries. Therefore, the role of MNCs in developing countries is both beneficial and controversial.
+
+**A) Positive Contributions of MNCs:**
+
+**i) Capital Investment:**
+
+MNCs provide much-needed **Foreign Direct Investment (FDI)**, which supports industrialization, infrastructure development, and economic growth. After economic liberalization, India attracted billions of dollars of foreign investment from multinational companies.
+
+**ii) Technology Development:**
+
+MNCs transfer advanced technology, technical know-how, and modern production methods to host countries. This improves product quality, enhances productivity, and promotes innovation.
+
+**iii) Employment Generation:**
+
+Multinational corporations create large-scale employment opportunities for managers, engineers, technicians, and skilled workers. They also provide better salaries, training, and career development opportunities.
+
+**iv) Managerial Revolution:**
+
+MNCs introduce modern management practices such as **Corporate Planning**, **Management by Objectives (MBO)**, and **Job Enrichment**, helping improve managerial efficiency in host countries.
+
+**v) Healthy Competition:**
+
+The entry of MNCs increases market competition, compelling domestic firms to improve product quality, efficiency, and customer service. For example, many Indian companies obtained **ISO-9000 certification** after facing competition from MNCs following liberalization.
+
+**vi) Integration with the Global Economy:**
+
+MNCs promote international trade and strengthen the integration of national economies with the global market through business partnerships and cultural exchange.
+
+**B) Major Criticisms of MNCs:**
+
+**i) Disregard of National Priorities:**
+
+MNCs generally invest in highly profitable sectors while neglecting underdeveloped regions and strategic industries. As a result, they may contribute little towards solving problems such as unemployment and poverty.
+
+**ii) Transfer of Obsolete Technology:**
+
+Instead of introducing the latest technology, some MNCs transfer outdated or unsuitable technology, limiting technological progress in host countries.
+
+**iii) Excessive Profit Repatriation:**
+
+MNCs often remit large amounts of profits, royalties, technical fees, and dividends to their parent companies, reducing the foreign exchange reserves of the host country.
+
+**iv) Creation of Monopoly:**
+
+Through acquisitions and superior technology, MNCs may dominate domestic markets and weaken local firms. In India, the acquisition of **Parle Soft Drinks** and **Kwality Ice Cream** by foreign MNCs is cited as an example of monopolistic consolidation.
+
+**v) Restrictive Business Practices:**
+
+Some MNCs impose restrictive clauses in collaboration agreements, limiting technology transfer, exports, and managerial independence of local firms.
+
+**Conclusion**
+
+MNCs make valuable contributions to developing countries by providing capital, technology, employment, modern management practices, and healthy competition. At the same time, issues such as monopoly creation, excessive profit repatriation, outdated technology, and disregard for national priorities require careful regulation. A balanced policy framework can help countries like India maximize the benefits of MNCs while minimizing their adverse effects.
+
+**3. Write a comprehensive note on Transnational Corporations (TNCs). Your answer should cover: (a) the concept and definition of TNCs; (b) a comparison of foreign and Indian TNCs; and (c) the key characteristics of Indian TNCs with examples.**
+
+**Ans.**
+
+**Transnational Corporations (TNCs)**
+
+A **Transnational Corporation (TNC)** is a large business enterprise that operates simultaneously in more than one country. It has its headquarters in one country while carrying out production, marketing, research, and sales activities in several other countries through subsidiaries, branches, and affiliates. TNCs play a major role in the global economy by promoting international trade, foreign direct investment (FDI), technology transfer, and employment generation. Examples of foreign TNCs operating in India include **ABB, Coca-Cola, Cadbury,** and **Colgate-Palmolive**.
+
+**A) Concept and Definition of TNCs:**
+
+A TNC is a corporation that conducts business operations across multiple countries while coordinating its activities from a central headquarters. These corporations invest capital, transfer technology, and establish production and marketing facilities in host countries. They account for a significant share of world trade and contribute to globalization by integrating national economies.
+
+**B) Comparison between Foreign and Indian TNCs:**
+
+| **Basis**               | **Foreign TNCs**                                                                           | **Indian TNCs**                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| **Origin**              | Incorporated in a foreign country and operate in India through subsidiaries or affiliates. | Incorporated in India and operate abroad through subsidiaries or joint ventures. |
+| **Size**                | Generally large in terms of assets, sales, and global operations.                          | Comparatively smaller in size and turnover.                                      |
+| **Geographical Spread** | Operate in many countries across the world.                                                | Mostly operate in developing countries.                                          |
+| **Technology**          | Use advanced and original technology.                                                      | Mainly use adapted or imported technology.                                       |
+| **Examples**            | ABB, Coca-Cola, Cadbury, Colgate-Palmolive.                                                | Tata Group, Birla Group, UB Group, Arvind Mills, Ispat Group, BHEL, HMT.         |
+
+**C) Key Characteristics of Indian TNCs:**
+
+**i) Smaller Size:**
+
+Indian TNCs are generally smaller than foreign TNCs in terms of assets and sales turnover because they entered international business relatively recently. 
+
+**ii) Narrow Geographical Spread:**
+
+Most Indian TNCs operate mainly in developing countries such as Sri Lanka, UAE, Kenya, Nigeria, Indonesia, and Thailand. 
+
+**iii) Adapted Technology:**
+
+Indian TNCs primarily use technology that has been adapted from imported technology rather than developing original technology independently. 
+
+**iv) Skewed Ownership:**
+
+A few large business houses, such as the **Birla Group** and **Tata Group**, control a major share of Indian TNCs and their overseas ventures. 
+
+**v) Minority Ownership:**
+
+Many Indian TNCs establish overseas operations through joint ventures, often holding minority ownership in foreign projects. 
+
+**vi) Wide Industrial Diversification:**
+
+Indian TNCs operate in a variety of industries, including engineering, pharmaceuticals, textiles, chemicals, software, construction, hotels, shipping, and banking.
+
+**vii) Multiple Objectives:**
+
+Besides earning profits, Indian TNCs aim to promote exports, obtain advanced technology, access foreign finance, and achieve economies of scale. 
+
+**Conclusion**
+
+Transnational Corporations are important participants in the global economy, facilitating international investment, trade, and technology transfer. While foreign TNCs possess greater resources and global reach, Indian TNCs are steadily expanding their international presence through joint ventures, technological adaptation, and diversification. Their growth has strengthened India's position in international business and contributed to global economic integration.
+
+**4. Analyse the key drivers of MNC and TNC growth and international expansion. How do factors such as survival, overseas market growth, diversification, resource access, and tariff barriers influence a firm’s decision to go multinational?**
+
+**Ans.**
+
+The growth of **Multinational Corporations (MNCs)** and **Transnational Corporations (TNCs)** is closely associated with globalization, technological advancement, and increasing international trade. Companies expand beyond their domestic markets to improve profitability, reduce risks, gain access to resources, and strengthen their competitive position. Various economic and strategic factors influence a firm's decision to become multinational. These drivers help organizations achieve sustainable growth while enhancing their global presence.
+
+**A) Major Drivers of International Expansion:**
+
+**i) Survival:**
+
+Companies operating in small or saturated domestic markets often expand internationally to ensure long-term survival. Limited demand and intense competition at home encourage firms to enter foreign markets where growth opportunities are greater. Many European firms expanded globally because of the limited size of their domestic markets.
+
+**ii) Growth of Overseas Markets:**
+
+Slow population growth and stagnant economic conditions in developed countries motivate firms to invest in emerging economies such as **India** and **China**. These countries offer large consumer markets, rising incomes, and significant business opportunities, making overseas expansion an attractive strategy.
+
+**iii) Diversification:**
+
+Operating in different countries enables firms to diversify business risks. Economic conditions and business cycles vary across nations, allowing companies to offset losses in one market with profits earned in another. For example, the **Ispat Group** operates steel plants in several countries to reduce business risk and maintain stable earnings.
+
+**iv) Access to Resources:**
+
+One of the most important reasons for international expansion is access to low-cost raw materials, skilled labour, and other productive resources. Companies establish manufacturing and research facilities where production costs are lower. For instance, **Nike** manufactures shoes in Southeast Asia, while **Walmart** operates a purchasing office in India to source products economically.
+
+**v) Protection of Market Share:**
+
+Many firms adopt the **"follow-the-competitor" strategy** by entering the home markets of their major competitors. This helps them protect their existing market share, increase customer choice, and discourage competitors from expanding aggressively into their domestic markets.
+
+**vi) Tariff and Non-Tariff Barriers:**
+
+Governments often impose tariffs, import quotas, and other trade restrictions on imported goods. To avoid these barriers, companies establish production facilities within the host country, allowing them to be treated as local producers. For example, Japanese automobile manufacturers established production plants in the **United States** after import restrictions were imposed during the late 1970s.
+
+**vii) Technology Expertise:**
+
+Companies possessing advanced technology often prefer direct investment rather than licensing their technology to other firms. This helps protect patents, trademarks, and trade secrets while maintaining product quality and competitive advantage in international markets.
+
+**viii) Access to Economical Human Resources:**
+
+Many MNCs establish research centres, software development units, and service operations in countries that provide skilled human resources at competitive costs. India has become a preferred destination for such investments due to its large pool of qualified professionals.
+
+**Conclusion**
+
+The international expansion of MNCs and TNCs is driven by several strategic factors, including survival, overseas market growth, diversification, access to resources, protection of market share, tariff avoidance, technological expertise, and economical human resources. These drivers enable firms to increase competitiveness, reduce costs, expand globally, and achieve long-term business success while contributing to international economic development.
+
+**5. Discuss the disadvantages of Transactional Corporations in the host country.**
+
+**Ans.**
+
+**Disadvantages of Transnational Corporations (TNCs) in the Host Country**
+
+Transnational Corporations (TNCs) play an important role in promoting industrial growth, foreign investment, and technology transfer. However, their operations in host countries are often criticized because they may create economic, social, and political problems. Since TNCs primarily focus on maximizing profits, their activities do not always align with the development priorities of the host country. Therefore, governments must regulate their operations to ensure balanced and sustainable economic development.
+
+**A) Disadvantages of TNCs in the Host Country:**
+
+**i) Disregard of National Priorities:**
+
+TNCs generally invest in highly profitable sectors rather than areas that are important for national development. As a result, they may contribute little towards solving problems such as unemployment, poverty, or regional imbalance. 
+
+**ii) Transfer of Obsolete Technology:**
+
+Instead of introducing the latest technology, some TNCs transfer outdated or inappropriate technology to developing countries. This limits technological advancement and reduces the long-term competitiveness of domestic industries. 
+
+**iii) Creation of Monopoly:**
+
+Due to their strong financial resources, advanced technology, and global reputation, TNCs may dominate the domestic market. They often acquire local companies, reducing competition and weakening domestic enterprises. In India, the acquisition of **Parle Soft Drinks** and **Kwality Ice Cream** by foreign companies is cited as an example of such market dominance. 
+
+**iv) Excessive Profit Repatriation:**
+
+A significant portion of the profits earned by TNCs is transferred back to their parent companies in the form of dividends, royalties, technical fees, and service charges. This leads to an outflow of foreign exchange from the host country. 
+
+**v) Restrictive Business Practices:**
+
+Some TNCs impose restrictive conditions in technology transfer and collaboration agreements. These restrictions may limit exports, local production, or the use of indigenous technology, thereby reducing the growth opportunities of domestic firms. 
+
+**vi) Exploitation of Natural Resources:**
+
+TNCs may overexploit natural resources in pursuit of higher profits without giving adequate attention to environmental protection or sustainable development. This can lead to resource depletion and ecological damage. 
+
+**vii) Political and Economic Influence:**
+
+Large TNCs may exert considerable influence on government policies through their financial strength and international presence. Such influence can sometimes affect national sovereignty and economic decision-making.
+
+**Conclusion**
+
+Although TNCs contribute to economic development through investment and technology transfer, they also create several challenges for host countries, including monopoly power, profit repatriation, outdated technology, and restrictive business practices. Therefore, governments should implement appropriate regulations and monitoring mechanisms to ensure that TNCs contribute positively to national development while protecting the interests of the host country.
