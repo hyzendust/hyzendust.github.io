@@ -4744,7 +4744,7 @@ FICCI, CII, and ASSOCHAM play complementary roles in the development of Indian t
 
 A **Multinational Corporation (MNC)** is a company that is headquartered in one country but operates its business activities, such as production, marketing, or services, in one or more other countries. It has its headquarters in the **home country** and carries out business through branches, subsidiaries, or affiliates in **host countries**. MNCs are also known as **transnational corporations** or **global enterprises**. 
 
-### Difference between a Multinational Corporation and a Domestic Company
+**Difference between a Multinational Corporation and a Domestic Company**
 
 | **Basis**             | **Multinational Corporation (MNC)**                             | **Domestic Company**                                    |
 | --------------------- | --------------------------------------------------------------- | ------------------------------------------------------- |
@@ -4802,7 +4802,7 @@ Multinational corporations are characterized by their large size, international 
 
 A **Transnational Corporation (TNC)** is a large company that operates in more than one country simultaneously. It has its headquarters in one country while carrying out business activities such as production, marketing, and sales in several other countries. TNCs establish subsidiaries, branches, or affiliates in host countries and contribute through capital investment, technology, and international business operations. 
 
-### Difference between a TNC and an MNC
+**Difference between a TNC and an MNC**
 
 | **Basis**              | **Transnational Corporation (TNC)**                                                            | **Multinational Corporation (MNC)**                                                                                            |
 | ---------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
