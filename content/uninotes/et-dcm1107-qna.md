@@ -5710,3 +5710,906 @@ Monopoly often results in **higher prices, restricted output, reduced consumer c
 **Conclusion**
 
 A monopoly serves as an important source of profit because it allows a single firm to control prices and output while facing little or no competition. Through market power, restricted output, and barriers to entry, monopolists can earn long-term supernormal profits. Although monopoly profits can support innovation and investment, they may also reduce consumer welfare by charging higher prices and limiting market competition.
+
+### ***July 13, 2026***
+
+### Unit 14 Short Answer (200-250 words)
+
+**1. What is national income?**
+
+**Ans.**
+
+**National Income**
+
+**National income** refers to the **total monetary value of all final goods and services produced by the residents of a country during a financial year**. It represents the net result of all economic activities carried out within the economy and is expressed in monetary terms. National income includes the earnings received by the factors of production in the form of **wages, rent, interest, and profits**. It is one of the most important indicators used to measure the economic performance and development of a country. 
+
+**A) Meaning of National Income**
+
+**i) Total Value of Production:**
+
+National income is the total value of all final goods and services produced during a year. Only final goods are included to avoid the problem of double counting. 
+
+**ii) Measure of Economic Activity:**
+
+It measures the total income generated through production and reflects the overall economic activity of a nation during a specific period. 
+
+**B) Components of National Income**
+
+**i) Factor Incomes:**
+
+National income consists of the incomes earned by the factors of production, namely **wages to labour, rent to land, interest to capital, and profits to entrepreneurs**. 
+
+**ii) Monetary Measurement:**
+
+All goods and services are measured in monetary terms, making it easier to compare economic performance over different years. 
+
+**C) Importance of National Income**
+
+**i) Measures Economic Growth:**
+
+National income helps determine the level of economic growth and development of a country. 
+
+**ii) Assists in Policy Formulation:**
+
+It provides useful information to governments for planning economic policies, comparing performance with other countries, and making development decisions. 
+
+**Conclusion**
+
+National income is the **total monetary value of final goods and services produced by a country's residents in one year**. It serves as an important indicator of economic performance, helps measure growth, and supports effective planning and policy-making for national development.
+
+**2. What is the meaning of gross domestic product (GDP)?**
+
+**Ans.**
+
+**Gross Domestic Product (GDP)**
+
+**Gross Domestic Product (GDP)** is the **total market value of all final goods and services produced within the domestic territory of a country during a financial year**. It measures the overall economic output generated within a country's geographical boundaries, irrespective of whether the producers are domestic or foreign residents. GDP is one of the most widely used indicators to assess the size, growth, and performance of an economy. It helps governments, economists, and policymakers evaluate economic progress and formulate development policies.
+
+**A) Meaning of GDP**
+
+**i) Value of Final Goods and Services:**
+
+GDP includes only the market value of **final goods and services** produced during a year. Intermediate goods are excluded to avoid double counting. 
+
+**ii) Production within Domestic Territory:**
+
+GDP measures production that takes place within the geographical boundaries of a country, regardless of whether it is carried out by domestic or foreign individuals and firms.
+
+**B) Features of GDP**
+
+**i) Monetary Measure:**
+
+All goods and services are valued in monetary terms at prevailing market prices, making it easier to compare economic performance over different years. 
+
+**ii) Annual Measurement:**
+
+GDP is generally calculated for a financial or calendar year and reflects the economic activity during that period. 
+
+**C) Importance of GDP**
+
+**i) Measures Economic Growth:**
+
+GDP is an important indicator of the overall growth and performance of an economy. An increase in GDP generally indicates higher production, employment, and income levels. 
+
+**ii) Assists in Economic Planning:**
+
+Governments use GDP data to formulate economic policies, prepare budgets, compare national performance with other countries, and plan development programmes.
+
+**Conclusion**
+
+Gross Domestic Product (GDP) is the **total market value of all final goods and services produced within a country's domestic territory during a year**. It is a key measure of economic performance and plays a vital role in assessing growth, comparing economies, and supporting effective economic planning and policy formulation.
+
+**3. Explain net national product (NNP).**
+
+**Ans.**
+
+**Net National Product (NNP)**
+
+**Net National Product (NNP)** is the **total market value of all final goods and services produced by the residents of a country during a financial year after deducting depreciation (consumption of fixed capital) from Gross National Product (GNP)**. Depreciation refers to the wear and tear or reduction in the value of fixed assets such as machinery, buildings, and equipment due to their use in the production process. Therefore, NNP provides a more accurate measure of a country's actual production and income than GNP.
+
+**A) Meaning of Net National Product**
+
+**i) National Output after Depreciation:**
+
+NNP represents the net value of goods and services produced by the residents of a country after accounting for the depreciation of capital assets. 
+
+**ii) Formula for NNP:**
+
+**NNP = Gross National Product (GNP) – Depreciation**
+
+This formula shows that depreciation is deducted from GNP to obtain the net value of production.
+
+**B) Features of NNP**
+
+**i) Includes Residents' Production:**
+
+NNP includes the value of goods and services produced by the residents of the country, whether production takes place within the country or abroad. 
+
+**ii) Reflects Actual National Income:**
+
+By excluding depreciation, NNP provides a more realistic measure of the income available to the nation. 
+
+**C) Importance of NNP**
+
+**i) Measures Economic Performance:**
+
+NNP helps assess the actual productive performance and economic progress of a country. 
+
+**ii) Supports Economic Planning:**
+
+Governments and policymakers use NNP for national income estimation, economic planning, policy formulation, and international comparisons.
+
+**Conclusion**
+
+**Net National Product (NNP)** is the **net value of all final goods and services produced by a country's residents after deducting depreciation from GNP**. It is a more accurate indicator of national income and economic performance because it accounts for the wear and tear of capital assets and reflects the country's actual productive capacity.
+
+**4. Explain the product method for the computation of national income.**
+
+**Ans.**
+
+**Product Method for the Computation of National Income**
+
+The **Product Method**, also known as the **Output Method** or **Value Added Method**, is one of the principal methods used to compute **national income**. Under this method, the **total value of all final goods and services produced in different sectors of the economy during a financial year is calculated**. To avoid **double counting**, only the value added at each stage of production or the value of final goods and services is included. The sum of the value added by all sectors gives the Gross Domestic Product (GDP), which is then adjusted to derive national income.
+
+**A) Meaning of the Product Method**
+
+**i) Value of Final Output:**
+
+The product method measures national income by adding the value of all final goods and services produced in agriculture, industry, and the service sector during a year. 
+
+**ii) Avoids Double Counting:**
+
+Only the **value added** at each stage of production is included to prevent the same product from being counted more than once.
+
+**B) Steps in the Product Method**
+
+**i) Identify Different Sectors:**
+
+The economy is divided into sectors such as **agriculture, manufacturing, and services**, and the value of output produced by each sector is estimated. 
+
+**ii) Calculate Total Value Added:**
+
+The value added by each producer is calculated by subtracting the value of intermediate goods from the value of output. The total value added of all sectors is then summed to estimate national income.
+
+**C) Importance of the Product Method**
+
+**i) Measures Economic Production:**
+
+It provides an estimate of the country's total production and helps assess the contribution of different sectors to the economy. 
+
+**ii) Assists in Economic Planning:**
+
+The product method provides useful information for policymakers in preparing development plans and evaluating economic growth.
+
+**Conclusion**
+
+The **Product Method** computes national income by measuring the **value of final goods and services or the value added at each stage of production**. By avoiding double counting and including the contributions of all sectors, it provides a reliable measure of a country's economic output and supports effective economic planning and policy formulation.
+
+**5. Describe the disposable income.**
+
+**Ans.**
+
+**Disposable Income**
+
+**Disposable income**, also known as **personal disposable income**, refers to the **actual income available to individuals and households for spending and saving after the payment of direct taxes**. It represents the amount of money that people can freely use according to their needs and preferences. Although individuals earn personal income from wages, rent, interest, profits, and transfer payments, they cannot spend the entire amount because a portion must be paid to the government as direct taxes. Therefore, disposable income reflects the actual purchasing power of individuals.
+
+**A) Meaning of Disposable Income**
+
+**i) Income Available for Use:**
+
+Disposable income is the income that remains with individuals after deducting direct taxes such as income tax and other compulsory payments from personal income. 
+
+**ii) Formula for Disposable Income:**
+
+**Disposable Income = Personal Income – Direct Taxes**
+
+This formula shows the amount that households can spend on consumption or save for future use. 
+
+**B) Features of Disposable Income**
+
+**i) Used for Consumption and Saving:**
+
+Disposable income is divided between **current consumption** and **personal savings**, depending on the preferences of individuals and households.
+
+**ii) Reflects Purchasing Power:**
+
+It indicates the actual spending capacity of individuals after meeting their tax obligations. 
+
+**C) Importance of Disposable Income**
+
+**i) Measures Living Standards:**
+
+A higher disposable income generally improves the standard of living by increasing the ability of people to purchase goods and services. 
+
+**ii) Supports Economic Analysis:**
+
+Economists and policymakers use disposable income to study consumer spending patterns, savings behaviour, and overall economic performance.
+
+**Conclusion**
+
+Disposable income is the **actual income available to individuals after deducting direct taxes from personal income**. It determines the amount that households can spend on consumption or save and serves as an important indicator of purchasing power, living standards, and economic well-being.
+
+### Unit 14 Long Answer (400-500 words)
+
+**1. Explain the concept of national aggregates.**
+
+**Ans.**
+
+**Concept of National Aggregates**
+
+**National aggregates** are the different **macroeconomic measures used to estimate the total production, income, and expenditure of an economy during a financial year**. Since various goods and services produced in an economy cannot be added in physical units, they are measured in **monetary terms**. National aggregates provide a comprehensive picture of the country's economic performance and are used to assess growth, compare economies, and formulate economic policies. They form the foundation of **national income accounting** and help governments, economists, and planners evaluate the overall performance of the economy. 
+
+**A) Meaning of National Aggregates**
+
+**i) Measure of Economic Activity:**
+
+National aggregates represent the total value of goods and services produced, the income earned, and the expenditure incurred in an economy during a given period. 
+
+**ii) Monetary Measurement:**
+
+Since different products cannot be added in physical quantities, they are expressed in monetary terms to provide a common basis for measurement and comparison. 
+
+**B) Major National Aggregates**
+
+**i) Gross Domestic Product (GDP):**
+
+GDP is the total market value of all final goods and services produced within the domestic territory of a country during a financial year. It measures the overall economic output generated within the country's geographical boundaries.
+
+**ii) Gross National Product (GNP):**
+
+GNP is the total market value of all final goods and services produced by the residents of a country, including **net factor income earned from abroad**.
+
+**iii) Net National Product (NNP):**
+
+NNP is obtained by deducting **depreciation** from GNP. It reflects the net value of production after accounting for the wear and tear of capital assets.
+
+**iv) National Income (NNP at Factor Cost):**
+
+National Income is the **Net National Product at Factor Cost (NNPFC)**. It represents the total factor income earned by the residents of a country in the form of wages, rent, interest, and profits.
+
+**v) Personal Income and Disposable Income:**
+
+Personal income is the total income received by individuals from all sources before paying direct taxes. Disposable income is the income available for consumption and saving after deducting direct taxes from personal income.
+
+**C) Importance of National Aggregates**
+
+**i) Measures Economic Growth:**
+
+National aggregates help determine the level of production, income, and economic growth of a country over time. 
+
+**ii) Assists in Policy Formulation:**
+
+Governments use national aggregates for economic planning, budget preparation, employment policies, and comparison of economic performance with other countries. 
+
+**iii) Facilitates Economic Analysis:**
+
+They provide valuable information about the structure of the economy, sectoral contributions, living standards, and changes in national income. 
+
+**Conclusion**
+
+National aggregates are comprehensive indicators that measure the **overall economic performance of a country**. They include **GDP, GNP, NNP, National Income, Personal Income, and Disposable Income**, each providing a different perspective on production, income, and expenditure. These aggregates play a crucial role in national income accounting, economic planning, policy formulation, and evaluating the growth and development of an economy.
+
+**2. What is GNP as a sum of expenditures on final products?**
+
+**Ans.**
+
+**GNP as a Sum of Expenditures on Final Products**
+
+**Gross National Product (GNP)** is the **total market value of all final goods and services produced by the residents (nationals) of a country during a financial year**, irrespective of whether production takes place within the country or abroad. When measured as a **sum of expenditures on final products**, GNP is calculated by adding all expenditures incurred on final goods and services produced by the nation's residents. It includes **personal consumption expenditure, private domestic investment, government expenditure, net exports, and net factor income earned from abroad**. Only **final goods and services** are included to avoid double counting, as intermediate goods are already included in the value of final products. 
+
+**A) Meaning of GNP as a Sum of Expenditures**
+
+**i) Expenditure-Based Measurement:**
+
+Under this approach, GNP is measured by adding the total expenditure made on final goods and services produced by the country's residents during a financial year. 
+
+**ii) Includes National Production:**
+
+GNP considers the production of the country's nationals both within the domestic territory and abroad. Therefore, it differs from GDP by including **net factor income from abroad**. 
+
+**B) Components of GNP**
+
+**i) Personal Consumption Expenditure (C):**
+
+It includes expenditure made by households on goods and services such as food, clothing, housing, education, healthcare, and other consumer items. 
+
+**ii) Private Investment Expenditure (I):**
+
+This includes expenditure on fixed capital such as machinery, equipment, residential and non-residential buildings, inventories, and other productive assets. 
+
+**iii) Government Expenditure (G):**
+
+Government spending on public goods and services, including education, healthcare, defence, administration, and infrastructure development, forms part of GNP. 
+
+**iv) Net Exports (X – M):**
+
+Net exports represent the difference between exports and imports of goods and services. Exports increase GNP, while imports are deducted because they are produced outside the country. 
+
+**v) Net Factor Income from Abroad (NFIA):**
+
+GNP includes income earned by the country's residents from abroad and excludes income earned within the country by foreign residents. 
+
+**C) Importance of GNP**
+
+**i) Measures National Economic Performance:**
+
+GNP provides a comprehensive measure of the total production and income generated by the country's residents and helps evaluate economic growth. 
+
+**ii) Assists in Economic Planning:**
+
+Governments use GNP data for national income estimation, policy formulation, development planning, and international comparisons. 
+
+**Conclusion**
+
+**GNP as a sum of expenditures on final products** measures the **total expenditure on final goods and services produced by the residents of a country**, including **consumption, investment, government expenditure, net exports, and net factor income from abroad**. By considering only final products and excluding intermediate goods, it provides an accurate measure of national production and serves as an important indicator of economic performance and development. 
+
+**3. Explain value-added income.**
+
+**Ans.**
+
+**Value-Added Income**
+
+**Value-added income** refers to the **additional value created during the production of goods and services**. It is measured as the **difference between the value of output and the value of intermediate goods and services used in the production process**. The value added represents the income available for paying the factors of production such as **labour, capital, land, and entrepreneurs**. In national income accounting, the value-added method is widely used because it avoids **double counting** by considering only the additional value created at each stage of production.
+
+**A) Meaning of Value-Added Income**
+
+**i) Additional Value Created:**
+
+Value-added income is the increase in the value of a product or service after processing or production. It reflects the contribution made by a firm or industry to the economy. 
+
+**ii) Formula for Value Added:**
+
+The value added is calculated using the following formula:
+
+**Value Added = Value of Output – Intermediate Consumption**
+
+This formula measures the net value created during production. 
+
+**B) Features of Value-Added Income**
+
+**i) Avoids Double Counting:**
+
+The value-added method includes only the value added at each stage of production, ensuring that intermediate goods are not counted more than once in national income.
+
+**ii) Reflects Factor Income:**
+
+The value added generated becomes the income available for paying **wages, rent, interest, and profits** to the factors of production involved in the manufacturing process. 
+
+**C) Importance of Value-Added Income**
+
+**i) Measures Sectoral Contribution:**
+
+It helps determine the contribution of different sectors such as agriculture, industry, and services to the national income. 
+
+**ii) Assists in National Income Computation:**
+
+The value-added method is one of the principal methods of computing national income and provides an accurate estimate of economic output by avoiding duplication.
+
+**iii) Supports Economic Analysis:**
+
+Value-added income enables governments and economists to assess productivity, industrial performance, and the overall growth of the economy. 
+
+**Conclusion**
+
+Value-added income is the **additional economic value created during the production process**, calculated by subtracting intermediate consumption from the value of output. It represents the income generated for the factors of production and plays a vital role in measuring national income, avoiding double counting, and evaluating the contribution of different sectors to economic development.
+
+**4. Explain the Net National Product.**
+
+**Ans.**
+
+Net National Product (NNP)
+
+Net National Product (NNP) is the total market value of all final goods and services produced by the residents of a country during a financial year after deducting depreciation (consumption of fixed capital) from Gross National Product (GNP). Depreciation refers to the reduction in the value of fixed assets such as machinery, buildings, and equipment due to wear and tear, obsolescence, or regular use in production. NNP provides a more accurate measure of a nation's actual productive performance because it accounts for the replacement of worn-out capital goods. When NNP is measured at factor cost (NNPFC), it is known as National Income.
+
+A) Meaning of Net National Product
+
+i) Net Value of National Output:
+
+NNP represents the net value of all final goods and services produced by the residents of a country after deducting depreciation from GNP.
+
+ii) Formula for NNP:
+
+The formula for calculating Net National Product is:
+
+NNP = GNP – Depreciation
+
+This formula shows that depreciation is deducted to determine the actual value of production available to the economy.
+
+B) Features of Net National Product
+
+i) Includes Production by Residents:
+
+NNP includes the value of goods and services produced by the country's residents, whether production takes place within the country or abroad.
+
+ii) Accounts for Depreciation:
+
+Unlike GNP, NNP deducts depreciation, making it a more realistic measure of the nation's productive capacity and income.
+
+C) Importance of Net National Product
+
+i) Measures Actual Economic Performance:
+
+NNP reflects the net production available after replacing worn-out capital assets, providing a more accurate measure of economic performance than GNP.
+
+ii) Basis for National Income:
+
+NNP at factor cost is regarded as National Income because it measures the total income earned by the factors of production in an economy.
+
+iii) Assists in Economic Planning:
+
+Governments and policymakers use NNP to formulate development plans, estimate national income, compare economic performance, and assess long-term economic growth.
+
+D) Difference between GNP and NNP
+
+i) Gross National Product (GNP):
+
+GNP measures the total market value of all final goods and services produced by a country's residents before deducting depreciation.
+
+ii) Net National Product (NNP):
+
+NNP is obtained after subtracting depreciation from GNP, making it a more accurate measure of the nation's net output and income.
+
+Conclusion
+
+Net National Product (NNP) is the net value of all final goods and services produced by the residents of a country after deducting depreciation from Gross National Product. It provides a realistic measure of national production, serves as the basis for calculating national income, and plays a crucial role in economic analysis, policy formulation, and development planning.
+
+**5. Make a comparison between product method and expenditure method for the calculation of National Income.**
+
+**Ans.**
+
+**Comparison between Product Method and Expenditure Method for the Calculation of National Income**
+
+The **Product Method** and the **Expenditure Method** are two important approaches used to calculate **National Income**. Although both methods aim to estimate the total value of economic activity in a country during a financial year, they differ in their approach. The **Product Method** focuses on the **production of goods and services**, while the **Expenditure Method** focuses on the **total spending on final goods and services**. Despite these differences, both methods ultimately arrive at the same estimate of national income when applied correctly.
+
+| **Basis of Comparison**  | **Product Method**                                                                                                                                  | **Expenditure Method**                                                                                                      |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Meaning**              | Measures national income by calculating the **value of all final goods and services produced** or the **value added** at each stage of production.  | Measures national income by adding the **total expenditure incurred on final goods and services** during a financial year.  |
+| **Main Focus**           | Focuses on the **production side** of the economy.                                                                                                  | Focuses on the **spending side** of the economy.                                                                            |
+| **Basis of Calculation** | Calculates the **gross value added** by different sectors such as agriculture, industry, and services.                                              | Calculates the sum of **consumption expenditure, investment expenditure, government expenditure, and net exports**.         |
+| **Double Counting**      | Avoids double counting by including only the **value added** at each stage of production.                                                           | Includes only **final expenditure** on goods and services, thereby avoiding double counting.                                |
+| **Data Required**        | Requires production and output data from different industries and sectors.                                                                          | Requires data on household consumption, investment, government spending, exports, and imports.                              |
+| **Suitability**          | More suitable for economies where production data are readily available.                                                                            | More suitable where expenditure data are reliable and easily available.                                                     |
+| **Result**               | Estimates national income through **total production**.                                                                                             | Estimates national income through **total expenditure**.                                                                    |
+
+**Conclusion**
+
+The **Product Method** and the **Expenditure Method** are complementary approaches for calculating national income. The Product Method estimates national income from the **production perspective** by measuring value added, whereas the Expenditure Method estimates it from the **expenditure perspective** by measuring spending on final goods and services. Although they differ in approach and data requirements, both methods provide the same estimate of national income when accurately applied and are essential tools for economic analysis and policy formulation.
+
+### Unit 15 Short Answer (200-250 words)
+
+**1. What is aggregate demand?**
+
+**Ans.**
+
+**Aggregate Demand**
+
+**Aggregate demand (AD)** refers to the **total value of all final goods and services that all sectors of an economy plan to purchase at a given level of income during a specific period**. It represents the overall planned expenditure in an economy and reflects the demand for goods and services at different income levels. Aggregate demand plays a vital role in determining the level of national income, output, employment, and economic growth. According to **John Maynard Keynes**, producers increase output only when they expect sufficient demand for their goods and services.
+
+**A) Meaning of Aggregate Demand**
+
+**i) Total Planned Expenditure:**
+
+Aggregate demand represents the total planned spending on final goods and services by households, businesses, the government, and the foreign sector during a given period. 
+
+**ii) Demand at a Given Income Level:**
+
+It indicates the amount of goods and services that buyers are willing and able to purchase at different levels of national income.
+
+**B) Components of Aggregate Demand**
+
+**i) Consumption and Investment Expenditure:**
+
+Aggregate demand includes household consumption expenditure and business investment expenditure, which together form a major share of total demand. 
+
+**ii) Government Expenditure and Net Exports:**
+
+It also includes government expenditure on public goods and services and **net exports (exports minus imports)**, which influence the total demand in the economy. 
+
+**C) Importance of Aggregate Demand**
+
+**i) Determines Employment and Output:**
+
+An increase in aggregate demand encourages firms to expand production and employ more workers, while a decrease leads to lower output and unemployment.
+
+**ii) Promotes Economic Growth:**
+
+Aggregate demand helps maintain economic stability and growth. Governments use fiscal and monetary policies to influence aggregate demand and achieve higher income and employment. 
+
+**Conclusion**
+
+Aggregate demand is the **total planned expenditure on final goods and services in an economy during a specific period**. It is a key macroeconomic concept that determines national income, employment, and economic growth. According to Keynes, maintaining adequate aggregate demand is essential for achieving higher production, increased employment, and overall economic stability.
+
+**2. What determines the level of employment according to Keynes?**
+
+**Ans.**
+
+**Level of Employment According to Keynes**
+
+According to **John Maynard Keynes**, the **level of employment is determined by effective demand**, which is the point where **aggregate demand (AD) equals aggregate supply (AS)**. Keynes rejected the classical view that full employment occurs automatically. He argued that employment depends on the total demand for goods and services in the economy. When aggregate demand increases, firms expand production and employ more workers. Conversely, when aggregate demand is low, firms reduce production, leading to unemployment. Thus, the level of employment is directly influenced by the level of effective demand in the economy.
+
+**A) Determinants of Employment**
+
+**i) Effective Demand:**
+
+Keynes stated that employment depends on **effective demand**, which is achieved when aggregate demand equals aggregate supply. At this point, entrepreneurs expect maximum profits and decide the level of production and employment.
+
+**ii) Consumption and Investment Demand:**
+
+Aggregate demand is mainly determined by **consumption expenditure** and **investment expenditure**. An increase in either consumption or investment raises effective demand and creates more employment opportunities.
+
+**B) Keynes' View on Employment**
+
+**i) Underemployment Equilibrium:**
+
+Keynes believed that an economy can remain in equilibrium even with unemployment if aggregate demand is insufficient. This situation is known as **underemployment equilibrium**.
+
+**ii) Role of Government:**
+
+To increase employment, the government should adopt **fiscal and monetary policies** that stimulate aggregate demand through higher public expenditure, lower taxes, and increased investment.
+
+**Conclusion**
+
+According to Keynes, the **level of employment is determined by effective demand**, which depends mainly on consumption and investment expenditure. When aggregate demand is sufficient, production and employment increase. Therefore, maintaining adequate effective demand is essential for achieving higher employment and economic stability.
+
+**3. Explain the concept of equilibrium level of income.**
+
+**Ans.**
+
+**Equilibrium Level of Income**
+
+The **equilibrium level of income** refers to the level of **national income at which aggregate demand (AD) is equal to aggregate supply (AS)**. At this point, the economy is in balance because the total goods and services produced are exactly equal to the total demand for them. According to **John Maynard Keynes**, equilibrium income does not necessarily occur at full employment. An economy may reach equilibrium even when some resources remain unemployed if aggregate demand is insufficient.
+
+**A) Meaning of Equilibrium Level of Income**
+
+**i) Equality of Aggregate Demand and Aggregate Supply:**
+
+The equilibrium level of income is achieved when aggregate demand equals aggregate supply. At this point, there is neither excess demand nor excess supply in the economy.
+
+**ii) Stable Level of National Income:**
+
+It is the level at which national income, output, and employment remain stable because producers are able to sell all the goods and services they produce.
+
+**B) Keynesian View of Equilibrium**
+
+**i) Underemployment Equilibrium:**
+
+Keynes believed that equilibrium can exist below the full employment level if aggregate demand is inadequate. This situation is called **underemployment equilibrium**.
+
+**ii) Role of Aggregate Demand:**
+
+An increase in aggregate demand through higher consumption or investment raises the equilibrium level of income and employment.
+
+**C) Importance of Equilibrium Income**
+
+**i) Determines Output and Employment:**
+
+The equilibrium level of income helps determine the level of production and employment in an economy.
+
+**ii) Assists Economic Policy:**
+
+Governments use fiscal and monetary policies to influence aggregate demand and achieve a higher equilibrium level of income and employment. 
+
+**Conclusion**
+
+The **equilibrium level of income** is the point where **aggregate demand equals aggregate supply**, resulting in a stable level of national income, output, and employment. According to Keynes, equilibrium may occur below full employment, making government intervention necessary to increase aggregate demand and achieve higher economic growth and employment.
+
+**4. Explain the fiscal policy.**
+
+**Ans.**
+
+**Fiscal Policy**
+
+**Fiscal policy** refers to the **government's policy of using public expenditure and taxation to influence the level of economic activity in the country**. It is an important macroeconomic tool used to regulate **aggregate demand**, promote economic growth, control inflation, and reduce unemployment. By increasing or decreasing government spending and taxes, the government can influence production, income, investment, and employment in the economy. Fiscal policy plays a vital role in maintaining economic stability during periods of recession and inflation. 
+
+**A) Meaning of Fiscal Policy**
+
+**i) Government Policy on Revenue and Expenditure:**
+
+Fiscal policy involves decisions regarding **government expenditure, taxation, and public borrowing** to achieve economic objectives. 
+
+**ii) Regulates Aggregate Demand:**
+
+It influences the level of aggregate demand by increasing or reducing public spending and taxes, thereby affecting income and employment. 
+
+**B) Objectives of Fiscal Policy**
+
+**i) Promote Economic Growth:**
+
+The government increases public expenditure and reduces taxes during a recession to stimulate investment, production, and employment. 
+
+**ii) Control Inflation:**
+
+During inflation, the government may reduce expenditure or increase taxes to lower excessive demand and maintain price stability. 
+
+**C) Importance of Fiscal Policy**
+
+**i) Reduces Unemployment:**
+
+Fiscal policy helps create employment opportunities by encouraging investment and increasing demand for goods and services. 
+
+**ii) Maintains Economic Stability:**
+
+It helps stabilize the economy by controlling inflation, reducing unemployment, and supporting balanced economic development. 
+
+**Conclusion**
+
+Fiscal policy is the **government's use of taxation and public expenditure to influence economic activity**. It is an effective tool for promoting economic growth, controlling inflation, reducing unemployment, and maintaining overall economic stability. Proper implementation of fiscal policy contributes to sustainable development and improves the performance of the economy.
+
+**5. What do you mean by income policy?**
+
+**Ans.**
+
+**Income Policy**
+
+**Income policy** refers to the **government's measures to regulate the growth of wages, salaries, and prices in the economy**. It is mainly used to **maintain price stability, control inflation, and ensure a balanced distribution of income**. Through income policy, the government may issue guidelines on wage increases, salary revisions, and the pricing of essential goods and services. By controlling excessive increases in wages and prices, income policy helps maintain economic stability and supports sustainable economic growth. 
+
+**A) Meaning of Income Policy**
+
+**i) Government Control over Incomes:**
+
+Income policy consists of government measures aimed at regulating wages, salaries, profits, and prices to achieve economic stability. 
+
+**ii) Controls Inflation:**
+
+It seeks to prevent excessive increases in wages and prices that may lead to inflation and reduce the purchasing power of consumers. 
+
+**B) Objectives of Income Policy**
+
+**i) Maintain Price Stability:**
+
+The primary objective is to stabilize prices by controlling rapid increases in wages and production costs. 
+
+**ii) Ensure Fair Distribution of Income:**
+
+Income policy promotes equitable distribution of income by regulating wage growth and preventing excessive profits. 
+
+**C) Importance of Income Policy**
+
+**i) Promotes Economic Stability:**
+
+By controlling inflation and maintaining balanced wage growth, income policy contributes to overall economic stability and sustainable development. 
+
+**ii) Supports Employment and Growth:**
+
+A stable income policy encourages investment, improves productivity, and creates favourable conditions for long-term economic growth and employment generation. 
+
+**Conclusion**
+
+Income policy is an important **macroeconomic policy that regulates wages, salaries, and prices** to maintain economic stability. By controlling inflation, ensuring a fair distribution of income, and supporting sustainable growth, it plays a significant role in achieving the overall economic objectives of a country.
+
+### Unit 15 Short Answer (200-250 words)
+
+**1. What is the aggregate demand function?**
+
+**Ans.**
+
+**Aggregate Demand Function**
+
+The **Aggregate Demand Function (ADF)** represents the **relationship between the level of employment and the expected proceeds from the sale of goods and services produced by firms**. According to **John Maynard Keynes**, it shows the amount of revenue that entrepreneurs expect to receive from selling output at different levels of employment. Aggregate demand depends mainly on **consumption expenditure and investment expenditure**. Before deciding the level of production and employment, entrepreneurs estimate the demand for their products. If they expect higher sales and profits, they increase production and employ more workers. Thus, the aggregate demand function plays a crucial role in determining income, output, and employment in an economy.
+
+**A) Meaning of Aggregate Demand Function**
+
+**i) Relationship between Employment and Expected Sales:**
+
+The aggregate demand function shows the relationship between the level of employment and the expected sale proceeds from the output produced by firms. 
+
+**ii) Based on Expected Revenue:**
+
+Entrepreneurs estimate the expected revenue from the sale of goods and services before deciding the quantity of output to produce and the number of workers to employ.
+
+**B) Determinants of Aggregate Demand Function**
+
+**i) Consumption Expenditure:**
+
+Household spending on goods and services is the major component of aggregate demand. An increase in consumption raises aggregate demand and encourages higher production and employment.
+
+**ii) Investment Expenditure:**
+
+Business investment in machinery, buildings, and other capital goods increases aggregate demand and stimulates economic growth and employment.
+
+**iii) Government Expenditure and Net Exports:**
+
+Government spending and net exports (exports minus imports) also contribute to aggregate demand and influence the level of income and employment in the economy. 
+
+**C) Features of the Aggregate Demand Function**
+
+**i) Upward Sloping Curve:**
+
+The aggregate demand function slopes upward because higher employment leads to higher income, resulting in greater expected sales revenue. However, it does not start from the origin because consumption exists even at low levels of employment. 
+
+**ii) Determines Effective Demand:**
+
+The point where the aggregate demand function intersects the aggregate supply function is called **effective demand**, which determines the equilibrium level of output and employment.
+
+**D) Importance of the Aggregate Demand Function**
+
+**i) Determines Income and Employment:**
+
+According to Keynes, the level of national income and employment depends on aggregate demand. Higher aggregate demand increases production and employment, while lower aggregate demand leads to unemployment.
+
+**ii) Helps in Economic Policy Formulation:**
+
+Governments use fiscal and monetary policies to influence aggregate demand and maintain economic stability, reduce unemployment, and promote growth. 
+
+**Conclusion**
+
+The **Aggregate Demand Function** explains the relationship between **employment and the expected sales proceeds from production**. It highlights that consumption, investment, government expenditure, and net exports determine aggregate demand. According to Keynes, the aggregate demand function is fundamental in determining the equilibrium level of income, output, and employment, making it an essential concept in macroeconomic analysis.
+
+**2. Explain the Keynesian theory of income and employment.**
+
+**Ans.**
+
+**Keynesian Theory of Income and Employment**
+
+The **Keynesian Theory of Income and Employment** was developed by the British economist **John Maynard Keynes** in his famous book *The General Theory of Employment, Interest and Money* (1936). Keynes challenged the classical view that an economy automatically achieves full employment. He argued that the **level of income and employment is determined by effective demand**, which depends on **aggregate demand and aggregate supply**. According to Keynes, if aggregate demand is insufficient, the economy may remain in **underemployment equilibrium**, where resources are not fully utilized and unemployment persists. Therefore, government intervention through fiscal and monetary policies is necessary to increase aggregate demand and achieve higher employment.
+
+**A) Main Features of the Keynesian Theory**
+
+**i) Effective Demand Determines Employment:**
+
+Keynes stated that the level of employment depends on **effective demand**, which is achieved when **aggregate demand equals aggregate supply**. At this point, entrepreneurs expect maximum profits and determine the level of production and employment.
+
+**ii) Importance of Aggregate Demand:**
+
+Aggregate demand consists mainly of **consumption expenditure and investment expenditure**. An increase in aggregate demand leads to higher production, income, and employment, while a decrease results in unemployment.
+
+**B) Determinants of Income and Employment**
+
+**i) Consumption Function:**
+
+Consumption depends on the level of disposable income. As income increases, consumption also increases, but by a smaller proportion. This relationship influences aggregate demand and national income. 
+
+**ii) Investment Function:**
+
+Investment depends mainly on the **marginal efficiency of capital** and business expectations rather than only on the rate of interest. Higher investment raises aggregate demand and creates additional employment opportunities.
+
+**C) Underemployment Equilibrium**
+
+**i) Equilibrium below Full Employment:**
+
+Keynes argued that an economy can reach equilibrium even when unemployment exists. This occurs when aggregate demand equals aggregate supply at a level below full employment.
+
+**ii) Deficiency of Aggregate Demand:**
+
+Insufficient aggregate demand results in lower production and employment, causing idle resources and unemployment. 
+
+**D) Role of Government**
+
+**i) Fiscal Policy:**
+
+The government can increase public expenditure or reduce taxes to stimulate aggregate demand during a recession and increase employment. 
+
+**ii) Monetary Policy:**
+
+The central bank can lower interest rates and increase the money supply to encourage investment and consumption, thereby promoting income and employment. 
+
+**Conclusion**
+
+The **Keynesian Theory of Income and Employment** emphasizes that **effective demand is the key determinant of national income and employment**. Unlike the classical economists, Keynes believed that full employment is not automatic and that economies may experience underemployment equilibrium due to inadequate aggregate demand. The theory highlights the importance of government intervention through fiscal and monetary policies to achieve higher employment, stable income, and sustainable economic growth.
+
+**3. What is the multiplier effect?**
+
+**Ans.**
+
+**Multiplier Effect**
+
+The **multiplier effect** is an important concept in **Keynesian economics** which explains how an initial increase in **investment or autonomous expenditure** leads to a **more than proportionate increase in national income and employment**. The concept was developed by **R. F. Kahn** and was later popularized by **John Maynard Keynes**. According to Keynes, when investment increases, it creates additional income for workers and producers. A part of this additional income is spent on consumption, which becomes income for others. This process continues repeatedly, resulting in a multiplied increase in national income. The size of the multiplier depends on the **marginal propensity to consume (MPC)**.
+
+**A) Meaning of the Multiplier Effect**
+
+**i) Increase in National Income:**
+
+The multiplier effect refers to the process by which an increase in investment causes a larger increase in national income and output than the initial investment itself. 
+
+**ii) Chain Reaction of Spending:**
+
+The initial investment generates income, which is partly spent on consumption. This consumption creates further income and employment, leading to repeated rounds of spending in the economy.
+
+**B) Working of the Multiplier**
+
+**i) Initial Investment:**
+
+When firms or the government increase investment, additional employment and income are generated for workers and producers. 
+
+**ii) Successive Rounds of Consumption:**
+
+People spend a portion of their additional income on goods and services. This expenditure becomes income for others, who also spend part of it. The process continues until the total increase in income becomes several times the original investment.
+
+**C) Determinants of the Multiplier**
+
+**i) Marginal Propensity to Consume (MPC):**
+
+The size of the multiplier depends mainly on the marginal propensity to consume. A higher MPC results in a larger multiplier because people spend a greater proportion of additional income.
+
+**ii) Level of Investment:**
+
+An increase in autonomous investment raises aggregate demand and produces a multiplied increase in national income and employment. 
+
+**D) Importance of the Multiplier Effect**
+
+**i) Increases Employment:**
+
+The multiplier effect creates additional employment opportunities by increasing production and business activity.
+
+**ii) Promotes Economic Growth:**
+
+It helps governments stimulate economic growth during periods of recession by increasing public investment and encouraging private investment.
+
+**Conclusion**
+
+The **multiplier effect** explains how an increase in investment leads to a **more than proportionate increase in national income, output, and employment**. It highlights the importance of consumption and investment in economic growth. According to Keynes, the multiplier is a powerful tool for overcoming unemployment and recession, making it one of the most significant concepts in modern macroeconomics.
+
+**4. Explain paradox of thrift.**
+
+**Ans.**
+
+**Paradox of Thrift**
+
+The **Paradox of Thrift** is an important concept in **Keynesian economics**, introduced by **John Maynard Keynes**. It explains that while **saving is beneficial for an individual, excessive saving by everyone in the economy can have harmful effects on the economy as a whole**. During periods of economic recession, people tend to save more and reduce their consumption. Although this behaviour may seem sensible for individuals, it reduces **aggregate demand**, leading to lower production, income, and employment. As a result, the total amount of savings in the economy may not increase and may even decline because national income falls. Thus, what is beneficial for an individual may become harmful for society as a whole.
+
+**A) Meaning of the Paradox of Thrift**
+
+**i) Individual Saving versus National Saving:**
+
+The paradox of thrift states that while an individual can improve financial security by saving more, if everyone saves more at the same time, total national income decreases, reducing overall savings in the economy. 
+
+**ii) Reduction in Aggregate Demand:**
+
+Higher savings lead to lower consumption expenditure, which reduces aggregate demand for goods and services. This discourages firms from producing more goods and employing more workers.
+
+**B) Working of the Paradox of Thrift**
+
+**i) Decline in Consumption:**
+
+When households increase their savings, they spend less on consumption. This reduces the demand for goods and services in the market. 
+
+**ii) Fall in Income and Employment:**
+
+As demand declines, firms reduce production and employment. Lower employment leads to lower incomes, causing further reductions in consumption and economic activity.
+
+**C) Effects of the Paradox of Thrift**
+
+**i) Economic Recession:**
+
+Excessive saving during a recession can worsen the economic slowdown by reducing aggregate demand, production, and investment.
+
+**ii) Lower National Income:**
+
+A fall in production and employment reduces national income, and consequently, the total savings of the economy may not increase despite individuals attempting to save more. 
+
+**D) Role of Government**
+
+**i) Increase Public Expenditure:**
+
+According to Keynes, the government should increase public spending during a recession to compensate for reduced private consumption and stimulate aggregate demand.
+
+**ii) Encourage Investment:**
+
+The government can also promote private investment through suitable fiscal and monetary policies to restore income, employment, and economic growth.
+
+**Conclusion**
+
+The **Paradox of Thrift** highlights that **excessive saving by individuals can reduce national income, employment, and overall economic growth**. According to Keynes, while saving is desirable for individuals, widespread increases in saving during an economic downturn reduce aggregate demand and worsen unemployment. Therefore, maintaining a proper balance between saving and consumption is essential for achieving economic stability and sustainable growth.
+
+**5. Make a comparison between fiscal and monetary policy.**
+
+**Ans.**
+
+**Comparison between Fiscal Policy and Monetary Policy**
+
+**Fiscal policy** and **monetary policy** are two important macroeconomic tools used by the government to achieve economic stability, control inflation, reduce unemployment, and promote economic growth. **Fiscal policy** is implemented by the **government through taxation and public expenditure**, whereas **monetary policy** is implemented by the **central bank through the regulation of money supply and credit**. Although both policies aim to stabilize the economy, they differ in their objectives, instruments, and methods of implementation. 
+
+| **Basis of Comparison** | **Fiscal Policy**                                                                                                                | **Monetary Policy**                                                                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Meaning**             | Fiscal policy refers to the government's use of **taxation, public expenditure, and borrowing** to influence economic activity.  | Monetary policy refers to the measures taken by the **central bank** to regulate the **money supply and credit** in the economy.  |
+| **Authority**           | Implemented by the **Government or Ministry of Finance**.                                                                        | Implemented by the **Central Bank** (such as the Reserve Bank of India).                                                          |
+| **Main Instruments**    | Government expenditure, taxation, and public borrowing.                                                                          | Interest rates, open market operations, reserve requirements, and money supply.                                                   |
+| **Main Objective**      | To increase economic growth, reduce unemployment, and control inflation through changes in government spending and taxes.        | To maintain price stability, control inflation, regulate liquidity, and ensure adequate credit availability.                      |
+| **Method of Operation** | Influences **aggregate demand** by changing government expenditure and taxation.                                                 | Influences economic activity by regulating the **availability and cost of money and credit**.                                     |
+| **During Recession**    | Government increases expenditure or reduces taxes to stimulate demand and employment.                                            | Central bank lowers interest rates and increases money supply to encourage borrowing and investment.                              |
+| **During Inflation**    | Government reduces expenditure or increases taxes to reduce excessive demand.                                                    | Central bank raises interest rates and restricts money supply to control inflation.                                               |
+| **Primary Focus**       | Focuses mainly on **government revenue and expenditure**.                                                                        | Focuses mainly on **money supply, credit, and interest rates**.                                                                   |
+
+**Conclusion**
+
+Fiscal policy and monetary policy are complementary tools used to maintain economic stability. While **fiscal policy** influences the economy through **government expenditure and taxation**, **monetary policy** operates through **money supply, credit, and interest rates**. Together, these policies help control inflation, reduce unemployment, promote investment, and achieve sustainable economic growth.
