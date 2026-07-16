@@ -3248,3 +3248,1211 @@ A Trial Balance is prepared by listing the balances of all ledger accounts under
 **C) Conclusion**
 
 The omitted **Capital Account** has a balance of **₹1,58,750**. After including this amount, the Trial Balance agrees, with both the debit and credit totals amounting to **₹12,91,250**, indicating the arithmetical accuracy of the ledger balances.
+
+### ***July 16, 2026***
+
+### Unit 7 Short Answer (200-250 words)
+
+**1. Explain the term ‘capital receipts’ with the help of examples.**
+
+**Ans.**
+
+**Capital Receipts**
+
+Capital receipts are the receipts that either create a liability or reduce an asset of a business. They are non-recurring in nature and do not arise from the normal operating activities of the business. Unlike revenue receipts, capital receipts do not form part of regular business income and are not considered while calculating the profit or loss for an accounting period. They mainly affect the financial position of the business and are shown in the Balance Sheet. 
+
+**A) Meaning of Capital Receipts**
+
+i) Non-recurring receipts:
+
+Capital receipts occur occasionally and are not received regularly in the normal course of business.
+
+ii) Effect on assets and liabilities:
+
+These receipts either increase liabilities, such as obtaining loans, or reduce assets, such as selling fixed assets.
+
+**B) Features of Capital Receipts**
+
+i) Not earned from business operations:
+
+Capital receipts arise from financing, investment, or restructuring activities rather than daily business activities.
+
+ii) Do not affect operating profit:
+
+They are not credited to the Profit and Loss Account because they do not represent income from normal operations.
+
+iii) Shown in Balance Sheet:
+
+Capital receipts are recorded on the liabilities side or as a reduction in assets in the Balance Sheet.
+
+**C) Examples of Capital Receipts**
+
+i) Capital introduced by the owner:
+
+Money invested by the owner increases the capital of the business.
+
+ii) Loans taken from banks or financial institutions:
+
+Loans create a liability that must be repaid in the future.
+
+iii) Issue of shares or debentures:
+
+Funds raised through shares or debentures are capital receipts.
+
+iv) Sale of fixed assets:
+
+Amounts received from selling land, machinery, or buildings are capital receipts because they reduce the asset base of the business.
+
+**Conclusion**
+
+Capital receipts are important because they influence the financial structure of a business rather than its operating performance. They are generally non-recurring, shown in the Balance Sheet, and include items such as capital introduced, loans, issue of shares, and sale of fixed assets.
+
+**2. A lawsuit is filed against the company; lawyers say chances of losing are possible but not probable. How should it be treated in the books of accounts?**
+
+**Ans.**
+
+**Treatment of Lawsuit as a Contingent Liability**
+
+A lawsuit filed against a company represents a possible obligation that may arise depending on the outcome of a future event. Such an obligation is treated as a **contingent liability** because the company’s responsibility to pay depends on whether the lawsuit results in a loss or not. 
+
+**A) Meaning of Contingent Liability**
+
+i) Possible obligation:
+
+A contingent liability is a potential liability that may occur due to the outcome of an uncertain future event. Examples include lawsuits, product warranties, and pending investigations.
+
+ii) Dependence on future events:
+
+The liability is not certain at the present time because the final outcome of the lawsuit is unknown.
+
+**B) Treatment of the Lawsuit in Books of Accounts**
+
+i) Loss is possible but not probable:
+
+If the lawyers state that the chances of losing the lawsuit are possible but not probable, the amount should **not be recognised as a liability or expense in the books of accounts**.
+
+ii) Disclosure in financial statements:
+
+Since the possibility of loss exists, the lawsuit should be disclosed in the notes to the financial statements rather than being recorded in the accounting records.
+
+iii) No provision created:
+
+A provision or liability is created only when the loss is probable and the amount can be reasonably estimated. Since the loss is only possible and not probable, no provision is required.
+
+**Conclusion**
+
+A lawsuit where the chances of losing are possible but not probable is treated as a **contingent liability**. It is not recorded in the books of accounts but should be disclosed in the notes to the financial statements to provide transparency regarding potential obligations.
+
+**3. Legal costs associated with raising additional capital through the issuance of shares and
+debentures. Will this be capital or revenue expenditure?**
+
+**Ans.**
+
+**Legal Costs Associated with Raising Additional Capital Through Issue of Shares and Debentures**
+
+Legal costs incurred for raising additional capital through the issue of shares and debentures are treated as **capital expenditure**. Capital expenditure refers to expenditure incurred for acquiring long-term assets or improving the financial structure of a business, where the benefits extend over more than one accounting period. 
+
+**A) Meaning and Classification**
+
+i) Capital expenditure:
+
+Capital expenditure is an expenditure that provides long-term benefits to the business. It is generally non-recurring and is related to the acquisition, improvement, or expansion of long-term resources.
+
+ii) Relation with capital raising:
+
+Legal expenses incurred for issuing shares or debentures are directly connected with raising long-term funds for the business. Since these funds are used for the long-term financial requirements of the business, the related legal costs are considered capital in nature.
+
+**B) Accounting Treatment**
+
+i) Not charged to Profit and Loss Account:
+
+These legal costs are not treated as routine operating expenses. Therefore, they are not directly charged to the Profit and Loss Account of the current period.
+
+ii) Shown as capital expenditure:
+
+Such expenses are capitalised and treated as part of the cost associated with raising capital. They may be written off over a period according to applicable accounting practices.
+
+**C) Reason for Treatment**
+
+i) Long-term benefit:
+
+The benefit obtained from raising additional capital continues for several accounting periods.
+
+ii) Non-recurring nature:
+
+The issue of shares or debentures is not a regular operating activity, making the related legal costs different from revenue expenses.
+
+**Conclusion**
+
+Legal costs associated with raising additional capital through the issue of shares and debentures are classified as **capital expenditure** because they are incurred for obtaining long-term funds and provide benefits beyond the current accounting period.
+
+**4. What is revenue receipt? How does it affect profit?**
+
+**Ans.**
+
+**Revenue Receipt**
+
+Revenue receipts are the incomes received by a business from its regular and recurring operating activities. They arise from the normal course of business and help the business meet its day-to-day operational expenses. Revenue receipts do not create any asset or liability and are recognised as income in the accounting period in which they are earned. 
+
+**A) Meaning of Revenue Receipt**
+
+i) Income from regular operations:
+
+Revenue receipts are generated through the main activities of a business, such as selling goods or providing services.
+
+ii) Recurring in nature:
+
+These receipts are received regularly as part of normal business operations, unlike capital receipts which are generally non-recurring.
+
+**B) Features of Revenue Receipts**
+
+i) No creation of assets:
+
+Revenue receipts do not result in the creation of long-term assets. They represent income earned through the use of existing resources or services provided.
+
+ii) Recorded in Profit and Loss Account:
+
+Revenue receipts are credited to the Profit and Loss Account because they contribute to the profit earned during the accounting period.
+
+**C) Effect on Profit**
+
+i) Increase in profit:
+
+Revenue receipts increase the income of the business. When revenue receipts are greater than the expenses incurred during the period, the business earns a profit.
+
+ii) Measurement of business performance:
+
+Revenue receipts help determine the operating performance of the business because they arise from normal business activities.
+
+**Examples of Revenue Receipts**
+
+i) Sales revenue from goods sold.
+
+ii) Service income, commission received, rent received, and interest received.
+
+**Conclusion**
+
+Revenue receipts are regular business incomes that contribute directly to the calculation of profit. They are recorded in the Profit and Loss Account and increase the profit of the business when they exceed the related expenses.
+
+**5. Some sheds costing Rs. 30,000 were built on-site to construct a factory building. They were demolished after the structure was completed. Explain whether the company should capitalise or consider it as revenue expenditure.**
+
+**Ans.**
+
+**Treatment of Cost of Temporary Sheds Built for Factory Construction**
+
+The cost of temporary sheds constructed at the site for building a factory should be treated as **capital expenditure** and should be capitalised as part of the cost of the factory building. Capital expenditure includes expenditure incurred for acquiring or constructing fixed assets and provides benefits over more than one accounting period. 
+
+**A) Nature of Expenditure**
+
+i) Directly related to construction:
+
+The sheds were constructed specifically to assist in the construction of the factory building. Therefore, the expenditure is directly connected with bringing the fixed asset into existence.
+
+ii) Necessary for asset creation:
+
+Although the sheds were demolished after completion of the factory, they were essential for carrying out the construction work effectively. Such expenses form part of the cost incurred to make the factory ready for use.
+
+**B) Accounting Treatment**
+
+i) Capitalisation of expenditure:
+
+The cost of Rs. 30,000 should not be treated as a revenue expense because it does not relate to the day-to-day operations of the business.
+
+ii) Included in the cost of factory building:
+
+The expenditure should be added to the cost of the factory building and shown as a fixed asset in the Balance Sheet.
+
+**C) Reason for Capital Treatment**
+
+i) Long-term benefit:
+
+The expenditure contributes to the creation of a fixed asset that will provide benefits to the business over several years.
+
+ii) Non-recurring nature:
+
+The construction of temporary sheds is a one-time expenditure incurred during the establishment of the factory.
+
+**Conclusion**
+
+The company should **capitalise the Rs. 30,000 spent on temporary sheds** because the expenditure was incurred for constructing the factory building and was necessary for bringing the fixed asset into working condition. It should form part of the factory building cost rather than being charged as revenue expenditure.
+
+### Unit 7 Long Answer (400-500 words)
+
+**1. What is the significance of the contrast between capital and revenue? Give examples of how incorrect classification can affect profit estimation.**
+
+**Ans.**
+
+**Significance of Distinguishing Between Capital and Revenue**
+
+The distinction between capital and revenue items is one of the most important concepts in accounting. It helps a business determine the correct profit or loss for an accounting period and present a true and fair view of its financial position. Capital items are generally non-recurring in nature and are recorded in the Balance Sheet, whereas revenue items are recurring in nature and are recorded in the Income Statement or Profit and Loss Account. 
+
+**A) Significance of Distinguishing Between Capital and Revenue**
+
+i) Accurate measurement of business income:
+
+The main objective of distinguishing capital and revenue items is to calculate the true and fair profit of a business. Only revenue incomes and revenue expenses related to the accounting period should be included in the Profit and Loss Account. Capital items should not affect the operating profit of the period.
+
+ii) Correct presentation of financial position:
+
+Capital items such as fixed assets, capital introduced, and long-term liabilities are shown in the Balance Sheet. Proper classification ensures that the financial position of the business is accurately presented.
+
+iii) Proper calculation of depreciation:
+
+The distinction helps identify fixed assets on which depreciation should be charged. Capital expenditure incurred for acquiring assets is capitalised, and depreciation is allocated over the useful life of the asset.
+
+iv) Helps in taxation and investment decisions:
+
+Correct classification is necessary for calculating taxable income accurately. It also helps investors and management evaluate business performance and future investment opportunities.
+
+**B) Effect of Incorrect Classification on Profit Estimation**
+
+i) Capital expenditure treated as revenue expenditure:
+
+If the purchase of machinery costing ₹5,00,000 is incorrectly treated as a revenue expense, the entire amount will be charged to the Profit and Loss Account in the current year. This will increase expenses and reduce the profit of that year. However, the machinery would provide benefits for several years, so only depreciation should have been charged annually.
+
+ii) Revenue expenditure treated as capital expenditure:
+
+If routine repairs and maintenance expenses are wrongly treated as capital expenditure, they will not be charged fully to the Profit and Loss Account. This will reduce current expenses and result in an overstatement of profit.
+
+iii) Capital receipt treated as revenue income:
+
+If a loan received from a bank is wrongly treated as revenue income, the profit of the business will be overstated because the receipt does not arise from normal business operations.
+
+iv) Revenue receipt treated as capital receipt:
+
+If sales revenue is wrongly treated as a capital receipt, the operating income and profit of the business will be understated.
+
+**Conclusion**
+
+The distinction between capital and revenue is essential for maintaining accurate accounting records and preparing reliable financial statements. Incorrect classification can lead to wrong calculation of profit, improper tax assessment, and misleading information about the financial position of the business. Therefore, proper identification of capital and revenue items ensures a true and fair representation of business performance. 
+
+**2. What criteria would you use to decide if a certain expenditure is capital or revenue? Give five examples from each category.**
+
+**Ans.**
+
+The classification of expenditure into capital and revenue is important in accounting because it helps determine the correct profit of a business and ensures proper presentation of financial statements. Capital expenditure is related to the acquisition or improvement of long-term assets and provides benefits for several accounting periods. Revenue expenditure is incurred for the normal operations of a business and provides benefits only for the current accounting period. 
+
+**A) Criteria for Deciding Capital or Revenue Expenditure**
+
+i) Nature and period of benefit:
+
+If an expenditure provides benefits beyond one accounting period, it is treated as capital expenditure. If the benefit is exhausted within the current accounting period, it is considered revenue expenditure.
+
+ii) Creation or improvement of assets:
+
+Expenditure that results in acquiring a new fixed asset or increases the capacity, efficiency, or useful life of an existing asset is classified as capital expenditure.
+
+iii) Purpose of expenditure:
+
+Expenditure incurred to establish, expand, or strengthen the business structure is capital in nature. Expenditure incurred for maintaining daily operations is revenue in nature.
+
+iv) Recurring or non-recurring nature:
+
+Capital expenditure is generally non-recurring and involves large investments, while revenue expenditure occurs regularly as part of business activities.
+
+v) Effect on financial statements:
+
+Capital expenditure is shown as an asset in the Balance Sheet and its cost is allocated over its useful life through depreciation or amortisation. Revenue expenditure is charged directly to the Profit and Loss Account.
+
+**B) Examples of Capital Expenditure**
+
+i) Purchase of land and buildings:
+
+The purchase of land or buildings creates long-term assets that provide benefits for many years.
+
+ii) Purchase of plant and machinery:
+
+Machinery used for production is a fixed asset and its purchase is treated as capital expenditure.
+
+iii) Installation charges of machinery:
+
+Expenses incurred to install and make machinery ready for use form part of the asset cost.
+
+iv) Legal fees and registration charges for acquiring property:
+
+Such expenses are directly related to acquiring fixed assets and are capitalised.
+
+v) Major repairs and modernisation:
+
+Repairs that increase the useful life, capacity, or efficiency of an existing asset are treated as capital expenditure.
+
+**C) Examples of Revenue Expenditure**
+
+i) Wages and salaries:
+
+These are regular operating expenses incurred for running business activities.
+
+ii) Rent and electricity expenses:
+
+These expenses are required for the daily functioning of the business.
+
+iii) Printing and stationery:
+
+These expenses are consumed during the current accounting period.
+
+iv) Routine repairs and maintenance:
+
+Repairs that only maintain the existing condition of assets are treated as revenue expenditure.
+
+v) Insurance expenses:
+
+Insurance paid for protecting business operations is a recurring operating expense.
+
+**Conclusion**
+
+The decision to classify an expenditure as capital or revenue depends on factors such as the period of benefit, purpose, effect on assets, and nature of expenditure. Correct classification ensures accurate profit measurement, proper calculation of depreciation, and a true and fair presentation of the financial position of the business. 
+
+**3. What are contingent liabilities? Explain their types, conditions for recognition, and disclosure requirements with examples.**
+
+**Ans.**
+
+**Contingent Liabilities**
+
+A contingent liability is a potential obligation that may arise as a result of an uncertain future event. It is not a present liability because the obligation depends on the outcome of a future event that is not completely under the control of the business. Contingent liabilities are important in accounting because they provide information about possible future obligations that may affect the financial position of a business. 
+
+**A) Meaning of Contingent Liability**
+
+i) Potential obligation:
+
+A contingent liability represents a possible obligation that may become an actual liability depending on the occurrence or non-occurrence of a future event.
+
+ii) Dependence on future events:
+
+The liability is uncertain because the business does not know whether the obligation will actually arise. The final outcome determines whether payment will be required.
+
+**B) Types of Contingent Liabilities**
+
+i) Lawsuits and legal claims:
+
+A company involved in a legal case may have to pay damages if the judgment goes against it. Until the case is decided, the obligation remains contingent.
+
+ii) Product warranties:
+
+Businesses that provide warranties on their products may have a possible obligation to repair or replace defective products in the future.
+
+iii) Bank guarantees:
+
+When a company provides a guarantee for another party’s loan or obligation, it may become liable if the other party fails to fulfil its responsibility.
+
+iv) Pending investigations or disputes:
+
+Obligations arising from ongoing investigations, tax disputes, or other cases may become contingent liabilities depending on future results.
+
+**C) Conditions for Recognition of Contingent Liabilities**
+
+i) Probable loss and reliable estimation:
+
+A contingent liability is recognised in the financial statements when the loss is probable and the amount can be reasonably estimated. In such cases, it is recorded as an expense or loss in the Income Statement and as a liability in the Balance Sheet.
+
+ii) Possible but not probable loss:
+
+If the possibility of loss exists but is not probable, the liability is not recorded in the books. Instead, it is disclosed in the notes to the financial statements.
+
+iii) Remote possibility:
+
+When the chance of occurrence of the obligation is very low, no accounting entry or disclosure is required.
+
+**D) Disclosure Requirements**
+
+i) Disclosure in financial statement notes:
+
+Contingent liabilities that are possible but not probable should be disclosed in the notes to financial statements to inform users about potential obligations.
+
+ii) Clear description of obligation:
+
+The nature of the contingent liability and possible impact should be explained so that users can understand the uncertainty involved.
+
+iii) Regular review:
+
+Contingent liabilities should be monitored continuously because their treatment may change if future events make the obligation certain.
+
+**E) Examples of Contingent Liabilities**
+
+i) A company facing a lawsuit where the final judgment is pending.
+
+ii) A business providing product warranties to customers.
+
+iii) A bank guarantee given by a company for another party.
+
+iv) Pending income tax disputes or investigations.
+
+**Conclusion**
+
+Contingent liabilities are uncertain future obligations that depend on future events. They are not always recognised in the accounting records because their occurrence and amount may not be certain. Proper recognition and disclosure of contingent liabilities ensure transparency and help users of financial statements understand possible risks affecting the business.
+
+**4. Define contingent assets. Why are they generally not recognised in financial statements? Give suitable examples.**
+
+**Ans.**
+
+**Contingent Assets**
+
+A contingent asset is a possible economic benefit that depends on the occurrence or non-occurrence of an uncertain future event. The event is generally outside the control of the business, and the existence of the asset can only be confirmed when the future event takes place. Since there is uncertainty regarding whether the benefit will actually arise and what its exact value will be, contingent assets are generally not recognised in the financial statements. 
+
+**A) Meaning of Contingent Assets**
+
+i) Possible future economic benefit:
+
+A contingent asset represents a potential inflow of economic benefits that may arise in the future. However, it does not represent a present asset because the business does not have complete certainty over receiving the benefit.
+
+ii) Dependence on uncertain events:
+
+The existence of a contingent asset depends on future events that are beyond the complete control of the business. Until the uncertainty is resolved, the asset cannot be treated as an actual asset.
+
+**B) Reasons Why Contingent Assets Are Not Recognised**
+
+i) Uncertainty of occurrence:
+
+The main reason for non-recognition is that the expected benefit may not actually arise. Recognising such assets before certainty may result in showing assets and profits that may never be realised.
+
+ii) Principle of conservatism:
+
+According to the conservatism principle, accounting should avoid recognising uncertain future gains. While possible future losses are considered carefully, uncertain future incomes are not recorded until they become certain.
+
+iii) Difficulty in measurement:
+
+The exact amount or value of a contingent asset may not be reliably determined. Without reliable measurement, it is inappropriate to include such assets in financial statements.
+
+**C) Disclosure of Contingent Assets**
+
+i) Not recorded in financial statements:
+
+Contingent assets are not shown as assets in the Balance Sheet because they do not meet the criteria of a confirmed asset.
+
+ii) Disclosure when inflow becomes probable:
+
+A contingent asset may be mentioned in reports or notes when the economic benefit is probable and its value can be accurately determined.
+
+iii) Recognition after certainty:
+
+Only when it becomes certain that the economic benefit will arise can the asset be recognised in the financial statements.
+
+**D) Examples of Contingent Assets**
+
+i) Legal claims:
+
+If a company files a lawsuit against another party and expects to receive compensation, the possible compensation is a contingent asset until the case outcome is certain.
+
+ii) Insurance claims:
+
+A business may expect compensation from an insurance company for a loss or damage. However, the claim remains contingent until approval and settlement become certain.
+
+iii) Disputed tax refunds:
+
+A company may have a possible claim for a tax refund under dispute. The expected refund is treated as a contingent asset until the outcome is confirmed.
+
+**Conclusion**
+
+Contingent assets are potential economic benefits dependent on uncertain future events. They are generally not recognised in financial statements because their existence and value are uncertain. The principle of conservatism prevents businesses from recording uncertain gains prematurely. However, once the realisation of the benefit becomes certain, the asset can be recognised in the financial statements to present a true and fair view of the business position. 
+
+**5. Explain the classification and treatment of purchase of intangible assets like accounting software or patent or copyright.**
+
+**Ans.**
+
+Intangible assets are non-physical assets that provide economic benefits to a business over a period of time. Examples of intangible assets include accounting software, patents, copyrights, trademarks, and other intellectual property rights. The purchase of such assets is classified as **capital expenditure** because it results in the acquisition of long-term assets whose benefits extend beyond the current accounting period. 
+
+**A) Classification of Intangible Assets as Capital Expenditure**
+
+i) Accounting software:
+
+Accounting software purchased for business operations is treated as a capital asset when it is acquired for long-term use. It helps the business maintain accounting records, process transactions, and improve operational efficiency over several years.
+
+ii) Patent:
+
+A patent provides exclusive legal rights to use, manufacture, or sell an invention for a specific period. Since the patent provides future economic benefits and helps generate revenue, its purchase cost is classified as capital expenditure.
+
+iii) Copyright:
+
+A copyright provides legal ownership and protection over intellectual creations such as books, designs, software, or other works. The cost incurred to acquire a copyright is treated as capital expenditure because it provides benefits for future periods.
+
+**B) Accounting Treatment of Intangible Assets**
+
+i) Capitalisation of purchase cost:
+
+The cost incurred for purchasing intangible assets is not treated as a revenue expense. Instead, it is capitalised and recorded as an asset in the Balance Sheet.
+
+ii) Shown under non-current assets:
+
+Since intangible assets provide benefits for more than one accounting period, they are shown under non-current assets in the Balance Sheet.
+
+iii) Amortisation of cost:
+
+Unlike physical fixed assets that are depreciated, intangible assets are generally amortised over their useful life. A portion of the asset’s cost is charged to the Profit and Loss Account each year.
+
+iv) Expenses related to acquisition:
+
+Additional costs directly connected with acquiring the intangible asset, such as legal charges, registration fees, or installation costs, are also included in the cost of the asset if they are necessary to bring the asset into use.
+
+**C) Importance of Correct Classification**
+
+i) Accurate profit measurement:
+
+If the purchase of an intangible asset is wrongly treated as revenue expenditure, the entire cost will be charged to the current year’s Profit and Loss Account, reducing profit incorrectly.
+
+ii) Correct financial position:
+
+Capitalising intangible assets ensures that the Balance Sheet shows the actual resources owned by the business and provides a true and fair view of its financial position.
+
+iii) Proper allocation of expense:
+
+Through amortisation, the cost of the asset is matched with the revenue generated during the periods in which the asset provides benefits.
+
+**Conclusion**
+
+The purchase of intangible assets such as accounting software, patents, and copyrights is classified as capital expenditure because these assets provide long-term benefits to the business. Their cost is capitalised and shown as assets in the Balance Sheet, while the expense is gradually recognised through amortisation over their useful life. Correct treatment ensures accurate profit calculation and proper presentation of financial statements.
+
+### Unit 8 Short Answer (200-250 words)
+
+**1. A company purchased machinery on 1st April 2021 for ₹5,00,000. Installation charges amounted to ₹50,000 on the same date. The useful life of the machine is 5 years, and its estimated scrap value is ₹30,000. You are required to:**
+
+* a) Calculate the annual depreciation using the SLM method.
+* b) Prepare the Machinery Account for the first two years.
+
+**Ans.**
+
+**Calculation of Depreciation and Machinery Account under Straight Line Method (SLM)**
+
+**A) Calculation of Annual Depreciation**
+
+Under the Straight Line Method, depreciation is calculated using the formula:
+
+**Annual Depreciation = (Cost of Asset – Estimated Scrap Value) ÷ Useful Life**
+
+**Cost of Machinery:**
+
+Purchase price = ₹5,00,000
+Add: Installation charges = ₹50,000
+**Total Cost of Machinery = ₹5,50,000**
+
+Scrap Value = ₹30,000
+Useful Life = 5 years
+
+Annual Depreciation = (₹5,50,000 – ₹30,000) ÷ 5
+= ₹5,20,000 ÷ 5
+= **₹1,04,000 per year**
+
+Installation charges are included in the cost of the asset because they are necessary to bring the machinery into usable condition. 
+
+**B) Machinery Account**
+
+| Date       | Particulars    |   Amount (₹) | Date       | Particulars     |   Amount (₹) |
+| ---------- | -------------- | -----------: | ---------- | --------------- | -----------: |
+| 01-04-2021 | To Bank        |     5,50,000 | 31-03-2022 | By Depreciation |     1,04,000 |
+|            |                |              | 31-03-2022 | By Balance c/d  |     4,46,000 |
+|            | **Total**      | **5,50,000** |            | **Total**       | **5,50,000** |
+| 01-04-2022 | To Balance b/d |     4,46,000 | 31-03-2023 | By Depreciation |     1,04,000 |
+|            |                |              | 31-03-2023 | By Balance c/d  |     3,42,000 |
+|            | **Total**      | **4,46,000** |            | **Total**       | **4,46,000** |
+
+**Conclusion**
+
+The annual depreciation on the machinery is **₹1,04,000** under the Straight Line Method. After charging depreciation for two years, the book value of the machinery reduces from ₹5,50,000 to **₹3,42,000**. The SLM method charges an equal amount of depreciation every year over the useful life of the asset. 
+
+**2. What is accumulated depreciation? Explain its purpose.**
+
+**Ans.**
+
+**Accumulated Depreciation**
+
+Accumulated depreciation refers to the total amount of depreciation charged on a fixed asset from the date of its acquisition up to a particular accounting date. It represents the cumulative reduction in the value of an asset due to factors such as wear and tear, passage of time, usage, and obsolescence. It is maintained through a **Provision for Depreciation Account**, which records the total depreciation accumulated on an asset over its useful life. 
+
+**A) Meaning of Accumulated Depreciation**
+
+i) Total depreciation charged:
+
+Accumulated depreciation is the sum of all annual depreciation expenses recorded on an asset since it was purchased.
+
+ii) Contra-asset account:
+
+It is treated as a contra-asset account because it reduces the original cost of the asset while the asset continues to be shown at its historical cost in the Balance Sheet.
+
+**B) Purpose of Accumulated Depreciation**
+
+i) To show realistic asset value:
+
+Accumulated depreciation helps present fixed assets at their written down value rather than their original cost, giving a more accurate picture of the financial position of the business.
+
+ii) To maintain proper records:
+
+It provides information about the total depreciation charged on an asset over time and helps in analysing asset usage.
+
+iii) To facilitate disposal of assets:
+
+When an asset is sold, the accumulated depreciation is adjusted against the asset’s cost to calculate the profit or loss on disposal.
+
+iv) To ensure transparency:
+
+Maintaining accumulated depreciation separately allows users of financial statements to understand both the original cost of assets and the depreciation charged.
+
+**Conclusion**
+
+Accumulated depreciation is the total depreciation recorded on a fixed asset over its useful life. It helps in accurate asset valuation, proper financial reporting, and better control over fixed assets.
+
+**3. Elaborate on the concept of useful life and residual value while computing depreciation.**
+
+**Ans.**
+
+**Useful Life and Residual Value in Computation of Depreciation**
+
+While computing depreciation, the **useful life** and **residual value** of an asset are two important factors that determine the amount of depreciation to be charged every year. Depreciation is calculated by allocating the depreciable amount of a fixed asset over its useful life. 
+
+**A) Useful Life**
+
+i) Meaning:
+
+Useful life refers to the estimated period for which an asset is expected to be used by the business and generate economic benefits. It represents the number of years over which the cost of the asset is allocated through depreciation.
+
+ii) Factors affecting useful life:
+
+The useful life of an asset depends on physical wear and tear, expected usage, technological changes, obsolescence, and legal or contractual limitations.
+
+iii) Importance in depreciation:
+
+A longer useful life results in a lower annual depreciation charge, while a shorter useful life results in a higher annual depreciation charge. Accurate estimation of useful life helps in proper measurement of profit.
+
+**B) Residual Value**
+
+i) Meaning:
+
+Residual value, also called scrap value, is the estimated amount that an asset is expected to fetch at the end of its useful life when it is discarded or sold.
+
+ii) Importance in depreciation:
+
+Residual value is deducted from the cost of the asset to determine the depreciable amount.
+
+**Formula:**
+
+**Depreciable Amount = Cost of Asset – Residual Value**
+
+**Example:**
+
+If machinery costs ₹5,00,000, has a residual value of ₹50,000, and a useful life of 5 years:
+
+Depreciable Amount = ₹5,00,000 – ₹50,000 = ₹4,50,000
+
+Annual depreciation under SLM = ₹4,50,000 ÷ 5 = ₹90,000
+
+**Conclusion**
+
+Useful life determines the period over which depreciation is charged, while residual value determines the portion of asset cost that remains unrecovered. Both factors are essential for accurate depreciation calculation and proper presentation of financial statements.
+
+**4. Describe the Straight-Line Method and Written Down Value Method of depreciation. Compare their merits, demerits, and suitability.**
+
+**Ans.**
+
+**Straight-Line Method and Written Down Value Method of Depreciation**
+
+Depreciation methods are used to allocate the cost of fixed assets over their useful life. The two commonly used methods are the **Straight-Line Method (SLM)** and the **Written Down Value Method (WDV)**. 
+
+**A) Straight-Line Method (SLM)**
+
+i) Meaning:
+
+Under the Straight-Line Method, a fixed and equal amount of depreciation is charged every year on the original cost of the asset.
+
+ii) Formula:
+
+**Annual Depreciation = (Cost of Asset – Residual Value) ÷ Useful Life**
+
+iii) Merits:
+
+* It is simple to understand and easy to calculate.
+* The same amount of depreciation is charged every year.
+* The book value of the asset becomes zero or equal to its scrap value at the end of its useful life.
+
+iv) Demerits:
+
+* The method ignores the increase in repair and maintenance costs as the asset becomes older.
+* Total expenses become higher in later years due to increasing repairs.
+
+v) Suitability:
+
+It is suitable for assets where usage is consistent and repair expenses are low, such as buildings and furniture. 
+
+**B) Written Down Value Method (WDV)**
+
+i) Meaning:
+
+Under the Written Down Value Method, depreciation is charged at a fixed percentage on the reducing book value of the asset each year.
+
+ii) Merits:
+
+* Depreciation amount decreases year after year as the asset value reduces.
+* The total burden of depreciation and repairs remains relatively uniform over the years.
+* It is suitable for assets that require increasing repairs with age.
+
+iii) Demerits:
+
+* It is more difficult to calculate compared to SLM.
+* The asset value may take a long time to reduce to its residual value.
+
+iv) Suitability:
+
+WDV is suitable for plant, machinery, and assets that face higher chances of obsolescence and increasing repair costs. 
+
+**Comparison**
+
+| Basis                | SLM                 | WDV                         |
+| -------------------- | ------------------- | --------------------------- |
+| Basis of calculation | Original cost       | Written down value          |
+| Depreciation amount  | Constant every year | Decreases every year        |
+| Calculation          | Simple              | Comparatively difficult     |
+| Suitable for         | Stable-use assets   | Assets losing value quickly |
+
+**Conclusion**
+
+SLM provides equal depreciation throughout the asset’s life, while WDV charges higher depreciation in the earlier years and lower depreciation later. The choice of method depends on the nature, usage, and expected reduction in value of the asset.
+
+**5. Discuss the need for providing depreciation.**
+
+**Ans.**
+
+**Need for Providing Depreciation**
+
+Depreciation is the systematic allocation of the cost of a tangible fixed asset over its useful life. Fixed assets such as machinery, buildings, furniture, and vehicles gradually lose their value due to wear and tear, passage of time, usage, and obsolescence. Providing depreciation is necessary to ensure accurate accounting and proper presentation of financial statements. 
+
+**A) Reasons for Providing Depreciation**
+
+i) To ascertain true and fair profit:
+
+Fixed assets are used over several accounting periods to generate revenue. Depreciation spreads the cost of the asset over its useful life and ensures that the cost is matched with the revenue earned during each period. This helps in calculating the correct profit.
+
+ii) To show assets at realistic values:
+
+Without depreciation, fixed assets would continue to appear at their original cost in the Balance Sheet even after their value has reduced. Depreciation reduces the book value of assets systematically and shows their realistic value.
+
+iii) To account for wear and tear and obsolescence:
+
+Assets lose their service potential due to physical deterioration, technological changes, and changing business requirements. Depreciation recognises this reduction in value as an expense.
+
+iv) To facilitate replacement of assets:
+
+Although depreciation does not create cash directly, charging depreciation helps retain profits within the business. These retained profits assist in replacing assets when they become unusable.
+
+v) To comply with accounting standards:
+
+Accounting standards and legal requirements require businesses to provide depreciation on fixed assets to ensure reliable financial reporting.
+
+**Conclusion**
+
+Providing depreciation is essential for correct profit measurement, realistic asset valuation, compliance with accounting standards, and maintaining the financial discipline of a business. It ensures that the cost of assets is properly allocated over the periods benefiting from their use.
+
+### Unit 8 Long Answer (400-500 words)
+
+**1. Describe the Straight-Line Method and Written Down Value Method of depreciation.
+Compare their merits, demerits, and suitability.**
+
+**Ans.**
+
+**Straight-Line Method and Written Down Value Method of Depreciation**
+
+Depreciation is the process of systematically allocating the cost of a fixed asset over its useful life. It helps in matching the cost of an asset with the revenue generated from its use. Two commonly used methods of calculating depreciation are the **Straight-Line Method (SLM)** and the **Written Down Value Method (WDV)**. 
+
+## **A) Straight-Line Method (SLM)**
+
+i) **Meaning:**
+
+Under the Straight-Line Method, an equal amount of depreciation is charged on an asset every year throughout its useful life. The depreciation amount remains constant because it is calculated on the original cost of the asset.
+
+ii) **Formula:**
+
+**Annual Depreciation = (Cost of Asset – Residual Value) ÷ Useful Life**
+
+iii) **Merits of SLM:**
+
+* It is simple to understand and easy to calculate.
+* It provides a uniform depreciation charge every year.
+* It is suitable for assets that provide equal benefits throughout their useful life.
+* The asset value can be reduced to its estimated scrap value at the end of its useful life.
+
+iv) **Demerits of SLM:**
+
+* It does not consider that repair and maintenance expenses usually increase as the asset becomes older.
+* It may not reflect the actual decrease in the efficiency or value of certain assets.
+* It is less suitable for assets that become outdated quickly.
+
+v) **Suitability:**
+
+The Straight-Line Method is suitable for assets such as buildings, furniture, and office equipment where usage remains relatively constant over time.
+
+---
+
+## **B) Written Down Value Method (WDV)**
+
+i) **Meaning:**
+
+Under the Written Down Value Method, depreciation is charged at a fixed percentage on the reducing balance of the asset. Each year, depreciation is calculated on the book value after deducting previous depreciation.
+
+ii) **Merits of WDV:**
+
+* It charges higher depreciation in the initial years when the asset is more efficient.
+* The depreciation amount decreases as the asset becomes older.
+* It provides a more realistic value of assets that lose value quickly.
+* The combined effect of depreciation and increasing repair costs remains more balanced.
+
+iii) **Demerits of WDV:**
+
+* The calculation is more complicated compared to SLM.
+* The asset value may never become exactly zero because depreciation is charged on the reduced value.
+* It requires a fixed depreciation rate to be determined.
+
+iv) **Suitability:**
+
+WDV is suitable for machinery, vehicles, and technological assets where there is a rapid reduction in value due to usage and obsolescence.
+
+---
+
+## **C) Comparison Between SLM and WDV**
+
+| Basis                  | Straight-Line Method     | Written Down Value Method     |
+| ---------------------- | ------------------------ | ----------------------------- |
+| Basis of calculation   | Original cost of asset   | Reduced book value of asset   |
+| Amount of depreciation | Equal every year         | Decreases every year          |
+| Calculation            | Simple                   | Comparatively complex         |
+| Effect on profit       | Equal expense every year | Higher expense in early years |
+| Suitable for           | Assets with stable usage | Assets losing value quickly   |
+
+**Conclusion**
+
+Both methods are widely used for calculating depreciation. The Straight-Line Method is preferred when the asset provides equal benefits throughout its life, while the Written Down Value Method is more suitable for assets whose value decreases rapidly in the early years. The selection of the method depends on the nature, usage, and expected pattern of asset consumption.
+
+**2. Explain the concept of depreciation and discuss its objectives, causes, and accounting treatment in financial statements.**
+
+**Ans.**
+
+**Concept of Depreciation, Its Objectives, Causes, and Accounting Treatment**
+
+Depreciation is the systematic allocation of the cost of a fixed asset over its useful life. Fixed assets such as machinery, buildings, furniture, and vehicles are used by a business for several accounting periods and gradually lose their value due to usage, time, and other factors. Depreciation represents the portion of the asset’s cost that is charged as an expense during each accounting period in which the asset provides benefits. 
+
+**A) Concept of Depreciation**
+
+i) Meaning:
+
+Depreciation refers to the decrease in the value of a fixed asset due to continuous use, passage of time, wear and tear, or technological changes.
+
+ii) Allocation of cost:
+
+Depreciation does not mean a fall in market value only; it is an accounting process that allocates the depreciable amount of an asset over its estimated useful life.
+
+iii) Matching principle:
+
+Depreciation follows the matching concept by charging the cost of an asset against the revenue generated from its use during the same accounting periods.
+
+**B) Objectives of Providing Depreciation**
+
+i) To determine accurate profit:
+
+Depreciation is treated as an expense and deducted from revenue to calculate the correct profit of the business.
+
+ii) To show assets at realistic value:
+
+Charging depreciation reduces the book value of assets and ensures that the Balance Sheet reflects their current carrying value.
+
+iii) To provide for replacement of assets:
+
+Although depreciation does not create cash, it helps retain profits within the business, supporting future replacement of assets.
+
+iv) To comply with accounting requirements:
+
+Providing depreciation ensures that financial statements are prepared according to accepted accounting principles.
+
+**C) Causes of Depreciation**
+
+i) Wear and tear:
+
+Continuous use of assets in business operations causes physical deterioration and reduces their efficiency.
+
+ii) Passage of time:
+
+Certain assets lose value even when they are not actively used due to ageing.
+
+iii) Obsolescence:
+
+Technological developments may make existing assets outdated and less useful.
+
+iv) Depletion:
+
+Natural resources such as mines and oil wells reduce in quantity through extraction.
+
+v) Accidents and damage:
+
+Unexpected events may reduce the useful life and value of assets.
+
+**D) Accounting Treatment of Depreciation**
+
+i) Charging depreciation to Profit and Loss Account:
+
+Depreciation is recorded as an expense and debited to the Profit and Loss Account, reducing the profit of the business.
+
+ii) Reducing asset value:
+
+The accumulated depreciation is deducted from the original cost of the asset to show its written down value in the Balance Sheet.
+
+iii) Maintaining Provision for Depreciation Account:
+
+Businesses may maintain a separate accumulated depreciation account to record total depreciation charged over the years.
+
+**Conclusion**
+
+Depreciation is an essential accounting process that ensures proper allocation of asset costs, accurate profit calculation, and realistic presentation of financial position. It recognises the reduction in asset value caused by usage, time, and other factors while helping businesses maintain reliable financial records.
+
+**3. On 1st April 2005 a firm purchases machinery worth Rs.50,000. On 10th October, 2007 it purchased additional machinery worth Rs.10,000 and spends Rs.1000 on its installation. The accounts are closed on 31st March every year. Assuming annual depreciation at 10% show the machinery account for 4 years under (1) Straight Line Method and (2) Written Down Value method.**
+
+**Ans.**
+
+**Machinery Account under Straight-Line Method and Written Down Value Method**
+
+Given:
+
+Cost of machinery purchased on 1st April 2005 = ₹50,000
+Additional machinery purchased on 10th October 2007 = ₹10,000
+Installation charges = ₹1,000
+Total cost of additional machinery = ₹11,000
+Depreciation rate = 10% per annum
+Books closed on = 31st March every year
+
+Depreciation is calculated according to the method selected. Under the Straight-Line Method, depreciation is charged on the original cost of the asset, while under the Written Down Value Method, depreciation is charged on the reduced balance of the asset. 
+
+## **A) Machinery Account under Straight-Line Method**
+
+**Depreciation Calculation:**
+
+For machinery purchased on 1st April 2005:
+
+10% of ₹50,000 = ₹5,000 per year
+
+For additional machinery purchased on 10th October 2007:
+
+Cost = ₹11,000
+Annual depreciation = 10% of ₹11,000 = ₹1,100
+
+For 2007–08 (6 months):
+
+₹1,100 × 6/12 = ₹550
+
+| Date       | Particulars    | Amount (₹) | Date       | Particulars     | Amount (₹) |
+| ---------- | -------------- | ---------: | ---------- | --------------- | ---------: |
+| 01-04-2005 | To Bank        |     50,000 | 31-03-2006 | By Depreciation |      5,000 |
+|            |                |            | 31-03-2006 | By Balance c/d  |     45,000 |
+|            | Total          |     50,000 |            | Total           |     50,000 |
+| 01-04-2006 | To Balance b/d |     45,000 | 31-03-2007 | By Depreciation |      5,000 |
+|            |                |            | 31-03-2007 | By Balance c/d  |     40,000 |
+|            | Total          |     45,000 |            | Total           |     45,000 |
+| 01-04-2007 | To Balance b/d |     40,000 | 10-10-2007 | By Bank         |     11,000 |
+|            |                |            | 31-03-2008 | By Depreciation |      5,550 |
+|            |                |            | 31-03-2008 | By Balance c/d  |     45,450 |
+
+Under SLM, total depreciation charged during 2007–08 is ₹5,000 + ₹550 = **₹5,550**.
+
+---
+
+## **B) Machinery Account under Written Down Value Method**
+
+Depreciation is charged at 10% on the opening written down value.
+
+| Year                            | Opening Value (₹) | Depreciation @10% (₹) | Closing Value (₹) |
+| ------------------------------- | ----------------: | --------------------: | ----------------: |
+| 2005–06                         |            50,000 |                 5,000 |            45,000 |
+| 2006–07                         |            45,000 |                 4,500 |            40,500 |
+| 2007–08                         |            40,500 |                 4,050 |            36,450 |
+| Additional Machinery (6 months) |            11,000 |                   550 |            10,450 |
+
+Closing value on 31st March 2008:
+
+₹36,450 + ₹10,450 = **₹46,900**
+
+**Conclusion**
+
+Under the Straight-Line Method, the depreciation remains constant every year because it is calculated on the original cost of the asset. Under the Written Down Value Method, depreciation decreases every year because it is calculated on the reduced book value. The SLM method is suitable for assets providing equal benefits, while WDV is suitable for assets that lose value rapidly.
+
+**4. Explain the concept of depreciation as per Accounting Standard/Ind AS 16. Discuss its
+key principles, recognition, measurement, and disclosure requirements.**
+
+**Ans.**
+
+**Depreciation as per Accounting Standard/Ind AS 16**
+
+Depreciation is the systematic allocation of the depreciable amount of a tangible fixed asset over its useful life. According to **Accounting Standard (AS) 10/Ind AS 16 – Property, Plant and Equipment (PPE)**, depreciation represents the reduction in the value of an asset due to usage, passage of time, wear and tear, or obsolescence. It is not a process of valuation but a method of allocating the cost of an asset over the periods in which it provides economic benefits. 
+
+**A) Key Principles of Depreciation under Ind AS 16**
+
+i) Systematic allocation of cost:
+
+The depreciable amount of an asset, which is the cost of the asset less its residual value, should be allocated systematically over its useful life.
+
+ii) Matching principle:
+
+Depreciation ensures that the cost of using an asset is matched with the revenue generated from that asset during the same accounting periods.
+
+iii) Component approach:
+
+If significant parts of an asset have different useful lives, each component should be depreciated separately.
+
+iv) Review of estimates:
+
+Useful life, residual value, and depreciation methods should be reviewed periodically. Any change in estimates should be accounted for according to applicable accounting standards.
+
+**B) Recognition of Depreciation**
+
+i) Recognition of Property, Plant and Equipment:
+
+An asset is recognised when it is probable that future economic benefits associated with the asset will flow to the business and the cost of the asset can be measured reliably.
+
+ii) Commencement of depreciation:
+
+Depreciation begins when the asset is available for use, meaning when it is in the location and condition necessary for operating as intended.
+
+iii) Depreciation continues:
+
+Depreciation continues until the asset is fully depreciated, disposed of, or classified as held for sale.
+
+**C) Measurement of Depreciation**
+
+i) Depreciable amount:
+
+The depreciable amount is calculated as:
+
+**Depreciable Amount = Cost of Asset – Residual Value**
+
+ii) Depreciation methods:
+
+Businesses may use methods such as:
+
+* **Straight-Line Method:** Equal depreciation is charged every year.
+* **Written Down Value Method:** Depreciation is charged on the reduced book value of the asset.
+
+iii) Factors affecting depreciation:
+
+The amount of depreciation depends on the cost of the asset, estimated useful life, residual value, and selected depreciation method.
+
+**D) Disclosure Requirements**
+
+i) Depreciation methods:
+
+Financial statements should disclose the depreciation methods used for different classes of assets.
+
+ii) Useful life and depreciation rates:
+
+The estimated useful lives or depreciation rates applied to assets should be disclosed.
+
+iii) Carrying amount details:
+
+The financial statements should provide information about the gross carrying amount, accumulated depreciation, and net book value of assets.
+
+iv) Changes in estimates:
+
+Any changes in useful life, residual value, or depreciation methods should be disclosed.
+
+**Conclusion**
+
+Depreciation under Ind AS 16 ensures that the cost of tangible assets is allocated fairly over their useful life. Proper recognition, measurement, and disclosure of depreciation help present accurate profits and a true and fair view of the financial position of the business.
+
+**5. On 1st April 2019, Mumbai Enterprises purchased machinery worth Rs.36,000 and spent Rs 4,000 on its installation. On 1st October 2019, another machinery costing Rs 20,000 was purchased. On 1st October 2021 machinery bought on 1st April, 2019 was sold for Rs 12,000 and new machinery purchased for Rs 64,000 on the same date. Depreciation is provided annually on 31st March @10% per annum on the written down value method. Show the machinery account from the year 2020 to 2022.**
+
+**Ans.**
+
+**Machinery Account of Mumbai Enterprises under Written Down Value Method**
+
+Given:
+
+* Machinery purchased on 1st April 2019 = ₹36,000
+* Installation charges = ₹4,000
+* Total cost of first machinery = ₹40,000
+* Machinery purchased on 1st October 2019 = ₹20,000
+* Machinery sold on 1st October 2021 (purchased on 1st April 2019) = ₹12,000
+* New machinery purchased on 1st October 2021 = ₹64,000
+* Depreciation rate = 10% per annum under Written Down Value Method
+* Depreciation charged on 31st March every year
+
+Under the Written Down Value Method, depreciation is calculated on the book value of the asset at the beginning of each year. 
+
+## **A) Calculation of Depreciation**
+
+**Year 2019–20**
+
+Machinery 1 cost = ₹40,000
+Depreciation = 10% of ₹40,000 = ₹4,000
+
+Book value on 31st March 2020 = ₹36,000
+
+Additional machinery purchased on 1st October 2019:
+
+Depreciation for 6 months = ₹20,000 × 10% × 6/12
+= ₹1,000
+
+Book value = ₹19,000
+
+**Year 2020–21**
+
+Opening value:
+
+Machinery 1 = ₹36,000
+Machinery 2 = ₹19,000
+
+Depreciation:
+
+Machinery 1 = ₹3,600
+Machinery 2 = ₹1,900
+
+Closing value:
+
+₹36,000 + ₹19,000 – ₹5,500 = ₹49,500
+
+**Year 2021–22**
+
+Machinery purchased on 1st April 2019 is sold on 1st October 2021.
+
+Book value on 1st April 2021 = ₹32,400
+
+Depreciation for 6 months:
+
+₹32,400 × 10% × 6/12 = ₹1,620
+
+Value at date of sale:
+
+₹32,400 – ₹1,620 = ₹30,780
+
+Loss on sale:
+
+Book value – Sale price
+= ₹30,780 – ₹12,000
+= ₹18,780 loss
+
+New machinery purchased on 1st October 2021:
+
+Cost = ₹64,000
+
+Depreciation for 6 months:
+
+₹64,000 × 10% × 6/12 = ₹3,200
+
+---
+
+## **B) Machinery Account**
+
+| Date       | Particulars | Amount (₹) | Date       | Particulars     | Amount (₹) |
+| ---------- | ----------- | ---------: | ---------- | --------------- | ---------: |
+| 01-04-2019 | To Bank     |     40,000 | 31-03-2020 | By Depreciation |      4,000 |
+| 01-10-2019 | To Bank     |     20,000 | 31-03-2020 | By Depreciation |      1,000 |
+|            |             |            | 31-03-2020 | By Balance c/d  |     55,000 |
+|            | Total       |     60,000 |            | Total           |     60,000 |
+
+**For year 2020–21**
+
+| Date       | Particulars    | Amount (₹) | Date       | Particulars     | Amount (₹) |
+| ---------- | -------------- | ---------: | ---------- | --------------- | ---------: |
+| 01-04-2020 | To Balance b/d |     55,000 | 31-03-2021 | By Depreciation |      5,500 |
+|            |                |            | 31-03-2021 | By Balance c/d  |     49,500 |
+|            | Total          |     55,000 |            | Total           |     55,000 |
+
+**For year 2021–22**
+
+| Date       | Particulars             | Amount (₹) | Date       | Particulars     | Amount (₹) |
+| ---------- | ----------------------- | ---------: | ---------- | --------------- | ---------: |
+| 01-04-2021 | To Balance b/d          |     49,500 | 31-03-2022 | By Depreciation |      1,620 |
+| 01-10-2021 | To Bank (New Machinery) |     64,000 | 31-03-2022 | By Loss on Sale |     18,780 |
+|            |                         |            | 31-03-2022 | By Balance c/d  |     93,100 |
+|            | Total                   |   1,13,500 |            | Total           |   1,13,500 |
+
+**Conclusion**
+
+The Machinery Account has been prepared under the Written Down Value Method. Depreciation is charged on the reduced value of machinery each year, and the profit or loss on disposal of machinery is calculated by comparing its book value with the sale proceeds. This method reflects the decreasing value of assets due to usage and obsolescence.
