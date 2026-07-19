@@ -4047,7 +4047,7 @@ Compare their merits, demerits, and suitability.**
 
 Depreciation is the process of systematically allocating the cost of a fixed asset over its useful life. It helps in matching the cost of an asset with the revenue generated from its use. Two commonly used methods of calculating depreciation are the **Straight-Line Method (SLM)** and the **Written Down Value Method (WDV)**. 
 
-## **A) Straight-Line Method (SLM)**
+**A) Straight-Line Method (SLM)**
 
 i) **Meaning:**
 
@@ -4076,7 +4076,7 @@ The Straight-Line Method is suitable for assets such as buildings, furniture, an
 
 ---
 
-## **B) Written Down Value Method (WDV)**
+**B) Written Down Value Method (WDV)**
 
 i) **Meaning:**
 
@@ -4101,7 +4101,7 @@ WDV is suitable for machinery, vehicles, and technological assets where there is
 
 ---
 
-## **C) Comparison Between SLM and WDV**
+**C) Comparison Between SLM and WDV**
 
 | Basis                  | Straight-Line Method     | Written Down Value Method     |
 | ---------------------- | ------------------------ | ----------------------------- |
@@ -4212,7 +4212,7 @@ Books closed on = 31st March every year
 
 Depreciation is calculated according to the method selected. Under the Straight-Line Method, depreciation is charged on the original cost of the asset, while under the Written Down Value Method, depreciation is charged on the reduced balance of the asset. 
 
-## **A) Machinery Account under Straight-Line Method**
+**A) Machinery Account under Straight-Line Method**
 
 **Depreciation Calculation:**
 
@@ -4245,7 +4245,7 @@ Under SLM, total depreciation charged during 2007–08 is ₹5,000 + ₹550 = **
 
 ---
 
-## **B) Machinery Account under Written Down Value Method**
+**B) Machinery Account under Written Down Value Method**
 
 Depreciation is charged at 10% on the opening written down value.
 
@@ -4365,7 +4365,7 @@ Given:
 
 Under the Written Down Value Method, depreciation is calculated on the book value of the asset at the beginning of each year. 
 
-## **A) Calculation of Depreciation**
+**A) Calculation of Depreciation**
 
 **Year 2019–20**
 
@@ -4427,7 +4427,7 @@ Depreciation for 6 months:
 
 ---
 
-## **B) Machinery Account**
+**B) Machinery Account**
 
 | Date       | Particulars | Amount (₹) | Date       | Particulars     | Amount (₹) |
 | ---------- | ----------- | ---------: | ---------- | --------------- | ---------: |
