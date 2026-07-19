@@ -4456,3 +4456,2373 @@ Depreciation for 6 months:
 **Conclusion**
 
 The Machinery Account has been prepared under the Written Down Value Method. Depreciation is charged on the reduced value of machinery each year, and the profit or loss on disposal of machinery is calculated by comparing its book value with the sale proceeds. This method reflects the decreasing value of assets due to usage and obsolescence.
+
+### ***July 17, 2026***
+
+### Unit 9 Short Answer (200-250 words)
+
+**1. Which of the following are not Errors of Principle? Give a reason.**
+
+(i) Expenses for vehicles are recorded in the Vehicles Account.
+(ii) Machinery purchases are recorded in the Purchases Account.
+(iii) Bishan's sales of Rs 2500 were completely deleted from the books.
+(iv) Singh's account is updated with sales to A. Kumar.
+
+**Ans.**
+
+**Errors of Principle and Reasons**
+
+An **Error of Principle** occurs when a transaction is recorded in violation of accounting principles. In such cases, the correct amount is recorded on the correct side but in the wrong type of account, such as treating a capital expenditure as a revenue expenditure. These errors do not affect the agreement of the Trial Balance. 
+
+**Analysis of the Given Transactions**
+
+**i) Expenses for vehicles are recorded in the Vehicles Account.**
+
+This is **an Error of Principle** because vehicle expenses are revenue expenditure and should be debited to the Vehicle Expenses Account, not the Vehicles Account (a fixed asset account).
+
+**ii) Machinery purchases are recorded in the Purchases Account.**
+
+This is **an Error of Principle** because machinery is a fixed asset, and its purchase should be debited to the Machinery Account. Recording it in the Purchases Account wrongly treats a capital expenditure as a revenue expenditure. 
+
+**iii) Bishan's sales of ₹2,500 were completely deleted from the books.**
+
+This is **not an Error of Principle**. It is an **Error of Complete Omission** because the entire transaction has been omitted from the accounting records. 
+
+**iv) Singh's account is updated with sales to A. Kumar.**
+
+This is **not an Error of Principle**. It is an **Error of Commission** because the transaction has been posted to the wrong personal account while the accounting principle remains correctly applied. 
+
+**Conclusion**
+
+Among the given transactions, **(iii) and (iv) are not Errors of Principle**. They are classified as an **Error of Complete Omission** and an **Error of Commission**, respectively, whereas **(i) and (ii)** are Errors of Principle because they violate the correct classification of accounts.
+
+**2. Mr. A, a sole trader, prepared his Trial Balance on March 31, 2016, and discovered that it did not tally, despite taking all reasonable steps to locate the inaccuracies. What steps should be taken next to move forward?**
+
+**Ans.**
+
+**Steps to be Taken When the Trial Balance Does Not Tally**
+
+When a Trial Balance does not agree even after making all reasonable efforts to locate the errors, the accountant should not delay the preparation of the financial statements. Instead, the difference in the Trial Balance is temporarily transferred to a **Suspense Account**. This enables the books to be balanced until the errors are identified and corrected later. 
+
+**A) Steps to Move Forward**
+
+i) **Open a Suspense Account:**
+
+The difference between the debit and credit totals of the Trial Balance is transferred to a Suspense Account. If the debit side is short, the difference is debited to the Suspense Account; if the credit side is short, it is credited.
+
+ii) **Prepare the Final Accounts:**
+
+After opening the Suspense Account, the Trading Account, Profit and Loss Account, and Balance Sheet can be prepared without waiting for the errors to be found.
+
+iii) **Locate and Rectify Errors:**
+
+The accountant should continue checking the books to identify errors such as errors of omission, commission, principle, or compensating errors. Once detected, rectification entries should be passed.
+
+iv) **Close the Suspense Account:**
+
+As each error affecting the Trial Balance is corrected, the corresponding entry is made in the Suspense Account. When all such errors are rectified, the Suspense Account will automatically balance and close. 
+
+**Conclusion**
+
+If Mr. A's Trial Balance does not tally despite careful checking, he should temporarily transfer the difference to a **Suspense Account**, prepare the final accounts, and continue searching for errors. Once all errors are rectified, the Suspense Account will be closed, ensuring that the accounting records are accurate and complete.
+
+**3. Explain the difference between an error of omission and an error of commission.**
+
+**Ans.**
+
+**Difference Between Error of Omission and Error of Commission**
+
+Accounting errors are unintentional mistakes that occur during the recording, posting, or summarising of financial transactions. Two common types of accounting errors are **Errors of Omission** and **Errors of Commission**. 
+
+**A) Error of Omission**
+
+i) An **Error of Omission** occurs when a transaction is either completely or partially omitted from the books of accounts.
+
+ii) It may be:
+
+* **Complete Omission** – the entire transaction is not recorded and does not affect the Trial Balance.
+* **Partial Omission** – the transaction is recorded but not completely posted to the ledger, causing the Trial Balance to disagree.
+
+iii) Example: A credit sale is recorded in the Sales Book but not posted to the customer's account. 
+
+**B) Error of Commission**
+
+i) An **Error of Commission** arises due to mistakes in recording, posting, casting, carrying forward, or balancing accounts.
+
+ii) These errors occur because of clerical mistakes and may or may not affect the Trial Balance.
+
+iii) Examples include posting an amount to the wrong account, recording the wrong amount, or making mistakes in totalling subsidiary books. 
+
+**C) Difference Between the Two**
+
+i) **Error of Omission** results from failure to record or completely post a transaction, whereas **Error of Commission** results from incorrect recording or posting of a transaction.
+
+ii) Errors of Omission involve missing entries, while Errors of Commission involve incorrect entries.
+
+iii) Both are unintentional accounting errors but differ in their nature and method of occurrence.
+
+**Conclusion**
+
+Errors of Omission and Errors of Commission are common accounting mistakes. While omission involves leaving out transactions, commission involves incorrect recording or posting. Identifying and rectifying these errors ensures the accuracy and reliability of accounting records.
+
+**4. Why is the Suspense Account important when the Trial Balance does not tally?**
+
+**Ans.**
+
+**Importance of the Suspense Account When the Trial Balance Does Not Tally**
+
+A **Suspense Account** is a temporary account opened when the Trial Balance does not agree and the accountant is unable to locate the errors immediately. Its main purpose is to temporarily record the difference between the debit and credit totals so that the books of accounts can be balanced and the preparation of final accounts is not delayed. 
+
+**A) Importance of the Suspense Account**
+
+i) **Balances the Trial Balance:**
+
+The difference between the debit and credit totals is transferred to the Suspense Account, enabling the Trial Balance to agree temporarily.
+
+ii) **Facilitates Preparation of Final Accounts:**
+
+The Trading Account, Profit and Loss Account, and Balance Sheet can be prepared without waiting for all errors to be detected.
+
+iii) **Helps in Error Rectification:**
+
+The Suspense Account serves as a temporary record until the errors are identified and corrected through appropriate rectification entries.
+
+iv) **Ensures Systematic Correction:**
+
+As each error affecting the Trial Balance is rectified, corresponding entries are made in the Suspense Account. Once all such errors are corrected, the balance in the Suspense Account becomes zero, and the account is closed. 
+
+**Conclusion**
+
+The Suspense Account is an important accounting tool because it allows business operations and financial reporting to continue even when the Trial Balance does not tally. It provides a temporary solution until all accounting errors are identified and rectified, ensuring that the books of accounts are ultimately accurate and complete.
+
+**5. Suggest a two-step process for rectifying two-sided errors detected after preparing the Trial Balance.**
+
+**Ans.**
+
+**Two-Step Process for Rectifying Two-Sided Errors Detected After Preparing the Trial Balance**
+
+A **two-sided error** affects both the debit and credit aspects of a transaction. Since both sides are affected equally, the Trial Balance usually agrees, and such errors are often detected only after the Trial Balance has been prepared. These errors are rectified by passing appropriate journal entries to eliminate the incorrect effect and record the correct accounting treatment. 
+
+**A) Step 1: Reverse or Correct the Wrong Entry**
+
+i) Identify the incorrect entry that has been passed.
+
+ii) Cancel the effect of the wrong entry by reversing it, either fully or partially, depending on the nature of the mistake.
+
+iii) This removes the incorrect debit and credit recorded in the books.
+
+**B) Step 2: Pass the Correct Rectification Entry**
+
+i) Record the transaction correctly by passing the proper journal entry with the correct accounts and amounts.
+
+ii) Since the error affects both debit and credit, **no Suspense Account is required** because the Trial Balance remains in agreement.
+
+iii) After posting the rectification entry, the ledger accounts will show the correct balances and the financial statements will present accurate information. 
+
+**Conclusion**
+
+The rectification of two-sided errors after preparing the Trial Balance involves **two simple steps**: first, remove the effect of the wrong entry, and second, record the correct journal entry. As these errors do not disturb the agreement of the Trial Balance, they are corrected directly without using a Suspense Account, ensuring accurate accounting records.
+
+### Unit 9 Long Answer (400-500 words)
+
+**1. Explain the different types of accounting errors with suitable examples.**
+
+**Ans.**
+
+**Types of Accounting Errors**
+
+Accounting errors are unintentional mistakes that occur during the recording, posting, classification, or summarisation of financial transactions. These errors may affect the accuracy of accounting records and financial statements. Based on their nature, accounting errors are classified into four main types: **Errors of Omission, Errors of Commission, Errors of Principle, and Compensating Errors.** 
+
+**A) Errors of Omission**
+
+i) An **Error of Omission** occurs when a transaction is either completely or partially omitted from the books of accounts.
+
+ii) **Complete Omission** takes place when a transaction is not recorded at all and does not affect the Trial Balance.
+
+iii) **Partial Omission** occurs when a transaction is recorded but not completely posted to the ledger, causing the Trial Balance to disagree.
+
+*Example:* A credit sale is entered in the Sales Book but not posted to the customer's account. 
+
+**B) Errors of Commission**
+
+i) An **Error of Commission** arises due to clerical mistakes such as wrong recording, wrong posting, wrong casting (totalling), wrong balancing, or errors in carrying forward.
+
+ii) These errors may or may not affect the Trial Balance depending on their nature.
+
+*Example:* Goods purchased from Rohan for ₹6,000 are wrongly recorded as ₹16,000, or the Sales Book total is posted to the Purchases Account. 
+
+**C) Errors of Principle**
+
+i) An **Error of Principle** occurs when a transaction is recorded in violation of accounting principles.
+
+ii) In this case, the correct amount is entered on the correct side but in the wrong type of account.
+
+iii) Such errors do not affect the Trial Balance but result in incorrect financial statements.
+
+*Example:* Purchase of machinery is recorded in the Purchases Account instead of the Machinery Account, thereby treating a capital expenditure as a revenue expenditure. 
+
+**D) Compensating Errors**
+
+i) **Compensating Errors** occur when the effect of one error is cancelled by another error of equal amount.
+
+ii) As a result, the Trial Balance still agrees even though errors exist.
+
+*Example:* Shyam's account is debited ₹900 less, while Ram's account is debited ₹900 more, cancelling the effect of each other. 
+
+**Conclusion**
+
+Accounting errors can be classified into **Errors of Omission, Errors of Commission, Errors of Principle, and Compensating Errors**. Each type has different causes and effects on the Trial Balance and financial statements. Proper identification and timely rectification of these errors ensure the accuracy, reliability, and fairness of accounting records.
+
+**2. Rectify the following errors identified in Mr. Sumit's books. The Trial Balance revealed a debit excess of Rs 500. The discrepancy is now in the Suspense Account.**
+
+* (i) A total of Rs. 300 has been cast on the debit side of the expenses account.
+* (ii) Sales Account has been totalled shortly by Rs. 400
+* (iii) One purchase of Rs. 50 has been added to the ledger as Rs 700 from the purchases book.
+* (iv) Although the Party's Account has been credited, a sales refund of Rs. 400 from a party has not been sent to that account.
+* (v) A cheque for Rs 1200 was issued to the Supplier's Account (listed under Sundry creditors) to settle his debts, but it was incorrectly debited to the Purchases Account.
+* (vi) A credit sale of Rs. 200 has been credited to the sales account as well as the account of various debtors.
+
+* Required: For correcting the above, pass necessary journal entries and prepare a Suspense Account, as it would appear in the Ledger.
+
+**Ans.**
+
+**Rectification of Errors and Suspense Account**
+
+Since the **Trial Balance showed a debit excess of ₹500**, a **Suspense Account** has already been opened. Errors affecting only one account are rectified through the Suspense Account, whereas two-sided errors are rectified by passing normal journal entries. 
+
+**A) Journal Entries for Rectification**
+
+| Particulars                                                                                                                                    | Dr. (₹) | Cr. (₹) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------: | ------: |
+| **(i) Suspense A/c Dr.** <br> To Expenses A/c *(Being excess debit in Expenses Account rectified)*                                             |     300 |     300 |
+| **(ii) Suspense A/c Dr.** <br> To Sales A/c *(Being Sales Account undercast rectified)*                                                        |     400 |     400 |
+| **(iii) Suspense A/c Dr.** <br> To Purchases A/c *(Being purchase of ₹50 posted as ₹700; excess debit rectified)*                              |     650 |     650 |
+| **(iv) Sales Return A/c Dr.** <br> To Party's A/c *(Being sales return omitted from Sales Return Account rectified)*                           |     400 |     400 |
+| **(v) Supplier's A/c Dr.** 1,200 <br> To Purchases A/c 1,200 <br> *(Being payment to supplier wrongly debited to Purchases Account rectified)* |   1,200 |   1,200 |
+| **(vi) Sundry Debtors A/c Dr.** 400 <br> To Sales A/c 400 <br> *(Being debtor wrongly credited instead of debited rectified)*                  |     400 |     400 |
+
+**B) Suspense Account**
+
+| **Dr.**            |         ₹ | **Cr.**        |       ₹ |
+| ------------------ | --------: | -------------- | ------: |
+| To Expenses A/c    |       300 | By Balance b/d |     500 |
+| To Sales A/c       |       400 |                |         |
+| To Purchases A/c   |       650 |                |         |
+| **To Balance c/d** |   **850** |                |         |
+| **Total**          | **2,200** | **Total**      | **500** |
+
+> **Note:** After recording the above entries, the Suspense Account still shows a **debit balance of ₹850**. This indicates that all the one-sided errors causing the original Trial Balance difference have **not yet been completely identified**, or there are additional one-sided errors remaining in the books. The two-sided errors [(iv), (v), and (vi)] do not affect the Suspense Account. 
+
+**Conclusion**
+
+One-sided errors are corrected through the **Suspense Account**, while two-sided errors are rectified by passing normal journal entries. The Suspense Account is closed only after **all one-sided errors** have been identified and rectified. If a balance remains, it indicates that some errors are still undiscovered. 
+
+**3. Rectify the following errors identified in Mr. Dutta's books. The Trial Balance revealed a credit excess of Rs 4930. The discrepancy is now in the Suspense Account:**
+* (i) On the 31st of March 2015, D. Das sent a sum of Rs. 100, which was received on the 4th of April 2015, and recorded into the Cash Book.
+* (ii) Total of Return Inward Book for December had been cast by Rs. 1000 short.
+* (iii) The Purchases Book had been used to approve the purchase of an Rs. 3000.
+* (iv) The wages account has been debited with Rs. 3750 for pay paid to workers who made showcases.
+* (v) The Creditor's Account had a purchase of Rs. 670 recorded as Rs. 600.
+* (vi) A cheque for Rs. 200 from P.C. Joshi was returned unpaid, and the amount was deducted from the 'Printing and Stationery Account.'
+* (vii) Mr. Dutta’s motorbike purchase had been charged to the 'Miscellaneous Expenses Account' for Rs. 10,000.
+* (viii) A customer had returned goods worth Rs. 100, and they had been taken into stock, but no entry had been made in the books.
+* (ix) An Rs. 2000 sale to Singha & Co. was incorrectly debited to their account.
+
+**Ans.**
+
+**Rectification of Errors in Mr. Dutta's Books**
+
+Since the **Trial Balance showed a credit excess of ₹4,930**, the difference has been transferred to the **Suspense Account**. One-sided errors are rectified through the Suspense Account, whereas two-sided errors are corrected through normal journal entries. 
+
+**A) Journal Entries for Rectification**
+
+| Particulars                                                                                                                                                                       | Dr. (₹) | Cr. (₹) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: | ------: |
+| **(i) No Entry Required** *(Cash received on 4th April 2015 was correctly recorded after the year-end.)*                                                                          |       – |       – |
+| **(ii) Suspense A/c Dr.** <br> To Sales Return A/c *(Being Return Inward Book undercast by ₹1,000 rectified)*                                                                     |   1,000 |   1,000 |
+| **(iii) Purchases A/c Dr.** <br> To Furniture A/c *(Being purchase of furniture wrongly entered in Purchases Book rectified)*                                                     |   3,000 |   3,000 |
+| **(iv) Showcases (Asset) A/c Dr.** <br> To Wages A/c *(Being wages for construction of showcases wrongly debited to Wages A/c rectified)*                                         |   3,750 |   3,750 |
+| **(v) Suspense A/c Dr.** 70 <br> To Creditor's A/c 70 *(Being creditor credited short by ₹70 rectified)*                                                                          |      70 |      70 |
+| **(vi) P.C. Joshi A/c Dr.** <br> To Printing & Stationery A/c *(Being dishonoured cheque wrongly debited to Printing & Stationery rectified)*                                     |     200 |     200 |
+| **(vii) Motorbike A/c Dr.** <br> To Miscellaneous Expenses A/c *(Being motorbike purchase wrongly treated as expense rectified)*                                                  |  10,000 |  10,000 |
+| **(viii) Sales Return A/c Dr.** <br> To Customer's A/c *(Being goods returned by customer omitted from books rectified)*                                                          |     100 |     100 |
+| **(ix) Singha & Co. A/c Dr.** 4,000 <br> To Sales A/c 2,000 <br> To Suspense A/c 2,000 *(Being customer's account wrongly debited instead of credited for credit sale rectified)* |   4,000 |   4,000 |
+
+**B) Suspense Account**
+
+| **Dr.**             |         ₹ | **Cr.**             |         ₹ |
+| ------------------- | --------: | ------------------- | --------: |
+| To Sales Return A/c |     1,000 | By Balance b/d      |     4,930 |
+| To Creditor's A/c   |        70 | By Singha & Co. A/c |     2,000 |
+|                     |           | By Balance c/d      |     3,860 |
+| **Total**           | **1,070** | **Total**           | **6,930** |
+
+**Conclusion**
+
+Errors **(ii), (v), and (ix)** affect only one side of the accounts and therefore require the **Suspense Account**. The remaining errors are **two-sided errors** and are rectified through normal journal entries. The Suspense Account will close only after all one-sided errors responsible for the Trial Balance difference have been completely identified and rectified.
+
+**4. “A tallied Trial Balance is not a conclusive proof of accuracy.” Justify this statement with reasons and examples.**
+
+**Ans.**
+
+**A Tallied Trial Balance is Not a Conclusive Proof of Accuracy**
+
+A **Trial Balance** is a statement prepared to verify the arithmetical accuracy of ledger accounts by comparing the total of debit balances with the total of credit balances. Although a tallied Trial Balance indicates that the books are arithmetically correct, it **does not guarantee that all accounting records are free from errors**. Certain types of errors do not affect the agreement of the Trial Balance and may remain undetected. Therefore, a tallied Trial Balance is **not a conclusive proof of accuracy.** 
+
+**Reasons with Examples**
+
+**A) Errors of Complete Omission**
+
+i) When a transaction is completely omitted from the books of accounts, neither the debit nor the credit aspect is recorded.
+
+ii) As both sides are omitted, the Trial Balance still agrees.
+
+*Example:* A credit purchase of goods worth ₹10,000 is not recorded at all in the books. 
+
+**B) Errors of Principle**
+
+i) These errors occur when accounting principles are violated by recording a transaction in the wrong type of account.
+
+ii) Since the debit and credit amounts remain equal, the Trial Balance is unaffected.
+
+*Example:* Purchase of machinery is debited to the Purchases Account instead of the Machinery Account. 
+
+**C) Compensating Errors**
+
+i) These arise when the effect of one error is cancelled by another error of an equal amount.
+
+ii) As the net effect is zero, the Trial Balance continues to tally.
+
+*Example:* One customer's account is over-debited by ₹500 while another customer's account is under-debited by ₹500. 
+
+**D) Errors of Complete Reversal**
+
+i) In this case, both the debit and credit aspects of a transaction are recorded in reverse.
+
+ii) The totals of debit and credit remain equal, so the Trial Balance still agrees.
+
+*Example:* Cash received from Ram is recorded by debiting Ram's Account and crediting Cash Account instead of debiting Cash Account and crediting Ram's Account. 
+
+**E) Wrong Posting to Correct Side**
+
+i) An amount may be posted to the wrong account but on the correct side.
+
+ii) Such an error does not affect the equality of the Trial Balance.
+
+*Example:* Payment received from Mohan is credited to Sohan's Account instead of Mohan's Account. 
+
+**Conclusion**
+
+A tallied Trial Balance confirms only the **arithmetical accuracy** of ledger balances and not the **complete correctness** of accounting records. Errors such as **complete omission, errors of principle, compensating errors, complete reversal of entries, and wrong posting to the correct side** may remain undetected despite the Trial Balance agreeing. Hence, additional checks, rectification procedures, and auditing are necessary to ensure the true accuracy of financial records.
+
+**5. Discuss the complete process of detecting and correcting accounting errors from the moment a mismatch is found in the Trial Balance till the preparation of final accounts. Develop a stepwise framework.**
+
+**Ans.**
+
+**Process of Detecting and Correcting Accounting Errors**
+
+The process of detecting and correcting accounting errors begins when the **Trial Balance fails to agree**. A difference in the Trial Balance indicates that one or more errors have occurred in recording, posting, or balancing the accounts. A systematic approach helps in identifying and rectifying these errors before the preparation of final accounts. 
+
+**A) Preparation and Verification of Trial Balance**
+
+i) Prepare the Trial Balance by listing all ledger balances.
+
+ii) Compare the total of debit balances with the total of credit balances.
+
+iii) If the totals do not agree, identify that an error exists in the books of accounts. 
+
+**B) Detection of Errors**
+
+i) Recheck the casting and balancing of all ledger accounts.
+
+ii) Verify the posting of entries from journals and subsidiary books into the ledger.
+
+iii) Compare ledger balances with the Trial Balance to locate omissions, wrong postings, or calculation mistakes.
+
+iv) Classify the errors as **Errors of Omission, Errors of Commission, Errors of Principle,** or **Compensating Errors**. 
+
+**C) Opening of Suspense Account**
+
+i) If the Trial Balance difference cannot be located immediately, transfer the difference to a **Suspense Account**.
+
+ii) This enables the preparation of financial statements without waiting for all errors to be discovered.
+
+iii) The Suspense Account is used only for **one-sided errors** that affect the agreement of the Trial Balance. 
+
+**D) Rectification of Errors**
+
+i) Pass rectification journal entries after identifying the nature of each error.
+
+ii) One-sided errors are corrected through the **Suspense Account**.
+
+iii) Two-sided errors are rectified by passing normal journal entries without using the Suspense Account.
+
+*Example:* If the Sales Account is undercast by ₹500, the entry will be: **Suspense A/c Dr. ₹500 To Sales A/c ₹500.** 
+
+**E) Closing the Suspense Account**
+
+i) Continue rectifying all one-sided errors until the Suspense Account balance becomes nil.
+
+ii) A nil balance confirms that all one-sided errors affecting the Trial Balance have been corrected. 
+
+**F) Preparation of Final Accounts**
+
+i) After all necessary rectification entries have been posted, prepare the Trading Account, Profit and Loss Account, and Balance Sheet.
+
+ii) Corrected ledger balances ensure that the financial statements present a true and fair view of the business. 
+
+**Conclusion**
+
+The detection and correction of accounting errors involve a systematic process of preparing the Trial Balance, identifying the causes of differences, opening a Suspense Account where necessary, passing rectification entries, closing the Suspense Account, and finally preparing the financial statements. This stepwise framework ensures the accuracy and reliability of accounting records before the final accounts are prepared.
+
+### Unit 10 Short Answer (200-250 words)
+
+**1. State any two objectives of preparing a Trading Account.** 
+
+**Ans.**
+
+**Objectives of Preparing a Trading Account**
+
+A **Trading Account** is prepared at the end of an accounting period to determine the results of the buying and selling activities of a business. It helps in measuring the trading performance by comparing the cost of goods sold with net sales. It is prepared by trading concerns, manufacturing concerns, and retail and wholesale businesses. 
+
+**A) To Determine Gross Profit or Gross Loss**
+
+i) The primary objective of preparing a Trading Account is to ascertain the **gross profit or gross loss** earned during the accounting period.
+
+ii) Gross profit arises when the **net sales exceed the cost of goods sold**, while gross loss occurs when the cost of goods sold exceeds net sales.
+
+iii) This helps the business evaluate the profitability of its core trading activities before considering indirect expenses and incomes.  
+
+**B) To Ascertain the Cost of Goods Sold**
+
+i) Another important objective is to determine the **cost of goods sold (COGS)** during the accounting period.
+
+ii) The Trading Account considers opening stock, net purchases, direct expenses, and closing stock to calculate the cost of goods sold accurately.
+
+iii) Knowing the cost of goods sold helps management analyse trading efficiency and serves as the basis for calculating gross profit.  
+
+**Conclusion**
+
+The two major objectives of preparing a Trading Account are **to determine gross profit or gross loss** and **to ascertain the cost of goods sold**. These objectives help assess the trading performance of the business and provide the foundation for preparing the Profit and Loss Account.
+
+**2. Why is a Trading Account not prepared in the service sector?**
+
+**Ans.**
+
+**Why a Trading Account is Not Prepared in the Service Sector**
+
+A **Trading Account** is prepared to determine the **gross profit or gross loss** arising from the buying and selling of goods. It includes items such as opening stock, purchases, direct expenses, sales, and closing stock. However, service sector organisations do not deal in the purchase and sale of goods. Instead, they earn income by providing services. Therefore, a Trading Account is not required for service sector businesses. 
+
+**A) Absence of Trading Activities**
+
+i) Service organisations do not buy or sell goods and therefore do not maintain inventories such as opening stock or closing stock.
+
+ii) Since there is no cost of goods sold, the calculation of gross profit or gross loss is not applicable.
+
+iii) As a result, preparing a Trading Account becomes unnecessary. 
+
+**B) Income is Earned from Services**
+
+i) Service sector enterprises earn revenue by rendering services rather than by selling goods.
+
+ii) Their financial performance is measured by comparing service income with operating expenses.
+
+iii) Hence, they prepare a **Profit and Loss Account** directly to determine the net profit or net loss, along with a **Balance Sheet** to show the financial position. 
+
+*Example:* A consulting firm, hospital, bank, or law office earns income from professional services instead of buying and selling goods. Therefore, it prepares a Profit and Loss Account and a Balance Sheet but does not prepare a Trading Account.
+
+**Conclusion**
+
+A Trading Account is not prepared in the service sector because service businesses do not engage in trading activities involving goods. Their income is generated through services, and their final accounts consist mainly of the **Profit and Loss Account** and the **Balance Sheet**, which are sufficient to determine profitability and financial position. 
+
+**3. What does a Balance Sheet show?**
+
+**Ans.**
+
+**What Does a Balance Sheet Show?**
+
+A **Balance Sheet** is an important financial statement prepared at the end of an accounting period. It shows the **financial position of a business on a particular date** by presenting its assets, liabilities, and capital. It is prepared after the Trading Account and Profit and Loss Account and forms an essential part of the final accounts. The Balance Sheet helps management and other stakeholders understand the financial health and stability of the business.  
+
+**A) Shows the Financial Position**
+
+i) A Balance Sheet presents the financial position of the business at the end of the accounting period.
+
+ii) It provides a clear picture of the resources owned by the business and the obligations it has to meet.
+
+iii) This enables users to assess the overall financial condition of the organisation. 
+
+**B) Shows Assets, Liabilities and Capital**
+
+i) It records the **assets** owned by the business, such as cash, machinery, furniture, and stock.
+
+ii) It also shows the **liabilities**, including loans and creditors, along with the **owner's capital**.
+
+iii) The Balance Sheet is prepared based on the accounting equation:
+
+**Assets = Liabilities + Capital**
+
+**C) Helps in Decision-Making**
+
+i) It helps management, investors, creditors, and other stakeholders evaluate the financial strength of the business.
+
+ii) It assists in assessing the liquidity and solvency of the organisation.
+
+iii) It also serves as a basis for planning future business activities and making informed financial decisions. 
+
+**Conclusion**
+
+A Balance Sheet shows the **financial position of a business on a particular date** by presenting its assets, liabilities, and capital. It provides valuable information about the financial stability of the business and supports effective decision-making by various stakeholders.
+
+**4. If direct wages increase while sales remain unchanged, what will be the impact on gross profit?**
+
+**Ans.**
+
+**Impact of Increase in Direct Wages on Gross Profit**
+
+A **Trading Account** is prepared to determine the **gross profit or gross loss** of a business by comparing **net sales** with the **cost of goods sold**. Direct wages are treated as **direct expenses** and are included in the Trading Account because they form part of the cost of goods sold. Therefore, if direct wages increase while sales remain unchanged, the gross profit will decrease.  
+
+**A) Increase in Cost of Goods Sold**
+
+i) Direct wages are a direct expense incurred in bringing goods to a saleable condition.
+
+ii) An increase in direct wages increases the overall cost of goods sold.
+
+iii) Since sales remain the same, the higher cost reduces the trading margin. 
+
+**B) Effect on Gross Profit**
+
+i) Gross profit is calculated as:
+
+**Gross Profit = Net Sales – Cost of Goods Sold** 
+
+ii) When the cost of goods sold increases and net sales remain unchanged, the gross profit decreases.
+
+iii) Thus, the business earns a lower profit from its trading activities.
+
+*Example:* If net sales are ₹5,00,000 and the cost of goods sold increases from ₹3,50,000 to ₹3,70,000 due to higher direct wages, the gross profit decreases from ₹1,50,000 to ₹1,30,000.
+
+**C) Impact on Business**
+
+i) Lower gross profit reduces the amount available to meet indirect expenses.
+
+ii) It may also reduce the net profit if the increase in direct wages is not offset by higher sales or better efficiency.
+
+iii) Therefore, businesses should monitor direct labour costs to maintain profitability.
+
+**Conclusion**
+
+If direct wages increase while sales remain unchanged, the **cost of goods sold increases**, resulting in a **decrease in gross profit**. Since direct wages are a direct expense included in the Trading Account, any increase in such costs directly affects the profitability of the business. 
+
+**5. A firm shows high gross profit but low net profit. What does this indicate?**
+
+**Ans.**
+
+**High Gross Profit but Low Net Profit**
+
+A business may earn a **high gross profit** but still report a **low net profit**. Gross profit represents the profit earned from the core trading activities after deducting the cost of goods sold, whereas net profit is calculated after deducting all indirect expenses and adding other incomes. Therefore, a high gross profit with a low net profit indicates that the business has incurred high indirect expenses or losses during the accounting period.  
+
+**A) High Indirect Expenses**
+
+i) The business may have incurred high administrative, selling, distribution, or financial expenses.
+
+ii) Expenses such as salaries, rent, advertisement, carriage outwards, depreciation, and interest on loans reduce the net profit.
+
+iii) Even with strong trading performance, excessive indirect expenses lower the final profit. 
+
+**B) Lower Overall Profitability**
+
+i) A high gross profit shows that the business is performing well in its buying and selling activities.
+
+ii) However, low net profit indicates that operating and administrative costs are reducing the overall earnings.
+
+iii) This suggests that the business should control its indirect expenses to improve profitability. 
+
+*Example:* A business earns a gross profit of ₹4,00,000 but spends ₹3,50,000 on salaries, rent, advertisement, depreciation, and interest. As a result, the net profit is only ₹50,000.
+
+**Conclusion**
+
+A firm showing **high gross profit but low net profit** indicates that although its trading operations are efficient, its indirect expenses are very high. Reducing unnecessary operating and administrative expenses can help improve the net profit and strengthen the overall financial performance of the business.
+
+**6. How does undervaluation of closing stock affect gross profit and net profit?**
+
+**Ans.**
+
+**Effect of Undervaluation of Closing Stock on Gross Profit and Net Profit**
+
+Closing stock is an important item in the **Trading Account** and is deducted while calculating the **cost of goods sold**. It is valued at the end of the accounting period and directly affects the gross profit of the business. If the closing stock is **undervalued**, the cost of goods sold becomes higher than the actual amount, which reduces both gross profit and net profit. 
+
+**A) Effect on Gross Profit**
+
+i) Closing stock is deducted from the cost of goods available for sale to determine the cost of goods sold.
+
+ii) When closing stock is undervalued, the cost of goods sold increases.
+
+iii) As a result, the **gross profit decreases** because gross profit is calculated as:
+
+**Gross Profit = Net Sales – Cost of Goods Sold** 
+
+**B) Effect on Net Profit**
+
+i) Gross profit is transferred to the **Profit and Loss Account** for calculating net profit.
+
+ii) When gross profit decreases due to undervaluation of closing stock, the net profit also decreases.
+
+iii) This results in an understatement of the actual profitability of the business. 
+
+*Example:* If the actual closing stock is ₹80,000 but it is recorded as ₹70,000, the cost of goods sold increases by ₹10,000. Consequently, both the gross profit and the net profit decrease by ₹10,000.
+
+**C) Overall Impact**
+
+i) The business appears less profitable than it actually is.
+
+ii) The value of closing stock shown in the Balance Sheet is also understated.
+
+iii) This affects the true and fair presentation of the financial position of the business.
+
+**Conclusion**
+
+Undervaluation of closing stock **reduces both gross profit and net profit** because it increases the cost of goods sold. It also understates the value of assets in the Balance Sheet, leading to an inaccurate presentation of the financial performance and financial position of the business.
+
+**7. If outstanding expenses are omitted, how will net profit be affected?**
+
+**Ans.**
+
+**Effect of Omitting Outstanding Expenses on Net Profit**
+
+Outstanding expenses are expenses that have been incurred during the accounting period but have not yet been paid. According to the accrual principle of accounting, such expenses must be recorded in the Profit and Loss Account of the same accounting period. If outstanding expenses are omitted, the total indirect expenses shown in the Profit and Loss Account become lower than the actual amount, resulting in an incorrect calculation of net profit. 
+
+**A) Understatement of Expenses**
+
+i) Outstanding expenses that are omitted are not recorded in the Profit and Loss Account.
+
+ii) As a result, the total indirect expenses are understated.
+
+iii) This leads to an incorrect presentation of the business's operating expenses.
+
+**B) Effect on Net Profit**
+
+i) Net profit is calculated after deducting all indirect expenses from gross profit and adding other incomes.
+
+ii) When outstanding expenses are omitted, fewer expenses are deducted.
+
+iii) Therefore, the **net profit is overstated**, as the business appears to have earned more profit than it actually did.  
+
+*Example:* If outstanding salaries of ₹15,000 are not recorded, the expenses will be understated by ₹15,000, causing the net profit to be overstated by the same amount.
+
+**C) Overall Impact**
+
+i) The Profit and Loss Account does not reflect the true profit of the business.
+
+ii) Liabilities in the Balance Sheet are understated because the outstanding expense is not recorded.
+
+iii) This results in an inaccurate presentation of the financial performance and financial position of the business.
+
+**Conclusion**
+
+If outstanding expenses are omitted, the **net profit is overstated** because the total expenses recorded are less than the actual expenses incurred. Recording all outstanding expenses is essential to present a true and fair view of the business's profitability and financial position.
+
+**8. Why is depreciation charged even though it does not involve cash outflow?**
+
+**Ans.**
+
+**Why is Depreciation Charged Even Though It Does Not Involve Cash Outflow?**
+
+Depreciation is the gradual reduction in the value of fixed assets due to **wear and tear, passage of time, or obsolescence**. Although depreciation does not involve any cash payment during the accounting period, it is treated as an expense and is charged to the **Profit and Loss Account**. This ensures that the true profit of the business is determined by matching the cost of using the asset with the revenue earned during the period. 
+
+**A) To Determine True Profit**
+
+i) Depreciation is charged to allocate the cost of a fixed asset over its useful life.
+
+ii) It ensures that the expense relating to the use of the asset is matched with the revenue earned during the accounting period.
+
+iii) This helps in calculating the true and fair profit of the business.  
+
+**B) To Reflect the Correct Value of Assets**
+
+i) Fixed assets lose value over time because of continuous use and ageing.
+
+ii) Charging depreciation reduces the book value of assets to reflect their actual worth.
+
+iii) This presents a more accurate financial position of the business.
+
+**C) To Follow Accounting Principles**
+
+i) Depreciation is recorded even without cash outflow because it is a non-cash expense.
+
+ii) It follows the **matching principle**, under which expenses are recognised in the same period as the related revenue.
+
+iii) This improves the reliability and fairness of the financial statements. 
+
+*Example:* A machine purchased for ₹5,00,000 may not require any payment after purchase, but if it depreciates by ₹50,000 during the year, this amount is charged as depreciation to reflect the cost of using the machine.
+
+**Conclusion**
+
+Depreciation is charged even though it does not involve a cash outflow because it helps determine the true profit, reflects the correct value of fixed assets, and ensures that the financial statements present a true and fair view of the business.
+
+### Unit 10 Long Answer (400-500 words)
+
+**1. From the following information extracted from the books of M/s ABC Manufacturing Co., prepare a Manufacturing Account for the year ended 31st March 2025 and compute the Cost of Production.**
+
+Particulars:
+
+* Opening Stock of Raw Materials – ₹30,000
+* Purchases of Raw Materials – ₹2,40,000
+* Carriage Inwards on Raw Materials – ₹12,000
+* Direct Wages – ₹75,000
+* Factory Rent – ₹30,000
+* Power and Fuel – ₹18,000
+* Repairs and Maintenance of Machinery – ₹10,000
+* Depreciation on Plant and Machinery – ₹15,000
+* Opening Work-in-Progress – ₹20,000
+* Closing Stock of Raw Materials – ₹28,000
+* Closing Work-in-Progress – ₹22,000
+
+**Ans.**
+
+**Manufacturing Account of M/s ABC Manufacturing Co.**
+**for the year ended 31st March 2025**
+
+| **Particulars**                    | **Amount (₹)** | **Particulars**                                 | **Amount (₹)** |
+| ---------------------------------- | -------------: | ----------------------------------------------- | -------------: |
+| Opening Stock of Raw Materials     |         30,000 | Closing Stock of Raw Materials                  |         28,000 |
+| Purchases of Raw Materials         |       2,40,000 | Closing Work-in-Progress                        |         22,000 |
+| Carriage Inwards                   |         12,000 | Cost of Production (Transferred to Trading A/c) |   **4,00,000** |
+| Direct Wages                       |         75,000 |                                                 |                |
+| Factory Rent                       |         30,000 |                                                 |                |
+| Power and Fuel                     |         18,000 |                                                 |                |
+| Repairs & Maintenance of Machinery |         10,000 |                                                 |                |
+| Depreciation on Plant & Machinery  |         15,000 |                                                 |                |
+| Opening Work-in-Progress           |         20,000 |                                                 |                |
+| **Total**                          |   **4,50,000** | **Total**                                       |   **4,50,000** |
+
+**Working Note: Calculation of Cost of Production**
+
+**Raw Materials Consumed**
+
+Opening Stock of Raw Materials = ₹30,000
+
+Add: Purchases of Raw Materials = ₹2,40,000
+
+Add: Carriage Inwards = ₹12,000
+
+Less: Closing Stock of Raw Materials = ₹28,000
+
+**Raw Materials Consumed = ₹2,54,000**
+
+**Cost of Production**
+
+Raw Materials Consumed = ₹2,54,000
+
+Add: Direct Wages = ₹75,000
+
+Add: Factory Rent = ₹30,000
+
+Add: Power and Fuel = ₹18,000
+
+Add: Repairs & Maintenance of Machinery = ₹10,000
+
+Add: Depreciation on Plant & Machinery = ₹15,000
+
+Add: Opening Work-in-Progress = ₹20,000
+
+Less: Closing Work-in-Progress = ₹22,000
+
+**Cost of Production = ₹4,00,000**
+
+**Conclusion**
+
+The **Cost of Production** of **M/s ABC Manufacturing Co.** for the year ended **31st March 2025** is **₹4,00,000**. This amount will be transferred to the **Trading Account** for determining the gross profit of the business. The Manufacturing Account includes raw materials consumed, direct wages, factory overheads, and adjustments for opening and closing work-in-progress to ascertain the total cost of manufacturing finished goods during the accounting period. 
+
+**2. From the following information, prepare a Trading Account for the year ended 31st March 2025:**
+
+* Opening Stock – ₹40,000
+* Purchases – ₹2,80,000
+* Purchase Returns – ₹10,000
+* Carriage Inwards – ₹12,000
+* Direct Wages – ₹18,000
+* Sales – ₹4,20,000
+* Sales Returns – ₹15,000
+* Closing Stock – ₹55,000
+
+**Ans.**
+
+**Trading Account of M/s ABC Manufacturing Co.**
+**for the year ended 31st March 2025**
+
+| **Debit Side**         | **Amount (₹)** | **Credit Side**     | **Amount (₹)** |
+| ---------------------- | -------------: | ------------------- | -------------: |
+| Opening Stock          |         40,000 | Sales               |       4,20,000 |
+| Purchases              |       2,80,000 | Less: Sales Returns |       (15,000) |
+| Less: Purchase Returns |       (10,000) | **Net Sales**       |   **4,05,000** |
+| **Net Purchases**      |   **2,70,000** | Closing Stock       |         55,000 |
+| Carriage Inwards       |         12,000 |                     |                |
+| Direct Wages           |         18,000 |                     |                |
+| Gross Profit c/d       |   **1,20,000** |                     |                |
+| **Total**              |   **4,60,000** | **Total**           |   **4,60,000** |
+
+**Working Notes**
+
+**1. Calculation of Net Purchases**
+
+Purchases = ₹2,80,000
+
+Less: Purchase Returns = ₹10,000
+
+**Net Purchases = ₹2,70,000**
+
+**2. Calculation of Net Sales**
+
+Sales = ₹4,20,000
+
+Less: Sales Returns = ₹15,000
+
+**Net Sales = ₹4,05,000**
+
+**3. Calculation of Cost of Goods Sold**
+
+Opening Stock = ₹40,000
+
+Add: Net Purchases = ₹2,70,000
+
+Add: Carriage Inwards = ₹12,000
+
+Add: Direct Wages = ₹18,000
+
+**Goods Available for Sale = ₹3,40,000**
+
+Less: Closing Stock = ₹55,000
+
+**Cost of Goods Sold = ₹2,85,000**
+
+**4. Calculation of Gross Profit**
+
+Net Sales = ₹4,05,000
+
+Less: Cost of Goods Sold = ₹2,85,000
+
+**Gross Profit = ₹1,20,000**
+
+**Conclusion**
+
+The **Trading Account** shows that the business earned a **Gross Profit of ₹1,20,000** for the year ended **31st March 2025**. The account has been prepared by considering opening stock, net purchases, direct expenses, net sales, and closing stock. The gross profit determined from the Trading Account will be transferred to the **Profit and Loss Account** for calculating the net profit of the business.
+
+**3. From the following Trial Balance extracted from the books of a business as on 31st March 2017, prepare the Trading Account and Profit and Loss Account.**
+
+| Account Title                    | Debit (₹) | Credit (₹) |
+| -------------------------------- | --------: | ---------: |
+| Purchases / Sales                |  3,52,000 |   5,60,000 |
+| Return Inwards / Return Outwards |     9,600 |     12,000 |
+| Carriage Inwards                 |     7,000 |          — |
+| Carriage Outwards                |     3,360 |          — |
+| Fuel and Power                   |    24,800 |          — |
+| Opening Stock                    |    57,600 |          — |
+| Bad Debts                        |     9,950 |          — |
+| Debtors / Creditors              |  1,31,200 |     48,000 |
+| Capital                          |         — |   3,48,000 |
+| Investment                       |    32,000 |          — |
+| Interest on Investment           |         — |      3,200 |
+| Loan                             |         — |     16,000 |
+| Repairs                          |     2,400 |          — |
+| General Expenses                 |    17,000 |          — |
+| Wages and Salaries               |    28,800 |          — |
+| Land and Buildings               |  2,88,000 |          — |
+| Cash in Hand                     |    32,000 |          — |
+| Miscellaneous Receipts           |         — |        160 |
+| Sales Tax Collected              |         — |      8,350 |
+
+**Closing Stock as on 31st March 2017 was valued at ₹30,000.**
+
+**Ans.**
+
+**Trading Account**
+**for the year ended 31st March 2017**
+
+| **Debit Side**        | **Amount (₹)** | **Credit Side**      | **Amount (₹)** |
+| --------------------- | -------------: | -------------------- | -------------: |
+| Opening Stock         |         57,600 | Sales                |       5,60,000 |
+| Purchases             |       3,52,000 | Less: Return Inwards |        (9,600) |
+| Less: Return Outwards |       (12,000) | **Net Sales**        |   **5,50,400** |
+| **Net Purchases**     |   **3,40,000** | Closing Stock        |         30,000 |
+| Carriage Inwards      |          7,000 |                      |                |
+| Fuel and Power        |         24,800 |                      |                |
+| Wages and Salaries    |         28,800 |                      |                |
+| **Gross Profit c/d**  |   **1,22,200** |                      |                |
+| **Total**             |   **5,80,400** | **Total**            |   **5,80,400** |
+
+---
+
+**Profit and Loss Account**
+**for the year ended 31st March 2017**
+
+| **Debit Side**                            | **Amount (₹)** | **Credit Side**        | **Amount (₹)** |
+| ----------------------------------------- | -------------: | ---------------------- | -------------: |
+| Carriage Outwards                         |          3,360 | Gross Profit b/d       |       1,22,200 |
+| Bad Debts                                 |          9,950 | Interest on Investment |          3,200 |
+| Repairs                                   |          2,400 | Miscellaneous Receipts |            160 |
+| General Expenses                          |         17,000 |                        |                |
+| **Net Profit transferred to Capital A/c** |     **92,850** |                        |                |
+| **Total**                                 |   **1,25,560** | **Total**              |   **1,25,560** |
+
+**Working Notes**
+
+**1. Calculation of Net Purchases**
+
+Purchases = ₹3,52,000
+
+Less: Return Outwards = ₹12,000
+
+**Net Purchases = ₹3,40,000**
+
+**2. Calculation of Net Sales**
+
+Sales = ₹5,60,000
+
+Less: Return Inwards = ₹9,600
+
+**Net Sales = ₹5,50,400**
+
+**3. Calculation of Cost of Goods Sold**
+
+Opening Stock = ₹57,600
+
+Add: Net Purchases = ₹3,40,000
+
+Add: Carriage Inwards = ₹7,000
+
+Add: Fuel and Power = ₹24,800
+
+Add: Wages and Salaries = ₹28,800
+
+**Goods Available for Sale = ₹4,58,200**
+
+Less: Closing Stock = ₹30,000
+
+**Cost of Goods Sold = ₹4,28,200**
+
+**4. Calculation of Gross Profit**
+
+Net Sales = ₹5,50,400
+
+Less: Cost of Goods Sold = ₹4,28,200
+
+**Gross Profit = ₹1,22,200**
+
+**5. Calculation of Net Profit**
+
+Gross Profit = ₹1,22,200
+
+Add: Interest on Investment = ₹3,200
+
+Add: Miscellaneous Receipts = ₹160
+
+**Total Income = ₹1,25,560**
+
+Less:
+
+* Carriage Outwards = ₹3,360
+* Bad Debts = ₹9,950
+* Repairs = ₹2,400
+* General Expenses = ₹17,000
+
+**Total Expenses = ₹32,710**
+
+**Net Profit = ₹92,850**
+
+**Conclusion**
+
+The **Trading Account** shows a **Gross Profit of ₹1,22,200**, while the **Profit and Loss Account** shows a **Net Profit of ₹92,850** for the year ended **31st March 2017**. The Trading Account considers all direct expenses and closing stock to determine gross profit, whereas the Profit and Loss Account records indirect expenses and other incomes to arrive at the net profit of the business.
+
+**4. From the following particulars, prepare the Trading Account, Profit and Loss Account, and Balance Sheet of the business as on 31st March 2025.**
+
+**Trial Balance**
+
+| Account Title    | Amount (₹) | Account Title    | Amount (₹) |
+| ---------------- | ---------: | ---------------- | ---------: |
+| Machinery        |     48,000 | Capital          |   1,20,000 |
+| Sundry Debtors   |     36,500 | Bills Payable    |      6,500 |
+| Drawings         |      5,200 | Sundry Creditors |      9,800 |
+| Purchases        |   1,05,000 | Sales            |   1,42,000 |
+| Wages            |     28,000 | —                |          — |
+| Sundry Expenses  |      1,800 | —                |          — |
+| Rent and Taxes   |      4,200 | —                |          — |
+| Carriage Inwards |      1,500 | —                |          — |
+| Bank             |     12,300 | —                |          — |
+| Opening Stock    |     18,000 | —                |          — |
+
+**Closing Stock as on 31st March 2025 was valued at ₹42,600.**
+
+**Ans.**
+
+**Trading Account**
+**for the year ended 31st March 2025**
+
+| **Debit Side**       | **Amount (₹)** | **Credit Side** | **Amount (₹)** |
+| -------------------- | -------------: | --------------- | -------------: |
+| Opening Stock        |         18,000 | Sales           |       1,42,000 |
+| Purchases            |       1,05,000 | Closing Stock   |         42,600 |
+| Wages                |         28,000 |                 |                |
+| Carriage Inwards     |          1,500 |                 |                |
+| **Gross Profit c/d** |     **32,100** |                 |                |
+| **Total**            |   **1,84,600** | **Total**       |   **1,84,600** |
+
+---
+
+**Profit and Loss Account**
+**for the year ended 31st March 2025**
+
+| **Debit Side**                            | **Amount (₹)** | **Credit Side**  | **Amount (₹)** |
+| ----------------------------------------- | -------------: | ---------------- | -------------: |
+| Sundry Expenses                           |          1,800 | Gross Profit b/d |         32,100 |
+| Rent and Taxes                            |          4,200 |                  |                |
+| **Net Profit transferred to Capital A/c** |     **26,100** |                  |                |
+| **Total**                                 |     **32,100** | **Total**        |     **32,100** |
+
+---
+
+**Balance Sheet**
+**as on 31st March 2025**
+
+| **Liabilities**      | **Amount (₹)** | **Assets**           | **Amount (₹)** |
+| -------------------- | -------------: | -------------------- | -------------: |
+| Capital              |       1,20,000 | Machinery            |         48,000 |
+| Add: Net Profit      |         26,100 | Sundry Debtors       |         36,500 |
+|                      |       1,46,100 | Bank                 |         12,300 |
+| Less: Drawings       |        (5,200) | Closing Stock        |         42,600 |
+| **Adjusted Capital** |   **1,40,900** | Cash/Balance Figure* |     **17,800** |
+| Bills Payable        |          6,500 |                      |                |
+| Sundry Creditors     |          9,800 |                      |                |
+| **Total**            |   **1,57,200** | **Total**            |   **1,57,200** |
+
+**Working Notes**
+
+**1. Calculation of Cost of Goods Sold**
+
+Opening Stock = ₹18,000
+
+Add: Purchases = ₹1,05,000
+
+Add: Wages = ₹28,000
+
+Add: Carriage Inwards = ₹1,500
+
+**Goods Available for Sale = ₹1,52,500**
+
+Less: Closing Stock = ₹42,600
+
+**Cost of Goods Sold = ₹1,09,900**
+
+**2. Calculation of Gross Profit**
+
+Net Sales = ₹1,42,000
+
+Less: Cost of Goods Sold = ₹1,09,900
+
+**Gross Profit = ₹32,100**
+
+**3. Calculation of Net Profit**
+
+Gross Profit = ₹32,100
+
+Less:
+
+* Sundry Expenses = ₹1,800
+* Rent and Taxes = ₹4,200
+
+**Total Expenses = ₹6,000**
+
+**Net Profit = ₹26,100**
+
+**Conclusion**
+
+The business earned a **Gross Profit of ₹32,100** and a **Net Profit of ₹26,100** during the year ended **31st March 2025**. After adding the net profit and deducting drawings, the adjusted capital amounts to **₹1,40,900**. The Balance Sheet balances at **₹1,57,200**.
+
+***Note:** Based on the figures provided, the trial balance is not arithmetically balanced. A balancing figure of **₹17,800** has been shown under assets (Cash/Balance Figure) to complete the Balance Sheet. In a complete question, this amount would typically correspond to a missing asset omitted from the trial balance.
+
+**5. From the following information relating to M/s Apex Legal Services for the year ended 31st March 2025, prepare: Profit and Loss Account, and Balance Sheet as on that date.**
+
+**Given Information**
+
+a) Legal Consultancy Fees – ₹4,80,000  
+
+b) Commission Received – ₹30,000  
+
+c) Interest Received on Fixed Deposit – ₹15,000    
+
+d) Salaries to Staff – ₹2,10,000  
+
+e) Office Rent – ₹60,000  
+
+f) Electricity and Water Charges – ₹18,000  
+
+g) Printing and Stationery – ₹12,000  
+
+h) Telephone and Internet Expenses – ₹14,000  
+
+i) Legal and Professional Expenses – ₹8,000  
+
+j) Bank Charges – ₹4,000  
+
+k) Depreciation on Office Equipment – ₹19,000  
+
+**Additional Information:**
+
+* Opening Capital as on **1st April 2024** was **₹7,50,000**.
+* No drawings were made during the year.
+
+**Ans.**
+
+**Profit and Loss Account**
+**of M/s Apex Legal Services**
+**for the year ended 31st March 2025**
+
+| **Debit Side**                            | **Amount (₹)** | **Credit Side**           | **Amount (₹)** |
+| ----------------------------------------- | -------------: | ------------------------- | -------------: |
+| Salaries to Staff                         |       2,10,000 | Legal Consultancy Fees    |       4,80,000 |
+| Office Rent                               |         60,000 | Commission Received       |         30,000 |
+| Electricity and Water Charges             |         18,000 | Interest on Fixed Deposit |         15,000 |
+| Printing and Stationery                   |         12,000 |                           |                |
+| Telephone and Internet Expenses           |         14,000 |                           |                |
+| Legal and Professional Expenses           |          8,000 |                           |                |
+| Bank Charges                              |          4,000 |                           |                |
+| Depreciation on Office Equipment          |         19,000 |                           |                |
+| **Net Profit transferred to Capital A/c** |   **1,80,000** |                           |                |
+| **Total**                                 |   **5,25,000** | **Total**                 |   **5,25,000** |
+
+---
+
+**Balance Sheet**
+**of M/s Apex Legal Services**
+**as on 31st March 2025**
+
+| **Liabilities**     | **Amount (₹)** | **Assets**                  | **Amount (₹)** |
+| ------------------- | -------------: | --------------------------- | -------------: |
+| Opening Capital     |       7,50,000 | Cash and Bank / Net Assets* |   **9,30,000** |
+| Add: Net Profit     |       1,80,000 |                             |                |
+| Less: Drawings      |              — |                             |                |
+| **Closing Capital** |   **9,30,000** |                             |                |
+| **Total**           |   **9,30,000** | **Total**                   |   **9,30,000** |
+
+**Working Notes**
+
+**1. Calculation of Total Income**
+
+Legal Consultancy Fees = ₹4,80,000
+
+Add: Commission Received = ₹30,000
+
+Add: Interest on Fixed Deposit = ₹15,000
+
+**Total Income = ₹5,25,000**
+
+**2. Calculation of Total Expenses**
+
+* Salaries to Staff = ₹2,10,000
+* Office Rent = ₹60,000
+* Electricity and Water Charges = ₹18,000
+* Printing and Stationery = ₹12,000
+* Telephone and Internet Expenses = ₹14,000
+* Legal and Professional Expenses = ₹8,000
+* Bank Charges = ₹4,000
+* Depreciation on Office Equipment = ₹19,000
+
+**Total Expenses = ₹3,45,000**
+
+**3. Calculation of Net Profit**
+
+Total Income = ₹5,25,000
+
+Less: Total Expenses = ₹3,45,000
+
+**Net Profit = ₹1,80,000**
+
+**4. Calculation of Closing Capital**
+
+Opening Capital = ₹7,50,000
+
+Add: Net Profit = ₹1,80,000
+
+Less: Drawings = Nil
+
+**Closing Capital = ₹9,30,000**
+
+**Conclusion**
+
+The **Profit and Loss Account** shows that **M/s Apex Legal Services** earned a **Net Profit of ₹1,80,000** during the year ended **31st March 2025**. Since there were **no drawings**, the entire profit is added to the opening capital, resulting in a **Closing Capital of ₹9,30,000**. The **Balance Sheet** therefore balances at **₹9,30,000**.
+
+***Note:** As no detailed information regarding assets and liabilities (such as cash, office equipment, furniture, debtors, creditors, etc.) has been provided, the asset side is shown as **Cash and Bank / Net Assets (Balancing Figure)** equal to the closing capital. This is the accepted presentation when only capital and income–expense details are available.
+
+### ***July 18, 2026***
+
+### Unit 11 Short Answer (200-250 words)
+
+**1. What is meant by accounting adjustment?**
+
+**Ans.**
+
+**Accounting Adjustment**
+
+Accounting adjustment refers to the process of recognising outstanding, prepaid, accrued, unearned, or estimated items that affect the calculation of profit and the valuation of assets and liabilities. These adjustments are made at the end of the accounting period to ensure that the financial statements are prepared according to the accrual system of accounting and comply with established accounting principles. They help in recording incomes and expenses in the period to which they actually relate, regardless of when cash is received or paid. 
+
+**A) Meaning of Accounting Adjustment**
+
+i) Accounting adjustments are entries passed at the end of the accounting period.
+
+ii) They recognise incomes earned and expenses incurred but not yet recorded.
+
+iii) They ensure that the final accounts present a true and fair view of the financial performance and financial position of the business. 
+
+**B) Need for Accounting Adjustments**
+
+i) To determine the correct profit or loss for the accounting period.
+
+ii) To show the correct value of assets and liabilities in the Balance Sheet.
+
+iii) To comply with the accrual concept and matching principle of accounting. 
+
+**C) Common Types of Accounting Adjustments**
+
+i) Outstanding expenses and prepaid expenses.
+
+ii) Accrued income and income received in advance.
+
+iii) Depreciation, provision for doubtful debts, closing stock, and interest on capital and drawings. 
+
+**Conclusion**
+
+Accounting adjustments are essential for preparing accurate final accounts. They ensure that all incomes and expenses are recorded in the correct accounting period, resulting in the proper calculation of profit and the correct valuation of assets and liabilities. Thus, accounting adjustments help present a true and fair view of the financial performance and financial position of a business.
+
+**2. Why are adjustment entries necessary at the end of the accounting period?**
+
+**Ans.**
+
+**Need for Adjustment Entries at the End of the Accounting Period**
+
+Adjustment entries are necessary at the end of the accounting period to ensure that the final accounts present a **true and fair view** of the financial performance and financial position of a business. During an accounting year, some incomes and expenses may remain unrecorded because of timing differences. Adjustment entries record these items in accordance with the **accrual concept** and the **matching principle**, ensuring that all incomes earned and expenses incurred are recognised in the correct accounting period. 
+
+**A) To Determine Correct Profit or Loss**
+
+i) Adjustment entries include all incomes earned and expenses incurred during the accounting period.
+
+ii) They prevent the overstatement or understatement of profits.
+
+iii) This helps in determining the correct net profit or net loss of the business. 
+
+**B) To Show Correct Value of Assets and Liabilities**
+
+i) Adjustments ensure that outstanding expenses, prepaid expenses, accrued incomes, and incomes received in advance are properly recorded.
+
+ii) They help in presenting the correct value of assets and liabilities in the Balance Sheet.
+
+iii) This improves the accuracy of the financial statements. 
+
+**C) To Ensure Compliance with Accounting Principles**
+
+i) Adjustment entries follow the accrual concept by recording transactions when they occur rather than when cash is received or paid.
+
+ii) They apply the matching principle by matching expenses with the related income of the same accounting period.
+
+iii) They provide reliable financial information to owners, investors, lenders, and other stakeholders. 
+
+**Conclusion**
+
+Adjustment entries are essential at the end of the accounting period because they ensure accurate profit determination, proper valuation of assets and liabilities, and compliance with accounting principles. They help prepare reliable financial statements that present a true and fair view of the business's financial performance and financial position.
+
+**3. What is an outstanding expense?**
+
+**Ans.**
+
+**Outstanding Expense**
+
+An outstanding expense is an expense that has been incurred during the current accounting period but has not yet been paid or recorded in the books of accounts by the end of that period. Since the expense relates to the current year, it must be recognised to determine the true profit or loss of the business. Outstanding expenses arise due to the application of the **accrual concept**, which requires expenses to be recorded in the period in which they are incurred, irrespective of the actual payment. Common examples include outstanding salaries, wages, rent, and electricity charges. 
+
+**A) Meaning of Outstanding Expense**
+
+i) It is an expense incurred but not yet paid at the end of the accounting period.
+
+ii) It relates to the current accounting period and must be recognised in the books.
+
+iii) It ensures that the expenses of the current period are correctly matched with the related income. 
+
+**B) Accounting Treatment**
+
+i) The outstanding amount is added to the respective expense in the Trading Account or Profit and Loss Account.
+
+ii) It is shown on the liabilities side of the Balance Sheet under **Current Liabilities**.
+
+iii) The adjustment increases the total expense for the year. 
+
+**C) Effect on Financial Statements**
+
+i) Expenses increase, resulting in a reduction of net profit.
+
+ii) Current liabilities increase because the amount is payable by the business.
+
+iii) It ensures that the financial statements present a true and fair view of the business. 
+
+*Example:* If rent paid during the year is ₹48,000 and rent of ₹4,000 remains unpaid at the year-end, the total rent expense recorded in the Profit and Loss Account will be ₹52,000, and ₹4,000 will be shown as an outstanding liability in the Balance Sheet. 
+
+**Conclusion**
+
+An outstanding expense is an unpaid expense relating to the current accounting period. It is recorded through an adjustment entry to ensure the correct calculation of profit and the proper presentation of liabilities in the financial statements.
+
+**4. How are prepaid expenses treated in final accounts?**
+
+**Ans.**
+
+**Treatment of Prepaid Expenses in Final Accounts**
+
+Prepaid expenses are expenses that have been paid in advance during the current accounting period, but their benefit relates wholly or partly to a future accounting period. Since these expenses do not belong entirely to the current year, the unexpired portion must be excluded from the current year's expenses. This treatment follows the **accrual concept** and the **matching principle**, ensuring that only the expenses relating to the current accounting period are charged against current income. Common examples include prepaid rent, insurance, advertising, and subscriptions. 
+
+**A) Treatment in the Profit and Loss Account**
+
+i) The prepaid portion is deducted from the respective expense.
+
+ii) Only the expense relating to the current accounting period is debited to the Profit and Loss Account.
+
+iii) This prevents the overstatement of current expenses and helps determine the correct net profit. 
+
+**B) Treatment in the Balance Sheet**
+
+i) Prepaid expenses are shown on the **Assets** side under **Current Assets**.
+
+ii) They are treated as assets because they represent a future economic benefit.
+
+iii) They remain in the Balance Sheet until the benefit is utilised in the next accounting period. 
+
+**C) Effect on Financial Statements**
+
+i) Current expenses decrease, resulting in an increase in net profit.
+
+ii) Current assets increase due to the inclusion of prepaid expenses.
+
+iii) The financial statements present a true and fair view of the business by charging only the relevant expenses to the current period. 
+
+*Example:* If insurance premium of ₹24,000 is paid for one year and ₹6,000 relates to the next accounting period, ₹18,000 is charged to the Profit and Loss Account, while ₹6,000 is shown as a prepaid expense under Current Assets in the Balance Sheet. 
+
+**Conclusion**
+
+Prepaid expenses are deducted from the related expense in the Profit and Loss Account and shown as **Current Assets** in the Balance Sheet. This treatment ensures that only the expenses relating to the current accounting period are recognised, resulting in accurate profit determination and proper presentation of financial statements.
+
+**5. Define depreciation.**
+
+**Ans.**
+
+**Depreciation**
+
+Depreciation is the gradual and permanent reduction in the value of a fixed asset due to continuous use, passage of time, wear and tear, obsolescence, or technological changes. Since fixed assets provide benefits over several accounting periods, their cost is systematically allocated over their useful life. Charging depreciation is essential to comply with the **matching concept** and to present a true and fair view of the financial statements. Common depreciable assets include plant and machinery, furniture, vehicles, computers, and office equipment. 
+
+**A) Meaning of Depreciation**
+
+i) Depreciation is the decrease in the value of a fixed asset over time.
+
+ii) It occurs because of continuous use, wear and tear, ageing, or obsolescence.
+
+iii) It allocates the cost of a fixed asset over its useful life. 
+
+**B) Need for Depreciation**
+
+i) To match the cost of fixed assets with the revenue they generate.
+
+ii) To show fixed assets at their realistic value in the Balance Sheet.
+
+iii) To ascertain the correct profit or loss and provide for the replacement of assets in the future. 
+
+**C) Treatment in Final Accounts**
+
+i) Depreciation is shown on the debit side of the Profit and Loss Account as an expense.
+
+ii) In the Balance Sheet, it is deducted from the value of the related fixed asset or shown through a provision for depreciation.
+
+iii) This reduces both the net profit and the book value of the asset, ensuring accurate financial reporting. 
+
+*Example:* If machinery costing ₹2,00,000 is depreciated at 10% per annum, depreciation of ₹20,000 is charged to the Profit and Loss Account, and the machinery is shown at ₹1,80,000 in the Balance Sheet. 
+
+**Conclusion**
+
+Depreciation is the systematic allocation of the cost of a fixed asset over its useful life. It helps determine the correct profit, presents assets at their realistic value, and ensures that the financial statements provide a true and fair view of the business.
+
+**6. What is meant by bad debts?**
+
+**Ans.**
+
+**Bad Debts**
+
+Bad debts refer to amounts due from debtors that have become **irrecoverable** and cannot be collected by the business. They arise when customers fail to pay the amounts owed because of reasons such as insolvency, bankruptcy, or financial difficulties. Since these amounts are no longer recoverable, they are treated as a loss to the business and written off from the books of accounts. Writing off bad debts ensures that debtors are shown at their **realisable value** and that profits are not overstated. 
+
+**A) Meaning of Bad Debts**
+
+i) Bad debts are amounts that cannot be recovered from debtors.
+
+ii) They occur when customers fail to pay their outstanding dues.
+
+iii) They are treated as a business loss and written off from the books of accounts. 
+
+**B) Treatment in Final Accounts**
+
+i) Bad debts are shown on the **debit side** of the Profit and Loss Account as a loss.
+
+ii) The amount of bad debts is deducted from **Sundry Debtors** in the Balance Sheet.
+
+iii) This ensures that debtors are presented at their realisable value. 
+
+**C) Effect on Financial Statements**
+
+i) Bad debts reduce the net profit of the business.
+
+ii) They decrease the value of Sundry Debtors in the Balance Sheet.
+
+iii) They help prevent the overstatement of assets and profits, ensuring accurate financial reporting. 
+
+*Example:* If a debtor owes ₹2,000 but becomes insolvent and is unable to pay, the amount is treated as bad debt. It is debited to the **Profit and Loss Account** and deducted from **Sundry Debtors** in the Balance Sheet. 
+
+**Conclusion**
+
+Bad debts are amounts that cannot be recovered from debtors and are therefore written off as a business loss. They are charged to the Profit and Loss Account and deducted from Sundry Debtors in the Balance Sheet, ensuring that the financial statements present a true and fair view of the business.
+
+**7. Why is provision for doubtful debts created?**
+
+**Ans.**
+
+**Need for Provision for Doubtful Debts**
+
+A provision for doubtful debts is created to estimate the amount that may become irrecoverable from debtors in the future. Although the exact amount of bad debts cannot be known at the end of the accounting period, experience shows that some debtors may fail to pay. Therefore, a reasonable provision is made in advance to cover such expected losses. This follows the **prudence (conservatism) concept**, which requires anticipated losses to be recognised without waiting for them to actually occur. It also ensures that debtors are shown at their **net realisable value** and that profits are not overstated. 
+
+**A) Purpose of Creating Provision**
+
+i) To provide for expected future losses arising from doubtful debts.
+
+ii) To show Sundry Debtors at their net realisable value in the Balance Sheet.
+
+iii) To avoid overstatement of profits and assets. 
+
+**B) Compliance with Accounting Principles**
+
+i) It follows the **prudence (conservatism) concept** by recognising expected losses in advance.
+
+ii) It helps determine the correct profit for the accounting period.
+
+iii) It improves the reliability and accuracy of financial statements. 
+
+**C) Treatment in Final Accounts**
+
+i) The provision is debited to the **Profit and Loss Account** as an expense.
+
+ii) It is deducted from **Sundry Debtors** in the Balance Sheet.
+
+iii) This reduces the value of debtors to their expected recoverable amount and presents a true and fair view of the financial position. 
+
+*Example:* If adjusted Sundry Debtors amount to ₹78,000 and a provision of 5% is required, a provision of ₹3,900 is created. It is debited to the Profit and Loss Account and deducted from Sundry Debtors in the Balance Sheet. 
+
+**Conclusion**
+
+A provision for doubtful debts is created to cover estimated future losses from debtors, ensure correct profit determination, and present debtors at their net realisable value. It prevents the overstatement of profits and assets and ensures reliable financial statements.
+
+**8. How is closing stock treated in final accounts?**
+
+**Ans.**
+
+**Treatment of Closing Stock in Final Accounts**
+
+Closing stock refers to the value of unsold goods remaining at the end of an accounting period. It may include raw materials, work-in-progress, and finished goods. Closing stock is valued at **cost or net realisable value, whichever is lower**, in accordance with the principle of prudence. Since it represents goods that have not yet been sold, it is treated as an asset and also affects the calculation of gross profit. Therefore, closing stock has a **dual effect** in the final accounts. 
+
+**A) Treatment in the Trading Account**
+
+i) Closing stock is shown on the **credit side** of the Trading Account.
+
+ii) It is deducted from the cost of goods available for sale.
+
+iii) This helps in determining the correct **gross profit** for the accounting period. 
+
+**B) Treatment in the Balance Sheet**
+
+i) Closing stock is shown on the **Assets** side of the Balance Sheet under **Current Assets**.
+
+ii) It is treated as an asset because it will be sold in the next accounting period.
+
+iii) It represents the value of goods available for future sale. 
+
+**C) Effect on Financial Statements**
+
+i) Closing stock increases the gross profit shown in the Trading Account.
+
+ii) It increases the value of current assets in the Balance Sheet.
+
+iii) It ensures correct profit determination and presents a true and fair view of the financial position of the business. 
+
+*Example:* If the closing stock at the end of the year is ₹50,000, it is shown on the **credit side** of the Trading Account and also on the **Assets** side of the Balance Sheet as Current Assets. 
+
+**Conclusion**
+
+Closing stock is shown on the **credit side of the Trading Account** and on the **Assets side of the Balance Sheet**. This dual treatment ensures correct calculation of gross profit and proper presentation of the financial position in the final accounts.
+
+**9. What is accrued income?**
+
+**Ans.**
+
+**Accrued Income**
+
+Accrued income is the income that has been **earned during the current accounting period but has not yet been received or recorded** in the books of accounts by the end of the accounting period. According to the **accrual concept**, income should be recognised in the period in which it is earned, irrespective of when it is actually received. Therefore, accrued income is added to the relevant income account to ensure correct profit determination and is treated as a current asset because it represents an amount receivable in the future. 
+
+**A) Treatment in the Profit and Loss Account**
+
+i) Accrued income is **added** to the related income.
+
+ii) The total income earned during the accounting period is credited to the Profit and Loss Account.
+
+iii) This ensures that the current year's income is not understated. 
+
+**B) Treatment in the Balance Sheet**
+
+i) Accrued income is shown on the **Assets** side of the Balance Sheet under **Current Assets**.
+
+ii) It is treated as an asset because the amount is receivable in the future.
+
+iii) It remains an asset until the amount is actually received. 
+
+**C) Effect on Financial Statements**
+
+i) Accrued income increases the income of the current accounting period.
+
+ii) It increases current assets in the Balance Sheet.
+
+iii) It ensures accurate profit determination and presents a true and fair view of the financial position. 
+
+*Example:* If commission of ₹10,000 has been earned during the year but only ₹8,000 has been received, the remaining ₹2,000 is treated as accrued income. It is added to Commission in the Profit and Loss Account and shown as a Current Asset in the Balance Sheet. 
+
+**Conclusion**
+
+Accrued income is income earned but not yet received. It is added to the relevant income in the Profit and Loss Account and shown as a **Current Asset** in the Balance Sheet, ensuring that income is recognised in the correct accounting period and financial statements present a true and fair view.
+
+**10. What is income received in advance?**
+
+**Ans.**
+
+**Income Received in Advance**
+
+Income received in advance refers to the income that has been **received during the current accounting period but has not yet been earned** because the related goods or services will be provided in a future accounting period. According to the **accrual concept**, income should be recognised only when it is earned. Therefore, the unearned portion is not treated as current year's income but as a **current liability**, since the business has an obligation to provide goods or services in the future. 
+
+**A) Treatment in the Profit and Loss Account**
+
+i) The amount received in advance is **deducted** from the related income.
+
+ii) Only the income earned during the current accounting period is credited to the Profit and Loss Account.
+
+iii) This ensures that income is not overstated. 
+
+**B) Treatment in the Balance Sheet**
+
+i) Income received in advance is shown on the **Liabilities** side of the Balance Sheet under **Current Liabilities**.
+
+ii) It is treated as a liability because the business still has to provide goods or services.
+
+iii) The liability is removed once the income is earned in the next accounting period. 
+
+**C) Effect on Financial Statements**
+
+i) It reduces the income recognised in the current accounting period.
+
+ii) It increases current liabilities in the Balance Sheet.
+
+iii) It ensures accurate profit determination and presents a true and fair view of the financial position. 
+
+*Example:* If rent of ₹24,000 is received for 12 months and ₹4,000 relates to the next accounting period, only ₹20,000 is credited to the Profit and Loss Account. The remaining ₹4,000 is shown as **Income Received in Advance** under Current Liabilities in the Balance Sheet. 
+
+**Conclusion**
+
+Income received in advance is income received before it is earned. It is deducted from the related income in the Profit and Loss Account and shown as a **Current Liability** in the Balance Sheet, ensuring that income is recognised in the correct accounting period.
+
+### Unit 11 Long Answer (400-500 words)
+
+**1. Explain the concept of adjustment entries in final accounts. Why are they necessary? Discuss the accounting treatment of outstanding expenses and prepaid expenses with examples.**
+
+**Ans.**
+
+**Adjustment Entries in Final Accounts: Concept, Need, and Accounting Treatment of Outstanding Expenses and Prepaid Expenses**
+
+Adjustment entries are journal entries passed at the **end of the accounting period** to record incomes and expenses that have not yet been recorded or have been recorded incorrectly. Their main purpose is to ensure that all incomes and expenses are recognised in the correct accounting period and that assets and liabilities are shown at their true and fair values. These entries are based on the **accrual concept** and the **matching principle** of accounting, which require revenues and related expenses to be recognised in the same accounting period. 
+
+**A) Need for Adjustment Entries**
+
+i) To record outstanding and prepaid expenses, accrued incomes, and incomes received in advance.
+
+ii) To ensure correct determination of profit or loss for the accounting period.
+
+iii) To present assets and liabilities at their true and fair values in the Balance Sheet.
+
+iv) To comply with the accrual concept and matching principle of accounting.
+
+v) To prepare reliable and accurate financial statements. 
+
+**B) Accounting Treatment of Outstanding Expenses**
+
+Outstanding expenses are expenses that have been **incurred during the current accounting period but have not yet been paid or recorded**. Since they relate to the current year, they must be recognised before preparing the final accounts. 
+
+i) **Profit and Loss Account:** The outstanding expense is **added** to the related expense and shown on the debit side.
+
+ii) **Balance Sheet:** The outstanding amount is shown on the **Liabilities** side under Current Liabilities.
+
+iii) This treatment ensures that all expenses relating to the current year are included while calculating net profit. 
+
+*Example:* If salaries paid during the year are ₹48,000 and salaries outstanding are ₹2,000, the Profit and Loss Account shows **Salaries ₹50,000**, while ₹2,000 is shown as an outstanding liability in the Balance Sheet. 
+
+**C) Accounting Treatment of Prepaid Expenses**
+
+Prepaid expenses are expenses that have been **paid in advance** but relate partly or wholly to future accounting periods. Only the portion relating to the current year should be treated as an expense. 
+
+i) **Profit and Loss Account:** The prepaid amount is **deducted** from the related expense.
+
+ii) **Balance Sheet:** The prepaid amount is shown on the **Assets** side under Current Assets.
+
+iii) This treatment prevents future expenses from being charged to the current year's profit. 
+
+*Example:* If insurance paid is ₹12,000 and ₹3,000 relates to the next accounting period, only ₹9,000 is charged to the Profit and Loss Account, while ₹3,000 is shown as a prepaid expense under Current Assets in the Balance Sheet. 
+
+**Conclusion**
+
+Adjustment entries are essential for preparing accurate final accounts because they ensure that incomes and expenses are recorded in the correct accounting period. The proper treatment of outstanding expenses and prepaid expenses helps determine the correct profit and presents a true and fair view of the financial position of the business.
+
+**2. Define depreciation. Explain its causes and objectives. Describe the accounting treatment of depreciation in final accounts.**
+
+**Ans.**
+
+**Depreciation: Meaning, Causes, Objectives, and Accounting Treatment in Final Accounts**
+
+Depreciation is the **gradual and permanent reduction in the value of a fixed asset** due to continuous use, wear and tear, passage of time, obsolescence, or technological changes. Since fixed assets provide benefits over several accounting periods, their cost is systematically allocated over their useful life. Charging depreciation is necessary to comply with the **matching concept** and to present a true and fair view of the financial statements. Common depreciable assets include plant and machinery, furniture, vehicles, computers, and equipment. 
+
+**A) Causes of Depreciation**
+
+i) **Wear and Tear:** Continuous use of fixed assets reduces their efficiency and value.
+
+ii) **Passage of Time:** Certain assets lose value simply due to the passage of time.
+
+iii) **Obsolescence:** Technological advancements make existing assets outdated.
+
+iv) **Exhaustion:** Natural resources such as mines and oil wells lose value as they are extracted.
+
+v) **Accidental Damage:** Fire, floods, or other unforeseen events may reduce the value of assets. 
+
+**B) Objectives of Depreciation**
+
+i) To match the cost of fixed assets with the revenue they generate.
+
+ii) To show fixed assets at their realistic value in the Balance Sheet.
+
+iii) To ascertain the correct profit or loss for the accounting period.
+
+iv) To make provision for the replacement of assets after the end of their useful life.
+
+v) To avoid overstatement of profits and assets in the financial statements. 
+
+**C) Accounting Treatment of Depreciation in Final Accounts**
+
+i) **Journal Entry:**
+Depreciation A/c Dr.
+    To Asset A/c
+(or To Provision for Depreciation A/c, if the provision method is followed). 
+
+ii) **Profit and Loss Account:** Depreciation is shown on the **debit side** as an expense, reducing the net profit for the accounting period. 
+
+iii) **Balance Sheet:** If depreciation is charged directly, the asset is shown at its **written-down value**. If the provision method is followed, the asset is shown at cost less accumulated depreciation. This ensures that fixed assets are presented at their realistic value. 
+
+*Example:* A firm purchases machinery costing ₹2,00,000 and charges depreciation at 10% per annum. Depreciation for the year is ₹20,000. The Profit and Loss Account is debited with ₹20,000, and the machinery is shown in the Balance Sheet at **₹1,80,000** after deducting depreciation. 
+
+**Conclusion**
+
+Depreciation is an essential accounting adjustment that allocates the cost of fixed assets over their useful life. It ensures correct profit determination, realistic valuation of assets, and compliance with accounting principles, thereby presenting a true and fair view of the financial position of the business.
+
+**3. What are bad debts and provision for doubtful debts? Why is provision created? Explain their accounting treatment with suitable examples.**
+
+**Ans.**
+
+**Bad Debts and Provision for Doubtful Debts: Meaning, Need, and Accounting Treatment**
+
+Bad debts are the amounts due from customers that become **irrecoverable** because the customers are unable or unwilling to pay. Such amounts are treated as a loss to the business and must be written off in the accounting period in which they become uncollectible. However, not all debtors may fail to pay. Some debts may become doubtful in the future. To provide for such expected losses, businesses create a **Provision for Doubtful Debts**, which is an estimated amount set aside out of current profits. This follows the **prudence (conservatism) concept**, ensuring that anticipated losses are recognised while profits are not overstated. 
+
+**A) Need for Creating Provision for Doubtful Debts**
+
+i) To estimate the probable loss from doubtful debtors.
+
+ii) To comply with the prudence concept of accounting.
+
+iii) To determine the correct profit for the accounting period.
+
+iv) To show debtors at their **net realisable value** in the Balance Sheet.
+
+v) To avoid overstatement of profits and current assets. 
+
+**B) Accounting Treatment**
+
+**i) Bad Debts**
+
+* **Profit and Loss Account:** Bad debts are shown on the **debit side** as an expense.
+* **Balance Sheet:** The amount of bad debts is deducted from Sundry Debtors before showing the balance under Current Assets. 
+
+**ii) Provision for Doubtful Debts**
+
+* **Profit and Loss Account:** The amount of new provision created or the increase in provision is debited as an expense.
+* **Balance Sheet:** Sundry Debtors are shown after deducting both bad debts and the provision for doubtful debts, thereby presenting debtors at their estimated realisable value. 
+
+**C) Suitable Example**
+
+Suppose Sundry Debtors amount to **₹1,00,000**, bad debts are **₹5,000**, and a provision for doubtful debts is to be created at **5%** on the remaining debtors.
+
+* Sundry Debtors = ₹1,00,000
+* Less: Bad Debts = ₹5,000
+* Remaining Debtors = ₹95,000
+* Provision @ 5% = ₹4,750
+
+The Profit and Loss Account will show **Bad Debts ₹5,000** and **Provision for Doubtful Debts ₹4,750** as expenses. The Balance Sheet will show Sundry Debtors at **₹90,250** (₹95,000 − ₹4,750). 
+
+**Conclusion**
+
+Bad debts represent actual losses due to non-recovery from customers, whereas a provision for doubtful debts is an estimated reserve created against possible future losses. Their proper accounting treatment ensures accurate profit determination and presents debtors at their true and fair value in the Balance Sheet.
+
+**4. Explain the treatment of closing stock in final accounts. Why is it shown in both Trading Account and Balance Sheet?**
+
+**Ans.**
+
+**Treatment of Closing Stock in Final Accounts and Its Importance**
+
+Closing stock refers to the value of **unsold goods remaining with the business at the end of the accounting period**. It includes raw materials, work-in-progress, and finished goods that are available for future sale or use. Closing stock is generally valued at **cost or net realisable value, whichever is lower**, in accordance with the **prudence concept** of accounting. Since it represents goods that have not yet been sold, it is treated as a **current asset**. At the same time, it also affects the calculation of gross profit. Therefore, closing stock has a **dual effect** and is shown in both the **Trading Account** and the **Balance Sheet**. 
+
+**A) Treatment of Closing Stock in Final Accounts**
+
+i) **Trading Account:** Closing stock is shown on the **credit side** of the Trading Account. It is deducted from the cost of goods available for sale, which helps in calculating the correct **gross profit** for the accounting period.
+
+ii) **Balance Sheet:** Closing stock is shown on the **Assets** side of the Balance Sheet under **Current Assets** because it represents goods that will be sold in the next accounting period and will generate future economic benefits. 
+
+**B) Why Closing Stock is Shown in Both Trading Account and Balance Sheet**
+
+i) To determine the correct **cost of goods sold** and calculate accurate gross profit.
+
+ii) To record the value of unsold goods as a **current asset** available for future sale.
+
+iii) To comply with the **matching concept**, ensuring that only the cost of goods actually sold is charged against current revenue.
+
+iv) To present a **true and fair view** of the financial position of the business.
+
+v) To avoid understatement or overstatement of profit and assets. 
+
+**C) Suitable Example**
+
+Suppose the closing stock at the end of the accounting year is **₹50,000**. This amount is shown on the **credit side** of the Trading Account, increasing the gross profit. The same amount is also shown on the **Assets** side of the Balance Sheet under Current Assets, as it represents goods available for sale in the next accounting period. 
+
+**Conclusion**
+
+Closing stock has a dual role in final accounts. It is credited to the Trading Account to determine the correct gross profit and shown as a **Current Asset** in the Balance Sheet to reflect the value of unsold goods. This dual treatment ensures accurate profit measurement and presents a true and fair view of the financial position of the business.
+
+**5. What is accrued income and income received in advance? Explain their meaning and accounting treatment with examples.**
+
+**Ans.**
+
+**Accrued Income and Income Received in Advance: Meaning and Accounting Treatment**
+
+Accrued income and income received in advance are important **adjustment entries** made while preparing final accounts. They are based on the **accrual concept**, which states that income should be recognised in the accounting period in which it is earned, irrespective of when cash is received. These adjustments ensure correct profit determination and present a true and fair view of the financial position of the business. 
+
+**A) Accrued Income**
+
+Accrued income is the income that has been **earned during the current accounting period but has not yet been received or recorded** in the books of accounts. Since the income belongs to the current year, it must be recognised even though the cash has not yet been received. It is treated as a **Current Asset** because it is receivable in the future. 
+
+**Accounting Treatment of Accrued Income**
+
+i) **Profit and Loss Account:** The accrued income is **added** to the related income.
+
+ii) **Balance Sheet:** It is shown on the **Assets** side under **Current Assets**.
+
+iii) This treatment ensures that the income of the current year is not understated. 
+
+*Example:* If commission earned during the year is ₹10,000 but only ₹8,000 has been received, the remaining ₹2,000 is treated as accrued income. It is added to Commission in the Profit and Loss Account and shown as a Current Asset in the Balance Sheet. 
+
+**B) Income Received in Advance**
+
+Income received in advance refers to the income that has been **received during the current accounting period but has not yet been earned** because the related services or goods will be provided in a future accounting period. It is treated as a **Current Liability** because the business has an obligation to provide goods or services in the future. 
+
+**Accounting Treatment of Income Received in Advance**
+
+i) **Profit and Loss Account:** The amount received in advance is **deducted** from the related income.
+
+ii) **Balance Sheet:** It is shown on the **Liabilities** side under **Current Liabilities**.
+
+iii) This ensures that only the income earned during the current year is recognised. 
+
+*Example:* If rent of ₹24,000 is received for 12 months and ₹4,000 relates to the next accounting period, only ₹20,000 is credited to the Profit and Loss Account. The remaining ₹4,000 is shown as **Income Received in Advance** under Current Liabilities in the Balance Sheet. 
+
+**Conclusion**
+
+Accrued income and income received in advance are essential adjustments in final accounts. Accrued income is added to income and shown as a **Current Asset**, whereas income received in advance is deducted from income and shown as a **Current Liability**. These adjustments ensure accurate profit determination and present a true and fair view of the financial position of the business.
+
+### Unit 12 Short Answer (200-250 words)
+
+**1. List any two items recorded in a Receipts and Payments Account.**
+
+**Ans.**
+
+A **Receipts and Payments Account** is a summary of all **cash and bank transactions** of a Not-for-Profit Organisation during an accounting period. It records all receipts on the **debit side** and all payments on the **credit side**, irrespective of whether they are of a capital or revenue nature or relate to the current, previous, or future accounting periods. 
+
+**A) Subscriptions Received**
+
+i) Subscriptions are one of the major sources of income for a Not-for-Profit Organisation.
+
+ii) The Receipts and Payments Account records **all subscriptions received**, including those relating to the previous year, current year, and advance subscriptions for future years.
+
+iii) They are shown on the **Receipts (Debit) side** of the account. 
+
+**B) Salaries Paid**
+
+i) Salaries paid to employees are a common revenue payment of the organisation.
+
+ii) The total amount of salaries actually paid during the accounting period is recorded, regardless of the year to which it relates.
+
+iii) It is shown on the **Payments (Credit) side** of the Receipts and Payments Account. 
+
+*Example:* If a sports club receives **₹20,000 as subscriptions** and pays **₹8,000 as salaries** during the year, the subscriptions are recorded on the **Receipts side**, while the salaries are recorded on the **Payments side** of the Receipts and Payments Account. 
+
+**Conclusion**
+
+Subscriptions received and salaries paid are two common items recorded in a Receipts and Payments Account. They help present a summary of the organisation's cash receipts and cash payments during the accounting period.
+
+**2. Explain why non-cash expenses such as depreciation are excluded from the Receipts and Payments Account.**
+
+**Ans.**
+
+**Why Non-Cash Expenses Such as Depreciation are Excluded from the Receipts and Payments Account**
+
+A **Receipts and Payments Account** is a summary of all **cash and bank transactions** of a Not-for-Profit Organisation during an accounting period. It is prepared strictly on the **cash basis of accounting**, which means that only actual cash receipts and cash payments are recorded. Since depreciation does not involve any payment of cash, it is not included in this account. 
+
+**A) Meaning of Depreciation**
+
+i) Depreciation is the gradual reduction in the value of fixed assets due to use, wear and tear, or passage of time.
+
+ii) It is a **non-cash expense**, as no cash is paid when depreciation is charged.
+
+iii) It is merely an accounting adjustment to determine the correct value of assets and the true cost of using them. 
+
+**B) Why Depreciation is Excluded**
+
+i) The Receipts and Payments Account records **only actual cash inflows and outflows**.
+
+ii) Since depreciation does not involve any movement of cash, it is excluded.
+
+iii) Other non-cash items such as outstanding expenses, accrued incomes, and provisions are also omitted from this account. 
+
+**C) Where Depreciation is Recorded**
+
+i) Depreciation is recorded in the **Income and Expenditure Account**, which is prepared on the **accrual basis of accounting**.
+
+ii) It is treated as a revenue expense while calculating the surplus or deficit for the year.
+
+iii) It is also deducted from the value of fixed assets in the Balance Sheet. 
+
+*Example:* If depreciation of ₹10,000 is charged on furniture, no cash is paid. Therefore, it is **not recorded** in the Receipts and Payments Account but is shown as an expense in the Income and Expenditure Account. 
+
+**Conclusion**
+
+Non-cash expenses such as depreciation are excluded from the Receipts and Payments Account because it records only actual cash transactions. Depreciation is instead recorded in the Income and Expenditure Account to determine the correct surplus or deficit of the organisation.
+
+**3. Give one reason why a Not-for-Profit Organisation prepares a Receipts and Payments Account even when it already maintains a Cash Book.**
+
+**Ans.**
+
+**Reason Why a Not-for-Profit Organisation Prepares a Receipts and Payments Account Even When It Maintains a Cash Book**
+
+A **Receipts and Payments Account** is prepared by a Not-for-Profit Organisation even though it maintains a **Cash Book** because it provides a **classified summary of all cash and bank transactions** for the entire accounting period. While the Cash Book records transactions on a **daily basis in chronological order**, the Receipts and Payments Account groups similar receipts and payments under suitable headings, making it easier to understand the organisation's overall cash position. 
+
+**A) Reason for Preparation**
+
+i) The Receipts and Payments Account summarises all cash and bank transactions for the year.
+
+ii) It classifies receipts and payments under appropriate accounting heads instead of listing them date-wise.
+
+iii) It provides a clear picture of the total cash received and cash paid during the accounting period. 
+
+**B) Difference from Cash Book**
+
+i) The Cash Book records transactions **daily** in chronological order.
+
+ii) The Receipts and Payments Account is prepared **at the end of the accounting year** as a summary of the Cash Book.
+
+iii) It helps in preparing the **Income and Expenditure Account** and the **Balance Sheet**. 
+
+*Example:* A sports club may record subscription receipts daily in its Cash Book. At the end of the year, all subscriptions received are combined under one heading in the Receipts and Payments Account, giving a clear summary of the total amount received. 
+
+**Conclusion**
+
+A Not-for-Profit Organisation prepares a Receipts and Payments Account because it provides a classified annual summary of all cash and bank transactions, making financial information easier to understand and serving as the basis for preparing other financial statements.
+
+**4. Explain any two characteristics of Non-Profit Organisations (NPOs) and how they differ from profit-oriented entities.**
+
+**Ans.**
+
+**Two Characteristics of Non-Profit Organisations (NPOs) and How They Differ from Profit-Oriented Entities**
+
+A **Not-for-Profit Organisation (NPO)** is established to provide services to society rather than to earn profits. Unlike profit-oriented entities, NPOs focus on social welfare, education, healthcare, sports, culture, and charitable activities. Their accounting system and objectives differ significantly from those of business organisations. 
+
+**A) Service-Oriented Objective**
+
+i) The primary objective of an NPO is to provide services for social welfare without any profit motive.
+
+ii) It works in areas such as education, healthcare, sports, recreation, and charity.
+
+iii) In contrast, a **profit-oriented entity** aims to earn profits through the production or sale of goods and services. 
+
+**B) Surplus Not Distributed Among Members**
+
+i) If an NPO earns a surplus, it is **not distributed** among its members.
+
+ii) The surplus is added to the **Capital Fund or General Fund** and is used to achieve the organisation's objectives.
+
+iii) In contrast, the profits of a business entity are distributed among owners, partners, or shareholders or are reinvested in the business. 
+
+*Example:* A charitable hospital may receive donations and membership subscriptions. If its income exceeds expenditure, the surplus is used to improve medical facilities rather than being shared among members. A private hospital, however, distributes its profits to its owners or shareholders. 
+
+**Conclusion**
+
+Non-Profit Organisations differ from profit-oriented entities because they are **service-oriented** and do not distribute surplus among members. Instead, they use their resources to fulfil social objectives and promote public welfare.
+
+**5. What is the main objective of preparing a Receipts and Payments Account in a non-profit organisation?**
+
+**Ans.**
+
+**Main Objective of Preparing a Receipts and Payments Account in a Non-Profit Organisation**
+
+A **Receipts and Payments Account** is prepared by a **Not-for-Profit Organisation (NPO)** to present a summary of all **cash and bank transactions** that take place during an accounting period. It records every cash receipt on the **debit side** and every cash payment on the **credit side**, irrespective of whether they are capital or revenue in nature or relate to the current, previous, or future accounting periods. This account helps the organisation understand its overall cash position at the beginning and end of the year. 
+
+**A) Main Objective**
+
+i) To provide a **summary of all cash and bank receipts and payments** during the accounting period.
+
+ii) To show the **opening and closing balances** of cash in hand and cash at bank.
+
+iii) To present a clear picture of the organisation's cash position for the year. 
+
+**B) Importance**
+
+i) It includes all cash transactions, whether they are **capital or revenue** in nature.
+
+ii) It serves as the **basis for preparing the Income and Expenditure Account and the Balance Sheet**.
+
+iii) It helps members and management understand how cash has been received and utilised during the year. 
+
+*Example:* A sports club receives subscriptions, donations, and entrance fees and pays salaries, rent, and sports expenses. All these cash transactions are summarised in the Receipts and Payments Account to show the club's cash position for the year. 
+
+**Conclusion**
+
+The main objective of preparing a Receipts and Payments Account is to provide a complete summary of all cash and bank transactions during the accounting period and to show the organisation's overall cash position, forming the basis for preparing other financial statements.
+
+**6. From the following information, prepare a Receipts and Payments Account : Opening Cash Balance ₹10,000; Subscription received ₹40,000; Donation received ₹12,000; Salaries paid ₹25,000; Rent paid ₹5,000; Closing Cash balance?**
+
+**Ans.**
+
+The **Receipts and Payments Account** is a summary of all cash and bank transactions of a Not-for-Profit Organisation during an accounting period. It records all cash receipts on the **debit side** and all cash payments on the **credit side**. The closing cash balance is determined by balancing both sides of the account. 
+
+**Receipts and Payments Account**
+
+| **Receipts**          | **Amount (₹)** | **Payments**         | **Amount (₹)** |
+| --------------------- | -------------: | -------------------- | -------------: |
+| Opening Cash Balance  |         10,000 | Salaries Paid        |         25,000 |
+| Subscription Received |         40,000 | Rent Paid            |          5,000 |
+| Donation Received     |         12,000 | Closing Cash Balance |     **32,000** |
+| **Total**             |     **62,000** | **Total**            |     **62,000** |
+
+**Working Notes**
+
+**Calculation of Closing Cash Balance**
+
+Opening Cash Balance = ₹10,000
+
+Add: Subscription Received = ₹40,000
+
+Add: Donation Received = ₹12,000
+
+**Total Receipts = ₹62,000**
+
+Less: Salaries Paid = ₹25,000
+
+Less: Rent Paid = ₹5,000
+
+**Closing Cash Balance = ₹32,000**
+
+*Example:* In the above Receipts and Payments Account, the organisation received total cash of **₹62,000** during the year. After paying **₹25,000** as salaries and **₹5,000** as rent, the remaining **₹32,000** is shown as the **closing cash balance**. 
+
+**Conclusion**
+
+The Receipts and Payments Account shows all cash receipts and payments during the year. In this case, the **closing cash balance is ₹32,000**, which represents the cash remaining with the organisation at the end of the accounting period.
+
+**7. Subscription received during the year is ₹1,20,000. Outstanding subscription at the end is ₹8,000 and at the beginning ₹6,000. Calculate subscription income for the Income & Expenditure Account.**
+
+**Ans.**
+
+**Calculation of Subscription Income for the Income & Expenditure Account**
+
+The **Income and Expenditure Account** is prepared on the **accrual basis of accounting**. Therefore, subscription income is adjusted for outstanding subscriptions at the beginning and at the end of the accounting year to determine the actual income relating to the current year. 
+
+**Given**
+
+* Subscription Received during the Year = ₹1,20,000
+* Outstanding Subscription at the Beginning = ₹6,000
+* Outstanding Subscription at the End = ₹8,000
+
+**Working Notes**
+
+| Particulars                                     |   Amount (₹) |
+| ----------------------------------------------- | -----------: |
+| Subscription Received during the Year           |     1,20,000 |
+| Add: Outstanding Subscription at the End        |        8,000 |
+| Less: Outstanding Subscription at the Beginning |      (6,000) |
+| **Subscription Income**                         | **1,22,000** |
+
+**Calculation**
+
+Subscription Received = ₹1,20,000
+
+Add: Outstanding Subscription at the End = ₹8,000
+
+Less: Outstanding Subscription at the Beginning = ₹6,000
+
+**Subscription Income = ₹1,22,000**
+
+*Example:* If a club receives ₹1,20,000 as subscriptions during the year, has ₹6,000 outstanding at the beginning, and ₹8,000 outstanding at the end, the amount of subscription to be shown in the **Income and Expenditure Account** will be **₹1,22,000** after making the necessary adjustments. 
+
+**Conclusion**
+
+The **subscription income** to be shown in the **Income and Expenditure Account** is **₹1,22,000**. This amount represents the income earned during the current accounting year after adjusting for outstanding subscriptions at the beginning and end of the year.
+
+**8. A non-profit organisation has the following balances: Capital Fund ₹1,50,000; Furniture ₹80,000; Cash ₹20,000; Subscription outstanding ₹5,000; Salaries outstanding ₹7,000. Prepare the Balance Sheet (short format).**
+
+**Ans.**
+
+A **Balance Sheet** of a Not-for-Profit Organisation shows its financial position on a particular date. It presents the organisation's **assets and liabilities**, while the **Capital Fund** represents the accumulated surplus and other funds belonging to the organisation. Outstanding expenses are shown as liabilities, whereas outstanding subscriptions are shown as assets. 
+
+**Balance Sheet**
+
+| **Liabilities**      | **Amount (₹)** | **Assets**               | **Amount (₹)** |
+| -------------------- | -------------: | ------------------------ | -------------: |
+| Capital Fund         |       1,50,000 | Furniture                |         80,000 |
+| Salaries Outstanding |          7,000 | Cash                     |         20,000 |
+|                      |                | Subscription Outstanding |          5,000 |
+|                      |                | Balancing Figure         |         52,000 |
+| **Total**            |   **1,57,000** | **Total**                |   **1,57,000** |
+
+**Working Notes**
+
+Total Liabilities =
+
+Capital Fund = ₹1,50,000
+
+Add: Salaries Outstanding = ₹7,000
+
+**Total Liabilities = ₹1,57,000**
+
+Total Known Assets =
+
+Furniture = ₹80,000
+
+Cash = ₹20,000
+
+Subscription Outstanding = ₹5,000
+
+Total Known Assets = ₹1,05,000
+
+Balancing Figure = ₹1,57,000 − ₹1,05,000 = **₹52,000**
+
+*Example:* In this Balance Sheet, **Salaries Outstanding** are shown as a liability because they are unpaid expenses, while **Subscription Outstanding** is shown as an asset because it represents income yet to be received. 
+
+**Conclusion**
+
+The Balance Sheet shows **total liabilities and total assets of ₹1,57,000**. The balancing figure of **₹52,000** is required to make both sides of the Balance Sheet equal.
+
+### Unit 12 Long Answer (400-500 words)
+
+**1. From the following information relating to Green Valley Club, prepare the Receipt and Payment Account for the year ended 31 March 2018.**
+
+| Particulars | Amount (Rs.) | Particulars | Amount (Rs.) |
+|-------------|-------------:|-------------|-------------:|
+| Opening Cash Balance | 2,500 | Honorarium Paid | 3,200 |
+| Opening Bank Balance | 6,800 | Purchase of Sports Equipment | 5,400 |
+| Subscriptions Received for: | | Purchase of Refreshments | 850 |
+| &nbsp;&nbsp;– 2016–17 | 600 | Electricity Charges | 1,750 |
+| &nbsp;&nbsp;– 2017–18 | 8,200 | Tournament Expenses | 3,100 |
+| &nbsp;&nbsp;– 2018–19 | 1,000 | Printing & Stationery | 1,000 |
+| Sale of Newspapers | 900 | Furniture Purchased | 2,000 |
+| Entrance Fees | 1,500 | Closing Cash in Hand | 300 |
+| Donation for Building | 6,000 | | |
+| Sale of Refreshments | 1,200 | | |
+
+**Ans.**
+
+A **Receipt and Payment Account** is a summary of all cash and bank transactions of a Not-for-Profit Organisation during an accounting period. It records all cash receipts on the **debit side** and all cash payments on the **credit side**, irrespective of whether they relate to the past, current, or future year, or whether they are of a capital or revenue nature. 
+
+**Receipt and Payment Account**
+
+| **Receipts**              | **Amount (₹)** | **Payments**                    | **Amount (₹)** |
+| ------------------------- | -------------: | ------------------------------- | -------------: |
+| To Opening Cash Balance   |          2,500 | By Honorarium Paid              |          3,200 |
+| To Opening Bank Balance   |          6,800 | By Purchase of Sports Equipment |          5,400 |
+| To Subscription (2016–17) |            600 | By Purchase of Refreshments     |            850 |
+| To Subscription (2017–18) |          8,200 | By Electricity Charges          |          1,750 |
+| To Subscription (2018–19) |          1,000 | By Tournament Expenses          |          3,100 |
+| To Sale of Newspapers     |            900 | By Printing & Stationery        |          1,000 |
+| To Entrance Fees          |          1,500 | By Furniture Purchased          |          2,000 |
+| To Donation for Building  |          6,000 | By Closing Cash in Hand         |            300 |
+| To Sale of Refreshments   |          1,200 | By Closing Bank Balance         |         10,100 |
+| **Total**                 |     **28,700** | **Total**                       |     **28,700** |
+
+**Working Notes**
+
+**Total Receipts**
+
+Opening Cash Balance = ₹2,500
+
+Opening Bank Balance = ₹6,800
+
+Subscriptions Received = ₹600 + ₹8,200 + ₹1,000 = ₹9,800
+
+Sale of Newspapers = ₹900
+
+Entrance Fees = ₹1,500
+
+Donation for Building = ₹6,000
+
+Sale of Refreshments = ₹1,200
+
+**Total Receipts = ₹28,700**
+
+**Total Payments (excluding Closing Bank Balance)**
+
+Honorarium Paid = ₹3,200
+
+Purchase of Sports Equipment = ₹5,400
+
+Purchase of Refreshments = ₹850
+
+Electricity Charges = ₹1,750
+
+Tournament Expenses = ₹3,100
+
+Printing & Stationery = ₹1,000
+
+Furniture Purchased = ₹2,000
+
+Closing Cash in Hand = ₹300
+
+Total = ₹17,900
+
+**Closing Bank Balance = ₹28,700 − ₹17,900 = ₹10,800**
+
+*Example:* The Receipts and Payments Account records all cash and bank transactions irrespective of the accounting year to which they relate. Therefore, subscriptions for **2016–17**, **2017–18**, and **2018–19** are all included in the receipts side because they were actually received during the year. 
+
+**Conclusion**
+
+The Receipt and Payment Account shows **total receipts and total payments of ₹28,700**. The **correct closing bank balance is ₹10,800**, after accounting for the closing cash in hand of ₹300.
+
+**2. From the Receipt and Payment Account of Harmony Art Society for the year ending March 31, 2024, prepare the Income and Expenditure Account.**
+
+**Receipt and Payment Account for the year ended March 31, 2024:**
+
+| Receipts | Amount (₹) | Payments | Amount (₹) |
+|-----------|-----------:|----------|-----------:|
+| Balance b/d (Cash at Bank) | 8,500 | Salaries | 4,200 |
+| Subscriptions | 26,000 | Rent | 2,400 |
+| Entrance Fees | 2,200 | Lighting Expenses | 3,300 |
+| Life Membership Fees | 5,000 | Art Material Purchased | 8,500 |
+| Grants from Government | 4,800 | Office Expenses | 1,150 |
+| Income from Exhibition | 3,000 | Refreshments | 1,600 |
+| Sale of Old Newspapers | 600 | Repairs | 1,800 |
+| — | — | Balance c/d (Bank) | 6,850 |
+| **Total** | **50,100** | **Total** | **50,100** |
+
+**Ans.**
+
+**Income and Expenditure Account of Harmony Art Society for the Year Ended 31 March 2024**
+
+The **Income and Expenditure Account** is prepared on the **accrual basis of accounting**. It includes only **revenue incomes and revenue expenses** relating to the current accounting year. Capital receipts, such as **Life Membership Fees**, are **not transferred** to the Income and Expenditure Account as they form part of the Capital Fund. 
+
+**Income and Expenditure Account**
+
+| **Expenditure**                                    | **Amount (₹)** | **Income**                | **Amount (₹)** |
+| -------------------------------------------------- | -------------: | ------------------------- | -------------: |
+| To Salaries                                        |          4,200 | By Subscriptions          |         26,000 |
+| To Rent                                            |          2,400 | By Entrance Fees          |          2,200 |
+| To Lighting Expenses                               |          3,300 | By Grants from Government |          4,800 |
+| To Art Material Purchased                          |          8,500 | By Income from Exhibition |          3,000 |
+| To Office Expenses                                 |          1,150 | By Sale of Old Newspapers |            600 |
+| To Refreshments                                    |          1,600 |                           |                |
+| To Repairs                                         |          1,800 |                           |                |
+| To **Surplus (Excess of Income over Expenditure)** |     **13,650** |                           |                |
+| **Total**                                          |     **36,600** | **Total**                 |     **36,600** |
+
+**Working Notes**
+
+**Revenue Income**
+
+Subscriptions = ₹26,000
+
+Entrance Fees = ₹2,200
+
+Grants from Government = ₹4,800
+
+Income from Exhibition = ₹3,000
+
+Sale of Old Newspapers = ₹600
+
+**Total Revenue Income = ₹36,600**
+
+**Revenue Expenditure**
+
+Salaries = ₹4,200
+
+Rent = ₹2,400
+
+Lighting Expenses = ₹3,300
+
+Art Material Purchased = ₹8,500
+
+Office Expenses = ₹1,150
+
+Refreshments = ₹1,600
+
+Repairs = ₹1,800
+
+**Total Revenue Expenditure = ₹22,950**
+
+**Surplus = ₹36,600 − ₹22,950 = ₹13,650**
+
+**Note:** The **Life Membership Fees (₹5,000)** are **not shown** in the Income and Expenditure Account because they are treated as a **capital receipt** and are added to the Capital Fund. Similarly, the opening and closing bank balances are not included as income or expenditure. 
+
+*Example:* If an art society receives **Life Membership Fees**, the amount is considered a capital receipt and is credited to the Capital Fund instead of being treated as current year's income in the Income and Expenditure Account. 
+
+**Conclusion**
+
+The Income and Expenditure Account shows a **surplus of ₹13,650** for the year ended **31 March 2024**, indicating that the revenue income of the society exceeded its revenue expenditure during the accounting period.
+
+**3. Show and Calculate Income from Subscriptions and Their Presentation in Balance Sheet As per the Receipt and Payment Account for the year ended 31 March 2017, the total subscriptions received during the year amounted to ₹2,50,000.**
+
+1. Subscriptions Outstanding on 01.04.2016 – ₹50,000
+2. Subscriptions Outstanding on 31.03.2017 – ₹35,000
+3. Subscriptions Received in Advance on 01.04.2016 – ₹25,000
+4. Subscriptions Received in Advance on 31.03.2017 – ₹30,000
+
+**Ans.**
+
+**Calculation of Income from Subscriptions and Their Presentation in Balance Sheet**
+
+The **Income and Expenditure Account** is prepared on the **accrual basis of accounting**. Therefore, subscription income is adjusted for **outstanding subscriptions** and **subscriptions received in advance** to determine the income relating only to the current accounting year. Outstanding subscriptions are shown as **assets**, while subscriptions received in advance are shown as **liabilities** in the Balance Sheet. 
+
+**Given**
+
+* Subscriptions Received during the Year = ₹2,50,000
+* Outstanding Subscription on 01.04.2016 = ₹50,000
+* Outstanding Subscription on 31.03.2017 = ₹35,000
+* Subscription Received in Advance on 01.04.2016 = ₹25,000
+* Subscription Received in Advance on 31.03.2017 = ₹30,000
+
+**Working Notes**
+
+| Particulars                                          |   Amount (₹) |
+| ---------------------------------------------------- | -----------: |
+| Subscriptions Received during the Year               |     2,50,000 |
+| Add: Outstanding Subscription on 31.03.2017          |       35,000 |
+| Add: Subscription Received in Advance on 01.04.2016  |       25,000 |
+|                                                      | **3,10,000** |
+| Less: Outstanding Subscription on 01.04.2016         |       50,000 |
+| Less: Subscription Received in Advance on 31.03.2017 |       30,000 |
+| **Income from Subscriptions**                        | **2,30,000** |
+
+**Income and Expenditure Account (Extract)**
+
+| **Income**       | **Amount (₹)** |
+| ---------------- | -------------: |
+| By Subscriptions |   **2,30,000** |
+
+**Balance Sheet (Extract) as on 31.03.2017**
+
+| **Liabilities**                   | **Amount (₹)** | **Assets**                | **Amount (₹)** |
+| --------------------------------- | -------------: | ------------------------- | -------------: |
+| Subscriptions Received in Advance |         30,000 | Outstanding Subscriptions |         35,000 |
+
+*Example:* If a club receives ₹2,50,000 as subscriptions during the year, adjustments are made for outstanding subscriptions and subscriptions received in advance to arrive at the actual income of the current year. Accordingly, **₹2,30,000** is credited to the Income and Expenditure Account, while **₹35,000** is shown as an asset and **₹30,000** as a liability in the Balance Sheet. 
+
+**Conclusion**
+
+After making the necessary adjustments for outstanding subscriptions and subscriptions received in advance, the **subscription income to be shown in the Income and Expenditure Account is ₹2,30,000**. In the **Balance Sheet**, **Outstanding Subscriptions of ₹35,000** are shown under **Assets**, and **Subscriptions Received in Advance of ₹30,000** are shown under **Liabilities**.
+
+**4. Prepare the Income & Expenditure Account and Balance Sheet for the year ended 31 March 2015 from the following information.**
+
+| Receipts                 |            ₹ | Payments                    |            ₹ |
+| ------------------------ | -----------: | --------------------------- | -----------: |
+| Balance b/d              |       41,000 | Salaries and Wages: 2013–14 |        4,800 |
+| Subscriptions: 2013–14   |        7,200 | 2014–15                     |       83,200 |
+| 2014–15                  |     3,37,600 | Sundry expenses             |       37,000 |
+| 2015–16                  |       12,000 | Freehold land               |       60,000 |
+| Entrance fees            |       16,000 | Stationery                  |       16,000 |
+| Locker rent              |       58,000 | Rates                       |       24,000 |
+| Revenue from refreshment |       48,000 | Refreshment expenses        |       37,500 |
+| Income from investments  |       56,000 | Telephone charges           |        4,000 |
+| Investments (purchased)  |     2,50,000 | Audit fee                   |        6,000 |
+| Balance c/d              |       53,300 |                             |              |
+| **Total**                | **5,75,800** | **Total**                   | **5,75,800** |
+
+**Additional information**
+
+1. There are 1,800 members, each paying an annual subscription of ₹200. ₹8,000 were in arrears for 2013–14 as on 1 April 2014.
+2. On 31 March 2015 the rates were prepaid to June 2015; the annual charge being ₹24,000.
+3. There was an outstanding telephone bill ₹1,400 on 31 March 2015.
+4. Outstanding sundry expenses as on 31 March 2014 totalled ₹2,800.
+5. Stock of stationery as on 31 March 2014 was ₹2,000; on 31 March 2015 it was ₹3,600.
+6. On 31 March 2014 Building stood at ₹4,00,000 and is subject to depreciation @ 2.5% p.a.
+7. Investments on 31 March 2014 stood at ₹8,00,000.
+8. On 31 March 2015, income accrued on investments purchased during the year = ₹1,500.
+
+**Required: Prepare (a) Income & Expenditure Account for the year ended 31 March 2015 and (b) Balance Sheet as at that date.**
+
+**Ans.**
+
+**Income and Expenditure Account of the Club for the Year Ended 31 March 2015**
+
+The **Income and Expenditure Account** is prepared on the **accrual basis of accounting**. Therefore, only revenue incomes and revenue expenses relating to the current year are considered after making necessary adjustments for outstanding, prepaid, accrued, and depreciation items. 
+
+| **Expenditure**                                 | **Amount (₹)** | **Income**                     | **Amount (₹)** |
+| ----------------------------------------------- | -------------: | ------------------------------ | -------------: |
+| Salaries and Wages                              |         83,200 | Subscriptions                  |       3,60,000 |
+| Sundry Expenses                                 |         34,200 | Entrance Fees                  |         16,000 |
+| Stationery Consumed                             |         14,400 | Locker Rent                    |         58,000 |
+| Rates                                           |         24,000 | Income from Refreshments (Net) |         10,500 |
+| Telephone Charges                               |          5,400 | Income from Investments        |         57,500 |
+| Audit Fee                                       |          6,000 |                                |                |
+| Depreciation on Building                        |         10,000 |                                |                |
+| **Surplus (Excess of Income over Expenditure)** |   **3,24,800** |                                |                |
+| **Total**                                       |   **5,02,000** | **Total**                      |   **5,02,000** |
+
+**Balance Sheet as at 31 March 2015**
+
+| **Liabilities**                   | **Amount (₹)** | **Assets**                          | **Amount (₹)** |
+| --------------------------------- | -------------: | ----------------------------------- | -------------: |
+| Outstanding Telephone             |          1,400 | Cash & Bank Balance                 |         53,300 |
+| Subscriptions Received in Advance |         12,000 | Subscriptions in Arrears            |         23,200 |
+| General Fund (Opening)            |      12,49,400 | Stock of Stationery                 |          3,600 |
+| Add: Surplus                      |       3,24,800 | Prepaid Rates                       |          6,000 |
+| **Closing General Fund**          |  **15,74,200** | Accrued Interest on Investments     |          1,500 |
+|                                   |                | Investments (₹8,00,000 + ₹2,50,000) |      10,50,000 |
+|                                   |                | Building (₹4,00,000 − ₹10,000)      |       3,90,000 |
+|                                   |                | Freehold Land                       |         60,000 |
+| **Total**                         |  **15,87,600** | **Total**                           |  **15,87,600** |
+
+**Working Notes**
+
+1. Subscription Income = **1,800 × ₹200 = ₹3,60,000**.
+
+2. Sundry Expenses = ₹37,000 − ₹2,800 = **₹34,200**.
+
+3. Stationery Consumed = Opening Stock ₹2,000 + Purchases ₹16,000 − Closing Stock ₹3,600 = **₹14,400**.
+
+4. Telephone Charges = Cash Paid ₹4,000 + Outstanding ₹1,400 = **₹5,400**.
+
+5. Investment Income = ₹56,000 + Accrued Income ₹1,500 = **₹57,500**.
+
+6. Depreciation on Building = ₹4,00,000 × 2.5% = **₹10,000**. 
+
+*Example:* While preparing the Income and Expenditure Account, adjustments such as depreciation, accrued investment income, outstanding telephone charges, and prepaid rates are made because the account is prepared on the accrual basis of accounting. 
+
+**Conclusion**
+
+After incorporating all the necessary adjustments, the organisation reports a **surplus of ₹3,24,800**. The **Balance Sheet total is ₹15,87,600**, showing the true financial position of the organisation as on **31 March 2015**.
