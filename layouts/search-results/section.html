@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<nav class="uninotes-breadcrumbs breadcrumbs">
+	<a href="/">Home</a>
+</nav>
+
+<h1>Search results <span class="search-results__query" data-search-query></span></h1>
+
+<p class="search-results__status" data-search-status>Enter a search term above.</p>
+
+<ul class="search-results__list" data-search-list></ul>
+
+<script src="{{ "js/search.js" | relURL }}" defer></script>
+
+{{ end }}

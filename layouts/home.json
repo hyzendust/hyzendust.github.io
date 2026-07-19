@@ -1,0 +1,44 @@
+{{- /*
+Search index for the navbar search bar. Includes every page on the site
+(home, blog, services, terms, privacy, changelog, contact, future pages,
+etc.) EXCEPT the sections below, which are excluded on purpose:
+  - /uninotes/       private/course notes
+  - /admin/          admin panel
+  - /login/          login page
+  - /signup/         signup page
+  - /search-results/ the search page itself
+Consumed client-side by /js/search.js.
+*/ -}}
+{{- $excludePrefixes := slice "/uninotes/" "/admin/" "/login/" "/signup/" "/search-results/" -}}
+{{- $candidates := where site.Pages "Kind" "in" (slice "home" "page" "section") -}}
+{{- $candidates = where $candidates "Draft" "ne" true -}}
+{{- $pages := slice -}}
+{{- range $candidates -}}
+	{{- $permalink := .RelPermalink -}}
+	{{- $excluded := false -}}
+	{{- range $excludePrefixes -}}
+		{{- if strings.HasPrefix $permalink . -}}
+			{{- $excluded = true -}}
+		{{- end -}}
+	{{- end -}}
+	{{- if not $excluded -}}
+		{{- $pages = $pages | append . -}}
+	{{- end -}}
+{{- end -}}
+[
+{{- range $i, $p := $pages -}}
+	{{- if $i }},{{ end -}}
+	{{- $clean := $p.Content -}}
+	{{- $clean = replaceRE `(?is)<script[^>]*>.*?</script>` " " $clean -}}
+	{{- $clean = replaceRE `(?is)<style[^>]*>.*?</style>` " " $clean -}}
+	{{- $text := $clean | plainify | htmlUnescape -}}
+	{{- $text = replaceRE `\s+` " " $text -}}
+	{{- $text = strings.TrimSpace $text -}}
+	{
+		"title": {{ $p.Title | jsonify }},
+		"url": {{ $p.RelPermalink | jsonify }},
+		"section": {{ (cond (eq $p.Section "") "home" $p.Section) | jsonify }},
+		"content": {{ $text | jsonify }}
+	}
+{{- end -}}
+]

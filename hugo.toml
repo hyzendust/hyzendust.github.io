@@ -17,6 +17,9 @@ target = "content/terms"
 [[module.mounts]]
 source = "privacy"
 target = "content/privacy"
+[[module.mounts]]
+source = "search-results"
+target = "content/search-results"
 
 [markup]
 [markup.goldmark]
@@ -34,6 +37,9 @@ email = "your-email@example.com"
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [menu]
 
