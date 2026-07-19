@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[19-07-2026]
+- ***Add: Search bar.***
+
 [21-06-2026]
 - ***Update: Email and XMPP pages.***
 
