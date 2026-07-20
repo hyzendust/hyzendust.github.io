@@ -20,6 +20,30 @@ target = "content/privacy"
 [[module.mounts]]
 source = "search-results"
 target = "content/search-results"
+[[module.mounts]]
+source = "coming-soon"
+target = "content/coming-soon"
+[[module.mounts]]
+source = "contact"
+target = "content/contact"
+[[module.mounts]]
+source = "login"
+target = "content/login"
+[[module.mounts]]
+source = "signup"
+target = "content/signup"
+[[module.mounts]]
+source = "admin"
+target = "content/admin"
+[[module.mounts]]
+source = "uninotes/semester"
+target = "content/semester"
+[[module.mounts]]
+source = "uninotes/subjectcode"
+target = "content/subjectcode"
+[[module.mounts]]
+source = "blog/categories"
+target = "content/categories"
 
 [markup]
 [markup.goldmark]
