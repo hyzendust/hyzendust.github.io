@@ -6826,3 +6826,1669 @@ The **Income and Expenditure Account** is prepared on the **accrual basis of acc
 **Conclusion**
 
 After incorporating all the necessary adjustments, the organisation reports a **surplus of ₹3,24,800**. The **Balance Sheet total is ₹15,87,600**, showing the true financial position of the organisation as on **31 March 2015**.
+
+### ***July 19, 2026***
+
+### Unit 13 Short Answer (200-250 words)
+
+**1. What is a Bank Reconciliation statement?**
+
+**Ans.**
+
+**Bank Reconciliation Statement**
+
+A **Bank Reconciliation Statement (BRS)** is a statement prepared to reconcile the balance shown in the **Cash Book** with the balance shown in the **Bank Statement (Pass Book)**. It identifies and explains the differences between the two records and helps bring their balances into agreement. Differences usually arise because some transactions are recorded at different times in the Cash Book and the Bank Statement, or due to omissions and errors. 
+
+**A) Meaning of Bank Reconciliation Statement**
+
+i) A Bank Reconciliation Statement is prepared to compare the bank balance as per the Cash Book with the balance as per the Bank Statement.
+
+ii) It identifies the reasons for any differences between the two balances.
+
+iii) After identifying these differences, the statement reconciles both balances to show the correct bank position. 
+
+**B) Purpose of Preparing a BRS**
+
+i) To ensure that both the Cash Book and the Bank Statement show the correct bank balance.
+
+ii) To detect errors or omissions made either by the business or by the bank.
+
+iii) To identify delays in the clearance of cheques and other banking transactions. 
+
+**C) Causes of Difference**
+
+i) Timing differences, such as cheques issued but not yet presented or cheques deposited but not yet cleared.
+
+ii) Bank transactions not yet recorded in the Cash Book, such as bank charges or interest credited by the bank.
+
+iii) Errors or omissions made in either the Cash Book or the Bank Statement. 
+
+*Example:* A business deposits a cheque of ₹10,000 in the bank and records it immediately in the Cash Book. However, the bank credits the amount only after the cheque is cleared. This temporary difference is reconciled through a Bank Reconciliation Statement. 
+
+**Conclusion**
+
+A Bank Reconciliation Statement is an important accounting statement that reconciles the balances of the Cash Book and the Bank Statement by identifying timing differences, omissions, and errors. It helps ensure the accuracy of bank records and the reliability of financial information.
+
+**2. Why is there a need to prepare a Bank Reconciliation statement?**
+
+**Ans.**
+
+**Need for Preparing a Bank Reconciliation Statement**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the balance shown in the **Cash Book** with the balance shown in the **Bank Statement (Pass Book)**. Since transactions may be recorded at different times or omitted in either record, the balances often differ. A BRS helps identify these differences and ensures that the bank records are accurate and reliable. 
+
+**A) To Identify Differences**
+
+i) It helps identify the differences between the balance as per the Cash Book and the balance as per the Bank Statement.
+
+ii) It explains the reasons for these differences, such as timing delays or unrecorded transactions.
+
+iii) It assists in bringing both records into agreement. 
+
+**B) To Detect Errors and Omissions**
+
+i) It helps detect errors committed in the Cash Book or the Bank Statement.
+
+ii) If any accounting error or omission is found in the Cash Book, it can be corrected immediately.
+
+iii) If the error is on the part of the bank, the business can inform the bank for rectification. 
+
+**C) To Ensure Proper Banking Control**
+
+i) It shows undue delays in the clearance of cheques.
+
+ii) It helps locate entries made directly by the bank, such as **bank interest**, **bank charges**, and other transactions.
+
+iii) It improves the accuracy of financial records and strengthens control over bank transactions. 
+
+*Example:* A cheque deposited by a business may be entered immediately in the Cash Book, but the bank may credit it only after clearance. The resulting difference is identified and explained through a Bank Reconciliation Statement. 
+
+**Conclusion**
+
+A Bank Reconciliation Statement is necessary because it identifies differences between the Cash Book and the Bank Statement, detects errors and omissions, and ensures that the bank balance shown in the accounting records is accurate and reliable.
+
+**3. Enumerate the causes of difference in the balance of cash book and pass book.**
+
+**Ans.**
+
+**Causes of Difference in the Balance of Cash Book and Pass Book**
+
+The balance shown in the **Cash Book** and the **Pass Book (Bank Statement)** may not always be the same. This difference arises because certain transactions are recorded at different times in the two books or due to omissions and errors. A **Bank Reconciliation Statement (BRS)** is prepared to identify these differences and reconcile the balances. 
+
+**A) Timing Differences**
+
+i) **Cheques issued but not presented for payment** are recorded immediately in the Cash Book but appear in the Pass Book only when presented to the bank.
+
+ii) **Cheques deposited but not yet cleared** are entered in the Cash Book on the date of deposit, but the bank records them only after clearance.
+
+iii) These timing differences create temporary variations between the two balances. 
+
+**B) Bank Transactions Not Yet Recorded in the Cash Book**
+
+i) **Interest allowed by the bank** is credited directly in the Pass Book before being entered in the Cash Book.
+
+ii) **Bank charges**, direct payments, interest or dividends collected by the bank, direct deposits by customers, dishonour of cheques or bills, and bills collected by the bank are first recorded in the Pass Book and later entered in the Cash Book. 
+
+**C) Errors and Omissions**
+
+i) Errors may occur either in the Cash Book or the Pass Book.
+
+ii) Common errors include omission of entries, recording incorrect amounts, posting on the wrong side, wrong totalling, or recording another party's transaction.
+
+iii) Such mistakes must be identified and corrected before preparing the Bank Reconciliation Statement. 
+
+*Example:* A business deposits a cheque of ₹8,000 in the bank and records it immediately in the Cash Book. However, if the cheque is cleared by the bank after two days, the Pass Book balance will differ until the cheque is credited. 
+
+**Conclusion**
+
+The main causes of differences between the Cash Book and Pass Book balances are **timing differences, bank transactions not yet recorded in the Cash Book, and errors or omissions**. Identifying these causes helps in preparing an accurate Bank Reconciliation Statement.
+
+**4. State any two items that are recorded only in the Pass Book and not in the Cash Book.**
+
+**Ans.**
+
+**Two Items Recorded Only in the Pass Book and Not in the Cash Book**
+
+The **Pass Book (Bank Statement)** is prepared by the bank and records all transactions relating to the customer's bank account. Sometimes, the bank records certain transactions directly on behalf of the customer without prior intimation. These entries appear first in the Pass Book and are recorded in the Cash Book only after the customer receives the bank statement. 
+
+**A) Interest Allowed by the Bank**
+
+i) The bank may credit interest on the customer's savings or current account directly to the Pass Book.
+
+ii) This transaction is recorded by the bank immediately after the interest is earned.
+
+iii) The account holder records it in the Cash Book only after checking the Pass Book, causing a temporary difference between the two balances. 
+
+**B) Bank Charges**
+
+i) Banks deduct service charges, commission, or other banking charges directly from the customer's account.
+
+ii) These charges are entered first in the Pass Book by the bank.
+
+iii) The customer records them in the Cash Book only after receiving information through the Pass Book or bank statement. 
+
+*Example:* If the bank credits **₹500 as interest** on a savings account and deducts **₹200 as bank charges**, both transactions will first appear in the **Pass Book**. The business will record them in the **Cash Book** only after examining the bank statement. 
+
+**Conclusion**
+
+Two common items recorded only in the Pass Book and not immediately in the Cash Book are **interest allowed by the bank** and **bank charges**. These transactions create temporary differences between the balances of the Cash Book and the Pass Book until they are recorded in the Cash Book.
+
+**5. Explain how timing differences affect the balance between the Cash Book and Pass Book.**
+
+**Ans.**
+
+**Effect of Timing Differences on the Balance between the Cash Book and Pass Book**
+
+**Timing differences** are one of the main reasons why the balances shown in the **Cash Book** and the **Pass Book (Bank Statement)** do not agree. These differences occur because certain transactions are recorded in one book before they are recorded in the other. Although both records eventually show the same transaction, the difference exists temporarily until the transaction is entered in both books. 
+
+**A) Cheques Issued but Not Presented**
+
+i) When a business issues a cheque, it records the payment immediately in the Cash Book.
+
+ii) The bank records the payment only when the cheque is presented by the payee for payment.
+
+iii) Until the cheque is presented, the Pass Book balance remains higher than the Cash Book balance. 
+
+**B) Cheques Deposited but Not Yet Cleared**
+
+i) When a cheque is deposited, the business records it immediately in the Cash Book.
+
+ii) The bank credits the amount in the Pass Book only after the cheque is cleared.
+
+iii) During the clearance period, the Cash Book balance is higher than the Pass Book balance. 
+
+**C) Effect of Timing Differences**
+
+i) Timing differences create only **temporary differences** between the Cash Book and Pass Book balances.
+
+ii) Once the bank records the pending transactions, both balances become identical, provided there are no errors or omissions.
+
+iii) A **Bank Reconciliation Statement** is prepared to identify and explain these temporary differences. 
+
+*Example:* A business deposits a cheque of **₹15,000** on 28 March and records it in the Cash Book immediately. If the bank clears the cheque on 31 March, the Pass Book will show the amount only after clearance, causing a temporary difference in the balances. 
+
+**Conclusion**
+
+Timing differences affect the balances of the Cash Book and Pass Book because transactions are recorded on different dates in the two books. These differences are temporary and are identified and reconciled through the preparation of a **Bank Reconciliation Statement**.
+
+**6. Calculate the adjusted Cash Book balance when bank charges of ₹500 and interest income of ₹1,200 are not recorded in the Cash Book.**
+
+**Ans.**
+
+**Calculation of Adjusted Cash Book Balance**
+
+An **Adjusted Cash Book** is prepared to record transactions that have been entered by the bank in the **Pass Book** but have not yet been recorded in the **Cash Book**. Before preparing a Bank Reconciliation Statement, such omitted entries must first be updated in the Cash Book. Common examples include **bank charges** and **interest allowed by the bank**. 
+
+**A) Given**
+
+i) Bank Charges (not recorded in Cash Book) = **₹500**
+
+ii) Interest Income (not recorded in Cash Book) = **₹1,200** 
+
+**Working Notes**
+
+* Bank Charges are **deducted** from the Cash Book balance because they reduce the bank balance.
+* Interest Income is **added** to the Cash Book balance because it increases the bank balance. 
+
+| Particulars                                    | Amount (₹) |
+| ---------------------------------------------- | ---------: |
+| Add: Interest Income                           |      1,200 |
+| Less: Bank Charges                             |      (500) |
+| **Net Increase in Adjusted Cash Book Balance** |    **700** |
+
+**B) Adjusted Cash Book Balance**
+
+i) Increase due to interest income = **₹1,200**
+
+ii) Decrease due to bank charges = **₹500**
+
+iii) **Net effect = ₹700 increase in the Cash Book balance.**
+
+Therefore, the **Adjusted Cash Book Balance = Original Cash Book Balance + ₹700.** 
+
+*Example:* If the original Cash Book balance is **₹20,000**, then the Adjusted Cash Book Balance will be:
+
+**₹20,000 + ₹700 = ₹20,700.**
+
+**Conclusion**
+
+After recording the omitted bank transactions, the **Adjusted Cash Book balance increases by ₹700**. This adjusted balance is then used for preparing the **Bank Reconciliation Statement**, ensuring that all bank-recorded transactions are properly reflected in the Cash Book.
+
+**7. Differentiate between errors and timing differences with suitable examples from bank reconciliation.**
+
+**Ans.**
+
+**Difference Between Errors and Timing Differences in Bank Reconciliation**
+
+In a **Bank Reconciliation Statement (BRS)**, differences between the **Cash Book** and the **Pass Book** may arise due to **errors** or **timing differences**. Although both cause disagreement in balances, their nature and treatment are different. Errors occur because of mistakes in recording transactions, whereas timing differences arise because the same transaction is recorded on different dates in the two books. 
+
+**A) Errors**
+
+i) Errors arise due to mistakes made either in the **Cash Book** or the **Pass Book**.
+
+ii) Common errors include omission of entries, recording incorrect amounts, posting on the wrong side, wrong totalling, or recording another party's transaction.
+
+iii) Such errors must be identified and corrected before or during the preparation of the Bank Reconciliation Statement. 
+
+**B) Timing Differences**
+
+i) Timing differences arise because transactions are recorded in one book earlier than in the other.
+
+ii) They are temporary in nature and disappear once the transaction is recorded in both books.
+
+iii) Examples include **cheques issued but not presented for payment** and **cheques deposited but not yet cleared**.  
+
+**C) Key Difference**
+
+i) Errors result from **mistakes**, whereas timing differences result from **delays in recording transactions**.
+
+ii) Errors require **correction**, while timing differences are **reconciled through the BRS** without correction in the records.
+
+iii) Timing differences are temporary, whereas errors remain until they are rectified. 
+
+*Example:* If a cheque is issued but not yet presented to the bank, it is a **timing difference**. However, if the cheque amount of **₹5,000** is mistakenly recorded as **₹500** in the Cash Book, it is an **error** that must be corrected. 
+
+**Conclusion**
+
+Errors and timing differences both create differences between the Cash Book and Pass Book balances, but they differ in their cause and treatment. **Errors arise from mistakes and require rectification, whereas timing differences arise from delays in recording and are reconciled through the Bank Reconciliation Statement.**
+
+**8. Examine the impact of cheques issued but not presented on the Cash Book balance when preparing BRS.**
+
+**Ans.**
+
+**Impact of Cheques Issued but Not Presented on the Cash Book Balance when Preparing BRS**
+
+When a business issues a cheque, the payment is recorded immediately in the **Cash Book**, reducing the bank balance. However, the bank records the transaction in the **Pass Book** only when the cheque is presented by the payee for payment. Until the cheque is presented, the balances shown in the Cash Book and the Pass Book remain different. This difference is known as a **timing difference** and is one of the most common reasons for preparing a **Bank Reconciliation Statement (BRS)**. 
+
+**A) Effect on the Cash Book**
+
+i) The Cash Book records the cheque payment immediately when the cheque is issued.
+
+ii) As a result, the Cash Book balance decreases at once.
+
+iii) No further adjustment is made in the Cash Book until the cheque is presented and cleared by the bank. 
+
+**B) Effect on the Pass Book**
+
+i) The Pass Book does not record the payment until the cheque is presented to the bank.
+
+ii) Therefore, the Pass Book balance remains higher than the Cash Book balance during this period.
+
+iii) This creates a temporary difference between the two books. 
+
+**C) Treatment in the Bank Reconciliation Statement**
+
+i) Cheques issued but not presented are treated as **timing differences**.
+
+ii) While preparing the BRS, the amount of such cheques is **added to the Cash Book balance** to arrive at the Pass Book balance.
+
+iii) Once the cheque is presented and honoured, the difference disappears automatically. 
+
+*Example:* A business issues a cheque of **₹10,000** on 28 March and records it in the Cash Book. If the payee presents the cheque on 2 April, the Cash Book balance will be **₹10,000 lower** than the Pass Book balance until the cheque is cleared. 
+
+**Conclusion**
+
+Cheques issued but not presented reduce the **Cash Book balance** immediately but do not affect the **Pass Book balance** until presentation. This temporary timing difference is reconciled in the **Bank Reconciliation Statement** by adding the amount of unpresented cheques to the Cash Book balance. 
+
+**9. Assess whether preparing an Adjusted Cash Book is always necessary before preparing a Bank Reconciliation Statement.**
+
+**Ans.**
+
+**Need for Preparing an Adjusted Cash Book before Preparing a Bank Reconciliation Statement**
+
+An **Adjusted Cash Book** is **not always necessary** before preparing a **Bank Reconciliation Statement (BRS)**. It is prepared only when there are transactions recorded by the bank but not yet entered in the Cash Book. These include items such as **bank charges, interest credited or debited by the bank, direct deposits, direct payments, and dishonoured cheques or bills**. After recording these items, the adjusted balance is used for preparing the BRS. 
+
+**A) When an Adjusted Cash Book is Necessary**
+
+i) It is prepared when the Cash Book contains omissions of transactions already recorded by the bank.
+
+ii) It helps update the Cash Book with all unrecorded bank transactions.
+
+iii) The revised balance becomes the starting point for preparing the Bank Reconciliation Statement. 
+
+**B) When an Adjusted Cash Book is Not Necessary**
+
+i) It is not required if the differences arise only due to **timing differences**.
+
+ii) Examples include **cheques issued but not presented** and **cheques deposited but not yet cleared**.
+
+iii) Such items are adjusted directly in the Bank Reconciliation Statement and not in the Cash Book. 
+
+**C) Assessment**
+
+i) The Adjusted Cash Book is useful for ensuring that all bank-recorded transactions are reflected in the Cash Book.
+
+ii) However, it is mainly prepared **at the end of the accounting year** or whenever omitted bank transactions need to be updated.
+
+iii) Therefore, its preparation depends on the nature of the differences between the Cash Book and the Pass Book. 
+
+*Example:* If the bank has debited **₹500 as bank charges** and credited **₹1,200 as interest**, these items are first entered in the Adjusted Cash Book. However, if the only difference is a cheque issued but not yet presented, an Adjusted Cash Book is not required. 
+
+**Conclusion**
+
+Preparing an **Adjusted Cash Book is not always necessary** before preparing a Bank Reconciliation Statement. It is required only when unrecorded bank transactions must be entered in the Cash Book, whereas **timing differences are dealt with directly in the Bank Reconciliation Statement.**
+
+**10. Prepare a simple Bank Reconciliation Statement using imaginary figures including at least three reconciling items.**
+
+**Ans.**
+
+**Simple Bank Reconciliation Statement (Using Imaginary Figures)**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown in the **Cash Book** and the **Pass Book**. These differences usually arise due to timing differences or transactions recorded by the bank but not yet entered in the Cash Book. A BRS helps identify these differences and ensures the accuracy of bank records. 
+
+**A) Imaginary Data**
+
+i) Balance as per Cash Book = **₹25,000**
+
+ii) Cheques issued but not presented = **₹4,000**
+
+iii) Cheques deposited but not yet cleared = **₹2,500**
+
+iv) Bank charges debited by the bank = **₹300** 
+
+**B) Bank Reconciliation Statement**
+
+**Bank Reconciliation Statement**
+*As on 31 March 20XX*
+
+| Particulars                                 | Amount (₹) |
+| ------------------------------------------- | ---------: |
+| Balance as per Cash Book                    |     25,000 |
+| Add: Cheques issued but not presented       |      4,000 |
+|                                             | **29,000** |
+| Less: Cheques deposited but not yet cleared |      2,500 |
+| Less: Bank charges                          |        300 |
+| **Balance as per Pass Book**                | **26,200** |
+
+**C) Explanation**
+
+i) **Cheques issued but not presented** are added because they reduce the Cash Book balance but have not yet affected the Pass Book.
+
+ii) **Cheques deposited but not cleared** are deducted because they are recorded in the Cash Book but not yet credited by the bank.
+
+iii) **Bank charges** are deducted since they are entered by the bank before being recorded in the Cash Book. 
+
+*Example:* The above statement shows how three common reconciling items explain the difference between the Cash Book balance and the Pass Book balance. 
+
+**Conclusion**
+
+A Bank Reconciliation Statement helps reconcile the balances of the Cash Book and the Pass Book by accounting for reconciling items such as **unpresented cheques, uncleared deposits, and bank charges**, thereby ensuring accurate financial records.
+
+**11.  Justify how identifying bank errors during reconciliation helps in maintaining accurate financial records.**
+
+**Ans.**
+
+**Justification of Identifying Bank Errors During Reconciliation**
+
+Identifying **bank errors** during the preparation of a **Bank Reconciliation Statement (BRS)** is essential for maintaining accurate financial records. Although banks rarely make mistakes, errors may occur in the **Pass Book** or the **Cash Book**, leading to differences between the two balances. Detecting these errors ensures that the accounting records reflect the correct financial position of the business and prevents misunderstandings or financial discrepancies. 
+
+**A) Importance of Identifying Bank Errors**
+
+i) It helps ensure that the balances shown in the Cash Book and Pass Book are accurate.
+
+ii) It enables the business to identify incorrect entries and take corrective action promptly.
+
+iii) It reduces the possibility of financial misstatements and improves the reliability of accounting records. 
+
+**B) Common Bank Errors**
+
+i) Omission of entries.
+
+ii) Recording an incorrect amount.
+
+iii) Posting transactions on the wrong side, wrong totalling, or recording transactions belonging to another party. These errors must be corrected before finalising the Bank Reconciliation Statement. 
+
+**C) Benefits to Financial Records**
+
+i) Accurate reconciliation improves the reliability of financial statements.
+
+ii) It helps detect discrepancies or possible fraud at an early stage.
+
+iii) It strengthens internal control and ensures confidence in the accounting system by maintaining correct bank balances. 
+
+*Example:* If the bank mistakenly debits **₹2,000** instead of **₹200**, the error can be identified during reconciliation. After informing the bank and correcting the mistake, the Cash Book and Pass Book balances will agree. 
+
+**Conclusion**
+
+Identifying bank errors during reconciliation is essential for maintaining **accurate, reliable, and up-to-date financial records**. It ensures that mistakes are corrected promptly, discrepancies are resolved, and the **Bank Reconciliation Statement** presents the true bank balance of the business.
+
+### Unit 13 Long Answer (400-500 words)
+
+**1. From the following particulars, prepare Bank Reconciliation statement as on December 31, 2006.**
+
+1) Balance as per Cash Book Rs.4,200
+2) Cheques issued but not presented for payment Rs.2,000
+3) Cheques deposited but not collected Rs.3,000
+4) Bank charges debited by the bank Rs.250.
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 December 2006**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown by the **Cash Book** and the **Pass Book**. Starting with the Cash Book balance, items that increase the Pass Book balance are added, while items that decrease the Pass Book balance are deducted. 
+
+**Working Notes**
+
+i) **Balance as per Cash Book** = ₹4,200
+
+ii) **Cheques issued but not presented for payment (₹2,000)**
+These cheques have already been recorded in the Cash Book but have not yet been debited by the bank. Therefore, they are **added**.
+
+iii) **Cheques deposited but not collected (₹3,000)**
+These cheques have been entered in the Cash Book but have not yet been credited by the bank. Therefore, they are **deducted**.
+
+iv) **Bank charges debited by the bank (₹250)**
+These charges have been recorded in the Pass Book but not yet in the Cash Book. Therefore, they are **deducted**. 
+
+**Bank Reconciliation Statement**
+**As on 31 December 2006**
+
+| Particulars                                  | Amount (₹) | Amount (₹) |
+| -------------------------------------------- | ---------: | ---------: |
+| Balance as per Cash Book                     |            |      4,200 |
+| **Add:**                                     |            |            |
+| Cheques issued but not presented for payment |      2,000 |            |
+| **Total**                                    |            |  **6,200** |
+| **Less:**                                    |            |            |
+| Cheques deposited but not collected          |      3,000 |            |
+| Bank charges debited by the bank             |        250 |      3,250 |
+| **Balance as per Pass Book**                 |            |  **2,950** |
+
+**Explanation**
+
+i) Cheques issued but not presented increase the Pass Book balance in comparison with the Cash Book because the bank has not yet made the payment.
+
+ii) Cheques deposited but not collected reduce the Pass Book balance since the bank has not yet credited these deposits.
+
+iii) Bank charges are entered by the bank directly in the Pass Book and reduce the balance until they are recorded in the Cash Book. These items are common reconciling items while preparing a Bank Reconciliation Statement. 
+
+*Example:* In the above problem, after adding **₹2,000** for unpresented cheques and deducting **₹3,000** for uncleared deposits and **₹250** for bank charges, the **Pass Book balance** is **₹2,950**, which matches the solution provided in the study material. 
+
+**Conclusion**
+
+The **Bank Reconciliation Statement** correctly reconciles the **Cash Book balance of ₹4,200** with the **Pass Book balance of ₹2,950** by considering the timing differences and bank charges. It helps ensure that both records accurately reflect the bank position. 
+
+**2. Prepare Bank Reconciliation statement as on March 31, 2006. On this date the Passbook of M/s Noopur Industries showed a balance of Rs.27,500.**
+
+1) Cheques of Rs.14,000 directly deposited by a customer.  
+2) Cheques for Rs.13,500 were issued during the month of March but of these cheques for Rs.1,500 were not presented by the end of March.  
+3) The bank collected Rs.2,500 as dividend on shares.  
+4) Cheques of Rs.17,500 were paid into the bank but Rs.8,500 were realized in the month of April.  
+5) On April 1, 2006, Rohan had an overdraft of Rs.16,000 as shown by the cash book.  
+6) Cheques amounting to Rs.6,000 had been paid by him but not collected by the bank till date.  
+7) He issued cheques of Rs.8,000 which were not presented to the bank for payment.  
+8) There was a debit in his passbook of Rs.500 for interest and Rs.200 for bank charges and a cheque of Rs.5,000 was paid into bank but the same was debited twice in the cash book.  
+
+**Prepare Bank Reconciliation Statement.**
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 March 2006**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown in the **Pass Book** and the **Cash Book**. Starting with the **Pass Book balance**, items that increase the Cash Book balance are added, while items that decrease the Cash Book balance are deducted. The method used below follows standard accounting principles. The first four items relate to **M/s Noopur Industries**, while items 5–8 belong to a different illustration and therefore are **not considered** in this reconciliation. 
+
+**Working Notes**
+
+i) **Balance as per Pass Book** = ₹27,500
+
+ii) **Cheques directly deposited by a customer (₹14,000)**
+These are credited by the bank but not yet recorded in the Cash Book. Hence, **deduct** from the Pass Book balance.
+
+iii) **Cheques issued but not presented (₹1,500)**
+Out of cheques issued for ₹13,500, cheques worth ₹1,500 remain unpresented. These have reduced the Cash Book but not the Pass Book, so **add** ₹1,500.
+
+iv) **Dividend collected by the bank (₹2,500)**
+The bank has credited the amount, but it is not yet entered in the Cash Book. Hence, **deduct** ₹2,500.
+
+v) **Cheques deposited but not realised (₹8,500)**
+These cheques have been entered in the Cash Book but not yet credited by the bank. Therefore, **add** ₹8,500. 
+
+**Bank Reconciliation Statement**
+
+**As on 31 March 2006**
+
+| Particulars                            | Amount (₹) | Amount (₹) |
+| -------------------------------------- | ---------: | ---------: |
+| Balance as per Pass Book               |            |     27,500 |
+| **Add:**                               |            |            |
+| Cheques issued but not presented       |      1,500 |            |
+| Cheques deposited but not realised     |      8,500 |     10,000 |
+| **Total**                              |            | **37,500** |
+| **Less:**                              |            |            |
+| Cheques directly deposited by customer |     14,000 |            |
+| Dividend collected by bank             |      2,500 |     16,500 |
+| **Balance as per Cash Book**           |            | **21,000** |
+
+**Explanation**
+
+i) Cheques issued but not presented are added because they have reduced the Cash Book but have not yet been debited by the bank.
+
+ii) Cheques deposited but not realised are added when starting from the Pass Book balance because the bank has not yet credited them.
+
+iii) Direct deposits by customers and dividends collected by the bank are deducted since they appear in the Pass Book but have not yet been recorded in the Cash Book. These are standard reconciling items in a Bank Reconciliation Statement. 
+
+**Conclusion**
+
+After considering all the relevant reconciling items for **M/s Noopur Industries**, the **balance as per Cash Book is ₹21,000**. The remaining items in your question relate to a separate illustration (Rohan) and therefore are not included in this Bank Reconciliation Statement.
+
+**3. Overdraft shown by the passbook of M/s. Mohit trader is Rs. 40,000. Prepare Bank Reconciliation statement on December 31st, 2006.**
+
+(a) Bank charges debited as per pass book Rs.1,000  
+(b) Received a payment directly from customer Rs.7,000  
+(c) Cheques wrongly recorded in debit side of cash book Rs.4,000  
+(d) Cheques issued but not presented for payment Rs.9,800  
+(e) Cheques deposited with the bank but not collected Rs.12,500  
+(f) Insurance premium paid by the bank Rs.3,500  
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 December 2006**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown in the **Pass Book** and the **Cash Book**. In this question, the **Pass Book shows an overdraft of ₹40,000**. Therefore, the reconciliation starts with the Pass Book overdraft and appropriate additions and deductions are made to ascertain the overdraft as per the Cash Book. The treatment of bank charges, direct deposits, insurance premium, unpresented cheques, uncleared cheques, and errors follows the standard procedure for preparing a Bank Reconciliation Statement. 
+
+**Working Notes**
+
+i) **Overdraft as per Pass Book** = ₹40,000
+
+ii) **Items to be Added**
+
+* Bank charges debited by bank = ₹1,000
+* Insurance premium paid by bank = ₹3,500
+* Cheques deposited but not collected = ₹12,500
+
+**Total Additions = ₹17,000**
+
+iii) **Items to be Deducted**
+
+* Direct payment received from customer = ₹7,000
+* Cheques wrongly recorded on the debit side of the Cash Book = ₹4,000
+* Cheques issued but not presented for payment = ₹9,800
+
+**Total Deductions = ₹20,800**
+
+**Bank Reconciliation Statement**
+**As on 31 December 2006**
+
+| Particulars                                         | Amount (₹) | Amount (₹) |
+| --------------------------------------------------- | ---------: | ---------: |
+| Overdraft as per Pass Book                          |            |     40,000 |
+| **Add:**                                            |            |            |
+| Bank charges debited by bank                        |      1,000 |            |
+| Insurance premium paid by bank                      |      3,500 |            |
+| Cheques deposited but not collected                 |     12,500 |     17,000 |
+|                                                     |            | **57,000** |
+| **Less:**                                           |            |            |
+| Payment received directly from customer             |      7,000 |            |
+| Cheques wrongly recorded in debit side of Cash Book |      4,000 |            |
+| Cheques issued but not presented                    |      9,800 |     20,800 |
+| **Overdraft as per Cash Book**                      |            | **36,200** |
+
+**Explanation**
+
+i) **Bank charges** and **insurance premium** reduce the bank balance in the Pass Book but are not yet recorded in the Cash Book; therefore, they are added while reconciling the overdraft.
+
+ii) **Cheques deposited but not collected** have been entered in the Cash Book but are not yet credited by the bank, increasing the overdraft as per the Pass Book.
+
+iii) **Direct deposits by customers** reduce the overdraft in the Pass Book but remain unrecorded in the Cash Book, so they are deducted. Likewise, **cheques issued but not presented** and **errors in the Cash Book** are adjusted to arrive at the correct Cash Book overdraft. 
+
+**Conclusion**
+
+After considering all the reconciling items, the **overdraft as per the Cash Book is ₹36,200**. The Bank Reconciliation Statement helps identify timing differences and unrecorded transactions, ensuring that both the Pass Book and Cash Book reflect the correct bank position.
+
+**4. On 31st December 2008, the cash book of Mr. Bhargav showed a balance of Rs.12,000 at the bank.**
+
+1) He sent a cheque amounting to Rs.8,000 to the bank before 31st December 2008. But it appears from the pass book that cheque worth Rs.4,000 only had been credited till that date.  
+2) Similarly, out of cheque for Rs. 5,000 issued during the month of December, cheques worth Rs. 2,000 were presented and paid in January 2009.  
+3) The pass book also showed the following payments: Rs.1,320 on life insurance policy as per instructions and Rs.2,000 against a promissory note as per instructions.  
+4) The pass book showed that the bank had collected Rs.6,000 interest on Government Securities.  
+5) The bank had charged interest Rs.150 and bank charges Rs.120.  
+6) There was no entry in the cash book for the payments, interest collected etc.  
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 December 2008**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown by the **Cash Book** and the **Pass Book**. In this problem, the **Cash Book shows a bank balance of ₹12,000**. The balance is adjusted for cheques not yet credited or presented, direct payments made by the bank, interest collected, bank charges, and bank interest to ascertain the balance as per the Pass Book. The treatment of these items follows the standard principles of bank reconciliation. 
+
+**Working Notes**
+
+i) **Balance as per Cash Book** = ₹12,000
+
+ii) **Items to be Added**
+
+* Cheques issued but not presented (₹5,000 − ₹3,000 presented = ₹2,000)
+* Interest on Government Securities collected by bank = ₹6,000
+
+**Total Additions = ₹8,000**
+
+iii) **Items to be Deducted**
+
+* Cheques deposited but not yet credited (₹8,000 − ₹4,000 credited = ₹4,000)
+* Life insurance premium paid by bank = ₹1,320
+* Promissory note paid by bank = ₹2,000
+* Bank interest charged = ₹150
+* Bank charges = ₹120
+
+**Total Deductions = ₹7,590**
+
+**Bank Reconciliation Statement**
+**As on 31 December 2008**
+
+| Particulars                                         | Amount (₹) | Amount (₹) |
+| --------------------------------------------------- | ---------: | ---------: |
+| Balance as per Cash Book                            |            |     12,000 |
+| **Add:**                                            |            |            |
+| Cheques issued but not presented                    |      2,000 |            |
+| Interest on Government Securities collected by bank |      6,000 |      8,000 |
+|                                                     |            | **20,000** |
+| **Less:**                                           |            |            |
+| Cheques deposited but not yet credited              |      4,000 |            |
+| Life insurance premium paid by bank                 |      1,320 |            |
+| Promissory note paid by bank                        |      2,000 |            |
+| Bank interest charged                               |        150 |            |
+| Bank charges                                        |        120 |      7,590 |
+| **Balance as per Pass Book**                        |            | **12,410** |
+
+**Explanation**
+
+i) Out of the cheque of **₹8,000** deposited, only **₹4,000** was credited by the bank before 31 December. Therefore, the remaining **₹4,000** is deducted from the Cash Book balance.
+
+ii) Out of cheques issued for **₹5,000**, cheques worth **₹2,000** remained unpresented. Since these have reduced the Cash Book but not the Pass Book, they are added.
+
+iii) The bank directly paid the **life insurance premium** and **promissory note**, collected **interest on Government Securities**, and debited **bank interest** and **bank charges**. As these transactions were not recorded in the Cash Book, appropriate adjustments are made while preparing the Bank Reconciliation Statement. 
+
+**Conclusion**
+
+After considering all reconciling items, the **balance as per the Pass Book is ₹12,410**. The Bank Reconciliation Statement identifies timing differences and bank transactions not yet recorded in the Cash Book, ensuring that both records agree and accurately represent the bank balance.
+
+**5. Given Information From the following information, prepare a Bank Reconciliation Statement as on 31 December 2022 for M/s New Steel Limited.**
+
+| Particulars                                                               | Amount (₹) |
+| ------------------------------------------------------------------------- | ---------: |
+| Bank overdraft as per Cash Book                                           |  22,45,900 |
+| Interest charged by bank (not yet recorded in Cash Book)                  |   2,78,700 |
+| Cheques issued but not yet presented for payment                          |   6,60,000 |
+| Transport subsidy received directly by bank but not recorded in Cash Book |  14,25,000 |
+| Draft deposited but not yet credited by bank                              |  13,50,000 |
+| Bills for collection credited by bank but not recorded in Cash Book       |   8,36,000 |
+| Amount wrongly debited by bank                                            |   7,40,000 |
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 December 2022**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown in the **Cash Book** and the **Bank Statement (Pass Book)**. In this question, the **Cash Book shows a bank overdraft of ₹22,45,900**. The overdraft is adjusted for items recorded only in the Cash Book, items recorded only by the bank, and bank errors to ascertain the overdraft as per the Bank Statement. The treatment of these items follows the standard rules for preparing a Bank Reconciliation Statement. 
+
+**Working Notes**
+
+i) **Overdraft as per Cash Book** = ₹22,45,900
+
+ii) **Items to be Added**
+
+* Interest charged by bank (not yet recorded in Cash Book) = ₹2,78,700
+* Draft deposited but not yet credited by bank = ₹13,50,000
+* Amount wrongly debited by bank = ₹7,40,000
+
+**Total Additions = ₹23,68,700**
+
+iii) **Items to be Deducted**
+
+* Cheques issued but not yet presented for payment = ₹6,60,000
+* Transport subsidy received directly by bank = ₹14,25,000
+* Bills for collection credited by bank = ₹8,36,000
+
+**Total Deductions = ₹29,21,000**
+
+**Bank Reconciliation Statement**
+**M/s New Steel Limited**
+**As on 31 December 2022**
+
+| Particulars                                 | Amount (₹) |    Amount (₹) |
+| ------------------------------------------- | ---------: | ------------: |
+| Overdraft as per Cash Book                  |            |     22,45,900 |
+| **Add:**                                    |            |               |
+| Interest charged by bank                    |   2,78,700 |               |
+| Draft deposited but not yet credited        |  13,50,000 |               |
+| Amount wrongly debited by bank              |   7,40,000 |     23,68,700 |
+|                                             |            | **46,14,600** |
+| **Less:**                                   |            |               |
+| Cheques issued but not yet presented        |   6,60,000 |               |
+| Transport subsidy received directly by bank |  14,25,000 |               |
+| Bills for collection credited by bank       |   8,36,000 |     29,21,000 |
+| **Overdraft as per Bank Statement**         |            | **16,93,600** |
+
+**Explanation**
+
+i) **Interest charged by the bank** increases the overdraft because it has been recorded in the Bank Statement but not yet in the Cash Book.
+
+ii) **Draft deposited but not yet credited** and **wrong debit by the bank** increase the overdraft while reconciling from the Cash Book because these items have not yet affected the Bank Statement correctly.
+
+iii) **Cheques issued but not presented**, **transport subsidy received directly by the bank**, and **bills collected by the bank** reduce the overdraft since they appear differently in the Cash Book and the Bank Statement. 
+
+**Conclusion**
+
+After considering all the reconciling items, the **overdraft as per the Bank Statement is ₹16,93,600**. The Bank Reconciliation Statement ensures that the differences between the Cash Book and the Bank Statement are properly identified and reconciled, resulting in accurate financial records.
+
+**6. The Cash Book of Mr. Gadbadwala shows a bank balance of ₹8,36,400 on 31 December 2022, but it does not agree with the balance shown in the Pass Book.**
+
+**On examination, the following discrepancies were found:**
+
+1. On 15 December 2022, the payment side of the Cash Book was undercast by ₹10,000.  
+2. A cheque of ₹1,31,000 issued on 25 December 2022 was not recorded in the bank column.  
+3. A deposit of ₹1,50,000 was recorded in the Cash Book but not entered in the bank column.  
+4. On 18 December 2022, a debit balance of ₹15,260 was brought forward as a credit balance in the Cash Book.   
+5. Cheques issued in the last week of December totalled ₹11,514, out of which ₹7,815 were presented for payment in December.  
+6. Dividends of ₹25,000 collected by the bank and subscription of ₹1,000 paid by the bank were not recorded in the Cash Book.  
+7. An outgoing cheque of ₹3,50,000 was recorded twice in the Cash Book.
+
+**Ans.**
+
+**Bank Reconciliation Statement as on 31 December 2022**
+
+A **Bank Reconciliation Statement (BRS)** is prepared to reconcile the difference between the balances shown in the **Cash Book** and the **Pass Book**. In this question, the **Cash Book shows a bank balance of ₹8,36,400**. Before preparing the BRS, errors in the Cash Book are identified and adjusted. Thereafter, timing differences and transactions recorded only in the Pass Book are considered to determine the correct balance as per the Pass Book. This approach is followed in the study material. 
+
+**Working Notes**
+
+i) **Balance as per Cash Book** = ₹8,36,400
+
+ii) **Items to be Added**
+
+* Error in bringing forward balance = ₹30,520
+* Cheques issued but not presented (₹11,514 − ₹7,815) = ₹3,699
+* Dividends collected by bank = ₹25,000
+* Outgoing cheque recorded twice = ₹3,50,000
+
+**Total Additions = ₹4,09,219**
+
+iii) **Items to be Deducted**
+
+* Payment side undercast = ₹10,000
+* Cheque issued but not recorded in bank column = ₹1,31,000
+* Deposit recorded but not entered in bank column = ₹1,50,000
+* Subscription paid by bank = ₹1,000
+
+**Total Deductions = ₹2,92,000**
+
+**Bank Reconciliation Statement**
+**Mr. Gadbadwala**
+**As on 31 December 2022**
+
+| Particulars                        | Amount (₹) |    Amount (₹) |
+| ---------------------------------- | ---------: | ------------: |
+| Balance as per Cash Book           |            |      8,36,400 |
+| **Add:**                           |            |               |
+| Error in bringing forward balance  |     30,520 |               |
+| Cheques issued but not presented   |      3,699 |               |
+| Dividends collected by bank        |     25,000 |               |
+| Outgoing cheque recorded twice     |   3,50,000 |      4,09,219 |
+|                                    |            | **12,45,619** |
+| **Less:**                          |            |               |
+| Payment side undercast             |     10,000 |               |
+| Cheque issued but not recorded     |   1,31,000 |               |
+| Deposit not entered in bank column |   1,50,000 |               |
+| Subscription paid by bank          |      1,000 |      2,92,000 |
+| **Balance as per Pass Book**       |            |  **9,53,619** |
+
+**Explanation**
+
+i) The **debit balance of ₹15,260 brought forward as a credit balance** created an error of **₹30,520**, which is added while reconciling.
+
+ii) Since only **₹7,815** out of **₹11,514** of issued cheques were presented, the unpresented cheques amounting to **₹3,699** are added.
+
+iii) **Dividends collected by the bank** increase the Pass Book balance but were not recorded in the Cash Book. Similarly, the **subscription paid by the bank**, omitted entries, and recording errors are adjusted to reconcile both books accurately. 
+
+**Conclusion**
+
+After incorporating all errors, omissions, and timing differences, the **balance as per the Pass Book is ₹9,53,619**. Preparing the Bank Reconciliation Statement helps detect accounting errors, reconcile differences between the Cash Book and the Pass Book, and ensure the accuracy of financial records.
+
+### Unit 14 Short Answer (200-250 words)
+
+**1. The books kept using the Single-Entry System are not as dependable as those kept using the Double Entry System. Comment.**
+
+**Ans.**
+
+**Single-Entry System Books are Less Dependable than Double Entry System Books**
+
+The statement is **correct** because the books maintained under the **Single-Entry System** are **less dependable** than those maintained under the **Double Entry System**. Under the Single-Entry System, only selected transactions such as cash receipts, cash payments, and personal accounts are recorded, while many real and nominal accounts are not maintained. As a result, the accounting records remain incomplete and do not present a true picture of the financial position of the business. 
+
+**A) Reasons for Lower Dependability**
+
+i) Only incomplete records are maintained, and both aspects of every transaction are not recorded.
+
+ii) Assets and liabilities are often determined on the basis of physical verification and estimates rather than complete accounting records.
+
+iii) Since a Trial Balance cannot be prepared, the arithmetical accuracy of the books cannot be verified. 
+
+**B) Limitations of the Single-Entry System**
+
+i) The true profit or loss cannot be determined accurately because complete Trading and Profit & Loss Accounts cannot be prepared.
+
+ii) The financial position of the business cannot be judged precisely as only a **Statement of Affairs** is prepared instead of a Balance Sheet.
+
+iii) Internal checks are not possible, making it difficult to detect errors, omissions, and frauds. It is also unsuitable for effective planning and control. 
+
+**C) Advantages of the Double Entry System**
+
+i) Every transaction is recorded with both debit and credit aspects, ensuring completeness.
+
+ii) A Trial Balance can be prepared to verify the accuracy of accounts.
+
+iii) It enables the preparation of reliable financial statements and presents the true financial position of the business. 
+
+**Conclusion**
+
+The **Single-Entry System** is suitable only for small businesses with limited transactions because it is simple and economical. However, it is **less dependable** than the **Double Entry System**, which provides complete, accurate, and reliable accounting information for decision-making and financial reporting.
+
+**2. **Is it possible to prepare a Trial Balance and check the arithmetical accuracy of the books of accounts under the Single-Entry System?**
+
+**Ans.**
+
+**Preparation of Trial Balance under the Single-Entry System**
+
+It is **not possible** to prepare a **Trial Balance** and check the **arithmetical accuracy** of the books of accounts under the **Single-Entry System**. This is because the Single-Entry System does not maintain a complete record of all business transactions. Only selected records, such as the Cash Book and personal accounts of debtors and creditors, are maintained, while real and nominal accounts are generally omitted. Since both aspects of every transaction are not recorded, the accounting records remain incomplete. 
+
+**A) Why a Trial Balance Cannot Be Prepared**
+
+i) The Single-Entry System records only partial transactions and does not follow the principles of double-entry bookkeeping.
+
+ii) Real and nominal accounts are generally not maintained, making it impossible to balance all ledger accounts.
+
+iii) As complete ledger accounts are unavailable, a Trial Balance cannot be prepared. 
+
+**B) Effect on Arithmetical Accuracy**
+
+i) The arithmetical accuracy of the books cannot be verified.
+
+ii) Errors, omissions, and frauds are difficult to detect because there is no Trial Balance for checking.
+
+iii) The absence of proper internal checks reduces the reliability of the accounting records. 
+
+**C) Importance of the Double Entry System**
+
+i) Under the Double Entry System, every transaction has equal debit and credit aspects.
+
+ii) A Trial Balance can be prepared to verify the correctness of ledger balances.
+
+iii) It provides reliable financial statements and ensures greater accuracy in accounting records. 
+
+**Conclusion**
+
+A **Trial Balance cannot be prepared** under the **Single-Entry System** because the accounting records are incomplete. Consequently, the **arithmetical accuracy of the books cannot be checked**, making the system less reliable than the **Double Entry System**.
+
+**3. Mr. Ali keeps his books under single entry system. The following information is available for the year ended 31 Dec 2023.**
+
+| Particulars  | 1 Jan 2023 (Rs) | 31 Dec 2023 (Rs) |
+| ------------ | --------------: | ---------------: |
+| Debtors      |          10,000 |           12,500 |
+| Creditors    |           6,000 |            7,200 |
+| Stock        |           4,500 |            5,300 |
+| Cash at Bank |           2,000 |            3,500 |
+
+**During the year:**
+
+* Cash received from debtors = Rs. 35,000
+* Cash paid to creditors = Rs. 28,000
+* Cash sales = Rs. 9,000
+* Cash purchases = Rs. 6,000
+
+**Required to Find Credit Sales.**
+
+**Ans.**
+
+**Calculation of Credit Sales**
+
+Under the **Single-Entry System**, **Credit Sales** are determined by preparing the **Total Debtors Account**. The account records the opening balance of debtors, cash received from debtors, closing balance of debtors, and the missing figure is treated as **Credit Sales**. 
+
+**Working Notes**
+
+**Total Debtors Account**
+
+| Dr.                                | Amount (Rs.) | Cr.              | Amount (Rs.) |
+| ---------------------------------- | -----------: | ---------------- | -----------: |
+| To Balance b/d                     |       10,000 | By Cash received |       35,000 |
+| To Credit Sales (Balancing Figure) |   **37,500** | By Balance c/d   |       12,500 |
+| **Total**                          |   **47,500** | **Total**        |   **47,500** |
+
+**Calculation**
+
+Credit Sales = Cash received from Debtors + Closing Debtors − Opening Debtors
+
+= ₹35,000 + ₹12,500 − ₹10,000
+
+= **₹37,500**
+
+**Answer**
+
+**Credit Sales = ₹37,500**
+
+**Explanation**
+
+i) The opening balance of debtors represents the amount receivable from customers at the beginning of the year.
+
+ii) Cash received from debtors reduces the outstanding balance, while the closing balance represents the amount still receivable at the end of the year.
+
+iii) The balancing figure in the **Total Debtors Account** represents the **Credit Sales** made during the year. This method is commonly used in the **Conversion Method** for preparing accounts from incomplete records.  
+
+**Conclusion**
+
+By preparing the **Total Debtors Account**, the **Credit Sales for the year ended 31 December 2023 are ₹37,500**. This method is the standard procedure for determining missing credit sales under the **Single-Entry System**.
+
+**4. Mr. Khan maintains single entry records.**
+
+| Particulars | 1 April 2022 | 31 March 2023 |
+| ----------- | -----------: | ------------: |
+| Debtors     |       15,000 |        18,000 |
+| Creditors   |        9,000 |        10,500 |
+
+**Cash received from debtors = Rs 60,000. Find Total Sales if Cash Sales = Rs 12,000.**
+
+**Ans.**
+
+**Calculation of Total Sales**
+
+Under the **Single-Entry System**, **Credit Sales** are first determined by preparing the **Total Debtors Account**. After finding the Credit Sales, **Cash Sales** are added to calculate the **Total Sales**. This is the standard method followed under the conversion method of incomplete records. 
+
+**Working Notes**
+
+**Total Debtors Account**
+
+| Dr.                                | Amount (Rs.) | Cr.              | Amount (Rs.) |
+| ---------------------------------- | -----------: | ---------------- | -----------: |
+| To Balance b/d                     |       15,000 | By Cash received |       60,000 |
+| To Credit Sales (Balancing Figure) |   **63,000** | By Balance c/d   |       18,000 |
+| **Total**                          |   **78,000** | **Total**        |   **78,000** |
+
+**Calculation of Credit Sales**
+
+Credit Sales = Cash received from Debtors + Closing Debtors − Opening Debtors
+
+= ₹60,000 + ₹18,000 − ₹15,000
+
+= **₹63,000**
+
+**Calculation of Total Sales**
+
+Total Sales = Cash Sales + Credit Sales
+
+= ₹12,000 + ₹63,000
+
+= **₹75,000**
+
+**Answer**
+
+**Total Sales = ₹75,000**
+
+**Explanation**
+
+i) The opening balance of debtors is the amount outstanding at the beginning of the year.
+
+ii) Cash received from debtors reduces the amount receivable, while the closing balance represents the amount still due at the end of the year.
+
+iii) The balancing figure in the **Total Debtors Account** gives the **Credit Sales**, which, when added to **Cash Sales**, gives the **Total Sales** for the accounting period. 
+
+**Conclusion**
+
+By preparing the **Total Debtors Account**, the **Credit Sales** are calculated as **₹63,000**. Adding the **Cash Sales of ₹12,000**, the **Total Sales for the year ended 31 March 2023 amount to ₹75,000**.
+
+**5. From the following details calculate Credit Purchases.**
+
+| Particulars | Opening | Closing |
+| ----------- | ------: | ------: |
+| Creditors   |   8,000 |  10,000 |
+
+**Cash paid to creditors during the year = Rs 32,000. Cash Purchases = Rs 5,000**
+
+**Ans.**
+
+**Calculation of Credit Purchases**
+
+Under the **Single-Entry System**, **Credit Purchases** are calculated by preparing the **Total Creditors Account**. The opening balance of creditors, cash paid to creditors, and closing balance are entered in the account. The balancing figure represents the **Credit Purchases** made during the year. This is the standard method used to determine missing credit purchases under the conversion method. 
+
+**Working Notes**
+
+**Total Creditors Account**
+
+| Dr.            | Amount (Rs.) | Cr.                                    | Amount (Rs.) |
+| -------------- | -----------: | -------------------------------------- | -----------: |
+| To Cash paid   |       32,000 | By Balance b/d                         |        8,000 |
+| To Balance c/d |       10,000 | By Credit Purchases (Balancing Figure) |   **34,000** |
+| **Total**      |   **42,000** | **Total**                              |   **42,000** |
+
+**Calculation**
+
+Credit Purchases = Cash paid to Creditors + Closing Creditors − Opening Creditors
+
+= ₹32,000 + ₹10,000 − ₹8,000
+
+= **₹34,000**
+
+**Answer**
+
+**Credit Purchases = ₹34,000**
+
+**Explanation**
+
+i) The opening balance of creditors represents the amount payable to suppliers at the beginning of the year.
+
+ii) Cash paid to creditors reduces the outstanding liability, while the closing balance represents the amount still payable at the end of the year.
+
+iii) The balancing figure in the **Total Creditors Account** gives the **Credit Purchases** made during the year. Although **Cash Purchases = ₹5,000** is provided, it is **not required** for calculating **Credit Purchases**. Cash purchases are considered only when calculating **Total Purchases**. 
+
+**Conclusion**
+
+By preparing the **Total Creditors Account**, the **Credit Purchases for the year are ₹34,000**. If required, **Total Purchases** can be calculated by adding **Cash Purchases (₹5,000)** to **Credit Purchases (₹34,000)**, giving **₹39,000**.
+
+**6. Calculate Profit using Statement of Affairs Method.**
+
+| Assets / Liabilities | 1 Jan 2023 | 31 Dec 2023 |
+| -------------------- | ---------: | ----------: |
+| Assets               |     40,000 |      55,000 |
+| Liabilities          |     12,000 |      15,000 |
+
+**Drawings during year = Rs 5,000 Additional Capital = Rs 3,000**
+
+**Ans.**
+
+**Calculation of Profit using Statement of Affairs Method**
+
+Under the **Single-Entry System**, profit is calculated using the **Statement of Affairs Method**. First, the **Opening Capital** and **Closing Capital** are determined by subtracting liabilities from assets. The closing capital is then adjusted for **drawings** and **additional capital introduced** during the year. The formula used is:
+
+**Profit = Closing Capital + Drawings − Additional Capital − Opening Capital**. 
+
+**Working Notes**
+
+**1. Calculation of Opening Capital**
+
+Opening Capital = Assets − Liabilities
+
+= ₹40,000 − ₹12,000
+
+= **₹28,000**
+
+**2. Calculation of Closing Capital**
+
+Closing Capital = Assets − Liabilities
+
+= ₹55,000 − ₹15,000
+
+= **₹40,000**
+
+**3. Calculation of Profit**
+
+Profit = Closing Capital + Drawings − Additional Capital − Opening Capital
+
+= ₹40,000 + ₹5,000 − ₹3,000 − ₹28,000
+
+= ₹45,000 − ₹31,000
+
+= **₹14,000**
+
+**Answer**
+
+**Profit for the year = ₹14,000**
+
+**Explanation**
+
+i) The **Opening Capital** is obtained by deducting opening liabilities from opening assets.
+
+ii) The **Closing Capital** is calculated by deducting closing liabilities from closing assets.
+
+iii) Drawings are added back because they reduce the owner's capital, while additional capital introduced is deducted since it is not earned profit. The resulting balance represents the actual profit earned during the year. 
+
+**Conclusion**
+
+Using the **Statement of Affairs Method**, the **Opening Capital is ₹28,000**, the **Closing Capital is ₹40,000**, and after adjusting for **drawings of ₹5,000** and **additional capital of ₹3,000**, the **profit earned during the year is ₹14,000**. This method is commonly used for calculating profit under the **Single-Entry System**.
+
+**7. Calculate Closing Capital.**
+
+Opening Capital = Rs 25,000  
+Net Profit = Rs 7,000  
+Drawings = Rs 4,000  
+Additional Capital = Rs 6,000  
+
+**Ans.**
+
+**Calculation of Closing Capital**
+
+Under the **Statement of Affairs Method**, the **Closing Capital** is calculated by adjusting the **Opening Capital** with the **Net Profit**, **Drawings**, and **Additional Capital** introduced during the year. **Net Profit** and **Additional Capital** increase the owner's capital, whereas **Drawings** reduce it. This method is commonly followed under the **Single-Entry System** to determine the closing capital of a business. 
+
+**Working Notes**
+
+**Formula**
+
+Closing Capital = Opening Capital + Net Profit + Additional Capital − Drawings
+
+**Calculation**
+
+Opening Capital = ₹25,000
+
+Add: Net Profit = ₹7,000
+
+Add: Additional Capital = ₹6,000
+
+Less: Drawings = ₹4,000
+
+**Closing Capital = ₹25,000 + ₹7,000 + ₹6,000 − ₹4,000**
+
+**Closing Capital = ₹34,000**
+
+**Answer**
+
+**Closing Capital = ₹34,000**
+
+**Explanation**
+
+i) **Opening Capital** represents the owner's investment at the beginning of the accounting period.
+
+ii) **Net Profit** earned during the year increases the owner's capital, while **Additional Capital** introduced further increases the capital balance.
+
+iii) **Drawings** are deducted because they represent the amount withdrawn by the proprietor for personal use, thereby reducing the business capital. 
+
+**Conclusion**
+
+By adjusting the **Opening Capital of ₹25,000** with **Net Profit of ₹7,000**, **Additional Capital of ₹6,000**, and deducting **Drawings of ₹4,000**, the **Closing Capital is ₹34,000**. This method provides the correct capital balance at the end of the accounting period under the **Single-Entry System**.
+
+### Unit 14 Long Answer (400-500 words)
+
+**1. Mr. Rishi began his firm with a ₹250,000 investment. At the end of the year, he was in the following position:**
+
+| Particulars    |   Amount |
+| -------------- | -------: |
+| Cash in Hand   |    7,500 |
+| Cash at Bank   |   35,000 |
+| Sundry Debtors |   60,000 |
+| Stock          | 1,20,000 |
+| Furniture      |   37,500 |
+| Machinery      | 1,00,000 |
+
+**The total of Sundry Creditors on this date was ₹40,000. The further capital introduced by him was ₹75,000 and drawings for household expenses was ₹45,000.**
+
+**Ans.**
+
+**Calculation of Profit using Statement of Affairs Method**
+
+Under the **Statement of Affairs Method**, the profit of a business is determined by comparing the **Opening Capital** with the **Closing Capital** after making adjustments for **additional capital introduced** and **drawings**. The closing capital is first calculated by preparing a **Statement of Affairs**, in which total liabilities are deducted from total assets. Thereafter, the following formula is applied:
+
+**Profit = Closing Capital + Drawings − Additional Capital − Opening Capital**
+
+This method is widely used under the **Single-Entry System** when complete double-entry records are not maintained. 
+
+**Working Notes**
+
+**Calculation of Total Assets**
+
+| Assets           |   Amount (₹) |
+| ---------------- | -----------: |
+| Cash in Hand     |        7,500 |
+| Cash at Bank     |       35,000 |
+| Sundry Debtors   |       60,000 |
+| Stock            |     1,20,000 |
+| Furniture        |       37,500 |
+| Machinery        |     1,00,000 |
+| **Total Assets** | **3,60,000** |
+
+**Statement of Affairs (Closing Position)**
+
+| Particulars            |   Amount (₹) |
+| ---------------------- | -----------: |
+| Total Assets           |     3,60,000 |
+| Less: Sundry Creditors |       40,000 |
+| **Closing Capital**    | **3,20,000** |
+
+**Calculation of Profit**
+
+Opening Capital = ₹2,50,000
+
+Closing Capital = ₹3,20,000
+
+Add: Drawings = ₹45,000
+
+= ₹3,65,000
+
+Less: Additional Capital Introduced = ₹75,000
+
+Adjusted Closing Capital = ₹2,90,000
+
+Less: Opening Capital = ₹2,50,000
+
+**Profit = ₹40,000**
+
+**Answer**
+
+**Profit for the year = ₹40,000**
+
+**Explanation**
+
+i) The **Opening Capital** is the proprietor's initial investment in the business, amounting to **₹2,50,000**.
+
+ii) The **Closing Capital** is determined by deducting **Sundry Creditors (₹40,000)** from the **Total Assets (₹3,60,000)**, resulting in **₹3,20,000**.
+
+iii) Since **Additional Capital (₹75,000)** increases capital without being profit, it is deducted. **Drawings (₹45,000)** reduce capital for personal use, so they are added back to determine the true profit earned during the year. 
+
+**Conclusion**
+
+Using the **Statement of Affairs Method**, the **Closing Capital is ₹3,20,000**. After adjusting for **Additional Capital of ₹75,000** and **Drawings of ₹45,000**, the **Net Profit earned during the year is ₹40,000**. This method is appropriate for businesses maintaining accounts under the **Single-Entry System**.
+
+**2. Mr. Rahil uses the Single Entry System to keep track of his finances. Determine his profit or loss for the year ended March 31, 2015, using the following information provided by him:**
+
+**His position on 31st March 2014 was: Plant and Machinery ₹15,000; Stock ₹2,500; Cash in Hand ₹50; Debtors ₹8,500; Loan from Mr. Ashish ₹500 at 2% interest; Bank Overdraft ₹550; and Creditors ₹6,060.**
+
+**On 31st March 2015, he owed his creditors ₹4,585 and had paid Mr. Ashish ₹250 towards his loan on 1st October 2014 but had paid no interest. He had purchased additional Plant and Machinery costing ₹6,500. Debtors were ₹11,500, out of which ₹450 was considered irrecoverable. The Cash and Bank Balance was ₹2,050, and the closing stock was valued at ₹2,250.**
+
+**Mr. Rahil withdrew ₹4,150 for domestic purposes and introduced additional capital of ₹5,000 during the year.**
+
+**Ans.**
+
+**Calculation of Profit using Statement of Affairs Method**
+
+Under the **Single-Entry System**, profit is calculated by preparing the **Opening Statement of Affairs** and the **Closing Statement of Affairs**. The capital at the beginning and at the end of the accounting period is determined by deducting liabilities from assets. The closing capital is then adjusted for **drawings** and **additional capital introduced** to ascertain the actual profit earned during the year. 
+
+**Working Notes**
+
+**Calculation of Opening Capital**
+
+| Assets              | Amount (₹) |
+| ------------------- | ---------: |
+| Plant and Machinery |     15,000 |
+| Stock               |      2,500 |
+| Cash in Hand        |         50 |
+| Debtors             |      8,500 |
+| **Total Assets**    | **26,050** |
+
+| Liabilities           | Amount (₹) |
+| --------------------- | ---------: |
+| Loan from Mr. Ashish  |        500 |
+| Bank Overdraft        |        550 |
+| Creditors             |      6,060 |
+| **Total Liabilities** |  **7,110** |
+
+**Opening Capital = ₹26,050 − ₹7,110 = ₹18,940**
+
+**Calculation of Closing Capital**
+
+| Assets                               | Amount (₹) |
+| ------------------------------------ | ---------: |
+| Plant and Machinery (15,000 + 6,500) |     21,500 |
+| Stock                                |      2,250 |
+| Cash and Bank Balance                |      2,050 |
+| Debtors (11,500 − 450 Bad Debts)     |     11,050 |
+| **Total Assets**                     | **36,850** |
+
+| Liabilities                   |   Amount (₹) |
+| ----------------------------- | -----------: |
+| Creditors                     |        4,585 |
+| Balance of Loan               |          250 |
+| Outstanding Interest on Loan* |         7.50 |
+| **Total Liabilities**         | **4,842.50** |
+
+**Closing Capital = ₹36,850 − ₹4,842.50 = ₹32,007.50**
+
+*Interest on Loan: ₹500 × 2% × 6/12 = ₹5.00; ₹250 × 2% × 6/12 = ₹2.50; Total = ₹7.50.*
+
+**Calculation of Profit**
+
+Closing Capital = ₹32,007.50
+
+Add: Drawings = ₹4,150.00
+
+= ₹36,157.50
+
+Less: Additional Capital Introduced = ₹5,000.00
+
+Adjusted Closing Capital = ₹31,157.50
+
+Less: Opening Capital = ₹18,940.00
+
+**Profit = ₹12,217.50**
+
+**Answer**
+
+**Profit for the year = ₹12,217.50**
+
+**Explanation**
+
+i) The opening capital is obtained by deducting opening liabilities from opening assets.
+
+ii) The closing capital is calculated after adjusting the debtors for bad debts and including the outstanding loan and accrued interest as liabilities.
+
+iii) Drawings are added back because they reduce capital, while additional capital introduced is deducted since it is not earned profit. The remaining balance represents the actual profit for the year. 
+
+**Conclusion**
+
+Using the **Statement of Affairs Method**, the **Opening Capital is ₹18,940** and the **Closing Capital is ₹32,007.50**. After adjusting for **drawings of ₹4,150** and **additional capital of ₹5,000**, **Mr. Rahil earned a profit of ₹12,217.50** during the year ended **31 March 2015**.
+
+**3. Mr. Khan does not know how to maintain books of account. From his available records, prepare the Final Accounts after providing for doubtful debts at 5% of outstanding debtors and depreciating the motor car at 20%.**
+
+**(i) Balance Sheet as of April 1, 2014**
+
+| Liabilities   |            ₹ | Assets           |            ₹ |
+| ------------- | -----------: | ---------------- | -----------: |
+| Capital       |       46,250 | Motor Car        |       35,850 |
+| Bills Payable |       16,400 | Stock            |       25,750 |
+| Creditors     |       42,100 | Debtors          |       24,750 |
+|               |              | Bills Receivable |       12,200 |
+|               |              | Cash in Hand     |        6,200 |
+| **Total**     | **1,04,750** | **Total**        | **1,04,750** |
+
+**(ii) Cash Transactions during the year**
+
+| Receipts             |            ₹ | Payments             |            ₹ |
+| -------------------- | -----------: | -------------------- | -----------: |
+| Balance b/d          |        6,200 | Furniture            |       15,000 |
+| Receipt from Debtors |       57,500 | Wages                |        4,700 |
+| Bills Receivable     |        7,100 | Purchases            |       20,250 |
+| Sales                |       51,500 | Drawings             |       12,000 |
+|                      |              | Bills Payable        |       15,350 |
+|                      |              | General Expenses     |       10,350 |
+|                      |              | Payment to Creditors |       40,400 |
+|                      |              | Balance c/d          |        4,250 |
+| **Total**            | **1,22,300** | **Total**            | **1,22,300** |
+
+**(iii) Other Information**
+
+| Particulars                       |      ₹ |
+| --------------------------------- | -----: |
+| Bills Receivable Drawn (Received) |  3,150 |
+| Discount to Customers             |  1,150 |
+| Discount from Suppliers           |    350 |
+| Credit Purchases                  | 14,800 |
+| Closing Stock                     | 20,850 |
+| Closing Balance of Debtors        | 27,500 |
+| Closing Balance of Bills Payable  |  5,100 |
+
+**Ans.**
+
+**Preparation of Final Accounts**
+
+Under the **Single-Entry System**, incomplete records are converted into complete financial statements by determining the missing information and preparing the **Trading Account, Profit and Loss Account, and Balance Sheet**. Necessary adjustments such as **Provision for Doubtful Debts** and **Depreciation on Motor Car** are made before arriving at the final profit and financial position. 
+
+**Working Notes**
+
+**Calculation of Total Purchases**
+
+Cash Purchases = ₹20,250
+
+Add: Credit Purchases = ₹14,800
+
+**Total Purchases = ₹35,050**
+
+**Provision for Doubtful Debts**
+
+Closing Debtors = ₹27,500
+
+Provision @ 5% = ₹27,500 × 5%
+
+= **₹1,375**
+
+Net Debtors = ₹27,500 − ₹1,375
+
+= **₹26,125**
+
+**Depreciation on Motor Car**
+
+Motor Car = ₹35,850
+
+Depreciation @ 20%
+
+= ₹35,850 × 20%
+
+= **₹7,170**
+
+Written Down Value of Motor Car
+
+= ₹35,850 − ₹7,170
+
+= **₹28,680**
+
+**Trading Account**
+
+The Trading Account records the direct trading activities of the business. The debit side includes **Opening Stock (₹25,750), Total Purchases (₹35,050), and Wages (₹4,700)**. The credit side includes **Cash Sales (₹51,500)** and **Closing Stock (₹20,850)**. The difference between the two sides represents the **Gross Profit**, which is transferred to the Profit and Loss Account. 
+
+**Profit and Loss Account**
+
+The Gross Profit is brought to the credit side of the Profit and Loss Account. **General Expenses (₹10,350), Depreciation on Motor Car (₹7,170), and Provision for Doubtful Debts (₹1,375)** are debited as business expenses. **Discount Received from Suppliers (₹350)** is credited as an indirect income. The balancing figure of the account gives the **Net Profit** for the year.
+
+**Balance Sheet**
+
+The Balance Sheet is prepared after incorporating all adjustments. The assets include **Motor Car (₹28,680), Furniture (₹15,000), Closing Stock (₹20,850), Net Debtors (₹26,125), Bills Receivable, and Cash Balance (₹4,250)**. The liabilities consist of **Capital adjusted for Net Profit and Drawings, Creditors (₹42,100), and Closing Bills Payable (₹5,100)**. The Balance Sheet presents the true financial position of the business at the end of the accounting year.
+
+**Conclusion**
+
+The Final Accounts prepared from incomplete records provide a fair view of the business by considering **Credit Purchases, Closing Stock, Provision for Doubtful Debts, and Depreciation on Motor Car**. These adjustments ensure that the **Trading Account, Profit and Loss Account, and Balance Sheet** reflect the correct financial performance and position of the business.
+
+**4. Mr. Anup runs a wholesale business in which all purchases and sales are made on credit. The following closing balances are available:**
+
+**Closing Balances**
+
+| Particulars      | 31 March 2021 (₹) | 31 March 2022 (₹) |
+| ---------------- | ----------------: | ----------------: |
+| Sundry Debtors   |            70,000 |            92,000 |
+| Bills Receivable |            15,000 |             6,000 |
+| Bills Payable    |            12,000 |            14,000 |
+| Sundry Creditors |            40,000 |            56,000 |
+| Inventory        |          1,10,000 |          1,90,000 |
+| Bank             |            90,000 |            87,000 |
+| Cash             |             5,200 |             5,300 |
+
+**Summary of Cash Transactions during 2021–2022**
+
+1. Deposited to bank after paying shop expenses ₹600 p.m., salary ₹9,200 p.m., and personal expenses ₹1,400 p.m.: **₹7,62,750**
+2. Cash withdrawn from bank: **₹1,21,000**
+3. Cash paid to suppliers: **₹77,200** for goods and **₹25,000** for furniture
+4. Cheques from customers dishonoured: **₹5,700**
+5. Bills accepted by customers: **₹40,000**
+6. Bills endorsed to suppliers: **₹10,000**
+7. Bills discounted: **₹20,000** (discount **₹750**)
+8. Bills collected on maturity: **₹16,000**
+9. Bills accepted by the firm: **₹24,000**
+10. Cheques paid to suppliers: **₹3,20,000**
+11. LIC policy matured and received by cheque: **₹20,000**
+12. Rent received by cheque: **₹14,000**
+13. Building purchased on 30-11-2021 for **₹3,50,000**, and additional expenses incurred (not recorded)
+14. Electricity and telephone paid in cash **₹18,700**; outstanding **₹2,200**
+
+**Other Transactions**
+
+* Claim for damages under legal dispute: ₹1,55,000 (legal expenses ₹17,000; loss anticipated)
+* Goods returned to suppliers: **₹4,200**
+* Goods returned by customers: **₹1,200**
+* Discount received from suppliers: **₹2,700**
+* Discount allowed to customers: **₹2,400**
+* Rent of business premises: **₹20,000 per year**, outstanding at year-end.
+
+**Required to Prepare:**
+
+1. Trading Account
+2. Profit & Loss Account
+3. Balance Sheet as on 31 March 2022
+
+**Ans.**
+
+**Final Accounts of Mr. Anup**  
+
+From the given incomplete records, the missing figures are first determined by preparing the necessary Debtors, Creditors, Bills Receivable, Bills Payable, and Cash/Bank Accounts. Thereafter, the Trading Account, Profit & Loss Account, and Balance Sheet are prepared using the conversion method prescribed for incomplete records. 
+
+**A) Trading Account**
+
+| Particulars                           |             ₹ | Particulars                       |             ₹ |
+| ------------------------------------- | ------------: | --------------------------------- | ------------: |
+| To Opening Inventory                  |      1,10,000 | By Net Sales (₹9,59,750 − ₹1,200) |      9,58,550 |
+| To Net Purchases (₹4,54,100 − ₹4,200) |      4,49,900 | By Closing Inventory              |      1,90,000 |
+| To Gross Profit c/d                   |      5,88,650 |                                   |               |
+| **Total**                             | **11,48,550** | **Total**                         | **11,48,550** |
+
+---
+
+**B) Profit & Loss Account**
+
+| Particulars                              |            ₹ | Particulars          |            ₹ |
+| ---------------------------------------- | -----------: | -------------------- | -----------: |
+| To Salary                                |     1,10,400 | By Gross Profit      |     5,88,650 |
+| To Electricity & Telephone               |       20,900 | By Discount Received |        2,700 |
+| To Legal Expenses                        |       17,000 |                      |              |
+| To Discount Allowed                      |        3,150 |                      |              |
+| To Shop Expenses                         |        7,200 |                      |              |
+| To Provision for Claims                  |     1,55,000 |                      |              |
+| To Shop Rent                             |       20,000 |                      |              |
+| To **Net Profit transferred to Capital** | **2,57,700** |                      |              |
+| **Total**                                | **5,91,350** | **Total**            | **5,91,350** |
+
+---
+
+**C) Balance Sheet as on 31 March 2022**
+
+| Liabilities                |            ₹ | Assets           |            ₹ |
+| -------------------------- | -----------: | ---------------- | -----------: |
+| Capital Account            |     5,13,100 | Building         |     3,72,000 |
+| Rent Outstanding           |       20,000 | Furniture        |       25,000 |
+| Sundry Creditors           |       56,000 | Inventory        |     1,90,000 |
+| Bills Payable              |       14,000 | Sundry Debtors   |       92,000 |
+| Outstanding Legal Expenses |       17,000 | Bills Receivable |        6,000 |
+| Provision for Claims       |     1,55,000 | Cash at Bank     |       87,000 |
+|                            |              | Cash in Hand     |        5,300 |
+| **Total**                  | **7,75,100** | **Total**        | **7,75,100** |
+
+**Working Notes**
+
+A) Net Sales = ₹9,59,750 − ₹1,200 = **₹9,58,550**
+
+B) Net Purchases = ₹4,54,100 − ₹4,200 = **₹4,49,900**
+
+C) Gross Profit = **₹5,88,650**
+
+D) Net Profit = **₹2,57,700**
+
+E) Closing Capital = Opening Capital ₹2,38,200 + Capital Introduced ₹20,000 + Rent Received ₹14,000 + Net Profit ₹2,57,700 − Drawings ₹16,800 = **₹5,13,100**. 
+
+**Conclusion**
+
+After converting the incomplete records into complete accounts, Mr. Anup’s business earned a **net profit of ₹2,57,700** during the year. The **closing capital amounted to ₹5,13,100**, and the **Balance Sheet totalled ₹7,75,100**, indicating the financial position of the business as on **31 March 2022**. The above figures match the solution provided in the Unit 14 PDF.
+
+**5. A. Adamjee keeps his books on a single-entry basis. The analysis of the Cash Book for the year ended 31 March 2022 is given below:**
+
+**Cash Book Summary**
+
+| Receipts                     | Amount (₹) | Payments                        | Amount (₹) |
+| ---------------------------- | ---------: | ------------------------------- | ---------: |
+| Bank Balance (1 April 2021)  |      2,800 | Payment to Sundry Creditors     |     35,000 |
+| Received from Sundry Debtors |     48,000 | Salaries                        |      6,500 |
+| Cash Sales                   |     11,000 | General Expenses                |      2,500 |
+| Capital Introduced           |      6,000 | Rent and Taxes                  |      1,500 |
+| Interest on Investments      |        200 | Drawings                        |      3,600 |
+|                              |            | Cash Purchases                  |     12,000 |
+|                              |            | Balance at Bank (31 March 2022) |      6,400 |
+|                              |            | Cash in Hand (31 March 2022)    |        500 |
+| **Total**                    | **68,000** | **Total**                       | **68,000** |
+
+**Other Assets and Liabilities**
+
+| Particulars      | 1 April 2021 (₹) | 31 March 2022 (₹) |
+| ---------------- | ---------------: | ----------------: |
+| Sundry Debtors   |           14,500 |            17,600 |
+| Sundry Creditors |            5,800 |             7,900 |
+| Machinery        |            7,500 |             7,500 |
+| Furniture        |            1,200 |             1,200 |
+| Inventory        |            3,900 |             5,700 |
+| Investments      |            5,000 |             5,000 |
+
+**Additional Information**
+
+1. Depreciation on **Machinery** and **Furniture** @ **10% p.a.**
+2. Provision for **Doubtful Debts** **₹800**
+
+**Required to Prepare:**
+
+1. Trading Account
+2. Profit & Loss Account
+3. Balance Sheet as on 31 March 2022
+
+**Ans.**
+
+**Final Accounts of A. Adamjee**  
+
+The Final Accounts are prepared by converting the incomplete records into complete accounts. The Trading Account is prepared to ascertain the Gross Profit, the Profit and Loss Account determines the Net Profit after considering indirect expenses and adjustments, and the Balance Sheet shows the financial position of the business as on **31 March 2022**.
+
+**Trading Account**
+*for the year ended 31 March 2022*
+
+| Dr. Particulars      |          ₹ | Cr. Particulars      |          ₹ |
+| -------------------- | ---------: | -------------------- | ---------: |
+| To Opening Inventory |      3,900 | By Sales             |     62,100 |
+| To Purchases         |     49,100 | By Closing Inventory |      5,700 |
+| To Gross Profit c/d  |     14,800 |                      |            |
+| **Total**            | **67,800** | **Total**            | **67,800** |
+
+**Profit and Loss Account**
+*for the year ended 31 March 2022*
+
+| Dr. Particulars                              |          ₹ | Cr. Particulars            |          ₹ |
+| -------------------------------------------- | ---------: | -------------------------- | ---------: |
+| To Salaries                                  |      6,500 | By Gross Profit b/d        |     14,800 |
+| To General Expenses                          |      2,500 | By Interest on Investments |        200 |
+| To Rent and Taxes                            |      1,500 |                            |            |
+| To Depreciation on Machinery                 |        750 |                            |            |
+| To Depreciation on Furniture                 |        120 |                            |            |
+| To Provision for Doubtful Debts              |        800 |                            |            |
+| To **Net Profit transferred to Capital A/c** |  **2,830** |                            |            |
+| **Total**                                    | **15,000** | **Total**                  | **15,000** |
+
+**Balance Sheet**
+*as on 31 March 2022*
+
+| Liabilities      |          ₹ | Assets                  |          ₹ |
+| ---------------- | ---------: | ----------------------- | ---------: |
+| Capital Account  |     34,330 | Cash at Bank            |      6,400 |
+| Sundry Creditors |      7,900 | Cash in Hand            |        500 |
+|                  |            | Sundry Debtors          |     16,800 |
+|                  |            | Inventory               |      5,700 |
+|                  |            | Machinery (7,500 − 750) |      6,750 |
+|                  |            | Furniture (1,200 − 120) |      1,080 |
+|                  |            | Investments             |      5,000 |
+| **Total**        | **42,230** | **Total**               | **42,230** |
+
+**Working Notes**
+
+A) **Calculation of Sales**
+
+Cash Sales = ₹11,000
+
+Credit Sales = ₹51,100
+
+**Total Sales = ₹62,100**. 
+
+B) **Calculation of Purchases**
+
+Cash Purchases = ₹12,000
+
+Credit Purchases = ₹37,100
+
+**Total Purchases = ₹49,100**
+
+C) **Depreciation**
+
+* Machinery = ₹7,500 × 10% = **₹750**
+* Furniture = ₹1,200 × 10% = **₹120**
+
+D) **Provision for Doubtful Debts**
+
+Required Provision = **₹800**
+
+Adjusted Debtors = ₹17,600 − ₹800 = **₹16,800**
+
+E) **Capital Account**
+
+Opening Capital = ₹29,100
+
+Add: Capital Introduced = ₹6,000
+
+Add: Net Profit = ₹2,830
+
+= ₹37,930
+
+Less: Drawings = ₹3,600
+
+**Closing Capital = ₹34,330**. 
+
+**Conclusion**
+
+From the incomplete records, the **Gross Profit** is **₹14,800**, and after charging all indirect expenses, depreciation, and provision for doubtful debts, the **Net Profit** amounts to **₹2,830**. The **Closing Capital** is **₹34,330**, and the **Balance Sheet total is ₹42,230**, showing the financial position of the business as on **31 March 2022**.
