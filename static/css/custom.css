@@ -284,13 +284,13 @@
 	}
 }
 
-@media (max-width: 280px) {
+@media (max-width: 350px) {
 	.brand h1 {
-		font-size: 1.05rem;
+		font-size: 1.2rem;
 	}
 
 	.header {
-		padding-top: 1.3rem;
+		padding-top: 1.115rem;
 	}
 }
 
