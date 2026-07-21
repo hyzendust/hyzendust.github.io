@@ -35,15 +35,6 @@ target = "content/signup"
 [[module.mounts]]
 source = "admin"
 target = "content/admin"
-[[module.mounts]]
-source = "uninotes/semester"
-target = "content/semester"
-[[module.mounts]]
-source = "uninotes/subjectcode"
-target = "content/subjectcode"
-[[module.mounts]]
-source = "blog/categories"
-target = "content/categories"
 
 [markup]
 [markup.goldmark]
