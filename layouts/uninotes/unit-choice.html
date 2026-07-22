@@ -21,9 +21,8 @@
     {{ end }}
   {{ end }}
   {{ if $subjectcode }}
-    {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode | urlize)) }}
-    {{ if $subPage }}
-      › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a>
+    {{ if $semester }}
+      › <a href="{{ printf "/uninotes/%s/%s/" ($semester | urlize) ($subjectcode | urlize) }}">{{ $subjectcode }}</a>
     {{ end }}
   {{ end }}
   › <span>{{ .Params.unit | default .Title }}</span>

@@ -8,9 +8,11 @@ $subjectcode = $subjectcodeRaw }} {{ end }}
 	<a href="/uninotes/">UniNotes</a>
 	{{ if $semester }} {{ $semPage := site.GetPage (printf "/semester/%s" ($semester | urlize)) }}
 	{{ if $semPage }} › <a href="{{ $semPage.RelPermalink }}">{{ $semester }}</a> {{ end }} {{ end
-	}} {{ if $subjectcode }} {{ $subPage := site.GetPage (printf "/subjectcode/%s" ($subjectcode |
-	urlize)) }} {{ if $subPage }} › <a href="{{ $subPage.RelPermalink }}">{{ $subjectcode }}</a> {{
-	end }} {{ end }} {{ if .Params.uniturl }} ›
+	}} {{ if $subjectcode }} {{ if $semester }} › <a
+		href="{{ printf "/uninotes/%s/%s/" ($semester | urlize) ($subjectcode | urlize) }}"
+		>{{ $subjectcode }}</a
+	>
+	{{ end }} {{ end }} {{ if .Params.uniturl }} ›
 	<a href="{{ .Params.uniturl }}">{{ .Params.unit | default .Title }}</a> ›
 	<span>{{ .Params.notecategory | default "Notes" }}</span> {{ else }} ›
 	<span>{{ .Params.unit | default .Title }}</span>
