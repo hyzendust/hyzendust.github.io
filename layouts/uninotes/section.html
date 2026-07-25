@@ -45,11 +45,12 @@
 
 	{{ if $sortedCodeDicts }}
 	<div class="uninotes-contents__semester">
-		<a class="uninotes-contents__sem-link" href="{{ .Page.RelPermalink }}">{{ $semName }}</a>
+		{{ $semUrl := .Page.RelPermalink }}
+		<a class="uninotes-contents__sem-link" href="{{ $semUrl }}">{{ $semName }}</a>
 
 		{{ range $sortedCodeDicts }}
 		{{ $code := .code }}
-		{{ $subPage := site.GetPage (printf "/subjectcode/%s" ($code | urlize)) }}
+		{{ $subjectUrl := printf "%s%s/" $semUrl ($code | urlize) }}
 
 		{{/* Collect one representative page per unit for this subject, then sort numerically */}}
 		{{ $unitDicts := slice }}
@@ -78,11 +79,7 @@
 		{{ $sortedUnitDicts := sort $unitDicts "num" }}
 
 		<div class="uninotes-contents__subject">
-			{{ if $subPage }}
-			<a class="uninotes-contents__subject-link" href="{{ $subPage.RelPermalink }}">{{ $code }}</a>
-			{{ else }}
-			<span class="uninotes-contents__subject-link">{{ $code }}</span>
-			{{ end }}
+			<a class="uninotes-contents__subject-link" href="{{ $subjectUrl }}">{{ $code }}</a>
 			<ul class="uninotes-contents__units">
 				{{ range $sortedUnitDicts }}
 				{{ $unitLabel := .label }}
