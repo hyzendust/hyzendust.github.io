@@ -39,69 +39,6 @@ target = "content/admin"
 [[module.mounts]]
 source = "content/uninotes/subjectcode"
 target = "content/subjectcode"
-
-[markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
-
-[params]
-dateFormat = "Posted on: January 2, 2006"
-customCSS = ["css/custom.css"]
-
-[params.author]
-name = "Freedoms4"
-email = "your-email@example.com"
-
-[caches]
-[caches.images]
-dir = ':cacheDir/images'
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
-[menu]
-
-[[menu.main]]
-identifier = "landing"
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-identifier = "blogs"
-name = "Blog"
-url = "/blog/"
-weight = 2
-
-[[menu.main]]
-identifier = "services"
-name = "Services"
-url = "/services/"
-weight = 3
-
-[[menu.main]]
-identifier = "uninotes"
-name = "UniNotes"
-url = "/uninotes/"
-weight = 4
-
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 5
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-semester = "semester"
-subjectcode = "subjectcode"
-
-[permalinks]
-[permalinks.term]
-semester = '/uninotes/:slug/'
-subjectcode = '/uninotes/:slug/'
 [[module.mounts]]
 source = "layouts"
 target = "layouts"
@@ -120,3 +57,65 @@ target = "i18n"
 [[module.mounts]]
 source = "archetypes"
 target = "archetypes"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+dateFormat = "Posted on: January 2, 2006"
+customCSS = ["css/custom.css"]
+[params.author]
+name = "Freedoms4"
+email = "your-email@example.com"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[menu]
+[[menu.main]]
+identifier = "landing"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "blogs"
+name = "Blog"
+url = "/blog/"
+weight = 2
+[[menu.main]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+weight = 3
+[[menu.main]]
+identifier = "uninotes"
+name = "UniNotes"
+url = "/uninotes/"
+weight = 4
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+semester = "semester"
+subjectcode = "subjectcode"
+
+[permalinks]
+[permalinks.page]
+blog = '/blog/categories/:sections[last]/:slug/'
+[permalinks.taxonomy]
+categories = '/blog/categories/'
+[permalinks.term]
+semester = '/uninotes/:slug/'
+subjectcode = '/uninotes/:slug/'
+categories = '/blog/categories/:slug/'

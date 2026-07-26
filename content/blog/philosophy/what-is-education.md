@@ -2,7 +2,6 @@
 date = '2026-03-01T18:11:14+00:00'
 draft = false
 title = 'What is Education?'
-categories = 'philosophy'
 tags = ['education', 'academics', 'system']
 toc = false
 +++

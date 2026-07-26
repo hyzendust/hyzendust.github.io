@@ -2,14 +2,31 @@
 
 <nav class="uninotes-breadcrumbs breadcrumbs">
 	<a href="/blog/">Blog</a>
-	› <span>{{ .Title }}</span>
+	{{ with .GetTerms "categories" }}{{ range first 1 . }} ›
+	<a href="/blog/categories/">Categories</a> ›
+	<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ end }} ›
+	<span>{{ .Title }}</span>
 </nav>
 
 <h1>{{ .Title }}</h1>
 {{ partial "page/author.html" . }} {{ partial "main/dates.html" . }} {{ partial
 "page/translation_list.html" . }} {{ partial "page/toc.html" . }} {{ .Content }} {{ partial
 "page/terms.html" (dict "taxonomy" "tags" "page" .) }} {{ partial "page/terms.html" (dict "taxonomy"
-"categories" "page" .) }} {{ partial "page/page_nav.html" . }} {{ partial "page/page-end.html" . }}
+"categories" "page" .) }} {{ $blogPosts := (where site.RegularPages "Section" "blog").ByDate.Reverse
+}} {{ $currentPermalink := .RelPermalink }} {{ $currentIndex := 0 }} {{ range $index, $post :=
+$blogPosts }}{{ if eq $post.RelPermalink $currentPermalink }}{{ $currentIndex = $index }}{{ end }}{{
+end }} {{ if gt (len $blogPosts) 1 }}
+<nav class="page-nav">
+	{{ if gt $currentIndex 0 }}{{ $previous := index $blogPosts (sub $currentIndex 1) }}
+	<a class="page-nav__previous-link" href="{{ $previous.RelPermalink }}"
+		>← {{ $previous.LinkTitle }}</a
+	>
+	{{ end }} {{ if lt $currentIndex (sub (len $blogPosts) 1) }}{{ $next := index $blogPosts (add
+	$currentIndex 1) }}
+	<a class="page-nav__next-link" href="{{ $next.RelPermalink }}">{{ $next.LinkTitle }} →</a>
+	{{ end }}
+</nav>
+{{ end }} {{ partial "page/page-end.html" . }}
 
 <!-- ── Comments ── -->
 <section class="comments" id="comments">
@@ -20,7 +37,7 @@
 <script>
 	(function () {
 		var BACKEND  = 'https://backend.freedoms4.org/comments.php';
-		var POST_ID  = {{ .RelPermalink | jsonify | safeJS }};
+		var POST_ID  = {{ printf "/blog/%s/" (.File.ContentBaseName | urlize) | jsonify | safeJS }};
 		var username = localStorage.getItem('f4_username');
 		var isAdmin  = false;
 
