@@ -21,9 +21,12 @@ Consumed client-side by /js/search.js.
 			{{- $excluded = true -}}
 		{{- end -}}
 	{{- end -}}
-	{{- if not $excluded -}}
+	{{- if and (not $excluded) (ne $permalink "") -}}
 		{{- $pages = $pages | append . -}}
 	{{- end -}}
+{{- end -}}
+{{- range site.Taxonomies.categories.Alphabetical -}}
+	{{- $pages = $pages | append .Page -}}
 {{- end -}}
 [
 {{- range $i, $p := $pages -}}
@@ -34,10 +37,14 @@ Consumed client-side by /js/search.js.
 	{{- $text := $clean | plainify | htmlUnescape -}}
 	{{- $text = replaceRE `\s+` " " $text -}}
 	{{- $text = strings.TrimSpace $text -}}
+	{{- $section := cond (eq $p.Section "") "home" $p.Section -}}
+	{{- if eq $p.Kind "term" -}}
+		{{- $section = "blog-category" -}}
+	{{- end -}}
 	{
 		"title": {{ $p.Title | jsonify }},
 		"url": {{ $p.RelPermalink | jsonify }},
-		"section": {{ (cond (eq $p.Section "") "home" $p.Section) | jsonify }},
+		"section": {{ $section | jsonify }},
 		"content": {{ $text | jsonify }}
 	}
 {{- end -}}

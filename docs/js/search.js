@@ -45,6 +45,7 @@
 	}
 
 	function sectionLabel(section) {
+		if (section === 'blog-category') return 'Category';
 		if (section === 'blog') return 'Blog';
 		if (section === 'services') return 'Service';
 		return section;
