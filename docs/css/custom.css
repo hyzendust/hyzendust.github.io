@@ -128,6 +128,11 @@
 	white-space: nowrap;
 }
 
+.brand__home-link {
+	display: contents;
+	color: inherit;
+}
+
 /* Brand actions */
 .brand__actions {
 	display: flex;
