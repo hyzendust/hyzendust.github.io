@@ -8,6 +8,440 @@ toc = true
 url = '/uninotes/s1/fa-dcm1108/qna/'
 +++
 
+### ***July 28, 2026***
+
+### Model Question Paper 5 Marks (200-250 words)
+
+**1. Briefly explain the accrual basis of accounting.**
+
+**Ans.**
+
+**Accrual Basis of Accounting**
+
+The **accrual basis of accounting** is a method under which incomes and expenses are recognised **when they are earned or incurred**, irrespective of whether the related cash has actually been received or paid. Thus, accounting records are based on the occurrence of economic transactions rather than merely on cash movements. 
+
+**A) Recognition of Income:**
+
+Income is recorded in the accounting period in which it is earned, even if cash is received later. For example, if credit sales during a year amount to ₹2,00,000 but only ₹1,50,000 is collected from customers, the entire ₹2,00,000 is recognised as sales revenue for that year. 
+
+**B) Recognition of Expenses:**
+
+Expenses are similarly recognised when they are incurred, regardless of when payment is made. For example, if employees work during March but their salaries are paid in April, the salary expense is recorded in March because it relates to that accounting period. 
+
+**C) Adjustments under Accrual Basis:**
+
+The accrual concept gives rise to adjustments such as **accrued income, accrued expenses, prepaid expenses, and unearned income**. It also includes relevant non-cash expenses such as depreciation. These adjustments ensure that only incomes and expenses belonging to the current accounting period are considered. 
+
+**D) Importance of Accrual Basis:**
+
+The accrual basis supports the **matching principle**, according to which expenses should be recognised in the same accounting period as the revenues they help generate. This enables the business to determine its profit or loss more accurately and present its actual financial position. 
+
+**Conclusion**
+
+Thus, the accrual basis recognises income when earned and expenses when incurred, regardless of cash receipt or payment. It ensures proper matching of revenues and expenses and provides a more accurate measurement of business performance. 
+
+**2. Write the Journal entries for the following transactions- ( In proper format of the Journal).**
+
+a. Purchased Furniture worth Rs 50,000 for Cash.  
+b. Credit purchase of raw material from Mr. Rahul worth Rs 20,000.  
+c. Sold goods to Mr Raj Kumar on credit worth Rs 45,000.  
+d. Paid rent for office premises by Bank -Rs 18,000.  
+e. Pass the rectification Journal entry for payment for purchase of computer printer Rs worth Rs.12,000,wrongly debited to office expenses account.
+
+**Ans.**
+
+**Journal Entries**
+
+The following transactions are recorded according to the **double-entry system**, under which every transaction affects at least two accounts. The account receiving the benefit is debited and the account giving the benefit is credited, according to the nature of the accounts involved.
+
+| Date | Particulars                                                                                  | L.F. | Debit (Rs.) | Credit (Rs.) |
+| ---- | -------------------------------------------------------------------------------------------- | ---: | ----------: | -----------: |
+| (a)  | **Furniture A/c Dr.**                                                                        |      |      50,000 |              |
+|      |    To Cash A/c                                                                               |      |             |       50,000 |
+|      | *(Being furniture purchased for cash)*                                                       |      |             |              |
+| (b)  | **Raw Material Purchases A/c Dr.**                                                           |      |      20,000 |              |
+|      |    To Rahul A/c                                                                              |      |             |       20,000 |
+|      | *(Being raw material purchased on credit from Mr. Rahul)*                                    |      |             |              |
+| (c)  | **Raj Kumar A/c Dr.**                                                                        |      |      45,000 |              |
+|      |    To Sales A/c                                                                              |      |             |       45,000 |
+|      | *(Being goods sold on credit to Mr. Raj Kumar)*                                              |      |             |              |
+| (d)  | **Rent A/c Dr.**                                                                             |      |      18,000 |              |
+|      |    To Bank A/c                                                                               |      |             |       18,000 |
+|      | *(Being office rent paid through bank)*                                                      |      |             |              |
+| (e)  | **Computer Printer A/c Dr.**                                                                 |      |      12,000 |              |
+|      |    To Office Expenses A/c                                                                    |      |             |       12,000 |
+|      | *(Being purchase of computer printer wrongly debited to Office Expenses A/c, now rectified)* |      |             |              |
+
+**Explanation of Rectification:**
+
+In transaction **(e)**, the purchase of a computer printer is a **capital expenditure** because the printer is an asset that provides benefits beyond the current accounting period. Therefore, **Computer Printer A/c should have been debited** instead of Office Expenses A/c.
+
+Since Office Expenses A/c had already been wrongly debited by Rs. 12,000, it is credited by the same amount to cancel the incorrect debit, while Computer Printer A/c is debited to record the asset correctly.
+
+**Conclusion**
+
+These journal entries apply the double-entry principle by giving an equal debit and credit effect to every transaction. The rectification entry also corrects the classification of the printer from a revenue expense to a capital asset.
+
+**3. Explain the purpose and features of the Trial Balance.**
+
+**Ans.**
+
+**Purpose and Features of the Trial Balance**
+
+A **Trial Balance** is a statement prepared on a particular date containing the debit and credit balances of all ledger accounts. Its main purpose is to check the **arithmetical accuracy** of the books by verifying whether the total debit balances are equal to the total credit balances. It acts as a link between the ledger and the preparation of final accounts. 
+
+**A) Purpose of Trial Balance:**
+
+The primary purpose is to check whether the principles of the **double-entry system** have been arithmetically followed. It helps detect errors such as incorrect totalling, one-sided posting, and wrong balancing of ledger accounts. It also provides a consolidated summary of all ledger balances in one place. 
+
+Another important purpose is to facilitate the preparation of **Trading Account, Profit and Loss Account, and Balance Sheet**. It also assists in locating discrepancies, making year-end adjustments, maintaining internal control, and providing an organised base for auditing. 
+
+**B) Features of Trial Balance:**
+
+A Trial Balance has the following important features:
+
+* It is a **statement, not an account**.
+* It is prepared on a **specific date**, such as monthly, quarterly, or annually.
+* It contains **all ledger accounts** and shows both debit and credit balances.
+* Assets, expenses, and drawings generally have debit balances, while liabilities, incomes, and capital have credit balances.
+* It is based on the **double-entry system**, so total debits should equal total credits.
+* It may be prepared using the **Total Method or Balance Method**.  
+
+**Conclusion**
+
+Thus, the Trial Balance checks arithmetical accuracy, summarises ledger balances, helps locate certain errors, and provides the foundation for preparing final accounts. However, even a tallied Trial Balance does not guarantee that the books are completely free from errors.
+
+**4. ABC follows the calendar year as its accounting period. It purchased a machine for Rs 60,000 on Jan 1 2021.Depreciation is provided @ 10% on the diminishing balance method. Prepare the Machinery account for the years 2021 to 2023 assuming that the machine is sold on July 1 2023 for Rs 28,600.**
+
+**Ans.**
+
+**Machinery Account under Diminishing Balance Method**
+
+Under the **Diminishing Balance Method**, depreciation is charged at a fixed percentage on the **written-down value** of the asset each year. Therefore, the amount of depreciation decreases from year to year. 
+
+**A) Calculation of Depreciation:**
+
+**2021:**
+Cost of machine = Rs. 60,000
+Depreciation = Rs. 60,000 × 10% = **Rs. 6,000**
+Written-down value = Rs. 60,000 − Rs. 6,000 = **Rs. 54,000**
+
+**2022:**
+Depreciation = Rs. 54,000 × 10% = **Rs. 5,400**
+Written-down value = Rs. 54,000 − Rs. 5,400 = **Rs. 48,600**
+
+**2023:**
+The machine was sold on 1 July 2023. Depreciation must therefore be provided for **six months up to the date of sale**. 
+
+Depreciation = Rs. 48,600 × 10% × 6/12 = **Rs. 2,430**
+
+Book value on date of sale = Rs. 48,600 − Rs. 2,430 = **Rs. 46,170**
+
+Loss on sale = Rs. 46,170 − Rs. 28,600 = **Rs. 17,570**
+
+**B) Machinery Account:**
+
+| Date        | Particulars    |        Rs. | Date         | Particulars                 |        Rs. |
+| ----------- | -------------- | ---------: | ------------ | --------------------------- | ---------: |
+| 2021 Jan. 1 | To Bank A/c    |     60,000 | 2021 Dec. 31 | By Depreciation A/c         |      6,000 |
+|             |                |            |              | By Balance c/d              |     54,000 |
+|             | **Total**      | **60,000** |              | **Total**                   | **60,000** |
+| 2022 Jan. 1 | To Balance b/d |     54,000 | 2022 Dec. 31 | By Depreciation A/c         |      5,400 |
+|             |                |            |              | By Balance c/d              |     48,600 |
+|             | **Total**      | **54,000** |              | **Total**                   | **54,000** |
+| 2023 Jan. 1 | To Balance b/d |     48,600 | 2023 July 1  | By Depreciation A/c         |      2,430 |
+|             |                |            | 2023 July 1  | By Bank A/c                 |     28,600 |
+|             |                |            | 2023 July 1  | By Profit & Loss A/c (Loss) |     17,570 |
+|             | **Total**      | **48,600** |              | **Total**                   | **48,600** |
+
+**Conclusion**
+
+Thus, depreciation for 2021, 2022, and 2023 is **Rs. 6,000, Rs. 5,400, and Rs. 2,430** respectively. The machine's book value on the date of sale is **Rs. 46,170**, resulting in a **loss on sale of Rs. 17,570**.
+
+**5. Explain the meaning of Closing stock and explain how it is treated in the final accounts.**
+
+**Ans.**
+
+**Meaning and Treatment of Closing Stock in Final Accounts**
+
+**Closing stock** refers to the value of **unsold goods remaining with a business at the end of an accounting period**. In a manufacturing or trading concern, closing stock may consist of raw materials, work-in-progress, and finished goods. It represents an **unexpired cost**, because these goods have not yet been sold and will provide benefits in the next accounting period. 
+
+**A) Valuation of Closing Stock:**
+
+Closing stock is valued according to the principle of **cost or net realisable value, whichever is lower**. This treatment follows the principle of prudence and prevents the business from overstating its profit and assets. 
+
+**B) Treatment in Trading Account:**
+
+When closing stock is given **outside the Trial Balance as an adjustment**, it is shown on the **credit side of the Trading Account**. It reduces the cost of goods sold and consequently increases gross profit. 
+
+The adjustment entry is:
+
+**Closing Stock A/c Dr.**
+    **To Trading A/c**
+
+**C) Treatment in Balance Sheet:**
+
+Closing stock represents goods owned by the business at the end of the year. Therefore, it is shown on the **assets side of the Balance Sheet under Current Assets**. Thus, when closing stock is an adjustment, it appears at two places—in the Trading Account and the Balance Sheet. 
+
+**D) Closing Stock in Trial Balance:**
+
+If closing stock is **already included in the Trial Balance**, no adjustment entry is required. In such a case, it is shown **only on the assets side of the Balance Sheet** and not again in the Trading Account. 
+
+**Conclusion**
+
+Closing stock is an important year-end adjustment affecting both profit and financial position. Proper valuation and treatment ensure correct calculation of gross profit and accurate presentation of current assets in the Balance Sheet.
+
+**6. How will the following adjustment appear in the Balance sheet as on 31.12.2021.**
+
+a. Sundry debtors Rs. 21,000
+b. Bad debts to be written off Rs. 1,000
+c. Provide 5% provision for Bad and Doubtful debts and 2% Provision for discount on debtors.
+
+**Ans.**
+
+**Treatment of Bad Debts and Provisions in the Balance Sheet**
+
+Bad debts are amounts that have become irrecoverable from debtors. They must first be deducted from Sundry Debtors. The **Provision for Bad and Doubtful Debts** is then calculated on the remaining good debtors so that debtors are shown at their expected realisable value. 
+
+**A) Sundry Debtors after Bad Debts:**
+
+Sundry Debtors = Rs. 21,000
+Less: Bad debts to be written off = Rs. 1,000
+
+**Adjusted Debtors = Rs. 20,000**
+
+The PDF follows the same procedure of deducting further bad debts before calculating the provision for doubtful debts. 
+
+**B) Provision for Bad and Doubtful Debts:**
+
+Provision = Rs. 20,000 × 5%
+= **Rs. 1,000**
+
+Good debtors after this provision:
+
+Rs. 20,000 − Rs. 1,000 = **Rs. 19,000**
+
+**C) Provision for Discount on Debtors:**
+
+Provision for discount is calculated on **good debtors**, that is, after deducting bad debts and provision for doubtful debts.
+
+Provision = Rs. 19,000 × 2%
+= **Rs. 380**
+
+Therefore, the net amount of debtors shown in the Balance Sheet is:
+
+Rs. 19,000 − Rs. 380 = **Rs. 18,620**
+
+**D) Balance Sheet Extract as on 31.12.2021:**
+
+| **Assets**                                    |    **Rs.** |
+| --------------------------------------------- | ---------: |
+| Sundry Debtors                                |     21,000 |
+| Less: Bad Debts                               |    (1,000) |
+|                                               | **20,000** |
+| Less: Provision for Bad & Doubtful Debts @ 5% |    (1,000) |
+|                                               | **19,000** |
+| Less: Provision for Discount on Debtors @ 2%  |      (380) |
+| **Net Sundry Debtors**                        | **18,620** |
+
+**Conclusion**
+
+Thus, after making all the required adjustments, **Sundry Debtors will appear at Rs. 18,620 on the assets side of the Balance Sheet as on 31.12.2021**.
+
+### Model Question Paper 10 Marks (400-500 words)
+
+**1. Explain the reasons for differences between balance as per Cash book and balance as per Pass-book.**
+
+**Ans.**
+
+**Reasons for Differences Between Balance as per Cash Book and Pass Book**
+
+The **Cash Book** records bank transactions from the point of view of the business, while the **Pass Book or Bank Statement** records the same transactions from the bank’s point of view. Normally, the balances of both books should correspond. However, differences may arise because certain transactions are recorded in one book earlier than in the other, because some transactions are initiated directly by the bank, or because of errors. A **Bank Reconciliation Statement (BRS)** is prepared to identify and reconcile these differences. 
+
+**A) Cheques Issued but Not Presented for Payment:**
+
+When a business issues a cheque, it immediately records the payment in the Cash Book and reduces the bank balance. However, the bank records the payment only when the cheque is presented for payment. Therefore, until the cheque is presented, the **Pass Book balance will be higher than the Cash Book balance** in the case of a favourable balance. 
+
+**B) Cheques Deposited but Not Yet Cleared:**
+
+When a cheque received from a customer is deposited into the bank, the business records it immediately in the Cash Book. The bank credits the amount only after the cheque is cleared. Thus, during the intervening period, the Cash Book and Pass Book balances differ. 
+
+**C) Bank Charges and Other Direct Debits:**
+
+The bank may deduct **bank charges, service charges, insurance premiums, interest, or other payments** directly from the customer's account. These transactions are immediately recorded in the Pass Book but remain unrecorded in the Cash Book until the business receives information from the bank. 
+
+**D) Direct Credits by the Bank:**
+
+The bank may directly credit amounts such as **interest allowed, dividends collected, bills collected, or amounts deposited directly by customers**. These transactions increase the Pass Book balance but may not immediately appear in the Cash Book.
+
+**E) Dishonour of Cheques or Bills:**
+
+A cheque deposited earlier may be dishonoured due to insufficient funds, incorrect signature, or other reasons. The bank reverses the earlier credit and records the dishonour in the Pass Book. The business may record it later after receiving information from the bank, creating a temporary difference. 
+
+**F) Errors in Cash Book or Pass Book:**
+
+Differences may also result from errors made by the business or the bank. Common errors include **omission of entries, recording incorrect amounts, posting on the wrong side, wrong totalling or balancing, and recording transactions belonging to another party**. Such errors must be identified and corrected. 
+
+**Conclusion**
+
+Thus, differences between Cash Book and Pass Book balances mainly arise because of **timing differences, bank-initiated transactions, dishonoured cheques or bills, and accounting errors**. These differences do not necessarily indicate incorrect accounting. Preparing a Bank Reconciliation Statement helps identify the causes, detect discrepancies or errors, and establish the correct relationship between the two balances.
+
+**2. What is subsidiary book? Explain the different subsidiary books.**
+
+**Ans.**
+
+**Subsidiary Books and Their Different Types**
+
+**Subsidiary books** are special-purpose books of original entry used to record **repetitive and similar types of business transactions** systematically. Instead of recording every transaction in one Journal, transactions are classified according to their nature and entered in separate books. This reduces the workload of the Journal, saves time, facilitates division of labour, reduces errors, and makes posting to the ledger easier.  
+
+**A) Purchases Book:**
+
+The **Purchases Book or Purchase Day Book** records only **credit purchases of goods** meant for resale or, in a manufacturing concern, credit purchases of raw materials. Cash purchases and purchases of fixed assets are not recorded in this book. The total is periodically transferred to the Purchases Account. 
+
+**B) Sales Book:**
+
+The **Sales Book or Sales Day Book** records all **credit sales of goods**. Cash sales are not entered in it. The entries are generally supported by sales invoices, and the book provides an organised record of credit sales. 
+
+**C) Purchases Returns Book:**
+
+This book records goods previously purchased on credit that are **returned to suppliers** because of defects, damage, or other reasons. Such returns are generally supported by **debit notes**. 
+
+**D) Sales Returns Book:**
+
+The **Sales Returns Book** records goods previously sold on credit that are subsequently **returned by customers**. Such transactions are supported by **credit notes** issued to customers. 
+
+**E) Bills Receivable Book:**
+
+This book records **bills of exchange accepted by customers** in favour of the business. It contains details relating to bills received from debtors, including their terms and due dates. Bills receivable represent an asset of the business.
+
+**F) Bills Payable Book:**
+
+The **Bills Payable Book** records bills of exchange accepted by the business in respect of amounts owed to suppliers. It helps the business keep track of future payment obligations and their maturity dates. 
+
+**G) Cash Book:**
+
+The Cash Book records all **cash and bank receipts and payments**. It provides information about cash and bank transactions and their balances. 
+
+**H) Journal Proper:**
+
+Transactions that cannot be recorded in any of the specialised subsidiary books are entered in the **Journal Proper**. Thus, it records the **residual transactions** of the business. 
+
+**Conclusion**
+
+The main subsidiary books are Purchases Book, Sales Book, Purchases Returns Book, Sales Returns Book, Bills Receivable Book, Bills Payable Book, Cash Book, and Journal Proper. By separating transactions according to their nature, subsidiary books make accounting more systematic, accurate, organised, and efficient.
+
+**3. Elucidate the salient features of the Receipt and Payment account and Income and Expenditure account as prepared by Not-for-profit organisations.**
+
+**Ans.**
+
+**Salient Features of Receipts and Payments Account and Income and Expenditure Account**
+
+Not-for-Profit Organisations (NPOs), such as clubs, societies and charitable institutions, are established to provide services rather than earn profits. Their final accounts generally consist of the **Receipts and Payments Account, Income and Expenditure Account, and Balance Sheet**. The first shows the cash position, while the second determines the surplus or deficit from activities during the accounting period. 
+
+**A) Receipts and Payments Account:**
+
+A **Receipts and Payments Account** is a summary of all cash and bank transactions of an NPO during a particular accounting period. It is similar to a simple Cash Book. Its salient features are:
+
+1. **Cash Basis:** It is prepared on the cash basis of accounting. Only transactions involving actual receipt or payment of cash are recorded.
+2. **Receipts and Payments:** All receipts are recorded on the **debit side**, while all payments are recorded on the **credit side**.
+3. **Capital and Revenue Items:** It includes both capital and revenue receipts and payments. For example, subscriptions received as well as proceeds from the sale of fixed assets are recorded.
+4. **Period of Transactions:** Receipts and payments are recorded irrespective of whether they relate to the **previous, current, or subsequent accounting period**.
+5. **Non-cash Items Excluded:** Depreciation, outstanding expenses, accrued income, provisions and other non-cash items are not recorded.
+6. **Opening and Closing Balances:** It begins with opening cash and bank balances and ends with closing cash and bank balances. A bank overdraft may also appear.
+
+**B) Income and Expenditure Account:**
+
+An **Income and Expenditure Account** is prepared to determine the financial result of an NPO for a particular accounting period. It is similar to the **Profit and Loss Account** of a business enterprise. 
+
+Its important features are:
+
+1. **Accrual Basis:** It is prepared according to the accrual basis of accounting.
+2. **Revenue Items Only:** Only revenue incomes, expenses and losses relating to the current accounting period are included. Capital items are excluded.
+3. **Current Period:** Income and expenditure are recorded only when they relate to the current year, irrespective of actual cash receipt or payment.
+4. **Adjustments:** Adjustments are made for outstanding and prepaid expenses, accrued and unearned incomes, depreciation and provision for doubtful debts.
+5. **Debit and Credit Sides:** Expenses and losses appear on the debit side, while incomes appear on the credit side.
+6. **Surplus or Deficit:** Excess of income over expenditure is called **surplus**, while excess of expenditure over income is called **deficit**. The resulting balance is transferred to the Capital or General Fund.
+
+**Conclusion**
+
+Thus, the Receipts and Payments Account provides a summary of actual cash movements, whereas the Income and Expenditure Account measures the NPO's financial performance on an accrual basis. Together, they provide essential information for preparing the final accounts of a Not-for-Profit Organisation.
+
+**4. From the following information, prepare profit and loss account for the year ended 31st March 2026
+
+| Particulars                |      ₹ | Particulars                        |     ₹ |
+| -------------------------- | -----: | ---------------------------------- | ----: |
+| Gross profit b/d           | 60,000 | Interest received                  | 2,100 |
+| Freight outward            | 15,000 | Financial charges                  | 4,000 |
+| Packing charges (on sales) | 12,000 | Repairs on vehicles used in office | 8,000 |
+| Salesmen commission paid   |  1,300 | Depreciation on office vehicles    | 3,000 |
+| Promotional expenses       | 10,200 | Interest paid                      | 9,000 |
+| Office telephone expenses  | 22,400 | Rent received                      | 7,000 |
+| Bad debts recovered        |  4,000 | Carriage inwards                   | 4,000 |
+
+**Ans.**
+
+**Profit and Loss Account for the Year Ended 31st March 2026**
+
+A **Profit and Loss Account** is prepared to determine the **net profit or net loss** of a business for an accounting period. It includes indirect operating expenses, administrative and selling expenses, financial expenses, and other incomes. The Gross Profit from the Trading Account is brought to the credit side.
+
+Before preparing the account, the items must be properly classified. **Carriage inwards of ₹4,000 is a direct expense** connected with bringing goods to the business and therefore belongs to the Trading Account. Hence, it is not included in the Profit and Loss Account.
+
+**A) Classification of Items:**
+
+The expenses to be debited to the Profit and Loss Account are Freight Outward ₹15,000, Packing Charges on Sales ₹12,000, Salesmen Commission ₹1,300, Promotional Expenses ₹10,200, Office Telephone Expenses ₹22,400, Financial Charges ₹4,000, Repairs on Office Vehicles ₹8,000, Depreciation on Office Vehicles ₹3,000, and Interest Paid ₹9,000.
+
+The incomes credited are Gross Profit ₹60,000, Interest Received ₹2,100, Bad Debts Recovered ₹4,000, and Rent Received ₹7,000.
+
+**B) Profit and Loss Account:**
+
+**Profit and Loss Account for the year ended 31st March 2026**
+
+| **Dr. Particulars**                |      **₹** | **Cr. Particulars**                        |      **₹** |
+| ---------------------------------- | ---------: | ------------------------------------------ | ---------: |
+| To Freight Outward                 |     15,000 | By Gross Profit b/d                        |     60,000 |
+| To Packing Charges (on sales)      |     12,000 | By Interest Received                       |      2,100 |
+| To Salesmen Commission             |      1,300 | By Bad Debts Recovered                     |      4,000 |
+| To Promotional Expenses            |     10,200 | By Rent Received                           |      7,000 |
+| To Office Telephone Expenses       |     22,400 |                                            |            |
+| To Financial Charges               |      4,000 |                                            |            |
+| To Repairs on Office Vehicles      |      8,000 |                                            |            |
+| To Depreciation on Office Vehicles |      3,000 |                                            |            |
+| To Interest Paid                   |      9,000 |                                            |            |
+| **Total Expenses**                 | **84,900** | **Total Income**                           | **73,100** |
+|                                    |            | **By Net Loss transferred to Capital A/c** | **11,800** |
+| **Total**                          | **84,900** | **Total**                                  | **84,900** |
+
+**C) Calculation of Net Loss:**
+
+Total indirect expenses = **₹84,900**
+
+Total income = ₹60,000 + ₹2,100 + ₹4,000 + ₹7,000
+= **₹73,100**
+
+Therefore,
+
+**Net Loss = ₹84,900 − ₹73,100 = ₹11,800**
+
+**D) Treatment of Carriage Inwards:**
+
+The given **Carriage Inwards of ₹4,000 is not shown in the Profit and Loss Account**. Carriage inwards is an expense incurred for bringing purchased goods to the business premises. Therefore, it is treated as a **direct expense and debited to the Trading Account**.
+
+**Conclusion**
+
+Thus, the Profit and Loss Account shows total indirect expenses of **₹84,900** against total income of **₹73,100**. Consequently, the business has incurred a **Net Loss of ₹11,800 for the year ended 31st March 2026**.
+
+### Questions from Previous Year Question Papers 5 Marks
+
+**1. 
+
+**Ans.**
+
+### Questions from Previous Year Question Papers 10 Marks
+
+**1. 
+
+**Ans.**
+
 ### ***July 14, 2026***
 
 ### Unit 1 Short Answer (200-250 words)
