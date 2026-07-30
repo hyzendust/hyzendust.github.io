@@ -63,6 +63,13 @@
 				</div>
 			</div>
 
+			<div class="auth-form__group auth-form__group--checkbox">
+				<label class="auth-form__checkbox-label">
+					<input type="checkbox" id="login-remember" name="remember" />
+					Keep me logged in
+				</label>
+			</div>
+
 			<button type="submit" class="auth-form__submit" id="login-submit">
 				<span class="auth-form__submit-text">Log In</span>
 				<span class="auth-form__submit-loader" style="display: none">
@@ -146,6 +153,7 @@
 
 			var username = document.getElementById('login-username').value.trim();
 			var password = pwdInput.value;
+			var remember = document.getElementById('login-remember').checked;
 
 			if (!username || !password) {
 				showMsg('Please fill in all fields.', 'error');
@@ -160,7 +168,12 @@
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
 				credentials: 'include',
-				body: JSON.stringify({ action: 'login', username: username, password: password }),
+				body: JSON.stringify({
+					action: 'login',
+					username: username,
+					password: password,
+					remember: remember,
+				}),
 			})
 				.then(function (r) {
 					return r.json();
