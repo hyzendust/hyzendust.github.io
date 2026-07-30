@@ -35,7 +35,7 @@
 			return r.json();
 		})
 		.then(function (data) {
-			if (!data.valid) {
+			if (data.valid === false) {
 				// Session invalid — clear localStorage and reload to update UI
 				localStorage.removeItem('f4_username');
 				localStorage.removeItem('f4_login_time');
