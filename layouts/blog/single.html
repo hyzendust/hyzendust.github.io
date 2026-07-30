@@ -37,7 +37,9 @@ end }} {{ if gt (len $blogPosts) 1 }}
 <script>
 	(function () {
 		var BACKEND  = 'https://backend.freedoms4.org/comments.php';
-		var POST_ID  = {{ printf "/blog/%s/" (.File.ContentBaseName | urlize) | jsonify | safeJS }};
+		var POST_ID    = {{ printf "/blog/%s/" (.File.ContentBaseName | urlize) | jsonify | safeJS }};
+		var POST_URL   = {{ printf "https://freedoms4.org%s" .RelPermalink | jsonify | safeJS }};
+		var POST_TITLE = {{ .Title | jsonify | safeJS }};
 		var username = localStorage.getItem('f4_username');
 		var isAdmin  = false;
 
@@ -162,7 +164,7 @@ end }} {{ if gt (len $blogPosts) 1 }}
 							method: 'POST',
 							headers: { 'Content-Type': 'application/json' },
 							credentials: 'include',
-							body: JSON.stringify({ action: 'reply', post_id: POST_ID, parent_id: c.id, body: text }),
+							body: JSON.stringify({ action: 'reply', post_id: POST_ID, post_url: POST_URL, post_title: POST_TITLE, parent_id: c.id, body: text }),
 						})
 						.then(function (r) { return r.json(); })
 						.then(function (d) {
@@ -235,7 +237,7 @@ end }} {{ if gt (len $blogPosts) 1 }}
 							method: 'POST',
 							headers: { 'Content-Type': 'application/json' },
 							credentials: 'include',
-							body: JSON.stringify({ action: 'post', post_id: POST_ID, body: text }),
+							body: JSON.stringify({ action: 'post', post_id: POST_ID, post_url: POST_URL, post_title: POST_TITLE, body: text }),
 						})
 						.then(function (r) { return r.json(); })
 						.then(function (d) {
