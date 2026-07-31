@@ -2,6 +2,9 @@
 title: "Changelog"
 ---
 
+[30-07-2026]
+- ***Add: "Keep me logged in" checkbox in the login form.***
+
 [19-07-2026]
 - ***Add: Search bar.***
 
