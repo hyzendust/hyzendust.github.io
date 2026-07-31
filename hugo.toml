@@ -10,31 +10,34 @@ source = "content"
 target = "content"
 excludeFiles = "uninotes/subjectcode/**"
 [[module.mounts]]
-source = "changelog"
+source = "pages/homepage"
+target = "content"
+[[module.mounts]]
+source = "pages/changelog"
 target = "content/changelog"
 [[module.mounts]]
-source = "terms"
+source = "pages/terms"
 target = "content/terms"
 [[module.mounts]]
-source = "privacy"
+source = "pages/privacy"
 target = "content/privacy"
 [[module.mounts]]
-source = "search-results"
+source = "pages/search-results"
 target = "content/search-results"
 [[module.mounts]]
-source = "coming-soon"
+source = "pages/coming-soon"
 target = "content/coming-soon"
 [[module.mounts]]
-source = "contact"
+source = "pages/contact"
 target = "content/contact"
 [[module.mounts]]
-source = "login"
+source = "pages/login"
 target = "content/login"
 [[module.mounts]]
-source = "signup"
+source = "pages/signup"
 target = "content/signup"
 [[module.mounts]]
-source = "admin"
+source = "pages/admin"
 target = "content/admin"
 [[module.mounts]]
 source = "content/uninotes/subjectcode"
