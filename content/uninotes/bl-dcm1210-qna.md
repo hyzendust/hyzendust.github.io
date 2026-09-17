@@ -364,3 +364,312 @@ The integration of different legal frameworks creates a stable environment for *
 **Conclusion**
 
 Thus, multiple legal frameworks are essential for India’s complex socio-economic environment. Their integration ensures **balanced governance, ethical standards, stakeholder protection, dispute resolution, and economic development**, while enabling businesses to operate efficiently within clearly defined legal boundaries.
+
+### ***Sept 18, 2026***
+
+### Unit 2 Short Answer (200-250 words)
+
+**1. Define the term 'contract' as provided under the Indian Contract Act, 1872, and identify its two essential components.**
+
+**Ans.**
+
+**Definition and Essential Components of a Contract**
+
+A contract is an important part of commercial and everyday life. Individuals and organisations enter into contracts when they purchase goods, obtain services, deposit money in a bank, or take a loan under agreed conditions. The Indian Contract Act, 1872 is the principal statute governing contractual relationships in India. It lays down rules relating to the formation, execution, enforcement, and breach of contracts. 
+
+**A) Definition of Contract:**
+
+Section 2(h) of the **Indian Contract Act, 1872** defines a contract as **“an agreement enforceable by law.”** Therefore, a contract is an agreement between two or more parties to do or abstain from doing something according to specified terms and conditions, where the agreement can be enforced through a court of law. The terms agreed upon are legally binding on the parties, and unilateral departure may result in legal consequences. 
+
+**B) Agreement:**
+
+The first essential component of a contract is an **agreement between the parties**. It arises when one party makes a proposal and the other party communicates acceptance of that proposal. The parties determine the specific rights, duties, and terms of their agreement. 
+
+**C) Enforceability by Law:**
+
+The second essential component is **enforceability by law**. An agreement becomes a contract only when it is capable of being enforced through a court of law. In case of breach, the court may enforce the contract, award damages, or provide other appropriate relief to the affected party. 
+
+**Conclusion**
+
+Thus, a contract is formed by the combination of **an agreement and its enforceability by law**, making the parties’ obligations legally binding.
+
+**2. Explain the concept of 'free consent' and identify the five factors that vitiate consent under the Act.**
+
+**Ans.**
+
+**Free Consent and Factors Vitiating Consent**
+
+Free consent is one of the essential requirements of a valid contract under the **Indian Contract Act, 1872**. Consent means that the parties agree upon the same thing in the same sense. For consent to be free, the agreement must be entered into voluntarily, without improper pressure, deception, or mistake. Section 14 of the Act specifies the circumstances that affect the free character of consent. 
+
+**A) Coercion:**
+
+Coercion occurs when consent is obtained through **force or threats**. A person entering into an agreement under such pressure does not give genuine voluntary consent.
+
+**B) Undue Influence:**
+
+Undue influence occurs when one party is in a position to **dominate the will of another** and uses that position to obtain an unfair advantage.
+
+**C) Fraud:**
+
+Fraud involves **deliberate deception** by one party. False statements or intentional concealment of important facts may cause the other party to enter into the agreement.
+
+**D) Misrepresentation:**
+
+Misrepresentation occurs when **incorrect information or a false statement** is made without the intention of deliberately deceiving the other party, but it influences that party’s consent.
+
+**E) Mistake:**
+
+Mistake refers to an **incorrect understanding or belief regarding a fact or circumstance** relevant to the agreement. Depending on its nature and circumstances, a mistake may affect the validity of the contract.
+
+**Conclusion**
+
+Thus, consent is free only when it is not caused by **coercion, undue influence, fraud, misrepresentation, or mistake**. When consent is affected by these factors, the contract may become **voidable or void**, depending on the nature of the vitiating factor.
+
+**3. Distinguish between a void contract and a voidable contract, with one example of each.**
+
+**Ans.**
+
+**Difference Between Void Contract and Voidable Contract**
+
+Under the **Indian Contract Act, 1872**, contracts are classified according to their enforceability by law. A **void contract** has no legal effect and cannot be enforced, whereas a **voidable contract** remains valid and enforceable unless the aggrieved party chooses to cancel it. 
+
+| **Basis**             | **Void Contract**                                                                                                                           | **Voidable Contract**                                                                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Meaning**           | A contract that has **no legal effect** and cannot be enforced by law.                                                                      | A contract that is **valid and enforceable** unless the aggrieved party chooses to cancel it.                                           |
+| **Legal status**      | It may be void from the beginning or may become void later due to circumstances such as impossibility of performance or an unlawful object. | It remains legally valid until the aggrieved party exercises the option to reject it.                                                   |
+| **Rights of parties** | Neither party can claim legal rights or compel the other party to perform the agreement.                                                    | The affected party may either continue with the contract or reject it.                                                                  |
+| **Cause**             | It may arise from an **unlawful object or consideration**, or subsequent impossibility of performance.                                      | It may arise when consent is not free because of **coercion, fraud, undue influence, or misrepresentation**.                            |
+| **Example**           | A agrees to sell **prohibited drugs** to B. Since the object is illegal, the contract is void from the beginning.                           | A forces B to sell his car by threatening him. Since B's consent was obtained through coercion, the contract is voidable at B's option. |
+
+**Conclusion**
+
+Thus, the main distinction is that a **void contract is legally unenforceable**, while a **voidable contract gives the aggrieved party the choice to continue or cancel the agreement**.
+
+**4. What is meant by 'capacity to contract'? Identify three categories of persons who are incompetent to contract.**
+
+**Ans.**
+
+**Capacity to Contract and Incompetent Persons**
+
+Capacity to contract refers to the **legal competence of a person to enter into a binding agreement**. The Indian Contract Act, 1872 does not permit every person to create enforceable contractual obligations. Section 11 provides that a person is competent to contract if they have attained the **age of majority**, are of **sound mind**, and are **not disqualified from contracting by any law**. These requirements ensure that persons entering contracts have the necessary legal capacity to understand and undertake contractual obligations. 
+
+**A) Minors:**
+
+A minor is a person who has not attained the age of **18 years**. Where a guardian has been appointed by the court, the age of majority is extended to 21 years. An agreement made by a minor is **void ab initio**, meaning it is invalid from the beginning and creates no contractual rights or obligations. However, a minor may be a beneficiary under a contract. 
+
+**B) Persons of Unsound Mind:**
+
+A person must be capable of understanding a contract and forming a rational judgment about its effect on their interests. Persons who cannot meet this standard at the time of contracting lack capacity. The Act recognises conditions such as permanent or intermittent mental incapacity and temporary incapacity due to intoxication. 
+
+**C) Persons Disqualified by Law:**
+
+Certain persons are legally restricted from entering specific contracts. These include **alien enemies, foreign sovereigns and diplomatic personnel in certain circumstances, convicted persons, and insolvents**. 
+
+**Conclusion**
+
+Thus, capacity to contract ensures that only legally competent persons can create binding contractual obligations.
+
+**5. Distinguish between discharge of a contract by novation and by remission.**
+
+**Ans.**
+
+**Difference Between Discharge by Novation and Remission**
+
+Discharge of a contract means the **extinguishment of the contractual rights and obligations** of the parties. The Indian Contract Act, 1872 recognises discharge by mutual agreement, including novation and remission. Although both involve a change in the original contractual obligations, their nature and effect are different. 
+
+| **Basis**         | **Novation**                                                                                                                                    | **Remission**                                                                                                                |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Meaning**       | Novation occurs when a **new contract is substituted for an existing contract**.                                                                | Remission occurs when the promisee accepts a **lesser amount or a lesser degree of performance** than originally contracted. |
+| **Section**       | Governed by **Section 62** of the Indian Contract Act, 1872.                                                                                    | Governed by **Section 63** of the Indian Contract Act, 1872.                                                                 |
+| **Effect**        | The **original contract is discharged**, and the new contract governs the obligations of the parties.                                           | The original obligation is reduced or modified to the extent accepted by the promisee.                                       |
+| **Parties**       | The new contract may be between the **same parties or different parties**.                                                                      | It involves the existing contractual parties, with the promisee agreeing to accept reduced performance.                      |
+| **Consideration** | The consideration for the new contract is the **discharge of the old contract**.                                                                | **No separate consideration is required** for remission.                                                                     |
+| **Example**       | A owes B ₹10,000. They agree that C will become responsible for the debt under a new contract. The original contract is discharged by novation. | A owes B ₹10,000. B agrees to accept ₹6,000 in full settlement. The reduction is remission.                                  |
+
+**Conclusion**
+
+Thus, **novation replaces the old contract with a new one**, whereas **remission reduces the performance required under the existing contract**. Both are methods of discharge by mutual agreement.
+
+### Unit 2 Long Answer (400-500 words)
+
+**1. Explain the meaning and scope of the Indian Contract Act, 1872, and describe the essential elements required for an agreement to constitute a valid contract.**
+
+**Ans.**
+
+**Meaning and Scope of the Indian Contract Act, 1872, and Essential Elements of a Valid Contract**
+
+The Indian Contract Act, 1872 is the principal statute governing contractual relationships in India. It provides the legal framework for the formation, execution, enforcement, and discharge of contracts and also deals with remedies for breach. Section 2(h) defines a contract as “an agreement enforceable by law.” Thus, a contract consists of an agreement between parties together with its enforceability by law. 
+
+**A) Meaning of the Indian Contract Act, 1872:**
+The Act lays down rules governing contractual relationships between parties. It prescribes the requirements for entering into contracts and determines the rights and obligations arising from them. It came into force on 1 September 1872 and extends to the whole of India. Agreements may generally be oral or written, although certain contracts must comply with specific requirements relating to writing, stamping, or registration. 
+
+**B) Scope of the Act:**
+The scope of the Act is broad. It covers the formation, execution, and enforcement of contracts and provides rules concerning offer, acceptance, consideration, capacity, consent, and enforceability. It also contains provisions relating to indemnity, guarantee, bailment, pledge, and agency. The Act further deals with discharge of contracts and the consequences of breach, including appropriate legal remedies. 
+
+**C) Proper Offer and Acceptance:**
+A contract begins with a lawful and definite offer by one party and its absolute, unconditional, and communicated acceptance by the other party. 
+
+**D) Intention to Create Legal Relations:**
+The parties must intend to create a legally binding relationship. A purely social or moral understanding does not constitute an enforceable contract. 
+
+**E) Free Consent:**
+Consent must be free and genuine. Under Section 14, it must not be caused by coercion, undue influence, fraud, misrepresentation, or mistake. 
+
+**F) Capacity of Parties:**
+Under Section 11, parties must be competent to contract. They must be of the age of majority, of sound mind, and not disqualified by law. 
+
+**G) Lawful Consideration and Object:**
+The consideration and object of the agreement must be lawful and must not be opposed to law or public policy.
+
+**H) Certainty and Possibility of Performance:**
+The terms must be clear and capable of being made certain. Section 29 makes uncertain agreements void, while Section 56 provides that an agreement to do something impossible is void. 
+
+**I) Compliance with Legal Formalities:**
+Where the law requires a particular form, such as writing, stamping, or registration, those formalities must be followed. 
+
+**Conclusion:**
+Therefore, an agreement becomes a valid contract only when it satisfies the essential legal requirements and is enforceable by law. The Indian Contract Act, 1872 provides the framework for regulating such contractual relationships.
+
+**2. Classify the various types of contracts with reference to their enforceability, mode of creation, and extent of execution. Illustrate each category with an appropriate example.**
+
+**Ans.**
+
+**Classification of Various Types of Contracts**
+
+Contracts under the Indian Contract Act, 1872 can be classified according to their **enforceability by law, mode of creation, and extent of execution**. Each classification helps in understanding the legal nature, formation, and performance of contractual obligations. 
+
+**A) Contracts According to Enforceability by Law:**
+
+1. **Valid Contract:** A contract that fulfils all the essential requirements of the Act is legally binding and enforceable by a court of law.
+   *Example:* A agrees to sell goods to B for a fixed price, and both parties satisfy all legal requirements.
+
+2. **Voidable Contract:** A contract that is valid and enforceable unless the aggrieved party chooses to cancel it. It may arise where consent is affected by coercion, fraud, undue influence, or misrepresentation.
+   *Example:* A obtains B’s consent to a contract through fraud. B may either continue with or reject the contract.
+
+3. **Void Contract:** A contract that has no legal effect and is unenforceable by law. It may become void because of impossibility or an unlawful object.
+   *Example:* A contract to perform an act that subsequently becomes impossible.
+
+4. **Unenforceable Contract:** A contract that is valid in substance but cannot be enforced because of a technical defect.
+   *Example:* A contract requiring a particular legal form where the required formalities have not been followed.
+
+5. **Illegal or Unlawful Contract:** An agreement whose object or consideration is forbidden by law. Such an agreement is void ab initio.
+   *Example:* An agreement to conduct an activity prohibited by law. 
+
+**B) Contracts According to Mode of Creation:**
+
+1. **Express Contract:** The terms are expressly stated, either orally or in writing.
+   *Example:* A written agreement to purchase goods for ₹50,000.
+
+2. **Implied Contract:** The terms arise from the conduct or circumstances of the parties.
+   *Example:* A passenger boarding a bus implies an agreement to pay the prescribed fare.
+
+3. **Quasi-Contract:** An obligation imposed by law to prevent unjust enrichment, even though no agreement has been made.
+   *Example:* A person receiving goods by mistake may be required to return them.
+
+4. **Contingent Contract:** A contract dependent upon the happening of a future uncertain event collateral to the contract.
+   *Example:* A promises to pay B if a particular ship arrives safely. 
+
+5. **Wagering Contract:** An agreement based on an uncertain event where the parties have reciprocal chances of winning or losing.
+   *Example:* A and B agree that A will pay B ₹10,000 if a particular team wins a match.
+
+**C) Contracts According to Extent of Execution:**
+
+1. **Executed Contract:** A contract in which the obligations of the parties have been completely performed.
+   *Example:* A buys goods from B and immediately pays the price and receives the goods.
+
+2. **Executory Contract:** A contract in which performance is wholly or partly remaining to be completed.
+   *Example:* A agrees to deliver goods to B next month against payment on delivery. 
+
+**Conclusion:**
+Thus, contracts can be classified on three principal bases: enforceability, mode of creation, and extent of execution. These classifications help determine the legal consequences, rights, obligations, and enforceability of different contractual arrangements.
+
+**3. Analyse the legal position of a minor under the Indian Contract Act, 1872. What are the consequences of an agreement entered into by a minor?**
+
+**Ans.**
+
+**Legal Position of a Minor under the Indian Contract Act, 1872**
+
+The Indian Contract Act, 1872 lays down specific rules regarding the capacity of persons to enter into contracts. Section 11 provides that a person is competent to contract only if he or she has attained the age of majority, is of sound mind, and is not disqualified from contracting by law. A minor is therefore treated as a person lacking contractual capacity. 
+
+**A) Meaning of Minor:**
+Under the Indian Majority Act, 1875, a minor is a person domiciled in India who has not attained the age of 18 years. Where a guardian has been appointed by the court, the age of majority is extended to 21 years. The law provides protection to minors because they are considered insufficiently mature to understand the full legal consequences of contractual obligations. 
+
+**B) Agreement by a Minor is Void:**
+The most important legal consequence is that an agreement made by a minor is **void ab initio**, meaning it is invalid from the very beginning. It creates no legal rights or obligations for either party. Consequently, the other party cannot enforce such an agreement against the minor. 
+
+**C) Position Illustrated by Mohori Bibee v. Dharmodas Ghose:**
+In this case, a minor mortgaged his house to a moneylender to secure a loan. The Privy Council held that the mortgage deed was void ab initio. The moneylender's claim for repayment was rejected because no enforceable contract had existed between the parties. 
+
+**D) Minor as a Beneficiary:**
+Although a minor cannot be bound by a contractual obligation, a minor may be a beneficiary under a contract. The minor may accept benefits under an agreement provided that the minor is not required to discharge any corresponding contractual obligation. 
+
+**E) No Ratification After Majority:**
+An agreement entered into by a minor cannot be ratified merely because the minor attains majority later. Since the original agreement was void from the beginning, subsequent ratification cannot make it valid. 
+
+**F) No Estoppel Against a Minor:**
+The doctrine of estoppel does not operate against a minor. Even if a minor has misrepresented his or her age, the minor may still plead minority as a defence. However, where a minor obtains a benefit by fraudulently misrepresenting age, a court may direct restitution of the benefit received in equity, without imposing contractual liability. 
+
+**G) Liability for Necessaries:**
+A person who supplies necessaries suited to the minor's condition in life may claim reimbursement from the minor's property under Section 68. This does not make the minor personally liable under a contract. 
+
+**H) Other Legal Consequences:**
+A minor may act as an agent but cannot be held personally liable for negligence or breach of duty arising from the agency. A minor cannot be adjudged insolvent. Parents are generally not liable for contracts made by a minor unless the minor acted as their agent. An adult surety for a minor remains liable under the guarantee. 
+
+**Conclusion:**
+Thus, the Indian Contract Act, 1872 protects minors by treating their agreements as void ab initio. However, it permits them to receive contractual benefits and provides limited liability concerning necessaries and other legally recognised situations.
+
+**4. Examine in detail the various modes by which a contract may be discharged under the Indian Contract Act, 1872.**
+
+**Ans.**
+
+**Examine the Various Modes of Discharge of a Contract**
+
+A contract is discharged when the rights and obligations arising from it are extinguished. Discharge brings the contract to an end and relieves the parties from further contractual obligations. The Indian Contract Act, 1872 recognises several modes of discharge. 
+
+**A) By Performance:**
+Performance is the most natural and common mode of discharge. It may be actual performance, where each party fulfils all obligations stipulated in the contract. It may also be attempted performance or tender, where a party offers to perform but the other party refuses to accept it. A valid tender must be unconditional, made at the proper time and place, and relate to the entire obligation. 
+
+**B) By Mutual Agreement:**
+Parties may mutually extinguish their contractual obligations. Novation under Section 62 substitutes a new contract for an existing one, thereby discharging the original contract. Rescission involves cancellation of all or some terms by mutual agreement. Alteration occurs when parties mutually change one or more terms of the original contract. Remission under Section 63 occurs when the promisee accepts a lesser amount or lesser degree of performance than originally contracted. Waiver means voluntary relinquishment of a contractual right or claim. 
+
+**C) By Subsequent or Supervening Impossibility or Illegality:**
+Under Section 56, a contract becomes void when its performance subsequently becomes impossible or unlawful. This is known as the doctrine of frustration. It may arise from destruction of the subject matter, failure of the ultimate purpose, death or permanent incapacity in contracts requiring personal performance, a change in law, or outbreak of war. The impossibility must not be self-induced. 
+
+**D) By Lapse of Time:**
+Under the Limitation Act, 1963, contractual rights must be enforced within the prescribed limitation period. The period for suits founded on contracts is generally three years from the date of breach or when the right to sue accrues. Failure to institute proceedings within the prescribed period makes the claim time-barred and unenforceable through legal action. 
+
+**E) By Operation of Law:**
+A contract may be discharged automatically by operation of law. This may occur through death in contracts involving personal performance, insolvency, merger of rights, or unauthorised material alteration of a written contract. These circumstances can extinguish the relevant contractual obligations without requiring a fresh agreement. 
+
+**F) By Breach of Contract:**
+Breach occurs when one party fails or refuses to perform contractual obligations or does an act that makes performance impossible. In anticipatory breach, a party declares before the due date that it will not perform, or disables itself from performing. In actual breach, failure occurs on the due date or during performance. Breach discharges the innocent party from its obligations and gives it a right to seek appropriate remedies. 
+
+**Conclusion:**
+Thus, a contract may be discharged through performance, mutual agreement, impossibility or illegality, lapse of time, operation of law, or breach. These modes determine when contractual rights and obligations come to an end.
+
+**5. Discuss the remedies available to the aggrieved party upon breach of contract, with particular reference to the provisions of the Indian Contract Act, 1872, and the Specific Relief Act, 1963.**
+
+**Ans.**
+
+**Remedies Available to an Aggrieved Party upon Breach of Contract**
+
+A breach of contract occurs when one party fails or refuses to perform its contractual obligations without any legal excuse. The Indian Contract Act, 1872, and the Specific Relief Act, 1963, provide various remedies to protect the aggrieved party. These remedies aim to compensate the loss, restore the original position, or enforce contractual obligations.
+
+**A) Rescission of Contract:**
+Under Section 39 of the Indian Contract Act, 1872, the innocent party may rescind or cancel the contract when the other party commits a breach. Rescission relieves the aggrieved party from further performance of its obligations. The innocent party may also claim compensation for the loss suffered because of the breach.
+
+**B) Suit for Damages:**
+Section 73 provides compensation for loss or damage caused by breach of contract. Damages may be awarded for losses that naturally arise in the ordinary course of events or which were known to the parties as likely to result from the breach. The Act recognises ordinary, special, exemplary, and nominal damages. Compensation may also be awarded for inconvenience and discomfort directly caused by the breach. Where a contract specifies an amount payable upon breach, Section 74 permits the court to award reasonable compensation not exceeding the stipulated amount.
+
+**C) Suit for Specific Performance:**
+Under Section 10 of the Specific Relief Act, 1963, as amended in 2018, a court may enforce specific performance of a contract. This remedy requires the defaulting party to actually perform its contractual obligations. It is particularly relevant to contracts involving immovable property, infrastructure projects, and transactions of special value. The court may refuse specific performance where damages provide an adequate remedy or where the contract requires continuous acts.
+
+**D) Suit upon Quantum Meruit:**
+Quantum meruit means “as much as earned” or payment for work done. Where a contract is discharged after partial performance, the performing party may claim reasonable compensation for services or work already provided. This remedy may arise where the contract is incomplete, becomes void, or one party prevents the other from completing it. Its purpose is to prevent unjust enrichment and ensure fairness.
+
+**E) Suit for Injunction:**
+An injunction is a judicial order directing a party to do or refrain from doing a particular act. An aggrieved party may seek an injunction to prevent further harm or to protect contractual rights. Injunctions may be temporary or permanent and may restrain a defaulting party from violating a negative stipulation.
+
+**Conclusion**
+
+Thus, the Indian Contract Act, 1872, and the Specific Relief Act, 1963, provide a range of remedies, including rescission, damages, specific performance, quantum meruit, and injunction. These remedies protect the aggrieved party and seek to restore the position that would have existed if the contract had been duly performed.
