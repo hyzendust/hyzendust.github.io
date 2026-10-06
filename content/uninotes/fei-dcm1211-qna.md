@@ -10,7 +10,7 @@ url = '/uninotes/s2/fei-dcm1211/qna/'
 
 ### ***Sept 22, 2026***
 
-### Unit 1 Short Answer (200-250 words)
+### Unit 1 Part A Short Answer (200-250 words)
 
 **1. Define entrepreneurship and explain its key objectives.**
 
@@ -118,7 +118,7 @@ Technology enables entrepreneurial ventures to expand their operations and reach
 **Conclusion:**
 Thus, technological innovation, digital technologies, automation, research capabilities, and scalability are important technological factors that shape entrepreneurial activity and support efficiency, innovation, competitiveness, and market expansion.
 
-### Unit 1 Long Answer (400-500 words)
+### Unit 1 Part A Long Answer (400-500 words)
 
 **1. Analyse the role of innovation and creativity in shaping entrepreneurial success in India.**
 
@@ -264,7 +264,7 @@ Thus, psychological barriers can be addressed through realistic goal-setting, co
 
 ### ***Sept 25, 2026***
 
-### Unit 2 Short Answer (200-250 words)
+### Unit 1 Part B Short Answer (200-250 words)
 
 **1. Define an entrepreneur and explain their role in value creation.**
 
@@ -387,7 +387,7 @@ Making numerous strategic and operational decisions can create decision fatigue 
 **Conclusion:**
 Thus, managing stress, maintaining resilience, and balancing personal and professional responsibilities are essential for sustaining entrepreneurial performance and well-being.
 
-### Unit 2 Long Answer (400-500 words)
+### Unit 1 Part B Long Answer (400-500 words)
 
 **1. Discuss the nature of an entrepreneur and evaluate their role in economic development with relevant Indian examples.**
 
